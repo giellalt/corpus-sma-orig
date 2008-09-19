@@ -44,8 +44,8 @@
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
-<xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="''"/>
+<xsl:variable name="place" select="'http://www.fug.no/cgi-bin/fug/imaker?id=27768'"/>
+<xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
