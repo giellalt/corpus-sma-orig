@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.22 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.5 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -93,8 +93,8 @@
 <xsl:variable name="para_sme" select="'Tid_for_samtale_nordsamisk.pdf'"/>
 <xsl:variable name="para_smj" select="'Tid_for_samtale_lulesamisk.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_nob" select="'Tid_for_samtale_bm.pdf'"/>
-<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nob" select="'Tid_for_samtale_bm_nett.pdf'"/>
+<xsl:variable name="para_nno" select="'Tid_for_samtale_nyn_nett.pdf'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
