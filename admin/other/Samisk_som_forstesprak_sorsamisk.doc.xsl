@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.udir.no/upload/larerplaner/Fastsatte_lareplaner_for_Kunnskapsloeftet/Samiske/Samisk_som_forstesprak_sorsamisk.rtf'"/>
-<xsl:variable name="title" select="'SAEMIEN VOESTESGÏELINE - LEAROESOEJKESJE'"/>
+<xsl:variable name="title" select="'SAEMIEN VOESTESG&#207;ELINE - LEAROESOEJKESJE'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -38,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translated_from" select="nob"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
@@ -54,7 +43,7 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_name" select="'B&#248;rre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
 <xsl:variable name="wordcount" select="'3408'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>

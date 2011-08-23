@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -38,7 +27,7 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="nob"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
@@ -143,9 +132,9 @@
 <!-- replaced characters and the replacements. -->
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">
@@ -160,7 +149,7 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'ν/'"/>
+               <xsl:with-param name="target" select="'&#957;/'"/>
                <xsl:with-param name="replacement" select="'/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
