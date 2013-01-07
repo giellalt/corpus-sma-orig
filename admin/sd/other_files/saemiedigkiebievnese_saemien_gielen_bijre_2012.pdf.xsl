@@ -106,7 +106,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'sametingsmelding_om_samisk_språk_2012.pdf'"/>
+<xsl:variable name="para_nob" select="'sametingsmelding_om_samisk_spraak_2012.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'samediggidiedadus_samegiela_birra_2012.pdf'"/>
 <xsl:variable name="para_smj" select="'samediggediedadus_samegiela_gaktuj_2012.pdf'"/>
