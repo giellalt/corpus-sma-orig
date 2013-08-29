@@ -91,7 +91,7 @@
 <xsl:variable name="para_nno" select="'jonar_n.html'"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'jonar_n.html'"/>
+<xsl:variable name="para_sme" select="'jonar-sn.htm'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
