@@ -297,7 +297,7 @@ Skyllemetijje$(vowc,i-ï|Skyllemetïjje) orrije skylleme-gyrhkesjimmine$(hyph-0|
 
 Skyllemejerkie saemide
 
-Fïerhten jaepien Svïenske gærhkoe saemien skyllemejerkiem öörnede, dam (dorje Saemien raerien, Svïenske gærhkosne, Saemien referensedåehkien Härnösanden jïh Julevu/Luleå gærhkoevoeni$(infl,plgen-sgess|gærhkoevoenine) jïh Sáminuorran$(infl,sggen-sgcom|Sáminoerine) ektine)¥(wo|Saemien raerien, Svïenske gærhkosne, Saemien referensedåehkien Härnösanden jïh Julevu/Luleå gærhkoevoeni$(infl,plgen-sgess|gærhkoevoenine) jïh Sáminuorran$(infl,sggen-sgcom|Sáminoerine) ektine dorje).
+Fïerhten jaepien Svïenske gærhkoe saemien skyllemejerkiem öörnede, dam (dorje Saemien raerien, Svïenske gærhkosne, Saemien referensedåehkien Härnösanden jïh Julevu/Luleå gærhkoevoeni$(infl,plgen-sgess|gærhkoevoenine) jïh Sáminuorran$(infl,sggen-sgcom|Sáminoerine) ektine)¥(wo|Saemien raerien, Svïenske gærhkosne, Saemien referensedåehkien Härnösanden jïh Julevu/Luleå gærhkoevoenine jïh ektine dorje).
 
 Vielie bïevnesh dan jerkien bïjre jaepien 2012 govlehtallh Birgitta Simma Julevu/Luleå stift: 0920-49 24 58.
 
