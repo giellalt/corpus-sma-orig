@@ -8,27 +8,27 @@ Buerie båeteme Svïenske gærhkose
 Svïenske gærhkoe evangeliske-lutherske gærhkoe maam åålmegidie, kontraktidie$(vowlat,a-aa|kontraaktide), gærhkoe-voenide$(hyph-0|gærhkoevoenide) jïh nationelle$(vowlat,e-ee|nationeelle) daltesasse juakeme. Svïenske gærhkoe ektievoetem faala jïh¥0 gusnie åadtjoeh buejhkiehtidh jïh jeatjebigujmie ektesne gaavnedidh jïh dov jaahkoem buajhkedh.
 
 Gærhkoen eeremes barkoe
-Svïenske gærhkoen eeremes barkoeh leah gyrhkesjidh$(xxx|gyrhkesjehtedh?), ööhpehtidh jïh dovne dijakonije$(vowc,ij-i|diakonije) jïh missjovne barkojne$(conc,ss-s;cmp,2-1|misjovnebarkojne) gïehtelidh. Åålmegen dan dïedte dejnie gïehtelidh gaajhkesidie mah desnie årroeh jïh gïeh åålmegisnie guessine. Desnie nuepiem laavkodh, skylledh, pruvredh jïh juvledh.
+Svïenske gærhkoen eeremes barkoeh leah gyrhkesjidh$(berb|gyrhkesjehtedh), ööhpehtidh jïh dovne dijakonije$(vowc,ij-i|diakonije) jïh missjovne barkojne$(conc,ss-s;cmp,2-1|misjovnebarkojne) gïehtelidh. Åålmegen dan dïedte dejnie gïehtelidh gaajhkesidie mah desnie årroeh jïh gïeh åålmegisnie guessine. Desnie nuepiem laavkodh, skylledh, pruvredh jïh juvledh.
 
 Gyrhkesjimmieh
 Gyrhkesjimmesne nuepiem Jupmielinie gaavnedidh jeatjebigujmie ektesne åålmegisnie.
-Faamoem åadtjoejibie gosse rohkelibie, aejlies maalestahkem åadtjoejibie jïh¥0 gosse åadtjoejibie¥0 laavlodh. Gaajhkesh dovnesh leah buerie båeteme sijjen jaahkojne jïh jïejkeminie. Gærhkoen vuekiem domtedh£(verb|damtedh) gyrhkesjimmien ovmessie bielide maehtebe vuejnedh, musihkesne govledh jïh gærhkoen rïeseldahkeste$(infl,elat-acc|rïeseldahkem) vuejnedh. Aaj åadtjoejibie orrestimmiem lohkemisnie, laavloemisnie jïh rohkelimmesne gaavnedidh$(xxx|gaavnedh?)
+Faamoem åadtjoejibie gosse rohkelibie, aejlies maalestahkem åadtjoejibie jïh¥0 gosse åadtjoejibie¥0 laavlodh. Gaajhkesh dovnesh leah buerie båeteme sijjen jaahkojne jïh jïejkeminie. Gærhkoen vuekiem domtedh£(verb|damtedh) gyrhkesjimmien ovmessie bielide maehtebe vuejnedh, musihkesne govledh jïh gærhkoen rïeseldahkeste£(infl,elat-acc|rïeseldahkem) vuejnedh. (Aaj åadtjoejibie)¥(wo|Åadtjoejibie aaj) orrestimmiem lohkemisnie, laavloemisnie jïh rohkelimmesne gaavnedidh$(verb|gaavnedh)
 
 Ööhpehtimmie
 Jesuse abpe sov jieliemisnie almetjidie ööhpehti. Vierteds$(xxx|viertiedassem) soptsesti jïh almetjigujmie soptsestalli, mejtie£(infl,placc-plcom|mejgujmie) gaavnedi, sïjhti Jupmelen gieriesvoetem vuesiehtidh. Dejtie learoehkidie stilli båvroem juhtiehtidh (jïh nemhtie mijjen biejjine aaj)¥(wo|jïh nimhtie lea daajbaaletje aaj). (Gosse daan biejjien ööhpehtimmiem  ussjedibie)¥(wo|Gosse ussjedibie ööhpehtimmien bïjre) eeremes¥0 (dejtie skyllijemaanide)£(case,ack-gen|dej skyllijemaanaj bïjre) ussjedibie. Badth gosse naemhtie almetjigujmie gaavnedibie (mij akt$(cmp,2-1| mijakt) orre, (sinsitniem jïh jïjtsen$(infl,fin,en-e|jïjtse) bïjre)£(infl,sgacc-sggen|sinsitninen jïh jïjtse bïjre) lïerebe. Nemhtie maehtebe goerkesidh mij¥0 dïhte$(xxx|guktie) almetjinie årrodh.
 
 Dijakonije$(vowc,ij-i|Diakonije)
-Dijakonije$(vowc,ij-i|Diakonije) lea gærhkoen sosijale$(vowlat,a-aa|sosijaale) barkoe. Desnie meatan årrodh, earoem vuesiehtidh jïh dåajmijeslaakan sinsitnide årrodh gosse almetjh gaavnede$(infl,3sg-3pl|gaavnedieh) mah mådtanlaaketje jielemetsiehkine. Daan maadtoe lea Jupmelen gieriesvoete, mij£(infl,sgnom-sgacc|maam) mijjide£(infl,placc-plnom|mijjieh) almetjinie Jesus Kristusinie gaavnebe.
+Dijakonije$(vowc,ij-i|Diakonije) lea gærhkoen sosijale$(vowlat,a-aa|sosijaale) barkoe. Desnie meatan årrodh, earoem vuesiehtidh jïh dåajmijeslaakan sinsitnide årrodh gosse almetjh gaavnede$(infl,3sg-3pl|gaavnedieh) mah (mådtanlaaketje)$(cmp,n-ege|mådtegelaaketje) jielemetsiehkine. Daan maadtoe lea Jupmelen gieriesvoete, mij£(infl,sgnom-sgacc|maam) mijjide£(infl,placc-plnom|mijjieh) almetjinie Jesus Kristusinie gaavnebe.
 
-Missjovne$(noun,con|Misjovne)
+Missjovne$(conc,ss-s|Misjovne)
 Missjovnem$(conc,ss-s|Misjovnem) guarkebe goh ”seedteme” jïh båvroem buerkeste maam learohkh åadtjoejin gosse sijjen jaahkoem jeatjabidie vïhnesjidh. Daan biejjien gærhkoe meatan dennie seedtemisnie gosse almetjigujmie gaavnede dovne lïhkesbyjreskisnie jïh mijjen laanten raasti ålkolen. Dan åvtese missjovne$(conc,ss-s|misjovne)  åålmegen bïjre jïh maam desnie dorje jïh guktie jeatjah gærhkojde bïjre jarkan veartanisne$(fin,e-ie|veartanisnie) dåarjohte dej barkojne Jesusen bïjre vihnesjidh$(vowc,i-ï|vïhnesjidh).
 
-Dam dorje gosse beetnegh vedtieh jïh gosse barkijh stïllieh$(vowc,ï-i|stillieh), v.g§(x,x|v.g.) lohkehtæjjah, dåakterh, ekonomh$(conc,m-vm|ekonovmh ) jallh hearrah. (Stïllieh¥(vowc,ï-i|stillieh), v.g§(x,x|v.g.) lohkehtæjjah, dåakterh, ekonomh$(conc,m-vm|ekonovmh ) jallh hearrah dam darjodh)
+Dam dorje gosse beetnegh vedtieh jïh gosse barkijh stïllieh$(vowc,ï-i|stillieh), v.g$(abbr,punct,0-1|v.g.)lohkehtæjjah, dåakterh, ekonomh$(conc,m-vm|ekonovmh ) jallh hearrah. (Stïllieh¥(vowc,ï-i|stillieh), v.g$(abbr,punct,0-1|v.g.) lohkehtæjjah, dåakterh, ekonomh$(conc,m-vm|ekonovmh ) jallh hearrah dam darjodh)
 
 
 
 Svïenske gærhkoe ålkoerijhkesne
-Ålkoerijhkegærhkoe$(vowc,i-ï|Ålkoerïjhkegærhkoe) (gaajhkh£(infl,plnom-placc|gaajhkide) ålkoerijhkeåålmegidie$(vowc,i-ï| Ålkoerïjhkeåålmegidie))$( (gaajhkh£(infl,plnom-placc|gaajhkide) ålkoerijhkeåålmegidie$(vowc,i-ï| Ålkoerïjhkeåålmegidie)|gaajhkide ålkoerïjhkeåålmegidie)  jïh jeatjah ålkoerijhkestillemidie$(vowc,i-ï|Ålkoerïjhkestillemidie) feerhmie. Moenehtse Svïenske gærhkose ålkoerijhkesne$(vowc,i-ï| Ålkoerïjhkesne) nænnoeste$(vowlat,oe-o|nænnoste) mij ålkoerijhkeåålmegh$(vowc,i-ï| Ålkoerïjhkeåålmegh)   Svïenske gærhkoen nuelesne$(xxx|åelesne) edtjieh årrodh. 45¥(xxx|000?) ålkoerijhkeåålmegh$(vowc,i-ï| Ålkoerïjhkeåålmegh)  gååvnesieh€(verb|leah) jïh dovne medtie gaektsieluhkie¥(xxx|000?)  gyrhkesjimmiesijjieh gusnie daan baelien pruvhkieh tjåanghkenidh.
+Ålkoerijhkegærhkoe$(vowc,i-ï|Ålkoerïjhkegærhkoe) (gaajhkh ålkoerijhkeåålmegidie)£(infl,plnom-placc;vowc,i-ï|gaajhkide  ålkoerïjhkeåålmegidie) jïh jeatjah ålkoerijhkestillemidie$(vowc,i-ï|Ålkoerïjhkestillemidie) feerhmie. Moenehtse Svïenske gærhkose ålkoerijhkesne$(vowc,i-ï| Ålkoerïjhkesne) nænnoeste$(vowlat,oe-o|nænnoste) mij ålkoerijhkeåålmegh$(vowc,i-ï| Ålkoerïjhkeåålmegh)   Svïenske gærhkoen nuelesne$(pp|åelesne) edtjieh årrodh. 45¥(xxx|000?) ålkoerijhkeåålmegh$(vowc,i-ï| Ålkoerïjhkeåålmegh)  gååvnesieh€(verb|leah) jïh dovne medtie gaektsieluhkie¥(xxx|000?)  gyrhkesjimmiesijjieh gusnie daan baelien pruvhkieh tjåanghkenidh.
 
 Lohkh vielie Svïenske gærhkoen saemien barkoen bïjre daesnie.
 
@@ -45,11 +45,11 @@ Joe aareh kristeles histovrijisnie dïhte maalestahke ektievoetesne vihkeles boe
 Kristeles gyrhkesjimmie
 Aktem kristeles gyrhkesjimmiem maahta gellie vuekiej mietie juhtiehtidh, badth iktegisth Jupmelem laavlominie$(vowc,o-oe|laavloeminie) heevehte, bijpelistie$(vowc,e-ie|bijpielistie) tekstelohkeme jïh rohkelimmie.
 
-Gyrhkesjimmie (gaajhkh€(inf,nompl-inesg,agr|gaajhkene) åålmegisnie)
+Gyrhkesjimmie (gaajhkh åålmegisnie)£(inf,nompl-inesg,agr|gaajhkene åålmegisnie)
 Svïenske gærhkoen åålmegisnie sån fïerhten aejlegen gyrhkesjimmiem heevehte. Badth gellien aejkien jeatjah biejjieh£(infl,nompl-nomgen|biejjiej) våhkosne aaj.
 
-Plaerine våhkoen gyrhkesjimmide gaavnh jïh mij gyrhkesjimmide (muvhth£(infl,nompl-inesg,agr|muvhtene)  gærhkojne) heevehtieh dov årromesijjesne.
-Gellien aejkien byjreske-plaerine$(hyph-0|byjreskeplaerine) bievnieh, badth gellie åålmegh aaj webb-bieline§(x,x|web-bieline) gaavnh.
+Plaerine våhkoen gyrhkesjimmide gaavnh jïh mij gyrhkesjimmide (muvhth gærhkojne)£(infl,nompl-inesg,agr|muvhtene gærhkojne) heevehtieh dov årromesijjesne.
+Gellien aejkien (byjreske-plaerine)$(hyph-0|byjreskeplaerine) bievnieh, badth gellie åålmegh aaj webb-bieline§(x,x|web-bieline) gaavnh.
 
 Gaajhkesidie gaahpan
 Gaajhkesh dovnesh åajva$(fin,a-ah|åajvah) guessine gærhkose båetedh: båeries jïh noerh, dah gïeh jaehkieh jïh dah gïeh eah jaehkieh. Gyrhkesjimmesne viehkiem åadtjoejibie mijjen jielemem goerkesidh€(verb|guarkedh) jïh Jupmelem£(infl,sgacc-sgess|Jupmielinie) gaavnedidh. Gyrhkesjimmie aaj akte væhta jïh vïhnestimmie gærhkoen jaahkoen bïjre jïh lïhkesvoete sïebredahkesne$(vowc,ï-i, vowlat,e-ie|siebriedahkesne).
@@ -125,7 +125,7 @@ Sylvia jïh Sagka Sparrock aejlegsbiejjien vaentjeleteekstem$(vowc,ee-e|vaentjel
 
 Åålmegegåetie$(cmp,ege-eh|åålmehgåetie)  dïeves sjïdti dan laavadahken gosse almetjh båateme juktie saemien (åålmegebiejjiem)$(cmp,ege-eh|åålmehbiejjiem)  heevehtidh jïh Hïngsedaelien Ejvam goltelidh, guhte lea arkeologe$(conc,lo-låå|arkeolååge) Gaaltijisnie – Saemien kulvuvre-$(typo|kultuvre-) jïh bïevnesejarnge, guhte saemien kultuvredajven bïjre lohkehti.
 
-(Satne soptsesti dan sov)€(xxx|Soptsesti sov) barkoe  saemien kultuvremojhtsh$(noun,vow|kultuvremojhtesh) goerehtalledh Jïemhtesne jïh Härjedaelesne. Daan raajan 10 000 mojhtsh$(vowc,0-e|mojhtesh) goerehtamme. Dïhte mij satnem stuvrie barkedh lea gaajhkh ovreaktah mejtie  saemiej vuestie dorjeme€(verb|dorjesovveme).
+(Satne soptsesti dan sov)€(xxx|Soptsesti sov) barkoe  saemien kultuvremojhtsh$(vowc,tsh-tesh|kultuvremojhtesh) goerehtalledh Jïemhtesne jïh Härjedaelesne. Daan raajan 10 000 mojhtsh$(vowc,0-e|mojhtesh) goerehtamme. Dïhte mij satnem stuvrie barkedh lea gaajhkh ovreaktah mejtie  saemiej vuestie dorjeme€(verb|dorjesovveme).
 
 - Mannasinie akten dåehkien histovrije vihkelåbpoe$(vowc,e-ie|vihkielåbpoe) mubpeste? Vïhkeles$(vowc,ï-i|Vihkeles) saemien histovrijem lutnjedh dååhkasjehtedh$(vowc,åå-å|dåhkasjehtedh) jïh ij amma histovrijem njyöjkedh.
 
@@ -234,11 +234,11 @@ Abpe veartene, Svïenske gærhkoen gaskenaasjovni/internationelle$(x,mix|gaskena
 Daan biejjien akten rïektesvoeten veartanasse barka namhtah nealkoe, giefiesvoete jïh deebleme veartenevijries kristeles ektievoetesne. ACT-ektiedimmie abpe veartanisnie gååvnese. Gaajhkem lehkiem almetjh berkieh sijjen jielemem eevtjedh jïh jorkesidh.
 
 Vadtesh aktegs almetjijstie vihkeles
-Daesnie berkieh tjaetsiem jïh beapmoem gaajhkesidie, voene-evtiedæmman$(hyph-0|voeneevtiedæmman), teologiske$(fin,iske-ihke|teologihke) ööhpehtæmman, mikrolååjkedæmman jïh njoetjemasse jïh dovne laktemasse jïh religijovne-soptsestallemasse$(hyph-0|religijovnesoptsestallemasse). Aaj rïektesvoetese berkieh, v.g§(x,x|v.g.) rïektesvoeten åesiestæmman, mïrhtoe-veahkan$(hyph-0|mïrhtoeveahkan), almetji reaktide jïh nyjsenæjjaj åvtehkevoetese.
+Daesnie berkieh tjaetsiem jïh beapmoem gaajhkesidie, voene-evtiedæmman$(hyph-0|voeneevtiedæmman), teologiske$(fin,iske-ihke|teologihke) ööhpehtæmman, mikrolååjkedæmman jïh njoetjemasse jïh dovne laktemasse jïh religijovne-soptsestallemasse$(hyph-0|religijovnesoptsestallemasse). Aaj rïektesvoetese berkieh, v.g$(abbr,punct,0-1|v.g.) rïektesvoeten åesiestæmman, mïrhtoe-veahkan$(hyph-0|mïrhtoeveahkan), almetji reaktide jïh nyjsenæjjaj åvtehkevoetese.
 
 Jïjnjemes barkoem maaksa beetnegi åvteste maam Sveerjesne tjöönghkeme. Jïjnjem daehtie barkoste, rïektesvoetem veartanasse dah åålmegh, aktegs$(typos|oktegs) vedtijh jïh sïebrh$(vowc,ï-i;vowlat,rh-ieh|siebrieh) sijjen vadtesigujmie guedtieh. Dejnie mejnie Sida jïh EE$(acro,suf|EE:m) dåarjoehtieh aaj akte jeatjah vihkeles dyödtove.
 
-Svïenske gærhkoen åålmegh gaskenaasjovni/internationelle$(vowc,aa-a;vowc,e-ee|gaskenasjovni/internationeelle) dan barkoen maadtosne. Dah bievnieh, ööhpehdehtieh$(conc,hd-ht|ööhpehtehtieh) jïh beetnegh tjöönghkieh, v.g§(x,x|v.g.) kollekti$(vowc,e-ee|kolleekti) tjirrh¢(vowc,i-ï|tjïrrh), basaarh jïh staaresne måedtie ïedtji tjïrrh.
+Svïenske gærhkoen åålmegh gaskenaasjovni/internationelle$(vowc,aa-a;vowc,e-ee|gaskenasjovni/internationeelle) dan barkoen maadtosne. Dah bievnieh, ööhpehdehtieh$(conc,hd-ht|ööhpehtehtieh) jïh beetnegh tjöönghkieh, v.g$(abbr,punct,0-1|v.g.) kollekti$(vowc,e-ee|kolleekti) tjirrh¢(vowc,i-ï|tjïrrh), basaarh jïh staaresne måedtie ïedtji tjïrrh.
 
 Meadtojde$(infl,placc-plcom|meadtoejgujmie) tjuara orrijidh
 Dyödtove lea vihkeles, jalhts eah buektehth (gaajhkh$(infl,plnom-placc|gaajhkide) dåeriesmoeride) $(gaajhkide dåeriesmoeride)  loevenidh€(foreign|loetedh). Meadtoeh£(infl,plnom-plcom|meadtoejgujmie)  mah almetjidie heerredieh vyörtegslaakan jieledh tjuara$(infl,sg3pres-pl3pres|tjuerieh) orrijidh. Seamma aejkien gosse gaajhkesh daelie edtjieh jïelehtadtjedh, eatnemen vierhtieh tjuerieh båetije boelvide læjkodh.
@@ -270,14 +270,14 @@ Provre
 
 Provre lea hïeje. Mojhtese jieliedasse. Ij ajve dejtie guaktide gieh$(vowc,ï-i|gïeh) pruvrijægan juktie aaj dej$(infl,plgen-plill|dejtie) slïektide jïh voelpide.
 
-Gosse gærhkosne pruvredh dïhte akte gyrhkesjimmie mij ræjhkoes (jïjnjh¥o vuekine)$(infl,pline-plela|vuekijste). Jupmelen jïh gaajhkh$(infl,plnom-plgen|gaajhki) vïhnegi nommesne sinsitniem dåajvoehtibie gieriesvoetem vaarjelidh jïh sinsitnien baalte abpe jielemem tjåadtjodh. Jupmelem gihtjebe mijjen ektievoetem buerie sjugniedidh jïh mijjem gaajhkh$(infl,plnom-plgen|gaajhki)  dåeriesmoeri tjïrrh viehkiehtidh mah mijjen jieliemisnie båetieh.
+Gosse gærhkosne pruvredh dïhte akte gyrhkesjimmie mij ræjhkoes (jïjnjh¥o vuekine)$(infl,pline-plela|vuekijste). Jupmelen jïh gaajhkh£(infl,plnom-plgen|gaajhki) vïhnegi nommesne sinsitniem dåajvoehtibie gieriesvoetem vaarjelidh jïh sinsitnien baalte abpe jielemem tjåadtjodh. Jupmelem gihtjebe mijjen ektievoetem buerie sjugniedidh jïh mijjem gaajhkh£(infl,plnom-plgen|gaajhki)  dåeriesmoeri tjïrrh viehkiehtidh mah mijjen jieliemisnie båetieh.
 
 Buerie nuepieh gååvnesieh€(verb|leah) provregyrhkesjimmiem jïjtshligkie darjodh. Muvhth provresalmetjh sijhtieh jïjtjene$(infl,sg1gen-pl3gen|jïjtsh) dåajvoeh tjaeledh, sinsitnide laavlodh jallh (mij akt)¥(cmp,2-1|mijakt) jeatjah jïjsthligkie darjodh. Læjhkan dïhte gyrhkesjimmie dennie maadtosne, gusnie aavoedieh jïh gijhtieh jielemen jïh gieriesvoeten vadtesijstie dovne provresalmetjidie jïh guesside.
 
 Provren bïjre soptsestalledh
 Gosse gærhkosne pruvredh provren åvtelhbodti soptseatalledh$(typos,a-s|soptsestalledh), dellie provresalmetjh jïh hearra raeriestieh€(foreign|rååresjieh) guktie provre edtja årrodh. Mij teekstide$(vowc,ee-e|tekstide) veeljedh, guktie dåajvoeh edtjieh årrodh, gie dam dorje jïh gåessie? Hearra aaj provhkoe gihtjedh guktie jïh gåessie provresalmetjh sinsitnide¥o gaavnesjigan, maam utniejægan joekoen sinsitnine, maam provhkijægan ektesne darjodh.
 
-Provresalmetjidie mejtie fuehpesne hijven¥(hijven lea) naemhtie ånnetji raaffalgovvedh jïh (gaajhkh åssjalommesidie)$(xxx|gaajhkide åssjalommesidie)  provren bïjre luejhtedh jïh ussjedidh mannasinie$(xxx|man åvteste) sinsitnine pruvrijægan. Hearrese buerie naemhtie provresalmetjigujmie buerebe åahpenidh jïh buerie gosse provrese edtja håalodh. Soptsestallemem maehtieh gærhkosne jallh provresalmetji gåetine utnedh. Gosse gåetine soptsestellieh aaj mænngan gærhkosne tjåanghkenieh soptsestidh guktie provrem$(foreign|hïejem) desnie juhtiehtidh.
+Provresalmetjidie mejtie fuehpesne hijven¥(hijven lea) naemhtie ånnetji raaffalgovvedh jïh (gaajhkh åssjalommesidie)£(infl,plnom-plakk,kongr|gaajhkide åssjalommesidie)  provren bïjre luejhtedh jïh ussjedidh mannasinie$(xxx|man åvteste) sinsitnine pruvrijægan. Hearrese buerie naemhtie provresalmetjigujmie buerebe åahpenidh jïh buerie gosse provrese edtja håalodh. Soptsestallemem maehtieh gærhkosne jallh provresalmetji gåetine utnedh. Gosse gåetine soptsestellieh aaj mænngan gærhkosne tjåanghkenieh soptsestidh guktie provrem$(foreign|hïejem) desnie juhtiehtidh.
 
 Ovmessie vuekieh
 Sveerjesne libie jïjnjem amerihkan$(conc,hk-k|amerikan) kultuvreste lööneme gosse pruvredh. Dam vuajnah provresalmetji vaajtelimmeste guktie dïhte provre edtja årrodh. Gallesh gihtjieh mejtie aehtjebe provresem maahta aalhtarasse vaedtsiehtidh. Ij mij Svïenske gærhkosne dam vuekiem nyrhte, læjhkan maahta ussjedidh maam daate sæjhta¥o vuesiehtidh$(infl,inf-3sgpres|vuesehte).
