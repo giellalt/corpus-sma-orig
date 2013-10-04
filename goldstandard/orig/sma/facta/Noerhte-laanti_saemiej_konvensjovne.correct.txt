@@ -58,9 +58,9 @@ Gosse daam konvensjovnem åtnose vaalteme, dellie eah edtjh saemiedigkieh jallh 
  
 Govhtede tjaalege
 Magkeres råajvarimmieh staateste saemide
-Dah golme staath tjoeverieh (radtjoes laakan)¥(adv,x|radtjoeslaakan) barkedh guktie saemieh maehtieh (eensi laakan)¥(adv,x|eensilaakan) gielem$(vowc,i-ï|gïelem) øvtiedidh$(vowc,ø-ö|övtiedidh) jih$(vowc,i-ï|jïh) gorredidh, kultuvrem vaarjelidh jih$(vowc,i-ï|jïh) jielemem jih$(vowc,i-ï|jïh) ektievoetem bijjiebasse lutnjedh.
+Dah golme staath tjoeverieh (radtjoes laakan)$(cmp,2-1|radtjoeslaakan) barkedh guktie saemieh maehtieh (eensi laakan)¥(adv,x|eensilaakan) gielem$(vowc,i-ï|gïelem) øvtiedidh$(vowc,ø-ö|övtiedidh) jih$(vowc,i-ï|jïh) gorredidh, kultuvrem vaarjelidh jih$(vowc,i-ï|jïh) jielemem jih$(vowc,i-ï|jïh) ektievoetem bijjiebasse lutnjedh.
 Staath edtjieh aaj (buerie laakan)$(cmp,2-1|buerielaakan) barkedh guktie saemiej byjrese maahta (stinks$(adj,vow|stinkes) laakan)¥(adv,x|stinkeslaakan) tjåadtjodh jih$(vowc,i-ï|jïh) buerie øvtiedimmie$(vowc,ø-ö|övtiedimmie) vijriebasse juhtiehtidh.
-Daate konvensjovne aaj staateste kriebpesje$(vowc,i-ï|krïebpesje) diedtem$(vowc,i-ï|dïedtem) utnedh saemide mah leah (siejme$(noun,mix|sïejme))¢(adj,con|sïejhme) saemiej voengi bæjngolen årroemine$(fin,e-ie|årroeminie).
+Daate konvensjovne aaj staateste kriebpesje$(vowc,i-ï|krïebpesje) diedtem$(vowc,i-ï|dïedtem) utnedh saemide mah leah (siejme)$(vowc,i-ï;conc,j-hj|sïejhme) saemiej voengi bæjngolen årroemine$(fin,e-ie|årroeminie).
  
 Tjijhtjede$(vowc,i-i|Tjïjhtjede) tjaalege
 Namtegh$(conc,t-ht|Namhtegh) diskriminering   - jih$(vowc,i-ï|jïh) sjiere$(vowc,i-ï|sjïere) råajvarimmieh tseagkodh
