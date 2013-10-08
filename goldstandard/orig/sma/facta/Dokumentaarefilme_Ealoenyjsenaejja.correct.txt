@@ -51,7 +51,7 @@ Reedisjerije$(vowc,ee-e;conm,sj-g;vowm,e-ee|Redigeerije)/ektiedimmije$(finis,ije
 RASMUS OHLANDER, reakadi jaepien 1972.  Satne bietskine$(fin,ine-ieminie|bietskieminie)/redisjerine$(conc,sj-g;vowc,e-ee;fin;ine-eminie|redigeereminie) maahtodimmesne barkeme dehtie jaepeste 1998, jih$(vowc,i-ï|jïh) aaj Dramatiske Instituten$(conc,t-ht|Instituhten) Filmebietskeme-öövtiedimmie$(hyph-0;vowc,öö-ö |Filmebietskemeövtiedimmie) Stuehkesne vaadtseme. Satne lea aaj dokumentärem$(vowc,ä-ææ|dokumentæærem), draama, kåarhth -  åenehkes$(vowlat,e-0|åenehks) vaajesh jih$(vowc,i-ï|jïh) gåhkoefilmh bietskedamme$(vowlat,e-ie|bietskiedamme).  Dan årroemesijjie$(conm, |årromesijjie) lea Göteborg.
 
 Kompositööre, musihke – Nina Sarri Vahlberg
-NINA SARRI VAHLBERG, ööhpetimmiem$(conc,p-hp|ööhpehtimmiem) veedtsi dennie Gångkan$(vowc,å-åa|Gåangkan) musihkeskuvlesne dah jaepieh 1994-1998 accordeosne jih$(vowc,i-ï|jïh) draagespealine. Lohki aaj kompesisjovnem$(vowlat,e-o|komposisjovnem)  dennie Piteån$(fin,ån-åen|Piteåen) musihkejylleskuvlesne$(vowc,y-ï|musihkejïlleskuvlesne). Daelie barka goh frilansere$(vowlat,e-ee|frilanseere) kompositööre jih$(jïh) aartiste$(vowc,aa-a|artiste). Dah minngemes jaepieh lea barkeme musihkine dan ”duon Gázis,” teateremusihke$(vowc,ea-eaa|teaateremusihke) jih$(vowc,i-ï|jïh) filmemusihkem buektiedamme$(conc,d-ht|buektiehtamme).
+NINA SARRI VAHLBERG, ööhpetimmiem$(conc,p-hp|ööhpehtimmiem) veedtsi dennie Gångkan$(vowc,å-åa|Gåangkan) musihkeskuvlesne dah jaepieh 1994-1998 accordeosne jih$(vowc,i-ï|jïh) draagespealine. Lohki aaj kompesisjovnem$(vowlat,e-o|komposisjovnem)  dennie Piteån$(fin,ån-åen|Piteåen) musihkejylleskuvlesne$(vowc,y-ï|musihkejïlleskuvlesne). Daelie barka goh¥0 frilansere$(vowlat,e-ee|frilanseere) kompositööre jih$(jïh) aartiste$(vowc,aa-a|artiste). Dah minngemes jaepieh lea barkeme musihkine dan ”duon Gázis,” teateremusihke$(vowc,ea-eaa|teaateremusihke) jih$(vowc,i-ï|jïh) filmemusihkem buektiedamme$(conc,d-ht|buektiehtamme).
 Daelie tjaelieminie dongkesovvemem mah sjiehtele dan joejkese jih$(vowc,i-ï|jïh) bossekvintetese Nordan, mij Upmesne$(conc,pm-bm;infl,sg-pl|Ubmejisnie).
 
 
@@ -69,6 +69,6 @@ Daelie tjaelieminie dongkesovvemem mah sjiehtele dan joejkese jih$(vowc,i-ï|jï
 
 Vïedtjeme (20.04.2012) sæjroste:
 
-http://www.hjordeliv.se/
+http://www.hjordeliv.se/∞(url)
 
 
