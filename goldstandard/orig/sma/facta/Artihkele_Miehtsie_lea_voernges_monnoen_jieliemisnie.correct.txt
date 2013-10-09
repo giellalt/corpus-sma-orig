@@ -13,5 +13,5 @@ Tjaaleme:
 Liv Østmo, goerehtimmien våaromisnie$(vowlat,o-oe|våaroemisnie), mïetsken 2009
 Provsjektejuhtiehtæjja$(conc,vsj-sj;vowlat,e-ee|Prosjeektejuhtiehtæjja) Àrbediehtu-provsjekte$(hyph-0;conc,vsj-sj;vowlat,e-ee|Árbediehtuprosjeekte) Sámi allaskuvla
 
-http://www.arbediehtu.no
+(http://www.arbediehtu.no)∞(url)
 
