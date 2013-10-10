@@ -299,14 +299,14 @@ Vijhte$(vowc,i-i|Vïjhte) luhkien tjaalege
 Gåessie daejnie aelhkiehtidh
                Konvensjovne staeries sjædta golme luhkie biejjiej mænngan ratifikasjovne-tjaalegh$(noun,x|ratifikasjovnetjaalegh) leah våarkose$(noun,conc|våarhkose) nøørjen$(vowc,øø-öö|nöörjen) ålkoe-raerie$(noun,x|ålkoeraerie) departementese$(noun,vow|departemeentese) båateme.
                Nøørjen$(vowc,øø-öö|Nöörjen) ålkoeraerie-departemente$(noun,mix|ålkoeraeriedepartemeente) Finlaantese , Sveerjese  dejtie golme saemiedigkide bieljele$(vowc,i-ï|bïeljele) ratifikasjonen$(noun,con|ratifikasjovnen) tjaalegi våarkoen$(noun,conc|våarhkoen) bijre$(vowc,i-ï|bïjre) jih$(vowc,i-ï|jïh) aaj man mierien konvensjovne edtja aelkedh juhtedh.
-               Dihte$(vowc,i-ï|Dïhte) åårginale$(adj,mix|originaale) tjaalege edtja vøørhkelimmesne$(vowc,i-ï|vöörhkelimmesne) nøørjen$(vowc,øø-öö|nöörjen) ålkoeraerie-departementesne$(noun,mix|ålkoeraeriedepartemeentesne) årrodh. Dihte$(vowc,i-ï|Dïhte) edtja aaj (vihties laakan)¥(adv,x|vihtieslaakan) øørnedh$(vowc,øø-öö|öörnedh) guktie Finlaante, Sveerje jih$(vowc,i-ï|jïh) dah golme saemiedigkieh staeries kovpijem$(noun,con|kopijem) åadtjoeh.
+               Dihte$(vowc,i-ï|Dïhte) åårginale$(init,åå-o;vowc,a-aa|originaale) tjaalege edtja vøørhkelimmesne$(vowc,i-ï|vöörhkelimmesne) nøørjen$(vowc,øø-öö|nöörjen) ålkoeraerie-departementesne$(hyph-0|ålkoeraeriedepartemeentesne) årrodh. Dihte$(vowc,i-ï|Dïhte) edtja aaj (vihties laakan)$(cmp,2-1|vihtieslaakan) øørnedh$(vowc,øø-öö|öörnedh) guktie Finlaante, Sveerje jih$(vowc,i-ï|jïh) dah golme saemiedigkieh staeries kovpijem$(conc,vp-p|kopijem) åadtjoeh.
  
 (Vijhte$(vowc,i-i|Vïjhte) luhkie voestes)$(cmp,3-1|vïjhteluhkievoestes) tjaalege
-Værrhtoedimmieh$(noun,con|Værhtoedimmieh) konvensjovnesne
-               Værrhtoedimmieh$(noun,con|Værhtoedimmieh) daennie konvensjovnesne edtja ektesvøøki$(x,mix|ektesevyöki) barkoe årrodh saemiedigkiej gaskems$(pp,con|gaskemsh) jih$(vowc,i-ï|jïh) jiehtesij$(noun,suf|jiehtesi)  tjaalegisnie 48.
-               Værrhtoedimmieh$(noun,con|Værhtoedimmieh) daennie konvensjovnesne aelhkiedæmman båata golme luhkie biejjiej mænngan gosse mååhtedimmie-lihtsegh$(noun,mix|mååhtedimmielïhtsegh) nøørjen$(vowc,øø-öö|nöörjen) ålkoeraerie departementese$(noun,vow|departemeentese) bieljelamme$(vowc,i-ï|bïeljelamme) dååhkesjehtemen$(noun,mix|dåhkasjehtemen) bijre$(vowc,i-ï|bïjre).
-               (Dååhkesjehteme-lihtsegh)$(hyph-0,vowc,åå-å|Dåhkasjehtemelïhtsegh) leah jååhkesjehtamme$(verb,mix|jååhkesjehteme) daam konvensjovnem.
-               Daate deahpedi$(verb,vow|deahpadi) .......................  _____  ._______n   20......  akten tjaaleginie nøørjen$(vowc,øø-öö|nöörjen), finlaanten, sveerjen jih$(vowc,i-ï|jïh) saemien gielesne¢(vowc,i-ï|gïelesne). Gaajhkh tjaalegh seamma (vierhtie-daltesisnie)$(hyph-0|vierhtiedaltesisnie) tjåadtjoeminie.
+Værrhtoedimmieh$(conc,rrh-rh|Værhtoedimmieh) konvensjovnesne
+               Værrhtoedimmieh$(conc,rrh-rh|Værhtoedimmieh) daennie konvensjovnesne edtja ektesvøøki$(x,mix|ektesevyöki) barkoe årrodh saemiedigkiej gaskems$(conc,s-sh|gaskemsh) jih$(vowc,i-ï|jïh) jiehtesij$(fin,sij-si|jiehtesi)  tjaalegisnie 48.
+               Værrhtoedimmieh$(conc,rrh-rh|Værhtoedimmieh) daennie konvensjovnesne aelhkiedæmman båata golme luhkie biejjiej mænngan gosse mååhtedimmie-lihtsegh$(noun,mix|mååhtedimmielïhtsegh) nøørjen$(vowc,øø-öö|nöörjen) ålkoeraerie departementese$(vowc,e-ee|departemeentese) bieljelamme$(vowc,i-ï|bïeljelamme) dååhkesjehtemen$(vowc,åå-å|dåhkasjehtemen) bijre$(vowc,i-ï|bïjre).
+               (Dååhkesjehteme-lihtsegh)$(hyph-0,vowc,åå-å|Dåhkasjehtemelïhtsegh) leah jååhkesjehtamme$(fin,htamme-hteme|jååhkesjehteme) daam konvensjovnem.
+               Daate deahpedi$(vowc,e-a|deahpadi) .......................  _____  ._______n   20......  akten tjaaleginie nøørjen$(vowc,øø-öö|nöörjen), finlaanten, sveerjen jih$(vowc,i-ï|jïh) saemien gielesne¢(vowc,i-ï|gïelesne). Gaajhkh tjaalegh seamma (vierhtie-daltesisnie)$(hyph-0|vierhtiedaltesisnie) tjåadtjoeminie.
 
 
 
