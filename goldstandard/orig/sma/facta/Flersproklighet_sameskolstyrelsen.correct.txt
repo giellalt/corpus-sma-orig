@@ -98,7 +98,7 @@ Jaepeste 2000, Svöörjesne, dellie saemiengiele$(noun,vowc,i-ï|saemiengïele) 
 
  Svöörjesne leah govhte saemieskuvlh; Gàrasavvon$(prop,vowc,i-ï|Gárasavvon), Giron, Làttevàrri$(prop,vowc,i-ï|Láttevárri), Jiellevárre, Jåhkåmåhkke jih$(cc,vowc,i-ï|jïh) Dearna.
 Saemien integreringe-ööhpetimmie$(hyph-0|integreeremeööhpehtimmie) (gellene tjieltine$(vowc,i-ï|tjïeltine))£(infl,case|gelline tjïeltine) gååvnesieh.
-Lohkh vielie; http://www.sameskolstyrelsen.se/.
+Lohkh vielie; (http://www.sameskolstyrelsen.se/.)∞(url)
 
 Minngemes 
 Jeenjesh dejstie eejhtegijstie mah sijhtieh dam gelliehgiertejgielem$(xxx|gelliengiertiengïelem)
