@@ -301,7 +301,7 @@ Gåessie daejnie aelhkiehtidh
                Nøørjen$(vowc,øø-öö|Nöörjen) ålkoeraerie-departemente$(noun,mix|ålkoeraeriedepartemeente) Finlaantese , Sveerjese  dejtie golme saemiedigkide bieljele$(vowc,i-ï|bïeljele) ratifikasjonen$(noun,con|ratifikasjovnen) tjaalegi våarkoen$(noun,conc|våarhkoen) bijre$(vowc,i-ï|bïjre) jih$(vowc,i-ï|jïh) aaj man mierien konvensjovne edtja aelkedh juhtedh.
                Dihte$(vowc,i-ï|Dïhte) åårginale$(adj,mix|originaale) tjaalege edtja vøørhkelimmesne$(vowc,i-ï|vöörhkelimmesne) nøørjen$(vowc,øø-öö|nöörjen) ålkoeraerie-departementesne$(noun,mix|ålkoeraeriedepartemeentesne) årrodh. Dihte$(vowc,i-ï|Dïhte) edtja aaj (vihties laakan)¥(adv,x|vihtieslaakan) øørnedh$(vowc,øø-öö|öörnedh) guktie Finlaante, Sveerje jih$(vowc,i-ï|jïh) dah golme saemiedigkieh staeries kovpijem$(noun,con|kopijem) åadtjoeh.
  
-Vijhte$(vowc,i-i|Vïjhte) luhkie voestes tjaalege
+(Vijhte$(vowc,i-i|Vïjhte) luhkie voestes)$(cmp,3-1|vïjhteluhkievoestes) tjaalege
 Værrhtoedimmieh$(noun,con|Værhtoedimmieh) konvensjovnesne
                Værrhtoedimmieh$(noun,con|Værhtoedimmieh) daennie konvensjovnesne edtja ektesvøøki$(x,mix|ektesevyöki) barkoe årrodh saemiedigkiej gaskems$(pp,con|gaskemsh) jih$(vowc,i-ï|jïh) jiehtesij$(noun,suf|jiehtesi)  tjaalegisnie 48.
                Værrhtoedimmieh$(noun,con|Værhtoedimmieh) daennie konvensjovnesne aelhkiedæmman båata golme luhkie biejjiej mænngan gosse mååhtedimmie-lihtsegh$(noun,mix|mååhtedimmielïhtsegh) nøørjen$(vowc,øø-öö|nöörjen) ålkoeraerie departementese$(noun,vow|departemeentese) bieljelamme$(vowc,i-ï|bïeljelamme) dååhkesjehtemen$(noun,mix|dåhkasjehtemen) bijre$(vowc,i-ï|bïjre).
@@ -314,7 +314,7 @@ Værrhtoedimmieh$(noun,con|Værhtoedimmieh) konvensjovnesne
 
 Veedtjeme(27.02.2012) sæjroste:
 
-http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_samekonv_sorsamisk.pdf
+(http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_samekonv_sorsamisk.pdf)∞(url)
 
 
 
