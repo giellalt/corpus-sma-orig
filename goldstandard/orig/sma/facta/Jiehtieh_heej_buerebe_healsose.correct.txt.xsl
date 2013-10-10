@@ -5,7 +5,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
+<xsl:variable name="filename" select="'http://www.halsa2020.se/OtherLanguages/Pages/Aarjelsaemien.ept'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -54,7 +54,7 @@
 <xsl:variable name="template_version" select="'$Revision: 48460 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="''"/>
+<xsl:variable name="note" select="'Lastet ned 23.02.2012'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'sma'"/>
