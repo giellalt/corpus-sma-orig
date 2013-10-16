@@ -115,7 +115,7 @@ Saemiedigkij$(fin,ij-iej|Saemiedigkiej) reaktah jeatja aamhtse-ryøjredimmesne$(
 (Saemiedigkieh reaktah utnieh)£(hab|Saemiedigkiej leah reaktah) meatan årrodh byjjes raerijne$(fin,ijne-ine|raerine) gosse aamhtsi$(vowc,0-e|aamhtesi) bijre$(vowc,i-ï|bïjre) digkiedidh mah saemide dijpieh.
 Saemiedigkieh edtjieh saemien aamhtside$(vowc,0-e|aamhtesidie) giehtjedidh$(vowc,i-ï|gïehtjedidh) aerebi goh byjjes raerieh dejtie nænnoestieh.
 Staath edtjieh daerpies-voetide$(hyph-0|daerpiesvoetide) tjilkedh gosse raeriestimmieh saemiedigkijste båata. Daate tjoevere deahpadidh låångkh$(adv,mix|låångkegh) aerebi guktie saemiedigkieh maehtieh tsevtsiehtidh aamhtse-juhtemem$(noun,mix|aamhtesejuhtemem) jih$(vowc,i-ï|jïh) vaestiedimmiem.
-Saemiedigkieh åvtelbodtieh$(fin,ieh-i|åvtelbodti) vaestiedieh mejtie sijhtieh (lihtsegh)$(vowc,i-ï|lïhtsegh) meatan jallh laahtestimmieh$(noun,vow|lahtestimmieh) aamhtse-ryøjredæmman$(hyph-0;vowc,ø-ö|aamhteseryöjredæmman) vedtedh.
+Saemiedigkieh åvtelbodtieh$(fin,ieh-i|åvtelbodti) vaestiedieh mejtie sijhtieh (lihtsegh)$(vowc,i-ï|lïhtsegh) meatan jallh laahtestimmieh$(vowc,aa-a|lahtestimmieh) aamhtse-ryøjredæmman$(hyph-0;vowc,ø-ö|aamhteseryöjredæmman) vedtedh.
  
 (Luhkie gaaksede$(num,conc|gaaktsede))$(cmp,2-1|Luhkiegaaktsede) tjaalege
 Tjåådtjh-sijjie$(cmp,h-oeh;hyph-0|Tjåadtjoehsijjie) nasjovnale-tjåangkojde$(hyph-0;conc,vn-n,vowc,a-aa|nasjonaaletjåanghkojde)
@@ -130,14 +130,12 @@ Staath edtjieh aaj saemide eevtjedh (goh)¥(w,redun-0) ((lihtsegh)$(vowc,i-ï|l�
  
 (Gøøkte$(vowc,i-i|Göökte) låhkede)$(cmp,2-1|Gööktelåhkede) tjaalege
 (Siejme$(vowc,i-ï|Sïejme))¢(adj,con|Sïejhme) saemiej åårganisasjovnh$(noun,mix|organisasjovnh)
-Saemiedigkieh maehtieh (siejme$(vowc,i-ï|sïejme))¢(adj,con|sïejhme) åårganisasjovnh$(vowc,åå-o|organisasjovnh) tseegkedh.Staath$(mix,x|tseegkedh. Staath) edtjieh, gosse daerpies, (saemiedigkij£(case,gen-com|saemiedigkine) ektine)£(case,gen-com|saemiedigkine ektine) barkedh guktie byjjes faaleldahkh dagkaridie åårganisasjovnide$(vowc,åå-o|organisasjovnide) båetieh.
+Saemiedigkieh maehtieh (siejme$(vowc,i-ï|sïejme))¢(w|sïejhme) åårganisasjovnh$(vowc,åå-o|organisasjovnh) tseegkedh.Staath$(mix,x|tseegkedh. Staath) edtjieh, gosse daerpies, (saemiedigkij£(case,gen-com|saemiedigkine) ektine)£(case,gen-com|saemiedigkine ektine) barkedh guktie byjjes faaleldahkh dagkaridie åårganisasjovnide$(vowc,åå-o|organisasjovnide) båetieh.
  
 (Gøøkte$(vowc,øø-öö|Göökte) luhkie voestes)$(cmp,3-1|Göökteluhkievoestes) tjaalege
 Jeatja saemien gaskebarkoeh¢(w|laavenjosteme)
 
-(X) (skriv om denne!)
-Staath edtjieh krøøhkestidh$(vowc,øø-öö|krööhkestidh) (jih$(vowc,i-ï|jïh))¥0 gosse daerpies soptsestalledh saemiej-staari$(hyph-0|saemiejstaari), siidaj€(w|sïjti), båatsoeburrieh-moenehtsigujmie$(cmp,h-0;hyph-0|båatsoeburriemoenehtsigujmie)  jih$(vowc,i-ï|jïh) aaj "skoltesamenes byastæmmine" jih$(vowc,i-ï|jïh) aaj væjkeles£(infl,attr-pred|væjkele) saemiej lihtsegigyjmie$(vowc,i-ï;conc,y-u|lïhtsegigujmie) byjresisnie .
-(X)(skal være, slik jeg forstår setningen: Staath edtjieh saemienstaaride, sïjtide, båatsoeburriemoenehtsidie jïh "Skoltesamenes byastæmmem" krööhkestidh jïh aaj væjkele saemiej lïhtsegigujmie årrodh, gosse daerpies dejgujmie soptsestalledh)
+(Staath edtjieh krøøhkestidh$(vowc,øø-öö|krööhkestidh) (jih$(vowc,i-ï|jïh))¥0 gosse daerpies soptsestalledh saemiej-staari$(hyph-0|saemiejstaari), siidaj€(w|sïjti), båatsoeburrieh-moenehtsigujmie$(cmp,h-0;hyph-0|båatsoeburriemoenehtsigujmie)  jih$(vowc,i-ï|jïh) aaj "skoltesamenes byastæmmine" jih$(vowc,i-ï|jïh) aaj væjkeles£(infl,attr-pred|væjkele) saemiej lihtsegigyjmie$(vowc,i-ï;conc,y-u|lïhtsegigujmie) byjresisnie.)¥(wo|Staath edtjieh saemienstaaride, sïjtide, båatsoeburriemoenehtsidie jïh "Skoltesamenes byastæmmem" krööhkestidh jïh aaj væjkele saemiej lïhtsegigujmie årrodh, gosse daerpies dejgujmie soptsestalledh)
  
 (Gøøkte$(vowc,øø-öö|Göökte) luhkie mubpie)$(cmp,3-1|SGöökteluhkiemubpie) tjaalege
 Saemij$(fin,ij-iej|Saemiej) regiovne$(conc,i-ij|regijovne)
