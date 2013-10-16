@@ -285,14 +285,14 @@ Vierhtie-mieriedimmie$(hyph-0|Vierhtiemieriedimmie)
                Staati diedth$(vowc,i-ï|dïedth) leah beetne-vierhtieh$(hyph-0|beetnehvierhtieh) skåårvedh jis daate konvensjovne edtja juhtiemasse båetedh. Ikte mierie laajkoeh laanti gaskems$(conc,ms-msh|gaskemsh) edtja juakasovvedh vuejniemisnie man gellie saemieh dej ovmese laantine årroeminie.
                Baalte daej væjkoej mah daennie tjaalegisnie35$(1-2|tjaalegisnie 35),mubpien tsiehkesne nebnesovvieh$(vowc,o-u|neebnesuvvieh), edtjieh aaj saemieh vierhtie-viehkiem$(hyph-0|vierhtieviehkiem) åadtjodh jis daerpies gyhtjelassi reaktaj bijre$(vowc,i-ï|bïjre) døøpmege-raerine$(cmp,ege-eh;hyph-0|dööpmehraerine) juhtiehtidh.
  
-Tjiehtjede$(num,mix|Tjïjhtjede) kapittele$(conc,tt-ht|kapihtele) VII
-Orrejimmie-jiehtsh$(hyph-0|Orrijimmiejiehtesh)
+Tjiehtjede$(vowc,ie-ï|Tjïjhtjede) kapittele$(conc,tt-ht|kapihtele) VII
+Orrejimmie-jiehtsh$(hyph-0;vowc,0-e|Orrijimmiejiehtesh)
               
-Njielje luhkie gaaktsede tjaalege
+(Njielje luhkie gaaktsede)$(cmp,3-1|Njieljeluhkiegaaktsede) tjaalege
 Saemiedigkiej dååhkasjehteme$(vowc,åå-å|dåhkasjehteme)
                Daate konvensjovne edtja nuelie-tjaalegen$(hyph-0|nuelietjaalegen) mænngan dååhkasjehtemem$(vowc,åå-å|dåhkasjehtemem) dejstie golme saemiedigkijste viedtjedh$(vowc,i-ï|vïedtjedh).
                                
-(Njielje luhkie åksede$(conc,ks-kts|åktsede))$(cmp,3-1|Njieljelihkieåktsede) tjaalege
+(Njielje luhkie åksede$(conc,ks-kts|åktsede))$(cmp,3-1|Njieljeluhkieåktsede) tjaalege
                                                                 Ratifikasjovne
                Daate konvensjovne edtja ratifikasjovnen nualan. Daate maahta voestegh deapadidh$(conc,p-hp|deahpadidh) gosse dah golme saemiedigkieh leah daam dååhkasjehtamme$(vowc,åå-å,|dåhkasjehteme) guktie tjaalege 48 vuesehte.
  
