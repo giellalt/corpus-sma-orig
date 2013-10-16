@@ -117,7 +117,7 @@ Saemiedigkieh edtjieh saemien aamhtside$(vowc,0-e|aamhtesidie) giehtjedidh$(vowc
 Staath edtjieh daerpies-voetide$(hyph-0|daerpiesvoetide) tjilkedh gosse raeriestimmieh saemiedigkijste båata. Daate tjoevere deahpadidh låångkh$(adv,mix|låångkegh) aerebi guktie saemiedigkieh maehtieh tsevtsiehtidh aamhtse-juhtemem$(vowc,0-e;hyph-0|aamhtesejuhtemem) jih$(vowc,i-ï|jïh) vaestiedimmiem.
 Saemiedigkieh åvtelbodtieh$(fin,ieh-i|åvtelbodti) vaestiedieh mejtie sijhtieh (lihtsegh)$(vowc,i-ï|lïhtsegh) meatan jallh laahtestimmieh$(vowc,aa-a|lahtestimmieh) aamhtse-ryøjredæmman$(hyph-0;vowc,ø-ö|aamhteseryöjredæmman) vedtedh.
  
-(Luhkie gaaksede$(num,conc|gaaktsede))$(cmp,2-1|Luhkiegaaktsede) tjaalege
+(Luhkie gaaksede$(conc,k-kt|gaaktsede))$(cmp,2-1|Luhkiegaaktsede) tjaalege
 Tjåådtjh-sijjie$(cmp,h-oeh;hyph-0|Tjåadtjoehsijjie) nasjovnale-tjåangkojde$(hyph-0;conc,vn-n,vowc,a-aa|nasjonaaletjåanghkojde)
 Staati nasjovnale$(conc,vn-n;vowc,a-aa|nasjonaale) tjåangkoeh$(conc,gk-ghk|tjåanghkoeh) jallh dej moenehtsh edtjieh sijjiem darjodh guktie lihtsegh$(vowc,i-ï|lïhtsegh) saemiedigkijste maehtieh meatan jih$(vowc,i-ï|jïh) buerkiestidh aamhtsi$(vowc,0-e|aamhtesi) bijre$(vowc,i-ï|bïjre) mah saemide vihkeles£(attr-pred|vihkele).
 Gosse aamhtsh$(vowc,0-e|aamhtesh) saemij$(fin,ij-iej|saemiej) bijre$(vowc,i-ï|bïjre) gietelimmesne$(vowc,i-ï;conc,t-ht|gïehtelimmesne), dellie edtjieh byjjes ståvroeh nuepiem saemiedigkide vedtedh jih$(vowc,i-ï|jïh) dejtie goltelidh.
@@ -128,7 +128,7 @@ Saemieh jih$(vowc,i-ï|jïh) internasjovnale$(conc,vn-n|internasjonaale) represe
 Saemiedigkieh edtjieh saemij$(fin,ij-iej|saemiej) digkiedimmide meatan vaeltedh gosse (gaskestaati (tjåangkoeh)$(conc,gk-ghk|tjåanghkoeh))£(hab|gaskestaati leah tjåanghkoeh).
 Staath edtjieh aaj saemide eevtjedh (goh)¥(w,redun-0) ((lihtsegh)$(vowc,i-ï|lïhtsegh)£(case,nom-ess|lïhtseginie) internasjovnale$(conc,vn-n;vowc,a-aa|internasjonaale) institusjovnine jih$(vowc,i-ï|jïh) aaj stilledh meatan (goh)¥(w,redun-0) håaleniere¢(w|håaloejinie) internasjovnale$(conc,vn-n;vowc,a-aa|internasjonaale) tjåangkojne$(conc,gk-ghk|tjåanghkojne).
  
-(Gøøkte$(vowc,i-i|Göökte) låhkede)$(cmp,2-1|Gööktelåhkede) tjaalege
+(Gøøkte$(vowc,i-i|Göökte)¢(Num-Ord|låhkede))$(cmp,2-1|Gööktelåhkede) tjaalege
 (Siejme$(vowc,i-ï|Sïejme))¢(w|Sïejhme) saemiej åårganisasjovnh$(vowc,åå-o|organisasjovnh)
 Saemiedigkieh maehtieh (siejme$(vowc,i-ï|sïejme))¢(w|sïejhme) åårganisasjovnh$(vowc,åå-o|organisasjovnh) tseegkedh.Staath$(mix,x|tseegkedh. Staath) edtjieh, gosse daerpies, (saemiedigkij£(case,gen-com|saemiedigkine) ektine)£(case,gen-com|saemiedigkine ektine) barkedh guktie byjjes faaleldahkh dagkaridie åårganisasjovnide$(vowc,åå-o|organisasjovnide) båetieh.
  
@@ -161,7 +161,7 @@ Saemiej medijah$(|meediah)
          Staath edtjieh barkedh guktie provgramh$(conc,vg-g;conc,m-mm|programmh) radiovesne$(conc,io-ijo|radijovesne) jih$(vowc,i-ï|jïh) Tv-esne$(acr,suf|TV:sne) saemien gielesne¢(vowc,i-ï|gïelesne) båetieh jih$(vowc,i-ï|jïh) aaj barkedh guktie plaerieh  maehtieh saemien gielem$(vowc,i-ï|gïelem) nænnoestidh. Saemiedigkieh edtjieh ektesvuekie barkedh  rasti$(vowc,a-aa|raasti) bijjelen guktie media-intstitusjovnh$(hyph-0|mediainstitusjovnh) provgramh$(conc,vg-g;conc,m-mm|programmh) jih$(vowc,i-ï|jïh) tjaalegh buektieh mah saemien gielese¢(vowc,i-ï|gïelese) vihkeles. Jiehtegh daesnie aaj unnemes gielide¢(vowc,i-ï|gïelide) dijpieh.
                                            
               
-Gøøkte$(vowc,øø-öö|Göökte) luhkie govhtede tjaalege
+(Gøøkte$(vowc,øø-öö|Göökte) luhkie govhtede)$(cmp,3-1|Göökteluhkiegovhtede) tjaalege
 Saemien øøhpehtimmie$(vowc,øø-öö|ööhpehtimmie)
          Saemieh saemien dajvine edtjieh nuepiem utnedh jijtse$(vowc,i-ï|jïjtse) gielem$(vowc,i-ï|gïelem) lieredh$(vowc,ø-ö|lïeredh) jih$(vowc,i-ï|jïh) aaj øøhpehtimmiem$(vowc,øø-öö|ööhpehtimmiem) saemien gielesne¢(vowc,i-ï|gïelesne) (åadtjodh.Øøhpehtimmieh)$(mix,mix|åadtjodh. Ööhpehtimmieh) jih$(vowc,i-ï|jïh) vierhtiemaaksoeh tjoeverieh sjiehtesovvedh$(vowc,i-ï|sjïehtesovvedh) fiere$(vowc,i-ï|fïere) guhten duakan. Nimhtie øøhpehtimmie$(vowc,øø-öö|ööhpehtimmie) nuepiem vadta guktie gaajhks$(indef,vow|gaajhkesh) guhth sijhtieh maehtieh lohkedh jih$(vowc,i-ï|jïh) vijriebasse gieline¢(vowc,i-ï|gïeline) ovmese daltesinie båetedh,  aaj maehtieh saemiej jielemevuekijgujmie$(cmp,ij-iej|jielemevuekiejgujmie) barkedh. Beetneh-vierhtieh$(hyph-0|Beetnehvierhtieh) edtjieh nimtie$(adv,conc|nimhtie) biejesovvedh$(vowc,i-ï|bïejesovvedh) guktie aelhkie jillebem saemien øøhpehtimmiem$(vowc,øø-öö|ööhpehtimmiem) jaksedh.
          Saemien maanah jih$(vowc,i-ï|jïh) noerh mah  årroemienie$(fin,mienie-minie|årroeminie) bæjngolen saemiej dajvh edtjieh nuepiem saemien øøhpehtæmman$(vowc,øø-öö|ööhpehtæmman) åadtjodh  jih$(vowc,i-ï|jïh) aaj øøhpehtimmiem$(vowc,øø-öö|ööhpehtimmiem) saemien gielesne¢(vowc,i-ï|gïelesne) jis nuepie disse$(vowc,i-ï|dïsse). Daerpies lea øøhpehtimmiem$(vowc,øø-öö|ööhpehtimmiem) sjiehtesjehtedh$(vowc,i-ï|sjïehtesjehtedh) duekien mietie guktie bøøremes$(vowc,øø-öö|bööremes) dejtie.
@@ -178,28 +178,28 @@ Giehtjedimmie$(vowc,i-ï|Gïehtjedimmie)
                Reaktah (jiehtsh$(vowc,i-ï|jïehtsh))¢(refl,mix|jïjtsh) saemiej kultuvren jih$(vowc,i-ï|jïh) ektievoeti bijre$(vowc,i-ï|bïjre) tjoeverieh aaj øøhpehtimmesne$(vowc,øø-öö|ööhpehtimmesne) saemiej dajvi bæjngolen båetedh. Dageres$(x,conc|Dagkeres) øøhpehtimmie$(vowc,øø-öö|ööhpehtimmie) edtja (vihties laakan)$(cmp,2-1|vihtieslaakan) maahtoem soptsestimmesne vedtedh saemiej bijre$(vowc,i-ï|bïjre) goh laanten (aalkoe-almetjh)$(hyph-0|aalkoealmetjh). Staath, saemiedigkij$(fin,ij-iej|saemiedigkiej) ektine, tjoeverieh øøhpehtimmiem$(vowc,øø-öö|ööhpehtimmiem) saemien kultuvren jih$(vowc,i-ï|jïh) ektievoeten bijre$(vowc,i-ï|bïjre) faaledh almetjidie mah edtjieh saemiej dajvine barkedh.
                Staath jih$(vowc,i-ï|jïh) saemiedigkieh tjoeverieh (siejme$(vowc,i-ï|sïejme))¢(w|sïejhme) almetjidie staeries saerniestimmieh saemien kultuvren jih$(vowc,i-ï|jïh) (ektievoete jielemen)$(hyph,2-1|ektievoetejielemen) bijre$(vowc,i-ï|bïjre) vedtedh .
  
-Gøøkte$(vowc,øø-öö|Göökte) luhkie åktsede tjaalege
+(Gøøkte$(vowc,øø-öö|Göökte) luhkie åktsede)$(cmp,3-1|Göökteluhkieåktsede) tjaalege
 Healsoe-jih$(mix,mix|Healsoe- jïh) (ektievoete tsiehkie)$(cmp,2-1|ektievoetetsiehkie)
                Staath edtjieh saemiedigkij$(fin,ij-iej|saemiedigkiej) ektine barkedh guktie healsoe-jih$(mix,mix|healsoe- jïh) ektievoete tsiehkien faaleldahkh saemide bøøremes$(vowc,øø-öö|bööremes) sjidtieh.  Faaleldahkh tjoeverieh sjiehtesovvedh$(vowc,i-ï|sjïehtesovvedh) guktie giele-jih$(mix,mix|gïele- jïh) kultuvre kriebpesje$(vowc,i-ï|krïebpesje).
                Bæjngolen dej saemiej dajvh edtjieh aaj healsoe-jih$(mix,mix|healsoe- jïh) ektievoete-tsiehkie$(hyph-0|ektievoetetsiehkie) dåårjelidh$(vowc,åå-åa|dåarjelidh) guktie saemiej kultuvre jih$(vowc,i-ï|jïh) giele$(vowc,i-ï|gïele) jarngese båetieh  jih$(vowc,i-ï|jïh) gietedalleme$(vowc,i-ï|gïetedalleme) almetjidie bøøremes$(vowc,øø-öö|bööremes) sjædta.
  
-Golme luhkie tjaalege
+(Golme luhkie¢(Num-Ord|låhkede))$(cmp,2-1|Golmelåhkede) tjaalege
 Saemij$(fin,ij-iej|Saemiej) maanah jih$(vowc,i-ï|jïh) noerh
                Samiej$(fin,ij-iej|Saemiej) maanah jih$(vowc,i-ï|jïh) noerh reaktam utnieh saemien kultuvrem vååjnesasse buektedh jih$(vowc,i-ï|jïh) saemien identitetem$(vowc,e-ee|identiteetem) gorredidh jih$(vowc,i-ï|jïh) øvtiedidh$(vowc,ø-ö|övtiedidh).
  
-Golme luhkie voestes tjaalege
+(Golme luhkie voestes)$(cmp,3-1|Golmeluhkievoestes) tjaalege
 Vuekiej maahtoe jih$(vowc,i-ï|jïh) kultuvren jiehtsh$(vowc,0-e|jiehtesh)
                Staath edtjieh krøøhkestidh$(vowc,øø-öö|krööhkestidh) saemiej reaktam maahtoeh- vuekide$(hyph-0|maahtoevuekide) vaarjelidh  jih$(vowc,i-ï|jïh) aaj jiehtsh-kultuvren$(vowc,0-e;hyph-0|jiehtsekultuvren) vuekide gorredidh. Saemiej edtjieh åadtjodh  reaktide gorredidh jih$(vowc,i-ï|jïh) øvtiedidh$(vowc,ø-ö|övtiedidh) jih$(vowc,i-ï|jïh) dejtie  noere gaedtside guedtedh.
                Staath edtjieh aaj barkedh  jih$(vowc,i-ï|jïh) saemide viehkiem vedtedh gosse daaroeh sijhtieh saemien kultuvrem åtnose vaeltieh, jih$(vowc,i-ï|jïh) jis destie beetneh-vierhtieh$(hyph-0|beetnehvierhtieh) båetieh, dellie vihkeles saemieh aaj måedtiem  vierhtijste åadtjoeh dåastodh. Saemien kultuvre tjovere$(vowc,o-oe|tjoevere) vaarjelimmien nualan båetedh guktie eah kultuvre-darjomh$(hyph-0|kultuvredarjomh) båajhtode laakan saemiej maadtoem vuesehth.
                Staath edtjieh barkedh guktie saemiej maahtoe-kultuvre$(hyph-0|maahtoekultuvre) vaarjelæmman båata gosse edtjieh nænnoestimmieh saemiej  jielemen bijre$(vowc,i-ï|bïjre) tseegkedh.
  
-Golme luhkie mubpie tjaalege
+(Golme luhkie mubpie)$(cmp,3-1|Golmeluhkiemubpie) tjaalege
 Saemiej kultuvre mojhtsh$(vowc,tsh-tesh|mojhtesh)
                Saemiej (kultuvre-mojhtsh)$(hyph-0|kultuvremojhtesh) edtjieh laaken mietie saemiedigkien nuelesne vaarjelsovvedh jallh jeatja institusjovni nuelesne mah saemiedægkan veadtaldihkie.
                Staath edtjieh råajvarimmieh tseagkodh ektie vøøki$(vowc,øø-yö|vyöki) barkojne dej jeatja laantine  jih$(vowc,i-ï|jïh) nimhtie vihtesjidh$(vowc,i-ï|vïhtesjidh), vaarjelidh jih$(vowc,i-ï|jïh) dejtie saemiej kultuvre-mojhtsidie$(hyph-0;vowc,0-e|kultuvremojhtesidie) reeremen nualan biejedh$(vowc,i-ï|bïejedh).
                Staath edtjieh aaj viehkiehtidh gosse kultuvre-mojhtsh$(hyph-0;vowc,0-e|kultuvremojhtesh) leah vaaltasovveme saemij$(fin,ij-iej|saemiej) dajvijste jih$(vowc,i-ï|jïh) jis dah  sjiere$(vowc,i-ï|sjïere) laakan saemiej kultuvrese veadaldihkie$(conc,d-dt|veadtaldihkie), dellie edtjieh dah museeide$(fin,ide-imidie|museeumidie) biejesovvedh$(vowc,i-ï|bïejesovvedh) jallh jeatja (kultuvre-institusjovnide)$(hyph-0|kultuvreinstitusjovnide) gosse saemiedidkie$(conc,dk-gk|saemiedigkie) dam jååhkesjamme.
  
-Golme luhkie gåalmode$(num,vow|gåalmede) tjaalege
+(Golme luhkie gåalmode$(num,vow|gåalmede))$(cmp,3-1|Golmeluhkiegåalmede) tjaalege
 Kultuvren våarome
                Staati diedth$(vowc,i-ï|dïedth) kultuvren gaavhtan aaj  vihteles kultuvre-våaroemem$(hyph-0;vowc,oe-o|kultuvrevåaromem) dijpieh guktie saemieh jieleme-jih$(mix,mix|jieleme- jïh) vierhtie-viehkieh$(hyph-0|vierhtieviehkieh) åadtjoeh mij daerpies gosse kultuvrem øvtiedidh$(vowc,ø-ö|övtiedidh) jih$(vowc,i-ï|jïh) (vihties laakan)$(cmp,2-1|vihtieslaakan) gorredidh.
                                      
