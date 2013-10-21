@@ -34,14 +34,14 @@ Svïenske gærhkoe ålkoerijhkesne
 Lohkh vielie Svïenske gærhkoen saemien barkoen bïjre daesnie.
 
 
-Gyrhkesjimmie gaajhkesidie gaahpan
+Gyrhkesjimmie gaajhkesidie gaahpan$(fin,an-ode|gaahpode)
 
-Svïenske gærhkoen åålmegisnie fïerhten aejlegen gyrhkesjimmiem heevehte, jïh gellien aejkien jeatjah biejjieh£(infl,plnom-plgen|biejjiej) aaj. Akte¥o gyrhkesjimmie gaajhkesidie gaahpan.
+Svïenske gærhkoen åålmegisnie£(case,ine-nom|åålmege) fïerhten aejlegen gyrhkesjimmiem heevehte, jïh gellien aejkien jeatjah biejjieh£(infl,plnom-plgen|biejjiej) aaj. Akte¥(redun,Akte-0| ) gyrhkesjimmie gaajhkesidie gaahpan$(fin,an-ode|gaahpode)
 
-Aalkoste dah kristegassjh gyrhkesjæmman tjåanghkenin. Eah aalkoste man gallesh lin. Muvhth dajvine dejtie dej jaahkoste dåålvedin. Daarpesjin gaavnedidh jïh dejtie soptsesidie Jesusen bïjre goltelidh, govledh guktie Jesusen jielemem jïh jaememem jïh tjuedtjielimmiem buerkiestin. Dan gyrhkesjimmien hammoem sijjen båeries judaj$(vowc,aj-ij|judij) jaahkoste eerpin. Boelhke tekstelohkeminie synagogeste damtijin.
+Aalkoste dah kristegassjh gyrhkesjæmman tjåanghkenin. Eah aalkoste man gallesh lin. (Muvhth dajvine)£(case,nom-ine|muvhtene dajvesne) dejtie dej (jaahkoste)£(case,ela-pp|jaahkoen gaavhtan) dåålvedin. Daarpesjin gaavnedidh jïh dejtie soptsesidie Jesusen bïjre goltelidh, govledh guktie Jesusen jielemem jïh jaememem jïh tjuedtjielimmiem buerkiestin. Dan gyrhkesjimmien hammoem sijjen båeries judaj$(vowc,aj-ij|judij) jaahkoste eerpin. Boelhke tekstelohkeminie synagogeste damtijin.
 
 Maalestahke vihkeles
-Joe aareh kristeles histovrijisnie dïhte maalestahke ektievoetesne vihkeles boelhke sjïdti. Dïhte lij gieriesvoeten maalestahke gosse beapmojste joekedin. Destie dïhte maalestahke vuekine evtiedi gosse learohki minngemes maalestahkem Jesusen£(infl,sggen-sgess|jesusinie) ektine ieriedin. Voejhkelin goerkesidh Jesuse jaameme¥(lea jaameme) jïh tjuedtjielamme. Dam maalestahkem, aejlies maalestahke, gellien aejkien gaajhki kristegassji gærhkojne annje heevehtieh.
+Joe (aareh kristeles)$(cmp,2-1|aarehkristeles) histovrijisnie dïhte maalestahke ektievoetesne vihkeles boelhke sjïdti. Dïhte lij gieriesvoeten maalestahke gosse beapmojste joekedin. Destie dïhte maalestahke vuekine evtiedi gosse learohki minngemes maalestahkem Jesusen£(infl,sggen-sgess|jesusinie) ektine ieriedin. Voejhkelin goerkesidh€(verb|guarkedh) Jesuse jaameme¥(lea jaameme) jïh tjuedtjielamme. Dam maalestahkem, aejlies maalestahke, gellien aejkien (gaajhki kristegassji)£(case,gen-nom|gaajhkh kristegassjh) gærhkojne annje heevehtieh.
 
 Kristeles gyrhkesjimmie
 Aktem kristeles gyrhkesjimmiem maahta gellie vuekiej mietie juhtiehtidh, badth iktegisth Jupmelem laavlominie$(vowc,o-oe|laavloeminie) heevehte, bijpelistie$(vowc,e-ie|bijpielistie) tekstelohkeme jïh rohkelimmie.
@@ -49,10 +49,10 @@ Aktem kristeles gyrhkesjimmiem maahta gellie vuekiej mietie juhtiehtidh, badth i
 Gyrhkesjimmie (gaajhkh åålmegisnie)£(inf,nompl-inesg,agr|gaajhkene åålmegisnie)
 Svïenske gærhkoen åålmegisnie sån fïerhten aejlegen gyrhkesjimmiem heevehte. Badth gellien aejkien jeatjah biejjieh£(infl,nompl-nomgen|biejjiej) våhkosne aaj.
 
-Plaerine våhkoen gyrhkesjimmide gaavnh jïh mij gyrhkesjimmide (muvhth gærhkojne)£(infl,nompl-inesg,agr|muvhtene gærhkojne) heevehtieh dov årromesijjesne.
+(Plaerine våhkoen gyrhkesjimmide gaavnh jïh¥(redun,jïh-0| ) mij gyrhkesjimmide (muvhth gærhkojne)£(infl,nompl-inesg,agr|muvhtene gærhkojne)€(w,indef-interr|mennie gærhkojne) heevehtieh¥(redun,hevehtieh-0| ) dov årromesijjesne.)¥(wo|Plaerine våhkoen gyrhkesjimmide,mij gyrhkesjimmide, mennie gærhkojne dov årromesijjesne gaavnh)
 Gellien aejkien (byjreske-plaerine)$(hyph-0|byjreskeplaerine) bievnieh, badth gellie åålmegh aaj webb-bieline§(x,x|web-bieline) gaavnh.
 
-Gaajhkesidie gaahpan
+Gaajhkesidie gaahpan(fin,an-ode|gaahpode)
 Gaajhkesh dovnesh åajva$(fin,a-ah|åajvah) guessine gærhkose båetedh: båeries jïh noerh, dah gïeh jaehkieh jïh dah gïeh eah jaehkieh. Gyrhkesjimmesne viehkiem åadtjoejibie mijjen jielemem goerkesidh€(verb|guarkedh) jïh Jupmelem£(infl,sgacc-sgess|Jupmielinie) gaavnedidh. Gyrhkesjimmie aaj akte væhta jïh vïhnestimmie gærhkoen jaahkoen bïjre jïh lïhkesvoete sïebredahkesne$(vowc,ï-i, vowlat,e-ie|siebriedahkesne).
 
 Dïsse gie ovnohkens maahta ammes domtedh€(verb|damtedh). Gïele maahta klåahkan årrodh jïh jiehtieh jïh darjoeh aath mah eah leah gåvva guarkedh. Aejlegen åejviegyrhkesjimmien öörnegem Psalmegærjan$(coninit,Ps-S|Saalmegærjan) minngiebieline gaavnh. Iktegisth aaj maahtah gihtjedh. Buerie båeteme!
