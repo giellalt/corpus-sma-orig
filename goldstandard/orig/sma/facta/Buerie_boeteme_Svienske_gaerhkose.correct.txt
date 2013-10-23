@@ -135,13 +135,13 @@ Ewa Ljungdal lea 20 jaepine$(infl,esssg-nompl|jaepieh) saemien arkeologijine bar
 
 - Gïeltemes$(infl,mes-ommes|Gieltegommes) mov mïelesne man jijnjh$(vowc,i-ï|jïjnjh) tjåenieh jïh sijjieh leah, ij naan sjïere, jïh luste dah gujht aaj dan båeries.
 
-Biejjesne¥(Aktene biejjesne) dovne itjmie jïh luste. Bispe Tuulikki Koivunen Bylund soptsesti sov bïjre, tïjjen bïjre goh bispene$(vowc,i-ï|bïspine) barkeme jïh gukie$(typos|guktie) ij goh (eensi laakan)¥(adv,x|eensilaakan) haarjanamme bispekroessem jïh bispeklaahkam guedtedh.
+Biejjesne¥(Aktene biejjesne) dovne itjmie jïh luste. Bispe Tuulikki Koivunen Bylund soptsesti sov bïjre, tïjjen bïjre goh bispene$(vowc,i-ï|bïspine) barkeme jïh gukie$(typos|guktie) ij¥(ij leah) goh¥(redun,goh-0| ) (eensi laakan)¥(adv,x|eensilaakan) haarjanamme bispekroessem jïh bispeklaahkam guedtedh.
 
 - Jirreden hov edtjede vuejnedh man væjkele manne sjïdteme klaahkine vaedtsedh, bispe$(vowc,i-ï) Tuulikki jeahta jïh gaajhkesh föörhkestieh.
 
 Fiolijne
 Gærhkoe saemien klaeriejgujmie
-Alexandra Björklund jïh Tove Eriksson faepieldigan gosse iehkedisnie$(vowc,e-ie|iehkiedisnie) laavloejigan jïh gitarrem$(vowc,a-aa,conc,rr-a|gitaarem) jïh fijolem$(xxx|fiolijnem) spealadigan. Dah guaktah gujht båeries poplaavlomh goh Beatles Yesterdah$(typos|Yesterday) jïjtse vuekien mietie dorjeme jïh novh gujht gaertieldihkie$(conc,rt-rht|gaerhtieldihkie) dah laavlomh.
+Alexandra Björklund jïh Tove Eriksson faepieldigan gosse (iehkedisnie$(vowc,e-ie|iehkiedisnie))£(case,ine-gen|iehkeden) laavloejigan jïh gitarrem$(vowc,a-aa,conc,rr-a|gitaarem) jïh fijolem$(xxx|fiolijnem) spealadigan. Dah guaktah gujht båeries poplaavlomh goh¥(redun,goh-0| ) Beatles Yesterdah$(typos|Yesterday) jïjtse vuekien mietie dorjeme (jïh (novh$(fin,vh-v|nov))¥(nov amma) gujht¥(redun,gujht-0| ) (gaertieldihkie$(conc,rt-rht|gaerhtieldihkie))¢(w|tjoejeles) dah laavlomh.)¥(wo|jïh nov amma dah laavlomh lin tjoejeles)
 
 Aejlegen lij aaj heevehtimmie. Dellie lij voestemes gyrhkesjimmie Hotagen gærhkosne. Gærhkoen tjaebpies (rïeseldahkesne€(rïeseldihkie) saemien klaeriejgujmie)¥(xxx|saemien klaeriejgujmie rïeseldihkie). Vaentjeleteekstem$(vowc,ee-e|Vaentjeletekstem) åarjelsaemien gïelesne lohki jïh gaajhkh$(infl,nompl-accpl|gaajhkide) saalmh$(infl,nompl-accpl|saalmide)  saemien gïelesne laavloejin.
 
@@ -150,7 +150,7 @@ Virdi Kruehkien Ååsa, religovnehistovrijedaejrije$(vowc,o-io;|religiovnehistov
 
 Nemhtie gærhkoe datnem maahta dåarjodh
 
-Svïenske gærhkoen sosijale$(vowc,a-aa|sosijaale) barkoem gohtje dijakonije$(vowc,ija-ia|diakonije). Desnie meatan årrodh, earoem vuesiehtidh jïh dåajmijeslaakan sinsitnide årrodh gosse almetjh gaavnede mah mådtanlaaketje jielemesietine.
+(Svïenske gærhkoen sosijale$(vowc,a-aa|sosijaale) barkoem gohtje (dijakonije$(vowc,ija-ia|diakonije))£(case,nom-ess|diakonijine))¥(wo|Svïenske gærhkoen sosijaale barkoem dijakonijine gohtje). Desnie meatan årrodh, earoem vuesiehtidh jïh dåajmijeslaakan sinsitnide£(case,plack-sgcom|sinsitnine) årrodh gosse almetjh£(case,plnom-plcom|almetjigujmie) gaavnede£(infl,sg3-Inf|gaavnedidh) mah mådtanlaaketje$(cmp,an-ege|mådtegelaaketje) jielemesietine$(conc,s-ts;conc,t-hk|jielemetsiehkine).
 
 Dennie sosijale$(vowc,ija-ia;vowlat,a-aa|sosiaale) barkosne Svïenske gærhkoe gellie siebriedahken institusjovnigujmie ektesne barka, jeatjah gærhkoej- jïh jaahkoesïebredahkigujmie$(vowc,ïe-ie;vowlat,e-ie|jaahkoesiebriedahkigujmie) ektesne jallh lååtjedihks åårganisatjovni$(init,åå-o;conc,tj-sj|organisasjovni) ektesne. Gellie byjjes barkoesijjieh goh universiteth$(vowc,e-ee|universiteeth), åabpemedïenesjh, vaarjelimmiefaamoe, kriminalhokseme$(vowlat,a-aa;fin,l-le|kriminaalehokseme) jïh polijse hearram utnieh.
 Dijakonh$(vowc,ija-ia|Diakovnh) jïh hearrah sjeavodhvoetedïedten nuelesne berkieh. Dejtie båarasåbpojde jïh skeamtjohkidie$(noun,svow|skeamtjoehkidie) vååksjedien, vaejviedåehkieh öörnieh jïh aktegs almetjigujmie jielemen aavoen jïh vaejvien bïjre soptsestieh.
