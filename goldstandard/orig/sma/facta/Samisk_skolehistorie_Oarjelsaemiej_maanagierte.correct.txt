@@ -346,7 +346,7 @@ gåetiegiele$(vowc,i-ï|gåetiegïele),  lissine  åarjelsaemien   (jih)$(vowc,i
 
 Hanne-Lenan fuelhkie  njielje  (gåetiegielh)$(vowc,i-ï|gåetiegïelh)  utnieh.
 (Jijtje)$(vowc,i-ï|Jïjtje) lea  åarjelsaemie  (jih)$(vowc,i-ï|jïh)  gåetehke
-noerhtesaemie.  Manne  maanajgujmie  åarjelsaemien  gielem$(vowc,i-ï|gïelem)
+noerhtesaemiez Manne  maanajgujmie  åarjelsaemien  gielem$(vowc,i-ï|gïelem)
 soptestem$(verb,con|soptsestem) jih$(vowc,i-ï|jïh) gåetehke  noerhtesaemien.
 Manne    dejnie    daaroestem$(vowlat,oe-o|daarostem)     jih$(vowc,i-ï|jïh)
 dihte$(vowc,i-ï|dïhte)  svienskegielem$(vowc,i-ï|svïenskegïelem)   munnjien.
@@ -358,7 +358,7 @@ Dan  gaavhtan  tjoeverimen  nøørjen$(vowc,øø-öö|nöörjen)  jih$(vowc,i-ï
 sveerjen   gielem$(vowc,i-ï|gïelem)   provhkedh£(verb|soptsestidh).   Daelie
 maehtien   gåabpatjahkide   saemien   gielide¢(vowc,i-ï|gïelide)    guarkedh
 jih$(vowc,i-ï|jïh) dejtie aaj provhkien$(vowc,o-u|pruvhkien)  gosse  (maanaj
-ektesne)¥(wo|maanajgujmie   ekstesne).   Maanah   leah   gaektsie,    govhte
+ektesne)¥(wo|maanajgujmie   ekstesne).   Maanah   leah   (gaektsie,    govhte
 (jih)$(vowc,i-ï|jïh)  golme  jaepien   båeries)£(case,sgnom-sggen|gaektsien,
 govhten  jïh  golmen  jaepien  båeries).  (Dah  (gøøkte)$(vowc,øø-öö|göökte)
 båarasommes  leah)£(infl,3plprs-3dualprs|Dah   göökte   båarasommes   lægan)
