@@ -121,7 +121,7 @@ ohtje$(hyph-0|onnohtje)      derhvie-       jih$(vowc,i-ï|jïh)       låavth-
 gåatetjh$(vowlat,e-a|låavthgåatetjh)  kluhtierdimh.   Dam   darjoejimh   goh
 skuvle-biejjieh$(hyph-0|skuvlebiejjieh) galhkeme,  jih$(vowc,i-ï|jïh)  Ealla
 lij mijjen$(infl,sggen-sgcom|mijjine) ektine. Naan  aejkien  gærjah  saemiej
-byjreskijstie  lohkimh,  mohte  dan  voen(typos|voenen)   lij   goh   jeatja
+byjreskijstie  lohkimh,  mohte  dan  voen$(typos|voenen)   lij   goh   jeatja
 siejhme$(vowc,i-ï|sïejhme) daaroen skuvle.
 
 Skuvle-jaepie$(hyph-0|Skuvlejaepie) lij govhte askh,  jih$(vowc,i-ï|jïh)  ij
@@ -226,7 +226,8 @@ Manne måjhtam jåvli åvtelen mijjieh  voenese  sedtesovvim  edtjimh  "Samenes
 venn"  doekedh.  Naaken  gujht  øøstin$(vowc,øø-öö|ööstin),  mohte  jeatjebh
 idtjin  mijjen  doekemem  seatedh  gænnah.  Mijjieh  limh  voenen  maanijste
 billeminie$(vowc,i-ï|bïlleminie)  jih$(vowc,i-ï|jïh)   daate   lij   nimhtie
-guktie lim  vaajtelamme  ij  dihte$(vowc,i-ï|dïhte)  deahpadamme.   [Mijjieh
+guktie lim  vaajtelamme  ij  dihte$(vowc,i-ï|dïhte)  deahpadamme.  
+[Mijjieh
 libie  rektovrem  gihtjeme   man   gaavhtan   maanah   voenese   sedtesovvin
 Saemiemisjovnen plaeriem  doekedh.  Dihte$(vowc,i-ï|Dïhte)  jeahta  ij  leah
 skuvle  dam  faaleme,  mohte  Saemien  misjovne  skuvlesne  andakt   maanide
@@ -304,7 +305,7 @@ jaepeste 1975. Voestegh luhkie gaektsie jaepieh gruvan industriesne$(conc,i-
 ij|industrijesne)  barkim  aerebi$(init,ae-aa|aarebi)  goh  faamoebransjesne
 eelkim.
 
-Åssjalommesh åarjelh-saemien(conc,lh-l;hyph-0|åarjelsaemien) gielen$(vowc,i-
+Åssjalommesh åarjelh-saemien$(conc,lh-l;hyph-0|åarjelsaemien) gielen$(vowc,i-
 ï|gïelen) bijre$(vowc,i-ï|bïjre)
 
 Vaenie   lidteratuvre$(conc,dt-tt|litteratuvre)    Åarjelh-saemien$(comp,lh-

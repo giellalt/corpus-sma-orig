@@ -28,17 +28,21 @@ Nøørjesne$(vowc,øø-öö|Nöörjesne) saemien rijhkesiebrie$(vowc,i-
 
 Aejkie€(xxx|gåessie): Golken 16.-18. Biejje$(fin,e-ie|Mij Biejjide)
 
- Sijjeh$(fin,e-ie|Sijjieh): Kvaløya bydelshus, Romsesne Tjåanghkoe
+
+Sijjeh$(fin,e-ie|Sijjieh): Kvaløya bydelshus, Romsesne
+Tjåanghkoe
 tjïervehts
 
 Programme aane$(typos|annje) naemhtie våjnoe$(vowc,å-åå|våajnoe):
 
 Bearjadahken: Gaajhkesh dovnesh ¥(gïeh)Romsen$(infl,sggen-sgacc|Romsem)
 jaksi$(infl,xxx|jaksin) jih$(vowc,i-ï|jïh) aavoedim$(infl,xxx|aavoedin)
-mubpie$(infl,sgnom-sggen|mubpien) iehkiedasse. 
+mubpie$(infl,sgnom-sggen|mubpien) iehkiedasse.
+
 
 Laavadahken: Jijtje$(vowc,i-ï|Jïjtje) aelkiedimmietjåanghkoe jih$(vowc,i-
-ï|jïh) murreds konserte iehkeden 
+ï|jïh) murreds konserte iehkeden
+
 
 Aejlegen: Gåatan vidh$(typos|vihth) vuelkedh
 
@@ -49,18 +53,20 @@ mingemes$(conc,ng-nng|minngemes) beetnegeviertiem$(cmp,ege-
 eh|beetnehvierhtiem) maam vuertieminie åadtjoejibie.
 
 Sijhth$(vowc,i-ï|Sïjhth) dåeriedidh? Soptsesh¢(conc,sh-sth|Soptsesth)
-susanneamalie@gmail.com`ese ååvtelen$(vowc,åå-å|åvtelen) Golken mubpien
-biejjen$(fin,en-ien|biejjien), juktie€(xxx|guktie) daejrebe ¥(xxx|mejtie)
-nuekies beapmoh$(conc,oh-oeh|beapmoeh) gaajhkide€(xxx|gaajhkesidie)!
+(susanneamalie@gmail.com`ese)$(typos|susanneamalie@gmail.com:ese) (ååvtelen$(vowc,åå-å|åvtelen))€(w|aarebi) Golken mubpien
+biejjen$(fin,en-ien|biejjien), juktie€(w|guktie) daejrebe ¥(xxx|mejtie)
+nuekies beapmoh$(conc,oh-oeh|beapmoeh) gaajhkide€(w|gaajhkesidie)!
 
 Vaajtele
 
 Baarkoedåehkieh$(vowc,aa-a|Barkoedåehkieh) saemien noerisiebriem
 aelkiedidh, åajviem$(vowc,åa-åe|åejviem) Susanne Amalie Andersen baaktoe.
- telefovne:  (+47) 92835649 e-påaste: susanneamalie@gmail.com∞(url)
+
+telefovne:  (+47) 92835649
+e-påaste: (susanneamalie@gmail.com)∞(url)
 
 Ps!  Veartesjh aaj $(Infl,sgnom-
-sgacc|www.nuora.blogg.no:m)www.nuora.blogg.no∞(url) jallh Facebook-
+sgacc|www.nuora.blogg.no:m)(www.nuora.blogg.no)∞(url) jallh Facebook-
 dåehkiem$(hyph-0|facebookdåehkiem) ?stiftelse av samisk
 ungdomsorganisasjon? juktie orre bievnesh$(vowc,i-ï|bïevnesh) (tjåanghkoem
 (bijre)$(vowc,i-ï|bïjre))£(infl,sgacc-sggen|tjåanghkoen bïjre) åådtje.
