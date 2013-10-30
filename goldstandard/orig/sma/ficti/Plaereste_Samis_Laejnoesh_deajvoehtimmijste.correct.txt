@@ -1,15 +1,15 @@
 
-Læjnoesh deajvoehtimmijste!
+Læjnoesh€(w|læjnoeh) deajvoehtimmijste!
 
 Daennie€(infl,ine-com|daejnie) nommerine$(vowc,o-u|nummerinie) maaje
-vijries dijpijibie. Darhkan jïjnjh aamhtesh - noerhtesaemien gïelesne jis.
-Ånnetji vielie goh gåajhkohtsem€(infl,acc-ela| gåajhkoehtistie)
+vijries dijpijibie. Darhkan€(w|Jilhts) jïjnjh aamhtesh - noerhtesaemien gïelesne jis.
+Ånnetji€(w|onne) vielie (goh)¥(redun,goh-0| ) gåajhkohtsem€(infl,acc-ela| gåajhkoehtistie)
 åarjelsaemien aaj. Daesnie leah dovne aamhtesh mah
-buektehtieh$(verb,svow|buektiehtieh) jïermestalledh, daesnie deahpadimmieh,
+buektehtieh$(vowc,e-ie|buektiehtieh) jïermestalledh, daesnie deahpadimmieh,
 ööhpehtimmieh, jih$(vowc,i-ï|jïh) aaj aelhkebe, vuj lustes lohkemh - nov
 raaktan mejjeles, guktie eensi kåserijh edtjieh årrodh. Daennie
 nommerisnie$(vowc,o-u|nummerisnie) åenehks boelhkh vihkeles
-histovrihke$(conc,vr-r|historihke) deahpadimmiej bïjre Saepmesne. Ih
+(histovrihke$(conc,vr-r|historihke))£(case,nom-gen|historihken) deahpadimmiej bïjre Saepmesne. Ih
 daejtie sisvege-læstosne$(cmp,ege-eh;hyph-0|sisvegelæstosne) gavnh$(vowc,a-
 aa|gaavnh). Jalhtsh$(fin,sh-s|Jalhts) læstoe maaje jïjnjem dåajvohte,
 jih$(vowc,i-ï|jïh) gegkiestibie daam dïeves sisvegem jïjnjebi mïelide
@@ -21,24 +21,24 @@ medtie
 mojhtelimh muvhtenlaaketje «vuestieaavoedimmine» nöörjen aavoedimmiem
 dæjman, ihke 100 jaepieh vaaseme mænngan sjïere naasjovnine$(vowc,aa-
 a|nasjovnine) sjidti$(vowc,i-ï|sjïdti). Mijjieh mih aaj sijhtimh$(vowc,i-
-ï|sïjhtimh) aavoedidh, mohte idtjimh rïekte maam gaavnh. Ibie goh maehtieh
+ï|sïjhtimh) aavoedidh, mohte idtjimh rïekte¥(w|raaktan) maam gaavnh. Ibie goh¥(redun,goh-0| ) maehtieh
 saemieh jïjtjereeremem aavoedidh. Jalhts ij leah ov man jïjnjem aavoedidh,
-dellie læjhkan hov limh sijhteme$(vowc,i-ï|sïjhteme) histovrihke$(conc,vr-
-r|historihke) (deapadimmi$(vowc,p-hp;fin,i-ie|deahpadimmiej) gujmie)$(
+dellie læjhkan hov limh sijhteme$(vowc,i-ï|sïjhteme) (histovrihke$(conc,vr-
+r|historihke))£(case,nom-gen|historihken) (deapadimmi$(vowc,p-hp;fin,i-ie|deahpadimmiej) gujmie)$(
 (deapadimmi$(vowc,p-hp;fin,i-ie|deahpadimmiej)|deahpadimmiejgujmie)
 jåerhkedh. Gåellie guktie, dellie daerpies naan Sámis 4., 5. jih$(vowc,i-
 ï|jïh) dovne 6. nommerem$(vowc,o-u|nummerem), jis gaajhkh 100:ide tjeekedh.
-Deajvoehtjæjjah gaath eah annje daejrieh mejtie daejtie nommeride$(vowc,o-
-u|nummeridie) sjidtieh.
-Jis dellie Sámis jåerhkemem sjædta -saemien tjaaleldhkultuvren
+Deajvoehtjæjjah (gaath¥(w|gaatelessjieh))¥gaatelessjieh ihke) eah annje daejrieh mejtie (daejtie nommeride$(vowc,o-
+u|nummeridie))£(case,ack-nom|daah nummerh) sjidtieh.
+Jis dellie Sámis jåerhkemem£(case,ack-ess|jåerhkieminie) sjædta -saemien tjaaleldhkultuvren
 aejkietjaalegem, dellie tjoeveribie digkiedidh man jïjnjh saemiengïelh
 edtjiejibie$(vowlat,ie-i|edtjijibie) tjaalegisnie provhkedh. Åarjelsaemien
 tjaelijh leah meatan orreme SFS:en$(acro,suf|SFS:n) sjïere
 gïeleevtiedimmien soejkesjesne$(fin,esne-isnie|soejkesjisnie), ij naan
-luvliesaemien tjaelijh daan raajan. Sámis 2. nommerisnie$(vowc,o-
+luvliesaemien (tjaelijh£(infl,pl-sg|tjaelije))¥(tjaelije meatan) daan raajan. Sámis 2. nommerisnie$(vowc,o-
 u|nummerisnie) hov dåajvoehtimh 5000 kr. maeksedh bööremes luvliesaemien
 jih$(vowc,i-ï|jïh) åarjelsaemien teeksti$(vowc,ee-e|teksti) åvteste. Ibie
-nov annje dejtie beetnegidie provhkeme. Daan nommeren$(vowc,o-u|nummeren)
+nov¥(redun,nov-0| ) annje dejtie beetnegidie provhkeme. Daan¥(w|dan) nommeren$(vowc,o-u|nummeren)
 åarjelsaemien teekstem$(vowc,ee-e|tekstem) libie tjaelijistie$(vowlat,i-
 ie|tjaeliejistie) donkeme$(conc,k-gk|dongkeme), jih$(vowc,i-ï|jïh) satne
 åådtje mijjien$(fin,ien-en|mijjen) sïejhme maaksoem dan åvteste.
