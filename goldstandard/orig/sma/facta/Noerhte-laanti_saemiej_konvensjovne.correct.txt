@@ -135,7 +135,7 @@ Saemiedigkieh maehtieh (siejme$(vowc,i-ï|sïejme))¢(w|sïejhme) åårganisasjo
 (Gøøkte$(vowc,øø-öö|Göökte) luhkie voestes)$(cmp,3-1|Göökteluhkievoestes) tjaalege
 Jeatja saemien gaskebarkoeh¢(w|laavenjosteme)
 
-(Staath edtjieh krøøhkestidh$(vowc,øø-öö|krööhkestidh) (jih$(vowc,i-ï|jïh))¥0 gosse daerpies soptsestalledh saemiej-staari$(hyph-0|saemiejstaari), siidaj€(w|sïjti), båatsoeburrieh-moenehtsigujmie$(cmp,h-0;hyph-0|båatsoeburriemoenehtsigujmie)  jih$(vowc,i-ï|jïh) aaj "skoltesamenes byastæmmine" jih$(vowc,i-ï|jïh) aaj væjkeles£(infl,attr-pred|væjkele) saemiej lihtsegigyjmie$(vowc,i-ï;conc,y-u|lïhtsegigujmie) byjresisnie.)¥(wo|Staath edtjieh saemienstaaride, sïjtide, båatsoeburriemoenehtsidie jïh "Skoltesamenes byastæmmem" krööhkestidh jïh aaj væjkele saemiej lïhtsegigujmie årrodh, gosse daerpies dejgujmie soptsestalledh)
+(Staath edtjieh krøøhkestidh$(vowc,øø-öö|krööhkestidh) (jih$(vowc,i-ï|jïh))¥0 gosse daerpies soptsestalledh saemiej-staari$(hyph-0|saemiejstaari), siidaj€(w|sïjti), (båatsoeburrieh-moenehtsigujmie)$(cmp,h-0;hyph-0|båatsoeburriemoenehtsigujmie)  jih$(vowc,i-ï|jïh) aaj "skoltesamenes byastæmmine" jih$(vowc,i-ï|jïh) aaj væjkeles£(infl,attr-pred|væjkele) saemiej lihtsegigyjmie$(vowc,i-ï;conc,y-u|lïhtsegigujmie) byjresisnie)¥(wo|Staath edtjieh saemienstaaride, sïjtide, båatsoeburriemoenehtsidie jïh "Skoltesamenes byastæmmem" krööhkestidh jïh aaj væjkele saemiej lïhtsegigujmie årrodh, gosse daerpies dejgujmie soptsestalledh).
 
 (Gøøkte$(vowc,øø-öö|Göökte) luhkie mubpie)$(cmp,3-1|SGöökteluhkiemubpie) tjaalege
 Saemij$(fin,ij-iej|Saemiej) regiovne$(conc,i-ij|regijovne)
