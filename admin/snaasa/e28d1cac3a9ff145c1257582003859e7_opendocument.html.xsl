@@ -10,7 +10,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.snasa.kommune.no/nordtrondelag/snasa/snasak.nsf/print/E28D1CAC3A9FF145C1257582003859E7?OpenDocument'"/>
-<xsl:variable name="text_encoding" select="''"/>
+<xsl:variable name="text_encoding" select="'iso-8859-1'"/>
 <xsl:variable name="title" select="'Snåase - aktivyøki eatnaminie'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
