@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///Users/unhammer/Library/Python/2.7/lib/python/site-packages/CorpusTools-0.8.1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -85,10 +86,10 @@
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_rus" select="''"/>
-<xsl:variable name="mlang_sma" select="''"/>
+<xsl:variable name="mlang_sma" select="'1'"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
-<xsl:variable name="mlang_swe" select="''"/>
+<xsl:variable name="mlang_swe" select="'1'"/>
 <xsl:variable name="mlang_oth" select="''"/>
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
