@@ -10,7 +10,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.lansstyrelsen.se/dalarna/SMA/miljo-och-klimat/klimate-jih-energij/Pages/default.aspx'"/>
+<xsl:variable name="filename" select="'http://www.lansstyrelsen.se/vasterbotten/SMA/miljo-och-klimat/klimat-och-energi/Pages/default.aspx'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -95,8 +95,8 @@
   <!-- <language xml:lang="smn"/> -->
   <!-- <language xml:lang="sms"/> -->
   <!-- <language xml:lang="swe"/> -->
-	<language xml:lang="sma"/>
 	<language xml:lang="swe"/>
+	<language xml:lang="sma"/>
 </xsl:variable>
 
 <!-- If the document has parallel texts, uncomment the right languages
@@ -109,7 +109,26 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-  <!-- this file is a slightly misspelt version of klimat-och-energi.html.xsl, which has parallel links -->
+  <!-- <parallel_text xml:lang="dan" location=""/> -->
+  <!-- <parallel_text xml:lang="eng" location=""/> -->
+  <!-- <parallel_text xml:lang="fin" location=""/> -->
+  <!-- <parallel_text xml:lang="fit" location=""/> -->
+  <!-- <parallel_text xml:lang="fkv" location=""/> -->
+  <!-- <parallel_text xml:lang="ger" location=""/> -->
+  <!-- <parallel_text xml:lang="isl" location=""/> -->
+  <!-- <parallel_text xml:lang="kal" location=""/> -->
+  <!-- <parallel_text xml:lang="kpv" location=""/> -->
+  <!-- <parallel_text xml:lang="nno" location=""/> -->
+  <!-- <parallel_text xml:lang="nob" location=""/> -->
+  <!-- <parallel_text xml:lang="rus" location=""/> -->
+  <!-- <parallel_text xml:lang="sma" location=""/> -->
+  <!-- <parallel_text xml:lang="sme" location=""/> -->
+  <!-- <parallel_text xml:lang="smj" location=""/> -->
+  <!-- <parallel_text xml:lang="smn" location=""/> -->
+  <!-- <parallel_text xml:lang="sms" location=""/> -->
+  <!-- <parallel_text xml:lang="swe" location=""/> -->
+	<parallel_text xml:lang="eng" location="miljo-och-klimat-klimat-och-energi.html"/>
+	<parallel_text xml:lang="swe" location="miljo-och-klimat-klimat-och-energi.html"/>
 </xsl:variable>
 
 
