@@ -11,7 +11,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.svenskakyrkan.se/default.aspx?id=868599&amp;ptid=48063'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Daerpies Dierie - Sydsamiskt kyrkoblad'"/>
+<xsl:variable name="title" select="'Daerpies Dierie - Sydsamiskt kyrkoblad nr. 1, 2012'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
