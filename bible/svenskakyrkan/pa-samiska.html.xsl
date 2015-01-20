@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -94,6 +95,8 @@
   <!-- <language xml:lang="smn"/> -->
   <!-- <language xml:lang="sms"/> -->
   <!-- <language xml:lang="swe"/> -->
+	<language xml:lang="swe"/>
+	<language xml:lang="sma"/>
 </xsl:variable>
 
 <!-- If the document has parallel texts, uncomment the right languages
