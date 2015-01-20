@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///Users/unhammer/Library/Python/2.7/lib/python/site-packages/CorpusTools-0.8.1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -93,7 +94,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	</xsl:variable>
+	<parallel_text xml:lang="swe" location="649160.html"/>
+</xsl:variable>
 
 <!-- For page oriented documents, mark which pages should be ignored -->
 <xsl:variable name="skip_pages" select="''"/>
