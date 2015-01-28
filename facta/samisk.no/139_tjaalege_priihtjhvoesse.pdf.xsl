@@ -59,7 +59,7 @@
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
-    <xsl:variable name="note" select="''"/>
+    <xsl:variable name="note" select="'http://www.aajege.no/attachments/139_Tjaalege_Pri%CC%88htjhvoesse.pdf'"/>
 
     <!-- The main language of the document -->
     <xsl:variable name="mainlang" select="'sma'"/>

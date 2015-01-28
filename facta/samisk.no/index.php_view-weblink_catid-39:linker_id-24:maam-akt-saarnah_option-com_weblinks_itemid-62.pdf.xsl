@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a2-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -58,7 +59,7 @@
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
-    <xsl:variable name="note" select="''"/>
+    <xsl:variable name="note" select="'http://www.aajege.no/index.php?view=weblink&amp;amp;catid=39%3Alinker&amp;amp;id=24%3Amaam-akt-saarnah&amp;amp;option=com_weblinks&amp;amp;Itemid=62'"/>
 
     <!-- The main language of the document -->
     <xsl:variable name="mainlang" select="'sma'"/>
