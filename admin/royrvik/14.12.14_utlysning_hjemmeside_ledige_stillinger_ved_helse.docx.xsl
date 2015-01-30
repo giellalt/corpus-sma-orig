@@ -10,7 +10,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.royrvik.kommune.no/nordtrondelag/royrvik/royrvikk.nsf/Attachments/1D1CF9F25F105727C1257CD90033BBB6/$FILE/Planprogram+samfunnsdel+(samisk)+endelig.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.royrvik.kommune.no/nordtrondelag/royrvik/royrvikk.nsf/Attachments/EEFA80B38D794470C1257D90004EE86A/$FILE/14.12.14+utlysning+hjemmeside+Ledige+stillinger+ved+Helse.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -125,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="planprogram_samfunnsdel_2014-.pdf"/></xsl:variable>
+    <parallel_text xml:lang="nob" location="14.12.14_utlysning_hjemmeside_ledige_stillinger_ved_helse.docx"/></xsl:variable>
 
 
     <!-- For page oriented documents, mark which pages should be ignored -->
