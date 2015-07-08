@@ -125,7 +125,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="nob" location="09.07.14_arsberetning_endelig_vedtatt_kstyret.pdf"/></xsl:variable>
+<!--     <parallel_text xml:lang="nob" location="09.07.14_arsberetning_endelig_vedtatt_kstyret.pdf"/> -->
+    </xsl:variable>
 
 
     <!-- For page oriented documents, mark which pages should be ignored -->
