@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:import href="/usr/local/share/corp/bin/common.xsl"/>
@@ -85,9 +85,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="albert-e.htm" xml:lang="eng"/>
+	<parallel_text location="albert-e.html" xml:lang="eng"/>
 	<parallel_text location="albert_n.html" xml:lang="nno"/>
-	<parallel_text location="albert-sn.htm" xml:lang="sme"/>
+	<parallel_text location="albert-sn.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->
