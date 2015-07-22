@@ -163,7 +163,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="gode-resultater-for-energiledelse-i-fors.html_id=611121" xml:lang="nob"/>
+	<parallel_text location="gode-resultater-for-energiledelse-i-fors_id_611121.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> 39e69021c0 (South Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

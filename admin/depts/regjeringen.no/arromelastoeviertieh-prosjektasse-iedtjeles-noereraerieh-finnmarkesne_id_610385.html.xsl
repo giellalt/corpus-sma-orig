@@ -163,7 +163,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="bulystmidlar-til-prosjektet-aktive-ungdomsrad-i-finnmark.html_id=610385" xml:lang="nno"/>
+	<parallel_text location="bulystmidlar-til-prosjektet-aktive-ungdomsrad-i-finnmark_id_610385.html" xml:lang="nno"/>
 </xsl:variable>
 >>>>>>> 39e69021c0 (South Saami regjeringen.no doc renamed, metadata updated in parallel files)
 

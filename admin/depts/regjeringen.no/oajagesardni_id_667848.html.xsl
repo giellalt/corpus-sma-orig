@@ -162,8 +162,8 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="prime-minister-jens-stoltenbergs-new-yea.html_id=667848" xml:lang="eng"/>
-	<parallel_text location="statsministerens-nyttarstale-2012.html_id=667848" xml:lang="nob"/>
-	<parallel_text location="oajagesardni.html_id=667848" xml:lang="sme"/>
+	<parallel_text location="statsministerens-nyttarstale-2012_id_667848.html" xml:lang="nob"/>
+	<parallel_text location="oajagesardni_id_667848.html" xml:lang="sme"/>
 	<parallel_text location="oajagesardni_id_667848.html" xml:lang="smj"/>
 </xsl:variable>
 >>>>>>> 39e69021c0 (South Saami regjeringen.no doc renamed, metadata updated in parallel files)
