@@ -14,7 +14,7 @@ tjidtjeste   tjædtjan.   (Ij£(infl,prssg1-prspl3,    agr|eah)(leah))    naan
 gyhtjelassh  fer€(foreign|fagkan)  smaave  mijjese.  Mijjieh  gujht   datnem
 dåarjelibie jïh viehkiehtibie.
 
-(Mannasinie£(case,ess-gen|man))¥(man   åvteste)   hijven    njammedh€(der,0-
+((Mannasinie)£(case,ess-gen|Man))¥(Man åvteste)   hijven    njammedh€(der,0-
 caus|njammehtidh)
 Ietnienmielhkie      dïhte      bøøremes$(vowc,øø-öö|bööremes)       beapmoe
 sliedtide$(vowc,ie-ïe|slïedtide),  juktie  mielhkien  sisvege   jïh   veahka
@@ -24,11 +24,11 @@ njammehtimmie)    dutnjien     jïh     maanese     gïetskiesvoetem$(vowc,ïe-
 ie|gietskiesvoetem)  vadta,  guktie  doh   baanth£(foreign|veadtah)   dotnen
 gaskem  nænnoesåbpoe  sjïdtieh$(vowc,ï-i|sjidtieh).   Dotkeme   vuesiehtamme
 njammeme£(der,0-caus|njammehtimmie)  maanam  vaarjele  gellie  skïemtjelassi
-vøøste$(vowc,øø-öö|vööste),     vuesiehtimmien      gaavhtan      ((bieljie-
+vøøste$(vowc,øø-öö|vööste),     vuesiehtimmien      gaavhtan      (((bieljie-
 naavlehtahke)$(hyph-0|bieljienaavlehtahke)   voejngeovlemh   jïh    (tjåejjie-
 tjåelieovlemh)$(hyph-0|tjåejjietjåelieovleme))£(infl,nom-
-gen|bieljienaavlehtahki,   voejngeovlemi    jïh    tjåejjie-
-tjåelieovlemi)¥(bieljienaavlehtahki, voejngeovlemi jïh tjåejjietjåelieovlemi vööste)
+gen|bieljienaavlehtahki,   voejngeovlemi    jïh
+tjåejjie-tjåelieovlemi))¥(bieljienaavlehtahki, voejngeovlemi jïh tjåejjietjåelieovlemi vööste)
 
 (Guhkiebasse     maahta     vååjnedh)¥(Vååjnoe)     goh     njammeme£(der,0-
 caus|njammehtimmie)           aaj           hijven           gyssehkevoeten,
