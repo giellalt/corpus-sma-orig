@@ -156,8 +156,9 @@ ie|vuejniejibie).
 
 Voehkelimmie$(conc,hk-jhk|Voejhkelimmie) mij sovhkedi jaepien 1992
 – Mijjieh juhtiejim Aarborteste Snåasese jaepien 1990 jih$(vowc,i-ï|jïh)
-eadtjoke$(adj,con|eadtjohke) eejhtegh digkiedin guktie Åarjel-saemien$(hyph-
-0|Åarjelsaemien) maanagiertem$(vowc,i-ï|maanagïertem) juhtiemasse
+eadtjoke$(adj,con|eadtjohke) eejhtegh digkiedin guktie
+Åarjel-saemien$(hyph-0|Åarjelsaemien)
+maanagiertem$(vowc,i-ï|maanagïertem) juhtiemasse
 buektiehtidh, aaj jehti$(verb,vow|jeehti). [1] Saemien
 øhpehtimmieraerie$(noun,mix|ööhpehtimmieraerie) diedtem$(vowc,i-ï|dïedtem)
 veelti jih$(vowc,i-ï|jïh) eejhtegidie tjåangkose$(noun,con|tjåanghkose)
@@ -291,7 +292,7 @@ Maanagierte$(vowc,i-ï|Maanagïerte) rihpesovvi$(vowc,i-ï|rïhpesovvi)
 gåaradamme daam maanagiertem$(vowc,i-ï|maanagïertem) øørnedh$(vowc,øø-
 öö|öörnedh), låasije¢(noun|håaloje) jeehti altese rihpestimmie-
 smaerehtsisnie$(vowlat,e-ie|rïhpestimmiesmaeriehtsisnie). Ij sån leah
-aerebi(vowc,ae-aa|aarebi) naan aejkien dan varki gåaradamme.
+aerebi$(vowc,ae-aa|aarebi) naan aejkien dan varki gåaradamme.
 Låavth-gåetesne$(hyph-0|Låavthgåetesne): Hilma Dunfjeld Mølnvik, Lilja Jåma-
 Berg jih$(vowc,i-ï|jïh) Nihko-Laara Påve Wilks
 (Guvvie: Anna Liisa Jåma, Ságat)
@@ -403,8 +404,9 @@ maehtieh dam provhkedh. Gaajhkh¥(gaajhkh dah) Hanne Lenan maanah leah
 daennie maanagiertesne¢(vowc,i-ï|maanagïertesne) vaadtseme. Dah
 gøøkte$(vowc,øø-öö|göökte) støøremes$(vowc,øø-öö|stööremes) veedtsin
 daaroen (giertesne¢(vowc,i-ï|gïertesne))£(noun|maanagïertesne),
-aerebi$(vowc,ae-aa|aarebi) goh dihte$(vowc,i-ï|dïhte) åarjel-saemien$(hyph-
-0|åarjelsaemien) (gierte¢(vowc,i-ï|gïertesne))£(noun|maanagïerte),
+aerebi$(vowc,ae-aa|aarebi) goh dihte$(vowc,i-ï|dïhte)
+åarjel-saemien$(hyph-0|åarjelsaemien)
+((gierte)¢(vowc,i-ï|gïertesne))£(noun|maanagïerte),
 rihpsovvi$(vowc,i-ï|rïhpesovvi). Desnie åadtjojigan$(vowc,o-
 oe|åadtjoejigan) golme tæjmoeh saemien våhkosne, mohte buerebe årrodh
 dennie åarjelsaemien (giertesne¢(vowc,i-

@@ -1,7 +1,7 @@
 ﻿
 
 Vedtieh vadtesem dov maanese:      
-Gielemaahtoeh$(vowc,i-ï|Gïelemaahtoeh) nuepiem  jijtje-veeljemasse$(vowc,i-ï;hyph-0|jïjtjeveeljemasse) vedtieh.
+Gielemaahtoeh$(vowc,i-ï|Gïelemaahtoeh) nuepiem  jijtje-veeljemasse$(vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjeveeljemasse) vedtieh.
 
 Dutnjien jih$(vowc,i-ï|jïh) dov fualhkan mah iedtjegem$(vowc,i-ï;fin,gem-em|ïedtjem) utnieh  gelliehgiertiejgieli$(vowc,i-ï |gelliengiertiengïeli)€(gelliengïelenvoeti) bijre$(vowc,i-ï |bïjre)
 
