@@ -128,7 +128,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location=""/>
-	<parallel_text xml:lang="nob" location="om-sametinget_organisasjonsstruktur_sametingsraadet_taler-og-artikler_56-millioner-til-samiske-tiltak-siden-mai.html"/>
+	<parallel_text xml:lang="nob" location="56-millioner-til-samiske-tiltak-siden-mai.html"/>
 	<parallel_text xml:lang="sme" location="samedikki-birra_organisasuvdnastruktuvra_samediggeraddi_sartnit-ja-artihkkalat_56-miljovnna-sami-doaibmabijuide-miessemanu-rajes.html"/></xsl:variable>
 
 
