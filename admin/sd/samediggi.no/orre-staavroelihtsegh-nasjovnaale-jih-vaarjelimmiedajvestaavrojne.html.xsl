@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location=""/>
 	<parallel_text xml:lang="nob" location="nye-styremelemmer-for-nasjonalpark-og-verneomraadestyrene.html"/>
-	<parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_luonddusladdjivuohta_nye-styremelemmer-for-nasjonalpark-og-verneomraadestyrene.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location="nye-styremelemmer-for-nasjonalpark-og-verneomraadestyrene.html"/></xsl:variable>
 
 
     <!--

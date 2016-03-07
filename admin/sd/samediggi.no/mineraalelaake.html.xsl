@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/Byjrese-areale-jih-kultuvrevarjelimmie/Saemien-gaaetievaarjelimmie/Gaskesadth-mijjine'"/>
+    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Energije-jih-mineraalh/Saemiedigkien-mineraalebihkedaejja/Mineraalelaake'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -127,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="aktijvuohta-mijajn.html"/>
-	<parallel_text xml:lang="nob" location="miljoe-areal-og-kulturvern_samisk-bygningsvern_kontakt-oss.html"/>
-	<parallel_text xml:lang="sme" location="valdde-oktavuoda-minguin.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="minerallahka.html"/>
+	<parallel_text xml:lang="nob" location="mineralloven.html"/>
+	<parallel_text xml:lang="sme" location="mineralalahka.html"/></xsl:variable>
 
 
     <!--

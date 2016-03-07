@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location="arktalasj-guovllo-garvet-vaeraltkonferanssaj-alggoalmmugij-harraj.html"/>
 	<parallel_text xml:lang="nob" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/>
-	<parallel_text xml:lang="sme" location="riikkaidgaskasas-bargu_alta-2013_arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location="arktiske-region-forbereder-seg-mot-verdenskonferansen-om-urfolk.html"/></xsl:variable>
 
 
     <!--

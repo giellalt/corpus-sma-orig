@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/Kultuvrejieleme/Stipende-jih-daaarjoe/Musihke'"/>
+    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/layout/set/print/Giele/Saemesth-munnjien/Artikler/AAahpenh-Giele-ierieguedtijigujmie%21'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -127,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location=""/>
-	<parallel_text xml:lang="nob" location="kulturliv_stipend-og-tilskudd_musikk.html"/>
-	<parallel_text xml:lang="sme" location="kultureallin_stipeanda-ja-doarjja_musihkka.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="buorastahte-giellaaavdaastiddjev_.html"/>
+	<parallel_text xml:lang="nob" location="hils-paa-spraakambassadoerene.html"/>
+	<parallel_text xml:lang="sme" location="dearvvat-giellaambassadevrraid_.html"/></xsl:variable>
 
 
     <!--

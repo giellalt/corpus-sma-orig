@@ -127,7 +127,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="giella_laga-ja-njuolgadustjallaga.html"/>
+    <parallel_text xml:lang="smj" location=""/>
 	<parallel_text xml:lang="nob" location="lover-og-forskrifter.html"/>
 	<parallel_text xml:lang="sme" location="lagat-ja-lahkaasahusat.html"/></xsl:variable>
 

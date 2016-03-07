@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location=""/>
 	<parallel_text xml:lang="nob" location="spraakteknologi.html"/>
-	<parallel_text xml:lang="sme" location="giella_spraakteknologi.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location="spraakteknologi.html"/></xsl:variable>
 
 
     <!--

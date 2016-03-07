@@ -127,9 +127,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="biras-arealla-ja-kultursuodjalus_areala_samedikke-pladnabagadus_samedikke-pladnabagadus.html"/>
-	<parallel_text xml:lang="nob" location="miljoe-areal-og-kulturvern_areal_sametinget-planveileder_sametinget-planveileder.html"/>
-	<parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_areala_samedikki-planaveahkki_samedikki-planaveahkki.html"/></xsl:variable>
+    <parallel_text xml:lang="smj" location=""/>
+	<parallel_text xml:lang="nob" location=""/>
+	<parallel_text xml:lang="sme" location=""/></xsl:variable>
 
 
     <!--
