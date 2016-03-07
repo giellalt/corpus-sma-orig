@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Eatnemegellievoete/Vaarjelimmiedajvestaavrojne/Samedikki-ovddasteaddjit-suodjalanguolostirraide'"/>
+    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/layout/set/print/Byjrese-areale-jih-kultuvrevarjelimmie/Eatnemegellievoete/Vaarjelimmiedajvestaavrojne/Saemiedigkien-tjirkijh-vaarjelimmiedajvestaavrojne'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -120,8 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="sametingets-representanter-i-verneomraadestyrene.html" xml:lang="nob"/>
-<parallel_text location="samedikki-ovddasteaddjit-suodjalanguolostirraide.html" xml:lang="sme"/>
+    <parallel_text location="samedikki-ovddasteaddjit-suodjalanguolostirraide.html" xml:lang="sme"/>
+<parallel_text location="sametingets-representanter-i-verneomraadestyrene.html" xml:lang="nob"/>
 </xsl:variable>
 
 

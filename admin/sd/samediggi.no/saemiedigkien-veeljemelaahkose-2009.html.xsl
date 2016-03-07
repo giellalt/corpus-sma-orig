@@ -127,7 +127,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="valgga_kampanjeside_jienastuslaahko_samedikke-jienastuslaahko-2009.html"/>
+    <parallel_text xml:lang="smj" location=""/>
 	<parallel_text xml:lang="nob" location="sametingets-valgmanntall-2009.html"/>
 	<parallel_text xml:lang="sme" location="samedikki-jienastuslohku-2009.html"/></xsl:variable>
 

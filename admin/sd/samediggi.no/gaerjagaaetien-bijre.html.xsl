@@ -129,7 +129,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location=""/>
 	<parallel_text xml:lang="nob" location="om-biblioteket.html"/>
-	<parallel_text xml:lang="sme" location="bibliotehka-birra.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location=""/></xsl:variable>
 
 
     <!--
