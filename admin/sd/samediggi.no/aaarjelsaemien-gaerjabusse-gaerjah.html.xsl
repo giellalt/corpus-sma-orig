@@ -122,7 +122,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="" xml:lang="sme"/>
 <parallel_text location="soersamisk-bok-og-kultrbuss.html" xml:lang="nob"/>
-<parallel_text location="soersamisk-bok-og-kultrbuss.html" xml:lang="smj"/>
+<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 
 
