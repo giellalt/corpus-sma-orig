@@ -161,7 +161,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="prime-minister-jens-stoltenbergs-new-yea.html_id=667848" xml:lang="eng"/>
+	<parallel_text location="" xml:lang="eng"/>
 	<parallel_text location="statsministerens-nyttarstale-2012_id_667848.html" xml:lang="nob"/>
 	<parallel_text location="oajagesardni_id_667848.html" xml:lang="sme"/>
 	<parallel_text location="oajagesardni_id_667848.html" xml:lang="smj"/>
