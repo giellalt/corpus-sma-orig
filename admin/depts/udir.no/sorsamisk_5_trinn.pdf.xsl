@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-            <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a2-py2.7.egg/corpustools/xslt/common.xsl"/>
+            <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-
+    
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://gielemnastedh.no/wp-content/uploads/2013/08/G%C3%AFeleviermie-Programme-2013.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/filer/vurdering/nasjonaleprover/sorsamisk_5_trinn.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -38,7 +38,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -124,13 +124,42 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="swe" location="ga-eleviermie-2013-program.pdf"/></xsl:variable>
+    <parallel_text xml:lang="smj" location="lulesamisk_5_trinn.pdf"/></xsl:variable>
 
 
-    <!-- For page oriented documents, mark which pages should be ignored -->
+    <!--
+        For pdf documents, mark which pages should be ignored.
+        The format for this is a comma separated list of page number that
+        should be skipped. It is also possible to use ranges.
+        Examples:
+        1, 2, 3, 4
+        1, 6-10, 15, 20, 25-30
+    -->
     <xsl:variable name="skip_pages" select="''"/>
-    <!-- Text outside these margins will be ignored.
-    These are defaults, that are settable documentwise -->
+
+    <!--
+        Text outside these margins will be ignored.
+
+        The format for margin line is:
+        [all|odd|even|pagenumber]=integer
+
+        Margin lines *must* contain the keywords all, even, odd or a page
+        number followed by a = sign and an integer.
+
+        The integer must be between 0 and 100.
+
+        If there are several values, they are divided by commas.
+        Setting different margins for odd and even pages is done by writing
+        e.g. odd=8, even=15
+        It is also possible to set margins for particular pages:
+        8=8, 10=12
+        It is also possible to set margins for odd and even pages and
+        exceptions from those rules on particular pages.
+
+        Examples on how the select part could look:
+        odd=5, even=8, 8=15, 11=3
+        all=9, 8=12
+    -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>

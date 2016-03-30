@@ -5,11 +5,11 @@
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-
+    
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://gielemnastedh.no/wp-content/uploads/2013/08/G%C3%AFeleviermie-Programme-2013.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.ntfk.no/Aarjelsaemien/Oohpehtimmie/Documents/J%C3%A5arhke%C3%B8%C3%B8hpehtimmie%20geerve%20almetjidie.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -38,7 +38,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'facta'"/>
+    <xsl:variable name="genre" select="'admin'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -94,7 +94,8 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    </xsl:variable>
+    <language xml:lang="sma"/>
+	<language xml:lang="nob"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -124,17 +125,17 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="swe" location="ga-eleviermie-2013-program.pdf"/></xsl:variable>
+    </xsl:variable>
 
 
     <!-- For page oriented documents, mark which pages should be ignored -->
     <xsl:variable name="skip_pages" select="''"/>
     <!-- Text outside these margins will be ignored.
     These are defaults, that are settable documentwise -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="left_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->

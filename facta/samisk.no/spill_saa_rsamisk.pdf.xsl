@@ -5,11 +5,11 @@
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-
+    
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://gielemnastedh.no/wp-content/uploads/2013/08/G%C3%AFeleviermie-Programme-2013.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.samisk.no/index.php?view=weblink&amp;catid=39%3Alinker&amp;id=24%3Amaam-akt-saarnah&amp;option=com_weblinks&amp;Itemid=62'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -58,7 +58,7 @@
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
-    <xsl:variable name="note" select="''"/>
+    <xsl:variable name="note" select="'http://www.aajege.no/index.php?view=weblink&amp;amp;catid=39%3Alinker&amp;amp;id=24%3Amaam-akt-saarnah&amp;amp;option=com_weblinks&amp;amp;Itemid=62'"/>
 
     <!-- The main language of the document -->
     <xsl:variable name="mainlang" select="'sma'"/>
@@ -66,7 +66,7 @@
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
          language recognition (treating everything as mainlang) -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!-- If monolingual is not set, the document is multilingual.
          Uncomment the languages you want to check for (or add new lines
@@ -124,17 +124,17 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="swe" location="ga-eleviermie-2013-program.pdf"/></xsl:variable>
+    </xsl:variable>
 
 
     <!-- For page oriented documents, mark which pages should be ignored -->
     <xsl:variable name="skip_pages" select="''"/>
     <!-- Text outside these margins will be ignored.
     These are defaults, that are settable documentwise -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="right_margin" select="'all=7'"/>
+    <xsl:variable name="left_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=7'"/>
+    <xsl:variable name="bottom_margin" select="'all=7'"/>
 
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
