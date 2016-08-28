@@ -119,11 +119,11 @@
         <!-- <parallel_text xml:lang="kal" location=""/> -->
         <!-- <parallel_text xml:lang="kpv" location=""/> -->
         <!-- <parallel_text xml:lang="nno" location=""/> -->
-        <!-- <parallel_text xml:lang="nob" location=""/> -->
+        <parallel_text xml:lang="nob" location="http://www3.nsr.no/website.aspx?displayid=33749"/> 
         <!-- <parallel_text xml:lang="rus" location=""/> -->
         <!-- <parallel_text xml:lang="sma" location=""/> -->
-        <!-- <parallel_text xml:lang="sme" location=""/> -->
-        <!-- <parallel_text xml:lang="smj" location=""/> -->
+        <parallel_text xml:lang="sme" location="http://www3.nsr.no/website.aspx?displayid=33752"/> 
+        <parallel_text xml:lang="smj" location="http://www3.nsr.no/website.aspx?displayid=33755"/> -->
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
