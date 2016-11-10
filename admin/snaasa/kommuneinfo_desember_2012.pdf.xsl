@@ -47,7 +47,7 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
 <xsl:variable name="sub_email" select="'unhammer+apertium@mm.st'"/>
 <xsl:variable name="wordcount" select="''"/>
@@ -61,7 +61,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'nob'"/>
+<xsl:variable name="mainlang" select="'sma'"/>
 
 <!-- In the case of a multilingual document, we may want to check for
      other languages. Set the variable monolingual to '1' to turn off
