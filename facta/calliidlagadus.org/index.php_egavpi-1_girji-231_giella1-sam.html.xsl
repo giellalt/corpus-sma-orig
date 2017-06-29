@@ -139,7 +139,7 @@
     -->
     <xsl:variable name="mlangs">
          <language xml:lang="nob"/> 
-         <language xml:lang="sme"/> 
+         <language xml:lang="sma"/> 
     </xsl:variable>
 
     <!--
