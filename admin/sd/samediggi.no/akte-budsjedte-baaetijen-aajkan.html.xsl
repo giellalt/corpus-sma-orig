@@ -139,7 +139,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/><language xml:lang="eng"/><language xml:lang="sma"/><language xml:lang="sme"/></xsl:variable>
+    <language xml:lang="nob"/><language xml:lang="sma"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -320,7 +320,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -339,12 +338,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'R-aerielïhtsege/2104/'"/>
+                <xsl:with-param name="replacement" select="'Raerielïhtsege/2014/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>
