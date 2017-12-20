@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://ndla.no/nn/node/177350?fag=126960'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Verbe 'lea''"/>
+    <xsl:variable name="title" select="'Verbe lea'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -281,6 +281,11 @@
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="''"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.
