@@ -254,7 +254,7 @@
         * .//body/div[1]/h2[1];.//body/div[3]/div[1]/h3[1]
         * .//body/div[5];.//body/div[8]/div[3]/h1[1], .//body/div[11]/div[2];.//body/div[11]/div[5]
     -->
-    <xsl:variable name="skip_elements" select="'.//body/p[1];.//body/p[50]'"/>
+    <xsl:variable name="skip_elements" select="'.//body/div/div[5];,.//body/div/div[4];,.//body/div/div[2];,.//body/div/h2;'"/>
 
     <!--
         The default is set to all=1.5.
@@ -285,7 +285,7 @@
     <!--
         Choose which chapters to exclude from an epub file.
     -->
-    <xsl:variable name="epub_excluded_chapters" select="''"/>
+    <xsl:variable name="epub_excluded_chapters" select="'0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29'"/>
 
     <!--
         Information about what is normal text size in pdf documents.
