@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'http://www.manskligarattigheter.se/Media/Get/600/sydsamiska-pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'NOU 2016: 18. Hjertespråket — Forslag til lovverk, tiltak og ordninger for samiske språk'"/>
+    <xsl:variable name="title" select="'Europaraerien goeredimmie'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2016'"/>
+    <xsl:variable name="year" select="''"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -115,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 161400 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -171,8 +171,8 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sme" location="europaradi_darkkisteapmi.pdf"/>
+        <parallel_text xml:lang="smj" location="europarade_guoradallam.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
@@ -254,7 +254,7 @@
         * .//body/div[1]/h2[1];.//body/div[3]/div[1]/h3[1]
         * .//body/div[5];.//body/div[8]/div[3]/h1[1], .//body/div[11]/div[2];.//body/div[11]/div[5]
     -->
-    <xsl:variable name="skip_elements" select="'.//body/div[2];.//body/div[5]/div[3], .//body/div[5]/div[4];.//body/div[28]/div[3]/div[2], .//body/div[28]/div[3]/div[3];.//body/div[30]/p[673]'"/>
+    <xsl:variable name="skip_elements" select="''"/>
 
     <!--
         The default is set to all=1.5.
@@ -281,6 +281,11 @@
         1;3;8=20, 4;5;7=10
     -->
     <xsl:variable name="linespacing" select="''"/>
+
+    <!--
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
 
     <!--
         Information about what is normal text size in pdf documents.
