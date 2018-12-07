@@ -11,17 +11,17 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://rorosnytt.no/viktig-vedtak-av-kirkemotet/'"/>
+    <xsl:variable name="filename" select="'https://rorosnytt.no/gladnyhet-for-hele-sapmi/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Vihkeles nænnoestimmie Gærhkoetjåanghkoste'"/>
+    <xsl:variable name="title" select="'Aavoesaernie: Røros saemien gïelen reeremedajven sïjse'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Tove'"/>
-    <xsl:variable name="author1_ln" select="'Østby'"/>
+    <xsl:variable name="author1_fn" select="''"/>
+    <xsl:variable name="author1_ln" select="''"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'f'"/>
+    <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.

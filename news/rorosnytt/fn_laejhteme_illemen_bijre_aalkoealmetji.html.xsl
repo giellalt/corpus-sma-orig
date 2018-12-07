@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://rorosnytt.no/viktig-vedtak-av-kirkemotet/'"/>
+    <xsl:variable name="filename" select="'https://rorosnytt.no/fn-kritikk-om-oppfylling-av-urfolks-rettigheter-i-norge/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Vihkeles nænnoestimmie Gærhkoetjåanghkoste'"/>
+    <xsl:variable name="title" select="'FN laejhteme illemen bïjre aalkoealmetji reaktijste Nöörjesne'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
