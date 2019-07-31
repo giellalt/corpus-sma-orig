@@ -354,13 +354,4 @@
     </xsl:template>
     -->
 
-<xsl:template match="/document/body/p[3]">
-	<xsl:element name="p">
-	<xsl:attribute name="xml:lang">
-		<xsl:value-of select="$noblang"/>
-	</xsl:attribute>
-	<xsl:apply-templates/>
-</xsl:element>
- </xsl:template>
-
 </xsl:stylesheet>
