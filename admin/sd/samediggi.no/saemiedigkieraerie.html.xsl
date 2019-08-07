@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.saemiedigkie.no/Politihke/Saemiedigkieraerie'"/>
+    <xsl:variable name="filename" select="'https://www.saemiedigkie.no/Saemiedigkien-bijre2/Arkiv-perioden-2016-2017/Saemiedigkieraerie'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Saemiedigkieraerie'"/>
     <!--

@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.saemiedigkie.no/Saemiedigkien-bijre2/Arkiv-perioden-2016-2017/Preessebievnesh/Jis-doesth-gihtjedh-almetjh-duestieh-vaestiedidh'"/>
+    <xsl:variable name="filename" select="'https://www.saemiedigkie.no/Saemiedigkien-bijre2/Arkiv-perioden-2016-2017/Saernievaaarhkoe/Jis-doesth-gihtjedh-almetjh-duestieh-vaestiedidh'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'«Jis doesth gihtjedh, almetjh duestieh vaestiedidh»'"/>
+    <xsl:variable name="title" select="'Jis doesth gihtjedh, almetjh duestieh vaestiedidh'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -168,10 +168,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="inviterer-samiske-kommuner-til-samarbeid.html"/>
+        <parallel_text xml:lang="nob" location="om-du-toer-aa-spoerre-toer-folk-aa-svare.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="bovde-sami-suohkaniid-ovttasbargat.html"/>
+        <parallel_text xml:lang="sme" location="go-duosttat-jearrat-de-olbmot-dustet-vastidit.html"/>
         <parallel_text xml:lang="smj" location="jus-duosta-gatjadit-duossti-ulmutja-vasstedit.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
