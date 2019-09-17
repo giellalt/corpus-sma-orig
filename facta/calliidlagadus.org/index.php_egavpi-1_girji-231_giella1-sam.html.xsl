@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.calliidlagadus.org/web/index.php?egavpi=1&amp;girji=231&amp;giella1=sam'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Nïestesjidh - Tradisjonell slakting på Helgeland - CD'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
