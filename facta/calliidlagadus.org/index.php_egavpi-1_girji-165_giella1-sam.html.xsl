@@ -140,7 +140,7 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
+        <language xml:lang="sme"/> 
     </xsl:variable>
 
     <!--
@@ -158,23 +158,6 @@
         filename changed.
     -->
     <xsl:variable name="parallels">
-        <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location=""/>
-        <parallel_text xml:lang="fin" location=""/>
-        <parallel_text xml:lang="fit" location=""/>
-        <parallel_text xml:lang="fkv" location=""/>
-        <parallel_text xml:lang="ger" location=""/>
-        <parallel_text xml:lang="isl" location=""/>
-        <parallel_text xml:lang="kal" location=""/>
-        <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
-        <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
-        <parallel_text xml:lang="smn" location=""/>
-        <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
     </xsl:variable>
 
@@ -361,7 +344,6 @@
         other markup, as such markup otherwise will be removed.
     -->
 
-    <!--
     <xsl:template match="p[parent::body][not(./em | ./span)][text()]">
         <xsl:variable name="text" select='current()' />
         <xsl:variable name="type" select='@type' />
@@ -380,12 +362,11 @@
 
             <xsl:call-template name="globalTextReplace">
                 <xsl:with-param name="inputString" select="$text"/>
-                <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-                <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+                <xsl:with-param name="target" select="'Nuvttá/'"/>
+                <xsl:with-param name="replacement" select="'Divrras/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
         </xsl:element>
     </xsl:template>
-    -->
 
 </xsl:stylesheet>
