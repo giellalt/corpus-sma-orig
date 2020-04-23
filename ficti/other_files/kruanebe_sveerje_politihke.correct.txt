@@ -1,462 +1,462 @@
 
-Kruanebe$(adj,vowc|Kruenebe) Sveerje!
-- jienede jieledekvalitehtem$(noun,mix|jieledekvaliteetem)
+{Kruanebe}${adj,vowc|Kruenebe} Sveerje!
+- jienede {jieledekvalitehtem}${noun,mix|jieledekvaliteetem}
 Byjremepaarije${noun,mix|Byjremepartije}€{noun,w|Byjresepartije} dah Kruana
-veeljemasse vaadtsa politigkinie$(noun,mix|politihkine) jeenjebe barkoeh,
+veeljemasse vaadtsa {politigkinie}${noun,mix|politihkine} jeenjebe barkoeh,
 jeenjebe barkoesijjieh, jielije voenh, orre jielemenuepieh
-jih$(cc,ascii|jïh) voengem gohkeldahkesne krööhkestidh. Mijjen
-politigke$(noun,conc|politihke) kruana
-jeahtahdehteme$(verb,mic|jeatjahtehteme) jienebh barkoesijjiejgujmie
-aktanidh. Mijjieh sijhtebe$(verb,ascii|sïjhtebe) almetjidie nuepiem vedtedh
+{jih}${cc,ascii|jïh} voengem gohkeldahkesne krööhkestidh. Mijjen
+{politigke}${noun,conc|politihke} kruana
+{jeahtahdehteme}${verb,mic|jeatjahtehteme} jienebh barkoesijjiejgujmie
+aktanidh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} almetjidie nuepiem vedtedh
 Sveerjesne jieledh gusnie seammavierhtege nyjsenæjjaj almaj gaskem
-jih$(cc,ascii|jïh) gusnie novh hävvi$(x,ascii|hævvi) seamma reaktah
-gaajhkide lea. Baataræjjapolitigke$(noun,conc|Baataræjjapolitihke) edtja
-humanije dorjesovvedh jih$(cc,ascii|jïh) dihte$(dem,ascii|dïhte)
-politigke$(noun,conc|politihke) globalen$(adj,vow|globaalen) sijjesne edtja
-nullenielkiem jih$(cc,ascii|jïh) guedtijes
-øøvtiedimmiem$(noun,x|övtiedimmiem) øøvtiedidh$(verb,ascii|övtiedidh).
-Dah uvtelassh mijjen veeljememanifestesne$(noun,vow|veeljememanifeestesne)
-golme solijdarijtetijsjstie$(noun,mix|solidariteetijste) maadtosne
-solijdarijtete$(noun,mix|solidariteete)
-juvrijgujmie$(noun,suf|juvrigujmie), eatneminie$(noun,svow|eatnaminie)
-jih$(cc,ascii|jïh) dan ekolovgijen$(noun,mix|ekologijen)
-sjierinie$(x,mix|sjïerine), solijdarijtete$(noun,mix|solidariteete) dej
-båetije boelvijgujmie$(noun,suf|boelvigujmie) jih$(cc,ascii|jïh)
-solijdarijtete$(noun,mix|solidariteete) gaajhkesh veartenen almetjigujmie.
+{jih}${cc,ascii|jïh} gusnie novh {hävvi}${x,ascii|hævvi} seamma reaktah
+gaajhkide lea. {Baataræjjapolitigke}${noun,conc|Baataræjjapolitihke} edtja
+humanije dorjesovvedh {jih}${cc,ascii|jïh} {dihte}${dem,ascii|dïhte}
+{politigke}${noun,conc|politihke} {globalen}${adj,vow|globaalen} sijjesne edtja
+nullenielkiem {jih}${cc,ascii|jïh} guedtijes
+{øøvtiedimmiem}${noun,x|övtiedimmiem} {øøvtiedidh}${verb,ascii|övtiedidh}.
+Dah uvtelassh mijjen {veeljememanifestesne}${noun,vow|veeljememanifeestesne}
+golme {solijdarijtetijsjstie}${noun,mix|solidariteetijste} maadtosne
+{solijdarijtete}${noun,mix|solidariteete}
+{juvrijgujmie}${noun,suf|juvrigujmie}, {eatneminie}${noun,svow|eatnaminie}
+{jih}${cc,ascii|jïh} dan {ekolovgijen}${noun,mix|ekologijen}
+{sjierinie}${x,mix|sjïerine}, {solijdarijtete}${noun,mix|solidariteete} dej
+båetije {boelvijgujmie}${noun,suf|boelvigujmie} {jih}${cc,ascii|jïh}
+{solijdarijtete}${noun,mix|solidariteete} gaajhkesh veartenen almetjigujmie.
 
-1.Bøøremes$(mix,mix|1. Bööremes) maanide
-Gaajhkh maanaj leah reaktah jielemasse$(noun,svow|jieliemasse)
-gieriesvoetesne, krööhkestimmie jih$(cc,ascii|jïh) neerrehtimmehts. Fiere-
-guhte$(indef,mix|Fïereguhte) maana tjuara vuajnasovvedh jih$(cc,ascii|jïh)
-nuepiem åadtjodh jijtsistie$(refl,ascii|jïjtsistie)
-öövtiedidh$(verb,vowc|övtiedidh). Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-FN’en$(acr,suf|FN:n) maanakonvensjovnem Sveerjen laakese aajketje
-bihkedidh$(verb,ascii|bïhkedidh).
+{1.Bøøremes}${mix,mix|1. Bööremes} maanide
+Gaajhkh maanaj leah reaktah {jielemasse}${noun,svow|jieliemasse}
+gieriesvoetesne, krööhkestimmie {jih}${cc,ascii|jïh} neerrehtimmehts. Fiere-
+{guhte}${indef,mix|Fïereguhte} maana tjuara vuajnasovvedh {jih}${cc,ascii|jïh}
+nuepiem åadtjodh {jijtsistie}${refl,ascii|jïjtsistie}
+{öövtiedidh}${verb,vowc|övtiedidh}. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{FN’en}${acr,suf|FN:n} maanakonvensjovnem Sveerjen laakese aajketje
+{bihkedidh}${verb,ascii|bïhkedidh}.
 
 2.    Tjöödtjehtehtieh voengedååjremem!
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) Sveerjen jearohkevoetem
-ååljistie$(noun,mix|åljeste) jih$(cc,ascii|jïh) jeatjah fossijlen
-bualatahkh$(noun,con|bualahtahkh) edtja 15 jaepesne våavtsoestidh.
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} Sveerjen jearohkevoetem
+{ååljistie}${noun,mix|åljeste} {jih}${cc,ascii|jïh} jeatjah fossijlen
+{bualatahkh}${noun,con|bualahtahkh} edtja 15 jaepesne våavtsoestidh.
 Saadtesimmiedaarpoeh tjuerieh vualanidh, deaverh ruevtie-
-raajrose$(noun,x|ruevtieraajrose) juhtedh jih$(cc,ascii|jïh) gåetiem mij
-vaenie energije daarpesje bigkedh. Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-nännoestidh$(verb,ascii|nænnoestidh) byjres, voengebuerebe vuejemsh
-jih$(cc,ascii|jïh) energije mij ikt$(x,con|ikth) vielie maahta utnedh
-jih$(cc,ascii|jïh) laehpemebaahkem biejverdidh. Dihte$(dem,ascii|Dïhte)
-kruana skaehtieviekseldimmie$(noun,vowc|skaehtieveekseldimmie) galka
+{raajrose}${noun,x|ruevtieraajrose} juhtedh {jih}${cc,ascii|jïh} gåetiem mij
+vaenie energije daarpesje bigkedh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{nännoestidh}${verb,ascii|nænnoestidh} byjres, voengebuerebe vuejemsh
+{jih}${cc,ascii|jïh} energije mij {ikt}${x,con|ikth} vielie maahta utnedh
+{jih}${cc,ascii|jïh} laehpemebaahkem biejverdidh. {Dihte}${dem,ascii|Dïhte}
+kruana {skaehtieviekseldimmie}${noun,vowc|skaehtieveekseldimmie} galka
 jåerhkedh.
 
-3.    Jienebh orre barkoesijjieh jih$(cc,ascii|jïh) barkoeh
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) buaranidh dah
-socijalen$(adj,mix|sosijaalen) tjirkedimmieh disse$(dem,ascii|dïsse) gie
+3.    Jienebh orre barkoesijjieh {jih}${cc,ascii|jïh} barkoeh
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} buaranidh dah
+{socijalen}${adj,mix|sosijaalen} tjirkedimmieh {disse}${dem,ascii|dïsse} gie
 barkoesijjiem aalka. Dåarjoe
-kredijteluhpiehtimmiesiebride$(noun,con|kredihteluhpiehtimmiesiebride)
-jih$(cc,ascii|jïh) kooperatijven darjomasse edtja olkese bigkedh. Mijjieh
-(sijhte$(x,vow|sijhtie))¢(verb,mix|sïjhtebe) joekoen nyjsenæjjaj darjomh
-dåarjelidh. Gaajhkh edtjieh maehtedh njoetedidh, jih$(cc,ascii|jïh) destie
-maam luhpie giesedh, dan diehre$(pp,ascii|dïehre) barkoesijjiem aelkedh.
+{kredijteluhpiehtimmiesiebride}${noun,con|kredihteluhpiehtimmiesiebride}
+{jih}${cc,ascii|jïh} kooperatijven darjomasse edtja olkese bigkedh. Mijjieh
+{{sijhte${x,vow|sijhtie}}}¢{verb,mix|sïjhtebe} joekoen nyjsenæjjaj darjomh
+dåarjelidh. Gaajhkh edtjieh maehtedh njoetedidh, {jih}${cc,ascii|jïh} destie
+maam luhpie giesedh, dan {diehre}${pp,ascii|dïehre} barkoesijjiem aelkedh.
 
 4.    40 000 orre barkoeh byjjes maekseme suerkesne
-Daarpoeh jih$(cc,ascii|jïh) sijjieh gååvnesieh jeenjebe barkijh dan byjjes
-maekseme suerkesne. Mijjieh sijhtebe$(verb,ascii|sïjhtebe) beetnegh
-juhtiehtidh barkoesjeltieråajvarimmeste jih$(cc,ascii|jïh) medtie 40 000
-almetjidie barkoem vedtedh. Mijjieh sjiere$(adj,ascii|sjïere) daarpoeh
-vuejnedh kultuvrisnie$(noun,suf|kultuvresne), skuvlesne,
-skiemtjesåjhtosne$(noun,ascii|skïemtjesåjhtosne), båarasåbpoesåjhtosne
-jih$(cc,ascii|jïh) åvtesskuvlesne.
+Daarpoeh {jih}${cc,ascii|jïh} sijjieh gååvnesieh jeenjebe barkijh dan byjjes
+maekseme suerkesne. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} beetnegh
+juhtiehtidh barkoesjeltieråajvarimmeste {jih}${cc,ascii|jïh} medtie 40 000
+almetjidie barkoem vedtedh. Mijjieh {sjiere}${adj,ascii|sjïere} daarpoeh
+vuejnedh {kultuvrisnie}${noun,suf|kultuvresne}, skuvlesne,
+{skiemtjesåjhtosne}${noun,ascii|skïemtjesåjhtosne}, båarasåbpoesåjhtosne
+{jih}${cc,ascii|jïh} åvtesskuvlesne.
 
-5.    Seamma baalhka nyjsenæjjide jih$(cc,ascii|jïh) almide
-Dovne byjjes jih$(cc,ascii|jïh) siejhmes$(adj,mix|sïejhme) suerkesne
-tjuerieh barkoevedtijh diedtem$(noun,ascii|dïedtem) seamma
-viertegs$(adj,vowc|vyörtegs) baalhkah vaeltieh. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) vuejnedh
-buarastehtetimmiem$(verb,mix|buarastehtemem) (staaten, faagesiebrieh
-jih$(cc,ascii|jïh) barkoevedtijh gaskem)£(x,noun,genpl,nompl,x|staaten,
-faagesiebriej jïh barkoevedtiji gaskem) juktie destie baalhkajoekehts
-nyjsenæjjide jih$(cc,ascii|jïh) almide vaeltedh {dan båetije
+5.    Seamma baalhka nyjsenæjjide {jih}${cc,ascii|jïh} almide
+Dovne byjjes {jih}${cc,ascii|jïh} {siejhmes}${adj,mix|sïejhme} suerkesne
+tjuerieh barkoevedtijh {diedtem}${noun,ascii|dïedtem} seamma
+{viertegs}${adj,vowc|vyörtegs} baalhkah vaeltieh. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} vuejnedh
+{buarastehtetimmiem}${verb,mix|buarastehtemem} (staaten, faagesiebrieh
+{jih}${cc,ascii|jïh} barkoevedtijh {gaskem}}£{x,noun,genpl,nompl,x|staaten,
+faagesiebriej jïh barkoevedtiji gaskem} juktie destie baalhkajoekehts
+nyjsenæjjide {jih}${cc,ascii|jïh} almide vaeltedh {dan båetije
 veeljemeboelhkesne}£{noun,x,illsg,innsg,x|dan båetije veeljemeboelhkese}.
-Staaten åejvieh gieh$(x,ascii|gïeh) eah dam seamma baalhka
-prinsibpen$(noun,con|prinsihpen) dåajvoehtidh, eah orre tjarkanimmiem
+Staaten åejvieh {gieh}${x,ascii|gïeh} eah dam seamma baalhka
+{prinsibpen}${noun,con|prinsihpen} dåajvoehtidh, eah orre tjarkanimmiem
 åadtjoeh.
 
 6.    Buerebe våaromh ohtjebarkoesijjide
 Aelhkebe okteghbarkoesijjide darjodh barkijh åadtjoeh dellie mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) barkoevedtijemaaksoem vualanidh dam voestes
+{sijhtebe}${verb,ascii|sïjhtebe} barkoevedtijemaaksoem vualanidh dam voestes
 barkijem luhkie prosenth. Nuepie edtja administratijven dåarjojde
-jih$(cc,ascii|jïh) tjarkanimmiekapitalh$(noun,vow|tjarkanimmiekapitaalh)
+{jih}${cc,ascii|jïh} {tjarkanimmiekapitalh}${noun,vow|tjarkanimmiekapitaalh}
 buaranidh.
 
-7.    Loejhtesjaepie jielemisnie$(noun,svow|jieliemisnie) gaskoeh
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) loejhtesjaepiem edtja årrodh
-jih$(cc,ascii|jïh) evtiedidh. Loejhtesjaepeste sjædta jillebe
-jieledekvalitehtem$(noun,mix|jieledekvaliteetem) jih$(cc,ascii|jïh)
-svæhtjaldihkie$(adj,mix|svïhtjeldihkie) barkoesjeltiem.
-Dihte$(dem,ascii|Dïhte) lea nuepie
-barkoejielemisnie$(noun,svow|barkoejieliemisnie)
-liegkestidh$(verb,ascii|lïegkestidh) seamma aejkien goh barkohts åadtjoeh
+7.    Loejhtesjaepie {jielemisnie}${noun,svow|jieliemisnie} gaskoeh
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} loejhtesjaepiem edtja årrodh
+{jih}${cc,ascii|jïh} evtiedidh. Loejhtesjaepeste sjædta jillebe
+{jieledekvalitehtem}${noun,mix|jieledekvaliteetem} {jih}${cc,ascii|jïh}
+{svæhtjaldihkie}${adj,mix|svïhtjeldihkie} barkoesjeltiem.
+{Dihte}${dem,ascii|Dïhte} lea nuepie
+{barkoejielemisnie}${noun,svow|barkoejieliemisnie}
+{liegkestidh}${verb,ascii|lïegkestidh} seamma aejkien goh barkohts åadtjoeh
 viehkiem barkoesjaltan båetedh.
 
-8.    Åenehksåbpoe$(adj,svow|Åeniehkåbpoe)
-barkoetijje$(noun,ascii|barkoetïjje) jih$(cc,ascii|jïh)
-jearsoåbpoe$(adj,svow|jearsoesåbpoe) barkoejieleme
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) dihte$(dem,ascii|dïhte)
-laakennännostamme$(verb,mix|laakennænnoestamme)
-siejhmebarkoetijjie$(mix,mix|sïejhme barkoetïjje) 35
-täjmose$(noun,ascii|tæjmose) våhkosne vueliedidh. Edtja aaj reaktam jis
-säjhta$(verb,ascii|sæjhta) barkedh ellies- jallh
-bielietijje$(noun,ascii|bielietïjje) tjirkedh.
-Ektiedåhkesjimmien$(noun,vow|Ektiedåhkasjimmien) åvteste galka
-diejveldidh$(verb,ascii|dïejveldidh) goh
-baalhkavueliedammem$(noun,suf|baalhkavueliedimmiem) vuastalidh. Tjuara
+8.    {Åenehksåbpoe}${adj,svow|Åeniehkåbpoe}
+{barkoetijje}${noun,ascii|barkoetïjje} {jih}${cc,ascii|jïh}
+{jearsoåbpoe}${adj,svow|jearsoesåbpoe} barkoejieleme
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} {dihte}${dem,ascii|dïhte}
+{laakennännostamme}${verb,mix|laakennænnoestamme}
+{siejhmebarkoetijjie}${mix,mix|sïejhme barkoetïjje} 35
+{täjmose}${noun,ascii|tæjmose} våhkosne vueliedidh. Edtja aaj reaktam jis
+{säjhta}${verb,ascii|sæjhta} barkedh ellies- jallh
+{bielietijje}${noun,ascii|bielietïjje} tjirkedh.
+{Ektiedåhkesjimmien}${noun,vow|Ektiedåhkasjimmien} åvteste galka
+{diejveldidh}${verb,ascii|dïejveldidh} goh
+{baalhkavueliedammem}${noun,suf|baalhkavueliedimmiem} vuastalidh. Tjuara
 barkoem voengebarkoen åvteste tjirkedh goh ovhealsoem vuastalidh.
 
-9.    Buerebe ektietrafigke$(noun,conc|ektietrafihke)
-Tååge- jih$(cc,ascii|jïh) bussetrafigkem$(noun,conc|bussetrafihkem) edtja
-abpe laantesne buaranidh. Sjiere$(adj,ascii|Sjïere)
-vierhtem$(noun,suf|vierhtiem) ektietrafigkasse$(noun,mix|ektietrafihkese)
-byjresisnie edtja årrodh. Mijjieh sijhtebe$(verb,ascii|sïjhtebe) dam
-raajroetrafigkem$(noun,conc|raajroetrafihkem) tjirkedh
-stoerrastaaredajven$(noun,vow|stoerrestaaredajven) sisnie
-jih$(cc,ascii|jïh) bijre$(pp,ascii|bïjre) dej jarkan jih$(cc,ascii|jïh) ij
-dovres motovregeajnoeh jih$(cc,ascii|jïh)
-bijrejarkangeajnoeh$(noun,ascii|bïjrejarkangeajnoeh) bigkedh. Mijjieh aaj
-diejveldibie$(verb,ascii|dïejveldibie) traegkiesmaaksoem Stuehkesne,
-Göteborgesne jih$(cc,ascii|jïh) Malmöesne dellie
-trafigkem$(noun,conc|trafihkem) unnede, voengem buarane$(verb,svow|buarene)
-jih$(cc,ascii|jïh) ektietrafigkem$(noun,conc|ektietrafihkem) buarene.
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) aelpies maaksoem
-ektietrafigkide$(noun,conc|ektietrafihkide).
+9.    Buerebe {ektietrafigke}${noun,conc|ektietrafihke}
+Tååge- {jih}${cc,ascii|jïh} {bussetrafigkem}${noun,conc|bussetrafihkem} edtja
+abpe laantesne buaranidh. {Sjiere}${adj,ascii|Sjïere}
+{vierhtem}${noun,suf|vierhtiem} {ektietrafigkasse}${noun,mix|ektietrafihkese}
+byjresisnie edtja årrodh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} dam
+{raajroetrafigkem}${noun,conc|raajroetrafihkem} tjirkedh
+{stoerrastaaredajven}${noun,vow|stoerrestaaredajven} sisnie
+{jih}${cc,ascii|jïh} {bijre}${pp,ascii|bïjre} dej jarkan {jih}${cc,ascii|jïh} ij
+dovres motovregeajnoeh {jih}${cc,ascii|jïh}
+{bijrejarkangeajnoeh}${noun,ascii|bïjrejarkangeajnoeh} bigkedh. Mijjieh aaj
+{diejveldibie}${verb,ascii|dïejveldibie} traegkiesmaaksoem Stuehkesne,
+Göteborgesne {jih}${cc,ascii|jïh} Malmöesne dellie
+{trafigkem}${noun,conc|trafihkem} unnede, voengem {buarane}${verb,svow|buarene}
+{jih}${cc,ascii|jïh} {ektietrafigkem}${noun,conc|ektietrafihkem} buarene.
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} aelpies maaksoem
+{ektietrafigkide}${noun,conc|ektietrafihkide}.
 
-10. Kruanabe$(adj,mix|Kruenebe) lihkesbyjrese$(noun,ascii|lïhkesbyjrese)
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) tjaebpies jih$(cc,ascii|jïh) jieleme
-lihkesbyjresh$(noun,ascii|lïhkesbyjresh) darjodh, gusnie maanah sijjieh
-åadtjodh vaeltedh. Jienebh aelkiesbåateme$(x,con|aelhkiesbåeteme) sijjieh
-gusnie maahta gaarsjelidh jih$(cc,ascii|jïh) kultuvren evtiedidh
-daarpsjeminie$(verb,vow|daarpesjeminie), joekoen noeride. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) jielede staarenjarngh jih$(cc,ascii|jïh)
-staarenlihkejarngh$(noun,ascii|staarenlïhkejarngh) gusnie
-liehtesteteminie$(verb,mix|lïehtestehteminie) jih$(cc,ascii|jïh) ij
-stoerrebovrh guhkies staaren ålkolisnie$(pp,svow|ålkoelisnie). Dajvh,
-gusnie dah gieh$(x,ascii|gïeh) el’este$(x,mix|el:ste)
-skiemtje$(adj,ascii|skïemtje) sjidtieh maahta årrodh jih$(cc,ascii|jïh)
-barkedh, tjuara vaarjelidh jih$(cc,ascii|jïh) byjjehtidh.
+10. {Kruanabe}${adj,mix|Kruenebe} {lihkesbyjrese}${noun,ascii|lïhkesbyjrese}
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} tjaebpies {jih}${cc,ascii|jïh} jieleme
+{lihkesbyjresh}${noun,ascii|lïhkesbyjresh} darjodh, gusnie maanah sijjieh
+åadtjodh vaeltedh. Jienebh {aelkiesbåateme}${x,con|aelhkiesbåeteme} sijjieh
+gusnie maahta gaarsjelidh {jih}${cc,ascii|jïh} kultuvren evtiedidh
+{daarpsjeminie}${verb,vow|daarpesjeminie}, joekoen noeride. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} jielede staarenjarngh {jih}${cc,ascii|jïh}
+{staarenlihkejarngh}${noun,ascii|staarenlïhkejarngh} gusnie
+{liehtesteteminie}${verb,mix|lïehtestehteminie} {jih}${cc,ascii|jïh} ij
+stoerrebovrh guhkies staaren {ålkolisnie}${pp,svow|ålkoelisnie}. Dajvh,
+gusnie dah {gieh}${x,ascii|gïeh} {el’este}${x,mix|el:ste}
+{skiemtje}${adj,ascii|skïemtje} sjidtieh maahta årrodh {jih}${cc,ascii|jïh}
+barkedh, tjuara vaarjelidh {jih}${cc,ascii|jïh} byjjehtidh.
 
 11. Jeenjebe ekologijen beapmoeh
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) momsem ekologijen beapmojste
-vaeltedh jih$(cc,ascii|jïh) sveerjen laanteburriem
-tsevtsesovvedh$(verb,vow|tsavtsasovvedh) ekologijen produksjovnese. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) jeanadidh$(verb,con|jieniedidh)
-bäjjesåesiestimmiem$(noun,vowc|byjjesåesiestimmiem) ekologijen
-jih$(cc,ascii|jïh) lihkesdorjeme$(noun,ascii|lïhkesdorjeme) daeverh
-jih$(cc,ascii|jïh) aelkebe¢(adj,con|aelhkebe)
-byjresbeapmoehsjeltieh$(noun,cmp|byjresbeapmoesjeltieh) darjodh. Sveerjen
-eekerisnie$(noun,vowc|åakerisnie) jih$(cc,ascii|jïh) bovrehillesne eah
-edtjh genmodifijeredh$(verb,vow|genmodifijeeredh) sjædtoeh leah.
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} momsem ekologijen beapmojste
+vaeltedh {jih}${cc,ascii|jïh} sveerjen laanteburriem
+{tsevtsesovvedh}${verb,vow|tsavtsasovvedh} ekologijen produksjovnese. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} {jeanadidh}${verb,con|jieniedidh}
+{bäjjesåesiestimmiem}${noun,vowc|byjjesåesiestimmiem} ekologijen
+{jih}${cc,ascii|jïh} {lihkesdorjeme}${noun,ascii|lïhkesdorjeme} daeverh
+{jih}${cc,ascii|jïh} {aelkebe}¢{adj,con|aelhkebe}
+{byjresbeapmoehsjeltieh}${noun,cmp|byjresbeapmoesjeltieh} darjodh. Sveerjen
+{eekerisnie}${noun,vowc|åakerisnie} {jih}${cc,ascii|jïh} bovrehillesne eah
+edtjh {genmodifijeredh}${verb,vow|genmodifijeeredh} sjædtoeh leah.
 
-12. Jienebh byjresebijlh$(noun,ascii|byjresebïjlh)
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-kribpesjimmieh$(noun,ascii|krïbpesjimmieh)
-bijleindustrijide$(noun,ascii|bïjleindustrijide) tjirkedh dah
-bijlh$(noun,ascii|bïjlh) edtjieh effektijven jih$(cc,ascii|jïh) mestie
-juhtedh unniedidh. Minngemes 2010 gaajhkh orre bijlh$(noun,ascii|bïjlh)
-byøroeh$(verb,ascii|byöroeh) mejtie abpe EU’esne$(acr,suf|EU:sne) doekedh
+12. Jienebh {byjresebijlh}${noun,ascii|byjresebïjlh}
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{kribpesjimmieh}${noun,ascii|krïbpesjimmieh}
+{bijleindustrijide}${noun,ascii|bïjleindustrijide} tjirkedh dah
+{bijlh}${noun,ascii|bïjlh} edtjieh effektijven {jih}${cc,ascii|jïh} mestie
+juhtedh unniedidh. Minngemes 2010 gaajhkh orre {bijlh}${noun,ascii|bïjlh}
+{byøroeh}${verb,ascii|byöroeh} mejtie abpe {EU’esne}${acr,suf|EU:sne} doekedh
 maehtieh orredorjeme årrodh mestie vuejedh. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) dåarjelidh dah
-bensijnebijlh$(noun,ascii|bensijnebïjlh) mah gååvnesieh maahta målsodh
-mestie vuejedh misse$(x,ascii|mïsse) lea buerie byjresasse.
+{sijhtebe}${verb,ascii|sïjhtebe} dåarjelidh dah
+{bensijnebijlh}${noun,ascii|bensijnebïjlh} mah gååvnesieh maahta målsodh
+mestie vuejedh {misse}${x,ascii|mïsse} lea buerie byjresasse.
 
-13. Voengeteknigke$(noun,conc|Voengeteknihke) orredorjeme
-energijidie$(noun,suf|energijide)
-Jiermegs, effektijen$(adj,con|effektijven)
-enersjievaestiedassh$(noun,con|energijevaestiedassh) edtjieh evtiedidh.
-Biegkenfaamoe$(noun,ascii|Bïegkenfaamoe) edtja jieniedidh dan vuapsan 20
-Twh jaepie 2015. Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-biejjiebievtijh$(noun,vow|biejjiebivtijh) fierhten$(indef,ascii|fïerhten)
-njealjeden tahtjosne$(noun,vowc|tæhtjosne) jaepie 2020. Skaehtiem gåetide
+13. {Voengeteknigke}${noun,conc|Voengeteknihke} orredorjeme
+{energijidie}${noun,suf|energijide}
+Jiermegs, {effektijen}${adj,con|effektijven}
+{enersjievaestiedassh}${noun,con|energijevaestiedassh} edtjieh evtiedidh.
+{Biegkenfaamoe}${noun,ascii|Bïegkenfaamoe} edtja jieniedidh dan vuapsan 20
+Twh jaepie 2015. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{biejjiebievtijh}${noun,vow|biejjiebivtijh} {fierhten}${indef,ascii|fïerhten}
+njealjeden {tahtjosne}${noun,vowc|tæhtjosne} jaepie 2020. Skaehtiem gåetide
 edtja voengemaakseme årroemisnie evtiedidh.
-Aatovmefaamoe$(noun,vowc|Atovmefaamoe) edtja orrijehtedh. Ij edtjh luhpie
-uranem$(noun,vow|uraanem) gaevnedh$(verb,vowc|gaavnedh) Sveerjesne.
+{Aatovmefaamoe}${noun,vowc|Atovmefaamoe} edtja orrijehtedh. Ij edtjh luhpie
+{uranem}${noun,vow|uraanem} {gaevnedh}${verb,vowc|gaavnedh} Sveerjesne.
 
 14. Jielemh Luvliejaevresne gorredidh
-Dåarske$(noun,mix|Tåårske) jih$(cc,ascii|jïh) jeatjah guelieh
+{Dåarske}${noun,mix|Tåårske} {jih}${cc,ascii|jïh} jeatjah guelieh
 Luvliejaevresne edtja göölemistie vaarjelidh vuelielisnie dam sihkeres
-sievem$(noun,ascii|sïevem). Ovluhpehts gööleme tjuara dåastoelidh
-jih$(cc,ascii|jïh) doekemen dan ovluhpehts dåarskh$(noun,mix|tåårskh).
-Edtja effektijve jih$(cc,ascii|jïh) urresth$(x,vowc|orresth)
-bijrejarkanlaantenburrie$(noun,ascii|bïjrejarkanlaantenburrie) evtiedidh
-Luvliejaevrien bijre$(pp,ascii|bïjre) guktie buerebe sjædta.
+{sievem}${noun,ascii|sïevem}. Ovluhpehts gööleme tjuara dåastoelidh
+{jih}${cc,ascii|jïh} doekemen dan ovluhpehts {dåarskh}${noun,mix|tåårskh}.
+Edtja effektijve {jih}${cc,ascii|jïh} {urresth}${x,vowc|orresth}
+{bijrejarkanlaantenburrie}${noun,ascii|bïjrejarkanlaantenburrie} evtiedidh
+Luvliejaevrien {bijre}${pp,ascii|bïjre} guktie buerebe sjædta.
 
 15. Biologijen gellienlaaketje
-Almetjij$(noun,suf|Almetji) darjomh edtja eatnemem krööhkestidh guktie
-dihte$(dem,ascii|dïhte) gellienlaaketje eatnemisnie$(noun,svow|eatnamisnie)
-vaarjelidh jih$(cc,ascii|jïh) evtiedidh. Sveerjesne edtjieh gohkeldahkesne
+{Almetjij}${noun,suf|Almetji} darjomh edtja eatnemem krööhkestidh guktie
+{dihte}${dem,ascii|dïhte} gellienlaaketje {eatnemisnie}${noun,svow|eatnamisnie}
+vaarjelidh {jih}${cc,ascii|jïh} evtiedidh. Sveerjesne edtjieh gohkeldahkesne
 jielijemaadtoeh {dejstie njielje stoerre vaejsjieh
 årrodh}£{noun,x,elapl,nompl,x|dejstie njielje stoerre vaejsjijste årrodh};
-siejpe$(noun,ascii|sïejpe), råate, bierne$(noun,ascii|bïerne)
-jih$(cc,ascii|jïh) gierhkie. Ientjh$(noun,ascii|Ïentjh) gusnie lea
-jijnjh$(indef,ascii|jïjnjh) sjædtoeh edtja vaarjelidh. Gaedtievaarjelimmie
+{siejpe}${noun,ascii|sïejpe}, råate, {bierne}${noun,ascii|bïerne}
+{jih}${cc,ascii|jïh} gierhkie. {Ientjh}${noun,ascii|Ïentjh} gusnie lea
+{jijnjh}${indef,ascii|jïjnjh} sjædtoeh edtja vaarjelidh. Gaedtievaarjelimmie
 ij åadtjoeh unniedidh.
 
-16. Raeffie nyjsenäjjide$(noun,ascii|nyjsenæjjide)
-Gaajhkh gieh$(x,ascii|gïeh) tsaepmedh sjidtedh$(verb,ascii|sjïdtedh) dejnie
-lihkes$(adj,ascii|lïhkes) gaskevoetesne edtja reaktah
-vaarjelommie$(noun,vow|vaarjelimmie) årromesijjiem årrodh. Reaktaj
-dåastosteminie$(verb,mix|dåastohteminie) edtja maahtoemisnie
-jih$(cc,ascii|jïh) diedtesne$(noun,ascii|dïedtesne) årrodh. Maanah
-gieh$(x,ascii|gïeh) leah tsaepmemem vuejnedh dej gåetesne edtja goh
-viesjiejh vuajnalgidh. Dah gieh$(x,ascii|gïeh) tsaepmemem
-dööpmejuvvieh$(verb,con|dööpmesuvvieh) tjuara
-gietedallemh$(verb,ascii|gïetedallemh) tjibredh$(verb,vowc|tjabredh).
-Aaj tsaepmemem gusnie gøøkte$(num,ascii|göökte) nyjsenæjjah jallh almah
-ektesne årrodh tjuara giehtjedidh$(verb,ascii|gïehtjedidh). Jienebh
-vierhtieh krievedh$(verb,ascii|krïevedh) prostitusjovnem jih$(cc,ascii|jïh)
-almejthåesiestimmiem$(noun,meta|almetjeåesiestimmiem) dåastoelidh.
+16. Raeffie {nyjsenäjjide}${noun,ascii|nyjsenæjjide}
+Gaajhkh {gieh}${x,ascii|gïeh} tsaepmedh {sjidtedh}${verb,ascii|sjïdtedh} dejnie
+{lihkes}${adj,ascii|lïhkes} gaskevoetesne edtja reaktah
+{vaarjelommie}${noun,vow|vaarjelimmie} årromesijjiem årrodh. Reaktaj
+{dåastosteminie}${verb,mix|dåastohteminie} edtja maahtoemisnie
+{jih}${cc,ascii|jïh} {diedtesne}${noun,ascii|dïedtesne} årrodh. Maanah
+{gieh}${x,ascii|gïeh} leah tsaepmemem vuejnedh dej gåetesne edtja goh
+viesjiejh vuajnalgidh. Dah {gieh}${x,ascii|gïeh} tsaepmemem
+{dööpmejuvvieh}${verb,con|dööpmesuvvieh} tjuara
+{gietedallemh}${verb,ascii|gïetedallemh} {tjibredh}${verb,vowc|tjabredh}.
+Aaj tsaepmemem gusnie {gøøkte}${num,ascii|göökte} nyjsenæjjah jallh almah
+ektesne årrodh tjuara {giehtjedidh}${verb,ascii|gïehtjedidh}. Jienebh
+vierhtieh {krievedh}${verb,ascii|krïevedh} prostitusjovnem {jih}${cc,ascii|jïh}
+{almejthåesiestimmiem}${noun,meta|almetjeåesiestimmiem} dåastoelidh.
 
 17.   Gaajhkh gieriesvoete lea buerie gieriesvoete
-Ektievoetelaakem gusnie eah joekehts nyjsenäjjaj$(noun,ascii|nyjsenæjjaj)
-jih$(cc,ascii|jïh) almaj gaskem leah edtja aajketje
-bihkedidh$(verb,ascii|bïhkedidh). Hatsvesdarjomh
-homosexuellij$(x,mix|homoseksuelli), bisexuellij$(x,mix|biseksuelli)
-jih$(cc,ascii|jïh) transealmetjij$(noun,mix|traansealmetji) vööste edtja
-vuastalidh guktie laakem tjirkedh jih$(cc,ascii|jïh) buerebe dam
+Ektievoetelaakem gusnie eah joekehts {nyjsenäjjaj}${noun,ascii|nyjsenæjjaj}
+{jih}${cc,ascii|jïh} almaj gaskem leah edtja aajketje
+{bihkedidh}${verb,ascii|bïhkedidh}. Hatsvesdarjomh
+{homosexuellij}${x,mix|homoseksuelli}, {bisexuellij}${x,mix|biseksuelli}
+{jih}${cc,ascii|jïh} {transealmetjij}${noun,mix|traansealmetji} vööste edtja
+vuastalidh guktie laakem tjirkedh {jih}${cc,ascii|jïh} buerebe dam
 biejverdalledh. Learoevierhtieh eah edtjh ovmaahtoem
-bäjjanidh$(verb,ascii|bæjjanidh). Sveerje edtja FN’esne$(acr,suf|FN:sne)
+{bäjjanidh}${verb,ascii|bæjjanidh}. Sveerje edtja {FN’esne}${acr,suf|FN:sne}
 barkedh neerrehtimmiem almetjidie dan gaavhtan
-sexualijen$(x,mix|seksuellen) voetem jallh dej
-identijtetem$(noun,mix|identiteetem) tjöödtjehtidh.
+{sexualijen}${x,mix|seksuellen} voetem jallh dej
+{identijtetem}${noun,mix|identiteetem} tjöödtjehtidh.
 
-18. Seammavierhtege jih$(cc,ascii|jïh) jåerhkeme
-eejteghmaaksoem$(noun,con|eejhteghmaaksoem)
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-eejteghmaaksoem$(noun,con|eejhteghmaaksoem) jåerhkedh 18 askide. Dej 18
-askijstie$(noun,suf|askijste) sijhtebe$(verb,ascii|sïjhtebe)
-fiereguhtese$(indef,ascii|fïereguhtese) gåalmehts
-gorreldidh$(verb,con|gorredidh). Gåabpegh maehtiejægan askem maanine
-gåetesne seamma aejkien årrodh. Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-jeatjah goh (dihte$(dem,ascii|dïhte) gie maanan
-syjhtedh)£(noun,x,acksg,gensg,x|dïhte gie maanam syjhtedh) (maahta
-eejteghmaaksoem$(noun,con|eejhteghmaaksoem) åådtje)£(verb,x,x,x,x|maahtah
-eejhteghmaaksoem åadtjodh). Eejtegh edtjijægan
-loejehtsvoetem$(noun,mix|loejhtesvoetem) veeljedh
-maanasåajhtoenhammoem$(noun,vowc|maanasåjhtoenhammoem).
-Siebredahken$(noun,vow|Siebriedahken) dåarjoe maanasåjhtose {edtja gaajhkh
+18. Seammavierhtege {jih}${cc,ascii|jïh} jåerhkeme
+{eejteghmaaksoem}${noun,con|eejhteghmaaksoem}
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{eejteghmaaksoem}${noun,con|eejhteghmaaksoem} jåerhkedh 18 askide. Dej 18
+{askijstie}${noun,suf|askijste} {sijhtebe}${verb,ascii|sïjhtebe}
+{fiereguhtese}${indef,ascii|fïereguhtese} gåalmehts
+{gorreldidh}${verb,con|gorredidh}. Gåabpegh maehtiejægan askem maanine
+gåetesne seamma aejkien årrodh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+jeatjah goh {{dihte}${dem,ascii|dïhte} gie maanan
+{syjhtedh}}£{noun,x,acksg,gensg,x|dïhte gie maanam syjhtedh} (maahta
+{eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}}£{verb,x,x,x,x|maahtah
+eejhteghmaaksoem åadtjodh}. Eejtegh edtjijægan
+{loejehtsvoetem}${noun,mix|loejhtesvoetem} veeljedh
+{maanasåajhtoenhammoem}${noun,vowc|maanasåjhtoenhammoem}.
+{Siebredahken}${noun,vow|Siebriedahken} dåarjoe maanasåjhtose {edtja gaajhkh
 maanide båetedh}£{x,x,x,x,x|edtja gaajhkide maanide båetedh}.
 
-19. Båarasåbpoej reaktah nännostämman$(noun,ascii|nænnoestæmman)
-jih$(cc,ascii|jïh) jearsoevoetese
-Fadderijdarjomh$(noun,suf|Fadderidarjomh) gusnie båarasåbpoeh
-jih$(cc,ascii|jïh) noerh sinsitniem viehkiehtidh edtja evtiedidh.
-Båarasåabpoeh$(adj,vowc|Båarasåbpoeh) edtja stuerebe
-nännostimmiem$(noun,mix|nænnoestimmiem) guktie såjhtoem edtja årrodh
-jih$(cc,ascii|jïh) okteghvoeteste båetedh. Jienebh båarasåbpoekollektijvh
-jih$(cc,ascii|jïh) jeatjah årromeveeljemh daarpesjieh.
-Garantijevoeresijmaaksoem$(noun,cmp|Garantijevoeresemaaksoem) edtja
-jieniedidh jih$(cc,ascii|jïh)
-deemenseskiemtjesåjhtose$(noun,mix|demeenseskïemtjesåjhtose)
-jeenjede$(adj,suf|jeenjebe) vierhtieh vedtedh.
+19. Båarasåbpoej reaktah {nännostämman}${noun,ascii|nænnoestæmman}
+{jih}${cc,ascii|jïh} jearsoevoetese
+{Fadderijdarjomh}${noun,suf|Fadderidarjomh} gusnie båarasåbpoeh
+{jih}${cc,ascii|jïh} noerh sinsitniem viehkiehtidh edtja evtiedidh.
+{Båarasåabpoeh}${adj,vowc|Båarasåbpoeh} edtja stuerebe
+{nännostimmiem}${noun,mix|nænnoestimmiem} guktie såjhtoem edtja årrodh
+{jih}${cc,ascii|jïh} okteghvoeteste båetedh. Jienebh båarasåbpoekollektijvh
+{jih}${cc,ascii|jïh} jeatjah årromeveeljemh daarpesjieh.
+{Garantijevoeresijmaaksoem}${noun,cmp|Garantijevoeresemaaksoem} edtja
+jieniedidh {jih}${cc,ascii|jïh}
+{deemenseskiemtjesåjhtose}${noun,mix|demeenseskïemtjesåjhtose}
+{jeenjede}${adj,suf|jeenjebe} vierhtieh vedtedh.
 
-20. Reaktah årromesæjjan – maadtoe jijtsefaamojde$(noun,mix|jïjtjefaamojde)
+20. Reaktah årromesæjjan – maadtoe {jijtsefaamojde}${noun,mix|jïjtjefaamojde}
 {Gaajhkesh leah reakta årromesæjjan}£{x,x,x,x,x|Gaajhkesi leah reaktah
 årromesæjjan}. Goh dah gåetehts nuepie bååstede båetedh buerede
-jieledasse$(noun,svow|jieliedasse) daarpesje jienebh årromesijjieh mah leah
-sjiere$(adj,ascii|sjïere) almetjasse sjeahtadovvedh, dovne
-öökonomijen$(noun,vowc|ekonomijen) jih$(cc,ascii|jïh)
-sosijalen$(adj,vow|sosijaalen) perspektijvistie$(noun,suf|perspektijveste).
-Orre sosojalen$(adj,mix|sosijaalen) viermieh årromesijjiejgujmie lea
+{jieledasse}${noun,svow|jieliedasse} daarpesje jienebh årromesijjieh mah leah
+{sjiere}${adj,ascii|sjïere} almetjasse sjeahtadovvedh, dovne
+{öökonomijen}${noun,vowc|ekonomijen} {jih}${cc,ascii|jïh}
+{sosijalen}${adj,vow|sosijaalen} {perspektijvistie}${noun,suf|perspektijveste}.
+Orre {sosojalen}${adj,mix|sosijaalen} viermieh årromesijjiejgujmie lea
 vihkeles.
 
-21. Læjhkoeh$(verb,con|Læjkoeh) baeniesåjhtoem
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) orre daamhtesh$(x,x|damtesh)
-baeniesåjhtoetjirkemem maam maaksoem vuelene$(verb,con|vuelede) dejtie
-giejtie dam daarpesjidh jih$(cc,ascii|jïh) buerebe baeniehealsoem.
-Dihte$(dem,ascii|Dïhte) åvtesbarkeme jih$(cc,ascii|jïh)
-healsoevetiedimmie$(noun,meta|healsoeevtiedimmie) perspektijvem
-nännoeste$(vern,mix|nænnoste). Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-loejhtsbaeniesåjhtoe$(noun,vow|loejhtesbaeniesåjhtoe) 20 jaepeste 25 jaapan
+21. {Læjhkoeh}${verb,con|Læjkoeh} baeniesåjhtoem
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} orre {daamhtesh}${x,x|damtesh}
+baeniesåjhtoetjirkemem maam maaksoem {vuelene}${verb,con|vuelede} dejtie
+giejtie dam daarpesjidh {jih}${cc,ascii|jïh} buerebe baeniehealsoem.
+{Dihte}${dem,ascii|Dïhte} åvtesbarkeme {jih}${cc,ascii|jïh}
+{healsoevetiedimmie}${noun,meta|healsoeevtiedimmie} perspektijvem
+{nännoeste}${vern,mix|nænnoste}. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{loejhtsbaeniesåjhtoe}${noun,vow|loejhtesbaeniesåjhtoe} 20 jaepeste 25 jaapan
 jieniedidh.
 
 22. Heaptojde
 Ovjaksoe lea neerrehtimmie – {almetjh heaptoejgujmie edtja nuepieh
 utnedh}£{verb,x,pl3prs,sg3prs,x|almetjh heaptoejgujmie edtjieh nuepieh
-utnedh} meatan årrodh ellies vyøhkesadtememem$(x,mix|vyöhkesjadtemem).
+utnedh} meatan årrodh ellies {vyøhkesadtememem}${x,mix|vyöhkesjadtemem}.
 
-23. Tjirkh gæamhpoem$(noun,vow|gæmhpoem)
-tjiertediblemen$(noun,ascii|tjïertediblemen) jih$(cc,ascii|jïh)
+23. Tjirkh {gæamhpoem}${noun,vow|gæmhpoem}
+{tjiertediblemen}${noun,ascii|tjïertediblemen} {jih}${cc,ascii|jïh}
 neerrehtimmien vööste Gaajhkh hammoeh
-neerrehtimmeste galka vuastalidh. Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-maaksoem jieniedidh dejtie sjiere$(adj,ascii|sjïere) almetjidie giejtie
+neerrehtimmeste galka vuastalidh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+maaksoem jieniedidh dejtie {sjiere}${adj,ascii|sjïere} almetjidie giejtie
 barkoesijjesne jallh byjjesreeremistie neerrehtidh. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) tjirkedh jih$(cc,ascii|jïh) jieniedidh
-byjres antijneerrehtimmiereeremh$(noun,con|antineerrehtimmiereeremh). Edtja
-biejedh$(verb,ascii|bïejedh) löövles diedtesem$(noun,ascii|dïedtesem)
-aalkoem tjiertediblemem$(noun,ascii|tjïertediblemem) jih$(cc,ascii|jïh)
+{sijhtebe}${verb,ascii|sïjhtebe} tjirkedh {jih}${cc,ascii|jïh} jieniedidh
+byjres {antijneerrehtimmiereeremh}${noun,con|antineerrehtimmiereeremh}. Edtja
+{biejedh}${verb,ascii|bïejedh} löövles {diedtesem}${noun,ascii|dïedtesem}
+aalkoem {tjiertediblemem}${noun,ascii|tjïertediblemem} {jih}${cc,ascii|jïh}
 neerrehtimmiem vuastalidh.
 
-24. Humanijen baataræjjapolitigke$(noun,conc|baataræjjapolitihke)
-Mijieh$(pers,con|Mijjieh) sijhtebe$(verb,ascii|sïjhtebe) raerie-
-bueriem$(noun,x|raeriebueriem)
-baataræjjapolitigkem$(noun,conc|baataræjjapolitihkem) gusnie gaajhkh
-almejth$(noun,meta|almetjh) krööhkestimmiejgujmie
-gietedalledh$(verb,ascii|gïetedalledh). Maanaj bööremes edtja
-voestems$(num,con|voestes) biejedh$(verb,ascii|bïejedh) gosse gaajhkh
-baataräjja-ieremh$(noun,mix|baataræjjaierieh) vierhtiedidh.
-Dihte$(dem,ascii|Dïhte) dan gaavhtan byjjesreeremen
-gietedalleme$(verb,ascii|gïetedalleme) guhkebe goh jaepiem vuertieminie
+24. Humanijen {baataræjjapolitigke}${noun,conc|baataræjjapolitihke}
+{Mijieh}${pers,con|Mijjieh} {sijhtebe}${verb,ascii|sïjhtebe} raerie-
+{bueriem}${noun,x|raeriebueriem}
+{baataræjjapolitigkem}${noun,conc|baataræjjapolitihkem} gusnie gaajhkh
+{almejth}${noun,meta|almetjh} krööhkestimmiejgujmie
+{gietedalledh}${verb,ascii|gïetedalledh}. Maanaj bööremes edtja
+{voestems}${num,con|voestes} {biejedh}${verb,ascii|bïejedh} gosse gaajhkh
+{baataräjja-ieremh}${noun,mix|baataræjjaierieh} vierhtiedidh.
+{Dihte}${dem,ascii|Dïhte} dan gaavhtan byjjesreeremen
+{gietedalleme}${verb,ascii|gïetedalleme} guhkebe goh jaepiem vuertieminie
 edtja laantesne årrodh.
 
-25. Buerebe tsiehkieh learohkidie$(noun,svow|learoehkidie)
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) jieniedidh
-ööhpehtimmienviehtiehbieliem$(noun,mix|ööhpehtimmienvierhtiebieliem) 1000
-kråvnajgujmie askesne. Nuepie jilleskuvlesne$(noun,ascii|jïlleskuvlesne)
-lohkehtidh jih$(cc,ascii|jïh) universitetsne$(noun,mix|universiteetesne)
-gosse båarasåbpoe sjidtieh edtja buaranidh. Dihte$(dem,ascii|Dïhte)
-raase$(noun,con|raaste) man jijnjh$(indef,ascii|jïjnjh) learohke åådtje
-barkojste dienesjidh$(verb,ascii|dïenesjidh) edtja jieniedidh
-jih$(cc,ascii|jïh) aaj dam
-ööhepehtimmievierhtiem$(noun,mix|ööhpehtimmievierhtiem) utnedh. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) buaranidh jih$(cc,ascii|jïh) aelhkebe
-darjodh dah sosijalen$(vow|sosijaalen) vaarjelimmieviermiem
-learohkidie$(noun,svow|learoehkidie) guktie dihte$(dem,ascii|dïhte)
-seammalaakan goh barkijstie$(noun,suf|barkijistie)
-sjidtedh$(verb,ascii|sjïdtedh).
+25. Buerebe tsiehkieh {learohkidie}${noun,svow|learoehkidie}
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} jieniedidh
+{ööhpehtimmienviehtiehbieliem}${noun,mix|ööhpehtimmienvierhtiebieliem} 1000
+kråvnajgujmie askesne. Nuepie {jilleskuvlesne}${noun,ascii|jïlleskuvlesne}
+lohkehtidh {jih}${cc,ascii|jïh} {universitetsne}${noun,mix|universiteetesne}
+gosse båarasåbpoe sjidtieh edtja buaranidh. {Dihte}${dem,ascii|Dïhte}
+{raase}${noun,con|raaste} man {jijnjh}${indef,ascii|jïjnjh} learohke åådtje
+barkojste {dienesjidh}${verb,ascii|dïenesjidh} edtja jieniedidh
+{jih}${cc,ascii|jïh} aaj dam
+{ööhepehtimmievierhtiem}${noun,mix|ööhpehtimmievierhtiem} utnedh. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} buaranidh {jih}${cc,ascii|jïh} aelhkebe
+darjodh dah {sosijalen}${vow|sosijaalen} vaarjelimmieviermiem
+{learohkidie}${noun,svow|learoehkidie} guktie {dihte}${dem,ascii|dïhte}
+seammalaakan goh {barkijstie}${noun,suf|barkijistie}
+{sjidtedh}${verb,ascii|sjïdtedh}.
 
-26. Kreatijve jih$(cc,ascii|jïh) loejhts$(adj,vow|loejhtes) skuvle
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-täjmoeplaanem$(noun,ascii|tæjmoeplaanem) destie vaeltedh jih$(cc,ascii|jïh)
-tjielten$(noun,ascii|tjïelten) skuvlide vedtedh seamma
-loejehtsvoetem$(noun,meta|loejhtesvoetem) goh dah
-loejhtsskuvlh$(noun,vow|loejhtesskuvlh). Dah barkoeööhpehtimmieh
-jih$(cc,ascii|jïh) learohkesijjieh edtjieh tjirkedh. Learohke edtja
-meatna$(pp,meta|meatan) jih$(cc,ascii|jïh) nuepie årrodh
-seammavierhtegeööhpetimmiem$(noun,con|seammavierhtegeööhpehtimmiem)
-vaadtsa. Mijjieh sijhtebe$(verb,ascii|sïjhtebe) skuvle edtja gohkeldahkesne
-maahtoem skreejredidh$(verb,x|skreejrehtidh), dan åvteste mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) jeatjahdehtedh$(verb,con|jeatjahtehtedh)
-daanbeajjetjen vierhtiehöörneme$(noun,cmp|vierhtieöörneme).
+26. Kreatijve {jih}${cc,ascii|jïh} {loejhts}${adj,vow|loejhtes} skuvle
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{täjmoeplaanem}${noun,ascii|tæjmoeplaanem} destie vaeltedh {jih}${cc,ascii|jïh}
+{tjielten}${noun,ascii|tjïelten} skuvlide vedtedh seamma
+{loejehtsvoetem}${noun,meta|loejhtesvoetem} goh dah
+{loejhtsskuvlh}${noun,vow|loejhtesskuvlh}. Dah barkoeööhpehtimmieh
+{jih}${cc,ascii|jïh} learohkesijjieh edtjieh tjirkedh. Learohke edtja
+{meatna}${pp,meta|meatan} {jih}${cc,ascii|jïh} nuepie årrodh
+{seammavierhtegeööhpetimmiem}${noun,con|seammavierhtegeööhpehtimmiem}
+vaadtsa. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} skuvle edtja gohkeldahkesne
+maahtoem {skreejredidh}${verb,x|skreejrehtidh}, dan åvteste mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} {jeatjahdehtedh}${verb,con|jeatjahtehtedh}
+daanbeajjetjen {vierhtiehöörneme}${noun,cmp|vierhtieöörneme}.
 
-27. Lihkessåjhtoe$(noun,ascii|Lïhkessåjhtoe) buerebe healsojde
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) healsoebuaranamme jih$(cc,ascii|jïh)
+27. {Lihkessåjhtoe}${noun,ascii|Lïhkessåjhtoe} buerebe healsojde
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} healsoebuaranamme {jih}${cc,ascii|jïh}
 åvtesbigkeme såjhtoem tjirkedh. Såjhtoe edtja seammavierhtege årrodh,
-lihke$(adj,ascii|lïhke) dah otnegh årrodh jih$(cc,ascii|jïh) gamte
-medisijnen maahtoem jih$(cc,ascii|jïh)
-psykososijalen$(x,vow|psykososijaalen) maahtoem årrodh. Maahtoe dah
-joekehts nyjsenäjjaj$(noun,ascii|nyjsenæjjaj) jih$(cc,ascii|jïh) almaj
-gaskem healsoe jih$(cc,ascii|jïh) skiemtjelassh$(noun,ascii|skïemtjelassh)
-tjuara jieniedidh. Joekoen tjuara unndede$(verb,mix|unnede) dam psykijen
-ovhealsoe. Målsohthlaakan$(adv,mix|Molsehthlaakan)- jih$(cc,ascii|jïh)
-komplementärmedisijnem edtja healsoe- jih$(cc,ascii|jïh)
-skiemtjesåjhtoen$(noun,ascii|skïemtjesåjhtoen) sisnie
-biejedh$(verb,ascii|bïejedh).
+{lihke}${adj,ascii|lïhke} dah otnegh årrodh {jih}${cc,ascii|jïh} gamte
+medisijnen maahtoem {jih}${cc,ascii|jïh}
+{psykososijalen}${x,vow|psykososijaalen} maahtoem årrodh. Maahtoe dah
+joekehts {nyjsenäjjaj}${noun,ascii|nyjsenæjjaj} {jih}${cc,ascii|jïh} almaj
+gaskem healsoe {jih}${cc,ascii|jïh} {skiemtjelassh}${noun,ascii|skïemtjelassh}
+tjuara jieniedidh. Joekoen tjuara {unndede}${verb,mix|unnede} dam psykijen
+ovhealsoe. {Målsohthlaakan}${adv,mix|Molsehthlaakan}- {jih}${cc,ascii|jïh}
+komplementärmedisijnem edtja healsoe- {jih}${cc,ascii|jïh}
+{skiemtjesåjhtoen}${noun,ascii|skïemtjesåjhtoen} sisnie
+{biejedh}${verb,ascii|bïejedh}.
 
-28. Jijtjereerehke$(noun,ascii|Jïjtjereerehke)
-alkohovlepolitigke$(noun,conc|alkohovlepolitihke)
-Edtja viht$(x,con|vihth) låhkoem årrodh man jijnjh$(indef,ascii|jïjnjh) lea
-luhpie alkohovlijstie$(noun,suf|alkohovlijste) laantese vaeltedh
-jih$(cc,ascii|jïh) aaj ij edtjh luhpie dejtie
-reklameredh$(verb,vow|reklameeredh). (Systembolagen
-alkohovlemovopovlem$(noun,con|alkohovlemonopovlem) edtja
-årrodh)£(noun,x,nomsg,acksg,x|Systembolagen alkohovlemonopovle edtja
-årrodh). Ibie sijhth$(verb,ascii|sïjhth) alkohovleskaehtiem vueliedidh.
+28. {Jijtjereerehke}${noun,ascii|Jïjtjereerehke}
+{alkohovlepolitigke}${noun,conc|alkohovlepolitihke}
+Edtja {viht}${x,con|vihth} låhkoem årrodh man {jijnjh}${indef,ascii|jïjnjh} lea
+luhpie {alkohovlijstie}${noun,suf|alkohovlijste} laantese vaeltedh
+{jih}${cc,ascii|jïh} aaj ij edtjh luhpie dejtie
+{reklameredh}${verb,vow|reklameeredh}. (Systembolagen
+{alkohovlemovopovlem}${noun,con|alkohovlemonopovlem} edtja
+{årrodh}}£{noun,x,nomsg,acksg,x|Systembolagen alkohovlemonopovle edtja
+årrodh}. Ibie {sijhth}${verb,ascii|sïjhth} alkohovleskaehtiem vueliedidh.
 
 29. Kultuvre gaajhkide
-Miljarde$(noun,vow|Millijaarde) kråvnah edtja biejedh$(verb,ascii|bïejedh)
-guktie kultuvre jienebidie$(indef,svow|jieniebidie) jaksoes
-sjidtedh$(verb,ascii|sjïdtedh) jih$(cc,ascii|jïh) dah barkoetsiehkiem
-dejtie kultuvrebarkidie$(noun,vow|kultuvrebarkijidie) buaranidh. Maanah
-jih$(cc,ascii|jïh) noerh galkieh$(verb,vowc|gelkieh) nuepieh åadtjodh
-jeenjebe kultuvrem giehtelidh$(verb,ascii|gïehtelidh) jih$(cc,ascii|jïh)
-dååjrehtidh. Amatörekultuvre$(noun,vow|Amatöörekultuvre) edtja vierhtine
+{Miljarde}${noun,vow|Millijaarde} kråvnah edtja {biejedh}${verb,ascii|bïejedh}
+guktie kultuvre {jienebidie}${indef,svow|jieniebidie} jaksoes
+{sjidtedh}${verb,ascii|sjïdtedh} {jih}${cc,ascii|jïh} dah barkoetsiehkiem
+dejtie {kultuvrebarkidie}${noun,vow|kultuvrebarkijidie} buaranidh. Maanah
+{jih}${cc,ascii|jïh} noerh {galkieh}${verb,vowc|gelkieh} nuepieh åadtjodh
+jeenjebe kultuvrem {giehtelidh}${verb,ascii|gïehtelidh} {jih}${cc,ascii|jïh}
+dååjrehtidh. {Amatörekultuvre}${noun,vow|Amatöörekultuvre} edtja vierhtine
 nænnoestidh. Edtja laakem båetedh dan uvte eah maehtieh man
-jijnjh$(indef,ascii|jïjnjh) medijisnie$(noun,mix|meediasne) eekedh.
-Vååleseleesseme vuesiehtimmien gaavhtan musigke$(noun,conc|musihke)
-jih$(cc,ascii|jïh) svihtjh-guvvieh$(noun,mix|svïhtjhguvvie)
-sjiere$(adj,ascii|sjïere) almetjidie lea luhpie. Dah gieh$(x,ascii|gïeh)
+{jijnjh}${indef,ascii|jïjnjh} {medijisnie}${noun,mix|meediasne} eekedh.
+Vååleseleesseme vuesiehtimmien gaavhtan {musigke}${noun,conc|musihke}
+{jih}${cc,ascii|jïh} {svihtjh-guvvieh}${noun,mix|svïhtjhguvvie}
+{sjiere}${adj,ascii|sjïere} almetjidie lea luhpie. Dah {gieh}${x,ascii|gïeh}
 dam dorjeme edtja maakseme åadtjodh jeatjhlaakan vuekine.
 
-30. Vyøhkesadteme$(verb,ascii|Vyöhkesadteme) demokratije
+30. {Vyøhkesadteme}${verb,ascii|Vyöhkesadteme} demokratije
 Staaten otnegh edtjieh jienebh nuepieh dah
-politigken$(noun,conc|politihken) nännostimmieh$(noun,mix|nænnoestimmieh)
-tsevtsesovveminie$(verb,vow|tsavtsasovveminie). Staaten otnegh edtjieh
-jijtse$(refl,ascii|jïjtse) uvtelassh gaajhkide
-tjieltide$(noun,ascii|tjïeltide) jih$(cc,ascii|jïh) laantedigkide
-biejedh$(verb,ascii|bïejedh). Otnegij$(noun,suf|Otnegi)
-initiatijveraktam$(noun,vowc|initiatijvereaktam)
-åålmeghveeljemasse$(noun,cmp|åålmegeveeljemasse) edtja båetedh. Man båeries
-edtja årrodh veeljedh åaddtjodh$(verb,con|åadtjodh) edtja 16 jaapan
+{politigken}${noun,conc|politihken} {nännostimmieh}${noun,mix|nænnoestimmieh}
+{tsevtsesovveminie}${verb,vow|tsavtsasovveminie}. Staaten otnegh edtjieh
+{jijtse}${refl,ascii|jïjtse} uvtelassh gaajhkide
+{tjieltide}${noun,ascii|tjïeltide} {jih}${cc,ascii|jïh} laantedigkide
+{biejedh}${verb,ascii|bïejedh}. {Otnegij}${noun,suf|Otnegi}
+{initiatijveraktam}${noun,vowc|initiatijvereaktam}
+{åålmeghveeljemasse}${noun,cmp|åålmegeveeljemasse} edtja båetedh. Man båeries
+edtja årrodh veeljedh {åaddtjodh}${verb,con|åadtjodh} edtja 16 jaapan
 vueliedidh.
 
-31. Aalkoalmetjij$(noun,mix|Aalkoealmetji) reaktah Ursprungsfolks
+31. {Aalkoalmetjij}${noun,mix|Aalkoealmetji} reaktah Ursprungsfolks
 rättigheter
-Sijtebe$(verb,mix|Sïjhtebe) Sveerje edtja ILO-169
-aalkoealmetjij$(noun,suf|aalkoealmetji) reaktaj bijre$(pp,ascii|bïjre)
+{Sijtebe}${verb,mix|Sïjhtebe} Sveerje edtja ILO-169
+{aalkoealmetjij}${noun,suf|aalkoealmetji} reaktaj {bijre}${pp,ascii|bïjre}
 dåhkasjehtedh. Destie båata vuesiehtimmien gaavhtan saemiej reaktah båeries
-jielemesjiehtesjimmieh$(noun,ascii|jielemesjïehtesjimmieh)
-eatnemasse$(noun,svow|eatnamasse) jih$(cc,ascii|jïh) tjaatsan edtja
-biejverdalledh jih$(cc,ascii|jïh) vaarjelidh.
+{jielemesjiehtesjimmieh}${noun,ascii|jielemesjïehtesjimmieh}
+{eatnemasse}${noun,svow|eatnamasse} {jih}${cc,ascii|jïh} tjaatsan edtja
+biejverdalledh {jih}${cc,ascii|jïh} vaarjelidh.
 
-32. Nænnosth almetjij$(noun,suf|almetji) reaktah Stärk folkets rättigheter
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) otnegh tjerkebe reaktah byjjes
-liehtestehtemasse$(noun,svow|liehtestehtiemasse) vedtedh, goh
-skiemtjesåjhtoe$(noun,ascii|skïemtjesåjhtoe), skuvle,
-universitet$(noun,vow|universiteete), maanasyjhtemisnie jih$(cc,ascii|jïh)
-båarasåbpoesyjhtemisnie. Mijjieh aaj sijhtebe$(verb,ascii|sïjhtebe)
-otneghmååhtedimmiem$(noun,cmp|otnegemååhtedimmiem) barkedh, dan
-byjjesviehkiehtimisnie$(noun,mix|byjjesviehkiehtimmesne) juktie dah mah
-leah dåajvoehtamme maahta diedtem$(noun,ascii|dïedtem) destie
-krievedh$(verb,ascii|krïevedh), reaktine, jis eah dam åadtjoeh, maaksose.
+32. Nænnosth {almetjij}${noun,suf|almetji} reaktah Stärk folkets rättigheter
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} otnegh tjerkebe reaktah byjjes
+{liehtestehtemasse}${noun,svow|liehtestehtiemasse} vedtedh, goh
+{skiemtjesåjhtoe}${noun,ascii|skïemtjesåjhtoe}, skuvle,
+{universitet}${noun,vow|universiteete}, maanasyjhtemisnie {jih}${cc,ascii|jïh}
+båarasåbpoesyjhtemisnie. Mijjieh aaj {sijhtebe}${verb,ascii|sïjhtebe}
+{otneghmååhtedimmiem}${noun,cmp|otnegemååhtedimmiem} barkedh, dan
+{byjjesviehkiehtimisnie}${noun,mix|byjjesviehkiehtimmesne} juktie dah mah
+leah dåajvoehtamme maahta {diedtem}${noun,ascii|dïedtem} destie
+{krievedh}${verb,ascii|krïevedh}, reaktine, jis eah dam åadtjoeh, maaksose.
 
-33. Ijje EU’en$(acr,suf|EU:n) maadthlaakese
+33. Ijje {EU’en}${acr,suf|EU:n} maadthlaakese
 Faamoe edtja dajveles hammoe sjiehteles guktie
-nännoestimmieh$(noun,ascii|nænnoestimmieh) lihkebe$(adj,ascii|lïhkebe)
-dejtie otnegidie. Siebredahke$(noun,vow|Siebriedahke) tjuara nueleste
+{nännoestimmieh}${noun,ascii|nænnoestimmieh} {lihkebe}${adj,ascii|lïhkebe}
+dejtie otnegidie. {Siebredahke}${noun,vow|Siebriedahke} tjuara nueleste
 bigkedh. Mijjieh dan åvteste vuastalieh maadthlaaken
-EU’ide$(acr,suf|EU:ide) nännoste$(verb,ascii|nænnoste). Mijjieh
-krievebe$(verb,ascii|krïevebe) åålmegveeljemem$(noun,vow|åålmegeveeljemem)
-EU’en$(acr,suf|EU:n) maadthlaaken bijre$(pp,ascii|bïjre). Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) Sveerja$(prop,vow|Sveerje) edtja
-EU’em$(acr,suf|EU:m) baetsedh jih$(cc,ascii|jïh) jeatjah haamojde
-europeijen$(adj,mix|europeiske) ektiebarkoem barkedh.
+{EU’ide}${acr,suf|EU:ide} {nännoste}${verb,ascii|nænnoste}. Mijjieh
+{krievebe}${verb,ascii|krïevebe} {åålmegveeljemem}${noun,vow|åålmegeveeljemem}
+{EU’en}${acr,suf|EU:n} maadthlaaken {bijre}${pp,ascii|bïjre}. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} {Sveerja}${prop,vow|Sveerje} edtja
+{EU’em}${acr,suf|EU:m} baetsedh {jih}${cc,ascii|jïh} jeatjah haamojde
+{europeijen}${adj,mix|europeiske} ektiebarkoem barkedh.
 
 34. Raeffies vearelde
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) sveerjen
-milijtären$(noun,mix|militææren) dåastoelimmiem bieliem juekedh
-jih$(cc,ascii|jïh) vierhtieh destie vaeltedh jeatjah
-siebredahkendajvese$(noun,x|siebriedahkendajvese). Sveerje edtja
-FN’esne$(acr,suf|FN:sne) barkedh tsalloeh
-gietedalledh$(verb,ascii|gïetedalledh) jih$(cc,ascii|jïh) dåastoelidh.
-Sivijlen europeijen$(adj,mix|europeiske) raeffiedåehkie edtja årrodh. Dam
-internasjovnalen$(x,mix|internasjonaalen) vuekiem
-juhtjijh$(noun,mix|juhtijh) siebredahkah$(noun,mix|siebriedahkh) bigkedh
-tsalloj$(noun,suf|tsalloej) minngelen edtja
-nännoestidh$(verb,ascii|nænnoestidh). Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) vaekniehexportem$(noun,mix|vaeknie-
-eksportem) orrijehtedh.
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} sveerjen
+{milijtären}${noun,mix|militææren} dåastoelimmiem bieliem juekedh
+{jih}${cc,ascii|jïh} vierhtieh destie vaeltedh jeatjah
+{siebredahkendajvese}${noun,x|siebriedahkendajvese}. Sveerje edtja
+{FN’esne}${acr,suf|FN:sne} barkedh tsalloeh
+{gietedalledh}${verb,ascii|gïetedalledh} {jih}${cc,ascii|jïh} dåastoelidh.
+Sivijlen {europeijen}${adj,mix|europeiske} raeffiedåehkie edtja årrodh. Dam
+{internasjovnalen}${x,mix|internasjonaalen} vuekiem
+{juhtjijh}${noun,mix|juhtijh} {siebredahkah}${noun,mix|siebriedahkh} bigkedh
+{tsalloj}${noun,suf|tsalloej} minngelen edtja
+{nännoestidh}${verb,ascii|nænnoestidh}. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} {vaekniehexportem}${noun,mix|vaeknie-
+eksportem} orrijehtedh.
 
 35. Riektese vearelde
-Mijjieh sijhtebe$(verb,ascii|sïjhtebe) riektesen$(x,ascii|rïektesen)
-åesiestimmie veareldisnie$(noun,svow|vearaldisnie). Giefies
-laantij$(noun,suf|laanti) laajkoeh edtja dejstie tjaeledh. Byjjes gaajhkh
-daltesinie edtja vaedtsiehtidh jih$(cc,ascii|jïh)
-etigken$(noun,conc|etihken) kriebpesjimmieh$(noun,ascii|krïebpesjimmieh)
-krievedh$(verb,ascii|krïevedh) gosse åesiestidh. Skaehtiem
-beetnegijtransaksjovnisnie$(noun,mix|beetnehtransaksjovnesne),
-internasjovnen€(adj,w|internasjonaale)
-girtiefealadimmmieh$(noun,con|girtiefealadimmieh) jih$(cc,ascii|jïh)
-vaeknieåesiestimmie edtja båetedh jih$(cc,ascii|jïh) dam provhkedh
-extremen$(x,ascii|ekstreemen) giefiesvoetem jih$(cc,ascii|jïh) nealkoem
-dåastoehtidh. Mijjieh sijhtebe$(verb,ascii|sïjhtebe)
-globan$(noun,mix|globaale) vuepisie$(noun,vow|vuepsie) nullenielkien
-bijre$(pp,ascii|bïjre). Viehkiem edtja guedtijes
-öövtiedimmiem$(noun,vow|övtiedimmiem) evtiedidh. Mijjieh
-sijhtebe$(verb,ascii|sïjhtebe) momsem vueliedidh
-staeriesvoetenmierhkeme$(noun,ascii|staeriesvoetenmïerhkeme) aatide.
+Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} {riektesen}${x,ascii|rïektesen}
+åesiestimmie {veareldisnie}${noun,svow|vearaldisnie}. Giefies
+{laantij}${noun,suf|laanti} laajkoeh edtja dejstie tjaeledh. Byjjes gaajhkh
+daltesinie edtja vaedtsiehtidh {jih}${cc,ascii|jïh}
+{etigken}${noun,conc|etihken} {kriebpesjimmieh}${noun,ascii|krïebpesjimmieh}
+{krievedh}${verb,ascii|krïevedh} gosse åesiestidh. Skaehtiem
+{beetnegijtransaksjovnisnie}${noun,mix|beetnehtransaksjovnesne},
+{internasjovnen}€{adj,w|internasjonaale}
+{girtiefealadimmmieh}${noun,con|girtiefealadimmieh} {jih}${cc,ascii|jïh}
+vaeknieåesiestimmie edtja båetedh {jih}${cc,ascii|jïh} dam provhkedh
+{extremen}${x,ascii|ekstreemen} giefiesvoetem {jih}${cc,ascii|jïh} nealkoem
+dåastoehtidh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
+{globan}${noun,mix|globaale} {vuepisie}${noun,vow|vuepsie} nullenielkien
+{bijre}${pp,ascii|bïjre}. Viehkiem edtja guedtijes
+{öövtiedimmiem}${noun,vow|övtiedimmiem} evtiedidh. Mijjieh
+{sijhtebe}${verb,ascii|sïjhtebe} momsem vueliedidh
+{staeriesvoetenmierhkeme}${noun,ascii|staeriesvoetenmïerhkeme} aatide.
 
-36. Juvrij$(noun,suf|Juvri) reaktah
-Dah mah leah dorjeme gaagnadehtidh¢(verb,suf|gaagnadehtedh)
-jih$(cc,ascii|jïh) dåhkasjehtedh pryøvoevuekide$(noun,ascii|pryövoevuekide)
+36. {Juvrij}${noun,suf|Juvri} reaktah
+Dah mah leah dorjeme {gaagnadehtidh}¢{verb,suf|gaagnadehtedh}
+{jih}${cc,ascii|jïh} dåhkasjehtedh {pryøvoevuekide}${noun,ascii|pryövoevuekide}
 juvreböörenjeststehts edtja gelliengierts årrodh, guktie maahta
-juvreböörenjeststimmieh$(noun,mix|juvreböörenjestemh) orrijidh.
-Juvresaadtesimmieh edtjieh unniedidh tjirkes$(adj,ascii|tjïrkes)
-moenemij$(noun,suf|moenemi) tjirrh¢(pp,ascii|tjïrrh) jih$(cc,ascii|jïh)
-jienebh leekedimsgåatetjh$(leekedimmiegåatetjh). Juvrh eeledh mejgujmie
+{juvreböörenjeststimmieh}${noun,mix|juvreböörenjestemh} orrijidh.
+Juvresaadtesimmieh edtjieh unniedidh {tjirkes}${adj,ascii|tjïrkes}
+{moenemij}${noun,suf|moenemi} {tjirrh}¢{pp,ascii|tjïrrh} {jih}${cc,ascii|jïh}
+jienebh {leekedimsgåatetjh}${leekedimmiegåatetjh}. Juvrh eeledh mejgujmie
 eelemem mestie båajhtode sjædta edtja orrijidh.
