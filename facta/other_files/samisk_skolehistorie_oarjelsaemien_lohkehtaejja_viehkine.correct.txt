@@ -66,8 +66,8 @@ ovlæhkoe   {sjiere}¥{0}   {sjidti}${vowc,i-ï|sjïdti}   juktie    {tjijhtje}$
 {Dihte}${vowc,i-ï|Dïhte}   lij   voestes    saemie    {Raavrvijhkesne}${conc,vr-
 vrh|Raavrhvijhkesne}  guhte  gaertenem  åestieji  {jih}${vowc,i-ï|jïh}   dovne
 {gaerteninie}${vowlat,e-ie|gaertieninie}    {jih}${vowc,i-ï|jïh}    bovtsigujmie
-{giehteli}${vowc,i-ï|gïehteli}.    Goh     tjidtj`aahka     (jyønine$(vowc,yø-
-{yö|jyönine}¥{jyönine ektesne} oktegh beetsi, dellie  mov  eejhtegidie  gihtji
+{giehteli}${vowc,i-ï|gïehteli}.    Goh     tjidtj`aahka     {jyønine}${vowc,yø-
+{yö|jyönine}}¥{jyönine ektesne} oktegh beetsi, dellie  mov  eejhtegidie  gihtji
 viehkine båetedh, {jih}${vowc,i-ï|jïh}  mijjieh  ojhte  {Raavrvijhese}${conc,vr-
 vrh|Raavrhvijhkese} juhtiejimh.
 
@@ -230,7 +230,7 @@ Manne måjhtam jåvli åvtelen mijjieh  voenese  sedtesovvim  edtjimh  "Samenes
 venn"  doekedh.  Naaken  gujht  {øøstin}${vowc,øø-öö|ööstin},  mohte  jeatjebh
 idtjin  mijjen  doekemem  seatedh  gænnah.  Mijjieh  limh  voenen  maanijste
 {billeminie}${vowc,i-ï|bïlleminie}  {jih}${vowc,i-ï|jïh}   daate   lij   nimhtie
-guktie lim  vaajtelamme  ij  {dihte}${vowc,i-ï|dïhte}  deahpadamme.  
+guktie lim  vaajtelamme  ij  {dihte}${vowc,i-ï|dïhte}  deahpadamme.
 [Mijjieh
 libie  rektovrem  gihtjeme   man   gaavhtan   maanah   voenese   sedtesovvin
 Saemiemisjovnen plaeriem  doekedh.  {Dihte}${vowc,i-ï|Dïhte}  jeahta  ij  leah
@@ -300,7 +300,7 @@ faaleldahkem     dåastoeh.     Mijjieh     saemieh      åarjede      saemien
 almetjidie {mah}¥{gïeh} edtjin saelhtesne barkedh. Dan  mænngan  Hurtigrutesne
 bielie   jaepiem    {giehtelim}${vowc,i-ï|gïehtelim}.    Dan    mænngan    jis
 {ysteriesne}${vowlat,i-ij|ysterijesne} barkim  {aerebi}${init,ae-aa|aarebi}  goh
-akten  entrepenørfirmaesne$(XXX|entrepenörfirmasne(firma?))  eelkim.   Mohte
+akten  {entrepenørfirmaesne}${XXX|entrepenörfirmasne(firma?)}  eelkim.   Mohte
 tjåetskeme      nimhtie       barkedh       {goh}¥{0}       {{bigkeme-ålma}${hyph-
 0|bigkemeålma}{}}£{infl,sgnom-sgess|bigkemeålmine}     guktie     eajhnadovvim
 barkoem   gåetesne   ohtsedh.   Ohtsim   barkoeskuvlem    {jih}${vowc,i-ï|jïh}
