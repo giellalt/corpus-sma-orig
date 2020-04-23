@@ -33,8 +33,8 @@ aaj Åarjelsaemiej skuvlesne veedtsi. Dan øøhpehtimmieh$(vowc,øø-
 öö|ööhpehtimmieh) leah: Lohketæjja-øøhpehtimmie$(vowc,øø-öö;hyph-
 0|Lohkehtæjjaööhpehtimmie) Bodøen (lohkehtæjja jilleskuvleste$(vowc,i-
 ï|jïlleskuvleste))¥(cmp,2-1|lohkehtæjjajïlleskuvleste) jih$(vowc,i-ï|jïh)
-NTNU$(acro,suf|NTNU:ste), ((bieliejaepie lohkeme)$(cmp,2-
-1|bieliejaepielohkeme))¢(xxx|bieliejaepieboelhke) åarjelsaemien jih$(vowc,i-
+NTNU$(acro,suf|NTNU:ste), {{bieliejaepie lohkeme}${cmp,2-
+1|bieliejaepielohkeme}}¢{xxx|bieliejaepieboelhke} åarjelsaemien jih$(vowc,i-
 ï|jïh) ektesvuekiefaage$(foreign|siebriedahkefaage) gusnie diedte$(vowc,i-
 ï|dïedte) saemiej vuekiej bijre$(vowc,i-ï|bïjre) daejredh
 Jilleskuvleste$(vowc,i-ï|Jïlleskuvleste) Noerhte-Trøndelageste$(vowlat,a-
@@ -48,7 +48,7 @@ Nihko-Laara Påve Wilks jih$(vowc,i-ï|jïh) Hilma Dunfjeld Mølnvik.
 ï|maanagïerteste)
 Hanne-Lena Wilks lea båatsoe-burrie$(hyph-0|båatsoeburrie) jih$(vowc,i-
 ï|jïh) aaj ((giehtele$(vowc,i-ï|gïehtele) giete-
-vætnojne$(noun,mix|gïetevætnojne)¢(xxx|vytnesje). Dihte$(vowc,i-ï|Dïhte)
+vætnojne${noun,mix|gïetevætnojne}¢{xxx|vytnesje}. Dihte$(vowc,i-ï|Dïhte)
 reakasovvi jaepien 1968 jih$(vowc,i-ï|jïh) byjjesovvi Skæhkere
 sijtesne$(vowc,i-ï|sïjtesne), Snåasesne. Altese øøhpehtimmieh$(vowc,øø-
 öö|ööhpehtimmieh) leah: (Guvviedimmie teknigken$(conc,gk-
@@ -69,11 +69,11 @@ skuvlesne. Dihte$(vowc,i-ï|Dïhte) reakedi$(vowlat,e-a|reakadi) jaepien 1955
 jih$(vowc,i-ï|jïh) byjjesovvi Evenesen tjieltesne$(vowc,i-ï|tjïeltesne),
 Nordlandesne$(vowc,a-aa;conc,nd-nt|Nordlaantesne). Dihte$(vowc,i-ï|Dïhte)
 lohkehtæjja-øøhpehtimmiem$(hyph-0;vowc,øø-öö|lohkehtæjjaööhpehtimmiem)
-Tromsøesne veelti, (åarjel saemien)¥(cmp,2-1|åarjelsaemien) gielem$(vowc,i-
+Tromsøesne veelti, {åarjel saemien}¥{cmp,2-1|åarjelsaemien} gielem$(vowc,i-
 ï|gïelem) ((lohki Nesnan jilleskuvlesne$(vowc,i-
 ï|jïlleskuvlesne))¥(wo|Nesnan jïlleskuvlesne lohki)), jih$(vowc,i-ï|jïh)
-(ektesvuekiefaagem$(cmp,es-
-ie|ektievuekiefaagem)€(foreign|siebriedahkefaagem) lohki gusnie saemiej
+(ektesvuekiefaagem${cmp,es-
+ie|ektievuekiefaagem}€{foreign|siebriedahkefaagem} lohki gusnie saemiej
 aamhtsh$(fin,htsh-htesh|aamhtesh) jarngesne tjåadtjoeminie¥0 jih$(vowc,i-
 ï|jïh) 5-9-jaepiej-pedagogikem$(conc,k-hk|5-9-jaepiej-pedagogihkem)
 Jilleskuvleste$(vowc,i-ï|Jïlleskuvleste) Noerhte-Trøndelagesne$(vowc,a-
@@ -96,7 +96,7 @@ buerkiestæjja¢(sgnom-sgess|buerkiestæjjine), åejvie-viertiehtæjja$(hyph-
 0;conc,ht-d;sgnom-sgess|åejvievierhtiehtæjjine).
 – Åå, dan aevhkies¢(xxx|daerpies) dihte$(vowc,i-ï|dïhte)
 maanagierte$(vowc,i-ï|maanagïerte) daesnie, Anita Dunfjeld Aagårde
-(vietseles laakan)¥(adv,x|vietseleslaakan) jeahta. – Ij leah juerie man
+{vietseles laakan}¥{adv,x|vietseleslaakan} jeahta. – Ij leah juerie man
 vihkeles daate maanagierte$(vowc,i-ï|maanagïerte) maanide gosse
 gielem$(vowc,i-ï|gïelem) gorredidh, lea Hanne-Lena Wilksen jååhkesjimmie.
 Anita jih$(vowc,i-ï|jïh) Hanne Lena gåabpatjahkh maanah dennie Åarjel-
@@ -117,19 +117,19 @@ Juktie camping-våågnesne$(hyph-0|campingvåågnesne) eelki. Jaepien 1982
 dihte$(vowc,i-ï|dïhte) Forbruker- og administrasjonsdepartementet mij
 dellie, sijhti$(vowc,i-ï|sïjhti) voejhkelidh aelkehtidh$(vowlat,e-
 ie|aelkiehtidh) maanagiertine¢(vowc,i-ï;sgcom-sgack|maanagïertem) åarjel-
-saemiej$(hyph-0|åarjelsaemiej) dajvine mij edtji (vuelkedh sijjeste
-sæjjan)¥(wo|sijjeste sæjjan vuelkedh). Maanagierte$(vowc,ie-ïe|Maanagïerte)
+saemiej$(hyph-0|åarjelsaemiej) dajvine mij edtji {vuelkedh sijjeste
+sæjjan}¥{wo|sijjeste sæjjan vuelkedh}. Maanagierte$(vowc,ie-ïe|Maanagïerte)
 mij lij akte camping-våågna$(hyph-0;fin,a-e|campingvåågne), vøøji$(vowc,øø-
 öö|vööji) åarjel-saemiej$(hyph-0|åarjelsaemiej) dajvine jih$(vowc,i-ï|jïh)
 naan våhkoeh tjøødtjehti$(vowc,øø-öö|tjöödtjehti) aerebi goh jeatja sæjjan
-vøølki$(vowc,øø-öö|vöölki). Dellie maanah meehtin dahkoe (båetedh-
-dovne)§(x,x|båetedh, dovne) maanah mah lin gåetesne jallh daaroen
+vøølki$(vowc,øø-öö|vöölki). Dellie maanah meehtin dahkoe {båetedh-
+dovne}§{x,x|båetedh, dovne} maanah mah lin gåetesne jallh daaroen
 maanagiertesne¢(vowc,i-ï|maanagïertesne) vaedtsieminie. Dellie åadtjoejin
 dah ovmese maanah ektesne årrodh jih$(vowc,i-ï|jïh) nimhtie saemien
 gieline¢(vowc,i-ï|gïeline) jih$(vowc,i-ï|jïh) kultuvrine åahpenidh.
 Provsjekte$(noun,mix|Prosjeekte) orreji$(verb,vow|orriji) jaepien 1985.
-Anne-Lise Dunfjeld gie lea barkeminie (goh¥0 lohkehtæjja)¢(infl,sgnom-
-sgcom|lohkehtæjjine) Åarjel-saemij$(hyph-0|Åarjelsaemiej) skuvlesne, lea
+Anne-Lise Dunfjeld gie lea barkeminie {goh¥0 lohkehtæjja}¢{infl,sgnom-
+sgcom|lohkehtæjjine} Åarjel-saemij$(hyph-0|Åarjelsaemiej) skuvlesne, lea
 sjisjneldisnie$(indef,mix|sjisjnjielisnie) dåeriedamme dejtie
 ovmesse$(conc,ss-s|ovmese) faaleldahkide maanagiertesne¢(vowc,i-
 ï|maanagïertesne), jih$(vowc,i-ï|jïh) dihte$(vowc,i-ï|dïhte) lea eadtjohke
@@ -141,8 +141,8 @@ sedtimen juktie edtji åadtjodh saemien maanagiertesne¢(vowc,i-
 ï|maanagïerte) lih ektesvuekiebarkoe€(noun,mix|ektiebarkoe)
 Raavrvijhken$(prop,vow|Raavrhvijhken) tjielten$(vowc,i-ï|tjïelten)
 gaskems$(indef,con|gaskemsh) jih$(vowc,i-ï|jïh) eejhtegh Luvlie
-Njååmesjen$(prop,mix|Njåamesjen) (båatsoeburrie dajveste)¥(hyph-
-0|båatsoeburriedajveste). Dihte$(vowc,i-ï|Dïhte) juhtieji jaepeste 1989
+Njååmesjen$(prop,mix|Njåamesjen) {båatsoeburrie dajveste}¥{hyph-
+0|båatsoeburriedajveste}. Dihte$(vowc,i-ï|Dïhte) juhtieji jaepeste 1989
 jaapan 1991.
 Jaepien 1982-85 dihte$(vowc,i-ï|dïhte) saemiej-maanagierte§(cmp,2-1|saemiej
 maanagïerte), aktene Camping-våågnesne$(hyph-0|campingvåågnesne)
@@ -177,10 +177,10 @@ sjidth$(vowc,i-ï|sjïdth). Saemien øøhpehtimmieraerie$(vowc,øø-
 öö|ööhpehtimmieraerie) meehtie$(finis,ie-i|meehti) ajve beetnegh ohtsedh
 jaepeste jaapan, jih$(vowc,i-ï|jïh) nimhtie idtji maehtieh tjirkedh mejtie
 maanagierte$(vowc,i-ï|maanagïerte) aaj vierhtieh båetije jaepide åadtjoeji.
-Nimhtie lij aaj jis eejhtegh maanide veeltin tjielte-maanagierteste$(vowc,i-
-ï,hyph-0|tjïeltemaanagierteste)¢(vowc,i-ï|tjïeltemaanagïerteste) dellie
+Nimhtie lij aaj jis eejhtegh maanide veeltin tjielte-maanagierteste${vowc,i-
+ï,hyph-0|tjïeltemaanagierteste}¢{vowc,i-ï|tjïeltemaanagïerteste} dellie
 meehtin sijjiem desnie dassedh. Tjielte$(vowc,i-ï|Tjïelte) idtji maehtieh
-(vihties laakan)¥(cmp,2-1|vihtieslaakan) sijjiem luhpiedidh jis dam vihth
+{vihties laakan}¥{cmp,2-1|vihtieslaakan} sijjiem luhpiedidh jis dam vihth
 darpesjin$(vowc,-aa|daarpesjin), jih$(vowc,i-ï|jïh) nimhtie idtjin eejhtegh
 doesth juktie meehtin sijjine namhtegh sjidtedh$(vowc,i-ï|sjïdtedh)
 jih$(vowc,i-ï|jïh) gallesh åssjalommesidie maanagierten$(vowc,i-
@@ -288,7 +288,7 @@ aelhkie gosse soejkesjidie nænnoestidh. Almetjh tjieltesne$(vowc,i-
 barkose jih$(vowc,i-ï|jïh) aaj garmerdin juktie dan varki limh barkoem
 illeme. Jih$(vowc,i-ï|Jïh) varki gujht gåaredi$(vowlat,e-a|gåaradi)!
 Maanagierte$(vowc,i-ï|Maanagïerte) rihpesovvi$(vowc,i-ï|rïhpesovvi)
-(mubpien biejjien gaekeren)¥(wo|gaekeren mubpien biejjien). Dan varki lea
+{mubpien biejjien gaekeren}¥{wo|gaekeren mubpien biejjien}. Dan varki lea
 gåaradamme daam maanagiertem$(vowc,i-ï|maanagïertem) øørnedh$(vowc,øø-
 öö|öörnedh), låasije¢(noun|håaloje) jeehti altese rihpestimmie-
 smaerehtsisnie$(vowlat,e-ie|rïhpestimmiesmaeriehtsisnie). Ij sån leah
@@ -302,7 +302,7 @@ Olaug Pettersen lea rektovre Åarjel-saemiej$(hyph-0|Åarjelsaemiej)
 skuvlesne jih$(vowc,i-ï|jïh) aaj åvtehke dennie maanagiertesne¢(vowc,i-
 ï|maanagïertesne). Dihte$(vowc,i-ï|Dïhte) buerkeste maanagierte$(vowc,i-
 ï|maanagïerte) lea tjielten$(vowc,i-ï|tjïelten) diedte$(vowc,i-ï|dïedte)
-(seamma laakan)¥(adv,x|seammalaakan) goh Åarjel-saemiej$(hyph-
+{seamma laakan}¥{adv,x|seammalaakan} goh Åarjel-saemiej$(hyph-
 0|Åarjelsaemiej) skuvle jih$(vowc,i-ï|jïh) internate$(noun,vow|internaate).
 Tjielten$(vowc,i-ï|Tjïelten) lea diedte$(vowc,i-ï|dïedte) dejtie
 juhtiehtidh jih$(vowc,i-ï|jïh) vierhtieh skåårvedh. Gosse dam
@@ -331,7 +331,7 @@ gierteste¢(vowc,i-ï|gïerteste), mohte daelie dan aavrehke juktie
 dihte$(vowc,i-ï|dïhte) pedagogiske¢(fin,iske-ihken|pedagogihken) åvtehke,
 Anna Sparrok, lea dovne lohketæjja$(conc,t-ht|lohkehtæjja)
 maanageartan¢(infl,case,ill-ine|maanagïertesne) jih$(vowc,i-ï|jïh)
-sopteste$(conc,t-ts|soptseste) (åarjel saemien)¥(cmp,2-1|åarjelsaemien)
+sopteste$(conc,t-ts|soptseste) {åarjel saemien}¥{cmp,2-1|åarjelsaemien}
 gielem$(vowc,i-ï|gïelem) goh¥ ietniengiele$(vowc,i-ï;infl,case,sgnom-
 sgess|ietniengïeline).
 
@@ -340,13 +340,13 @@ Tsiengelen$(vowc,i-ï|Tsïengelen) 2008 leah luhkie maanah giertesne¢(vowc,i-
 ï|gïertesne) jih$(vowc,i-ï|jïh) nimhtie aaj gøøkte$(vowc,øø-öö|göökte)
 geerve almetjh mah desnie barkieh. Lissine leah viehkiehtæjja dan
 pedagogiske åvtehken baalte. Tjaktjen 2007 aaj noerhtesaemie viehkine
-(bøøti)$(vowc,øø-öö|bööti) gie lea desnie luhkie tæjmoeh våhkosne.
+{bøøti}${vowc,øø-öö|bööti} gie lea desnie luhkie tæjmoeh våhkosne.
 Bielielehkie dejstie maanijste utnieh noerhtesaemien goh
-gåetiegiele$(vowc,i-ï|gåetiegïele), lissine åarjelsaemien (jih)$(vowc,i-
-ï|jïh) daaroen.
+gåetiegiele$(vowc,i-ï|gåetiegïele), lissine åarjelsaemien {jih}${vowc,i-
+ï|jïh} daaroen.
 
-Hanne-Lenan fuelhkie njielje (gåetiegielh)$(vowc,i-ï|gåetiegïelh) utnieh.
-(Jijtje)$(vowc,i-ï|Jïjtje) lea åarjelsaemie (jih)$(vowc,i-ï|jïh) gåetehke
+Hanne-Lenan fuelhkie njielje {gåetiegielh}${vowc,i-ï|gåetiegïelh} utnieh.
+{Jijtje}${vowc,i-ï|Jïjtje} lea åarjelsaemie {jih}${vowc,i-ï|jïh} gåetehke
 noerhtesaemiez Manne maanajgujmie åarjelsaemien gielem$(vowc,i-ï|gïelem)
 soptestem$(verb,con|soptsestem) jih$(vowc,i-ï|jïh) gåetehke noerhtesaemien.
 Manne dejnie daaroestem$(vowlat,oe-o|daarostem) jih$(vowc,i-ï|jïh)
@@ -358,20 +358,20 @@ gielem$(vowc,i-ï|gïelem) maehtieh jih$(vowc,i-ï|jïh) ålma idtji
 Dan gaavhtan tjoeverimen nøørjen$(vowc,øø-öö|nöörjen) jih$(vowc,i-ï|jïh)
 sveerjen gielem$(vowc,i-ï|gïelem) provhkedh£(verb|soptsestidh). Daelie
 maehtien gåabpatjahkide saemien gielide¢(vowc,i-ï|gïelide) guarkedh
-jih$(vowc,i-ï|jïh) dejtie aaj provhkien$(vowc,o-u|pruvhkien) gosse (maanaj
-ektesne)¥(wo|maanajgujmie ekstesne). Maanah leah (gaektsie, govhte
-(jih)$(vowc,i-ï|jïh) golme jaepien båeries)£(case,sgnom-sggen|gaektsien,
-govhten jïh golmen jaepien båeries). (Dah (gøøkte)$(vowc,øø-öö|göökte)
-båarasommes leah)£(infl,3plprs-3dualprs|Dah göökte båarasommes lægan)
-væjkeles dan (nøøremes)$(vowc,øø-öö;infl,case,sgnom-sgill|nööremasse)
-(maanese)¥(1-0|) saemiestidh. Gosse dihte$(vowc,i-ï|dïhte) maam
+jih$(vowc,i-ï|jïh) dejtie aaj provhkien$(vowc,o-u|pruvhkien) gosse {maanaj
+ektesne}¥{wo|maanajgujmie ekstesne}. Maanah leah {gaektsie, govhte
+{jih}${vowc,i-ï|jïh} golme jaepien båeries}£{case,sgnom-sggen|gaektsien,
+govhten jïh golmen jaepien båeries}. {Dah {gøøkte}${vowc,øø-öö|göökte}
+båarasommes leah}£{infl,3plprs-3dualprs|Dah göökte båarasommes lægan}
+væjkeles dan {nøøremes}${vowc,øø-öö;infl,case,sgnom-sgill|nööremasse}
+{maanese}¥{1-0|} saemiestidh. Gosse dihte$(vowc,i-ï|dïhte) maam
 nøørjen$(vowc,øø-öö|nöörjen) gielesne¢(vowc,i-ï|gïelesne) jeahta, dellie
-jarkoestægan (saemien gielese¢(vowc,i-ï|gïelese)£(cmp,2-1|saemiengïelese)
+jarkoestægan (saemien gielese¢{vowc,i-ï|gïelese}£{cmp,2-1|saemiengïelese}
 guktie dihte$(vowc,i-ï|dïhte) edtja aaj dejtie saemien baakojde govledh,
 tjidtjebe sopteste$(conc,pt-pts|soptseste).
 (Daamtaj (lea¥0 daaroen€(verb|daaroestieh gosse) giele$(vowc,i-ï|gïele)
-stååkedimmiegiele€(verb|stååkedieh)¥(wo|Daamtaj daaroestieh gosse
-stååkedieh). Gåetesne soptestieh$(conc,pt-pts|soptsestieh)
+stååkedimmiegiele€{verb|stååkedieh}¥{wo|Daamtaj daaroestieh gosse
+stååkedieh}. Gåetesne soptestieh$(conc,pt-pts|soptsestieh)
 molsehth€(adv|ånnetji) åarjelsaemien jih$(vowc,i-ï|jïh) noerhtesaemien.
 Mohte jis maanah desnie guhth eah saemien guarkah, dellie daaroen
 giele$(vowc,i-ï|gïele) jarngesne tjåådtje€(verb|lea). Aehtjebe buerebe
@@ -385,14 +385,14 @@ gøøkte$(vowc,øø-öö|göökte) båarasommes væjkelåboe$(vowlat,e-a|væjkal
 (åarjelsaemien gielesne¢(vowc,i-ï|gïelesne))$(cmp,2-
 1|åarjelsaemiengïelesne), jeahta. Gåabpatjahkh utniegan$(vowlat,ie-
 i|utnigan) (åarelsaemien$(conc,r-rj|åarjelsaemien) gielem$(vowc,i-
-ï|gïelem))¢(åarjelsaemiengïelem) (goh)¥(1-0|) voestes
+ï|gïelem))¢(åarjelsaemiengïelem) {goh}¥{1-0|} voestes
 giele£(infl,case,sgnom-sgcom;vowc,i-ï|gïeline) skuvlesne, mohte
 åadtjoejægan aaj gøøkte$(vowc,øø-öö|göökte) tæjmoeh våhkosne noerhtesaemien
 gielem$(vowc,i-ï|gïelem) lieredh$(vowc,i-ï|lïeredh). Onnemaana åådtje
 (noerhtesaemien gielem$(vowc,i-ï|gïelem))¢(cmp,2-1|noerhtesaemiengïelem)
 maanagiertesne¢(vowc,i-ï|maanagïertesne) lieredh$(vowc,i-ï|lïeredh)
-fierhten$(vowc,i-ï|fïerhten) duarstan jih$(vowc,i-ï|jïh) (mubpie
-mubpeste)€(xxx|fïerhten mubpien) våhkoen, bearjadahken.
+fierhten$(vowc,i-ï|fïerhten) duarstan jih$(vowc,i-ï|jïh) {mubpie
+mubpeste}€{xxx|fïerhten mubpien} våhkoen, bearjadahken.
 Tjoevere varki aelkedh...... Maanagierte$(vowc,i-ï|Maanagïerte) meatan goh
 slaaterdimmie jih$(vowc,i-ï|jïh) Nihko-Laara sæjhta meatan gosse
 iervedh$(vowc,i-ï|ïervedh).
@@ -406,7 +406,7 @@ gøøkte$(vowc,øø-öö|göökte) støøremes$(vowc,øø-öö|stööremes) veed
 daaroen (giertesne¢(vowc,i-ï|gïertesne))£(noun|maanagïertesne),
 aerebi$(vowc,ae-aa|aarebi) goh dihte$(vowc,i-ï|dïhte)
 åarjel-saemien$(hyph-0|åarjelsaemien)
-((gierte)¢(vowc,i-ï|gïertesne))£(noun|maanagïerte),
+{{gierte}¢{vowc,i-ï|gïertesne}}£{noun|maanagïerte},
 rihpsovvi$(vowc,i-ï|rïhpesovvi). Desnie åadtjojigan$(vowc,o-
 oe|åadtjoejigan) golme tæjmoeh saemien våhkosne, mohte buerebe årrodh
 dennie åarjelsaemien (giertesne¢(vowc,i-
@@ -441,8 +441,8 @@ buerebe dejgujmie saemiestidh. Joekehtse lea hævvi dej gaskems$(conc,ms-
 msh|gaskemsh) aaj, jih$(vowc,i-ï|jïh) dihte$(vowc,i-ï|dïhte) båata destie
 guktie dah fuelhkieh leah (saemien gielem$(vowc,i-ï|gïelem))$(cmp,2-
 1|saemiengïelem) gåetesne provhkeme. Sovmem dihte$(vowc,i-ï|dïhte)
-gierte$(vowc,i-ï|gïerte) maanide£(infl,case,plack-plnom|maanah) (jearsoes
-dorje)€(verb|garmarostoeh) guktie gielem$(vowc,i-ï|gïelem)
+gierte$(vowc,i-ï|gïerte) maanide£(infl,case,plack-plnom|maanah) {jearsoes
+dorje}€{verb|garmarostoeh} guktie gielem$(vowc,i-ï|gïelem)
 doestieh$(vowc,oe-ue|duestieh) provhkedh jih$(vowc,i-ï|jïh) nimhtie saemien
 åadtjodh goh¥0 voestes giele£(vowc,i-ï;infl,case,sgnom-sgess|gïeline) gosse
 skuvlesne aelkieh.

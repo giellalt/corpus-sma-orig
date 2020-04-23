@@ -1,7 +1,7 @@
 
 Ole Vig-en$(acro,suf|Vigen) bïjre
 
-Ole Vig (jåarhke skuvle)¥(cmp,2-1|jåarhkeskuvle) (OVVS) (lea goh¥0 stoerre,
+Ole Vig {jåarhke skuvle}¥{cmp,2-1|jåarhkeskuvle} (OVVS) (lea goh¥0 stoerre,
 (aktels skuvle¢(hyph-0;case,sgnom-sgess|skuvline) naa orre)¥(wo|lea stoerre
 ektieskuvline). Dïhte lea Noerhte-Trøndelagen mubpie stööremes skuvle, (man
 lea medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh daen$(vowc,ae-
@@ -25,8 +25,8 @@ auditorijen$(fin,torijen-tovrijen|auditovrijen) luvlelen. Desnie realfaagh,
 molsehth ööhpehtimmien sijjie jïh skuvlereeremen jïh kontovrebarkij$(fin,ij-
 iji|kontovrebarkiji) orre kontovrh. Desnie aaj dajven
 baeniestarnedïenesje$conc,sj-st|baeniestarnedïeneste) (3. laptesne).
-Bigkeme eelki ryöjrehtimmine£(verb|ryöjrehtidh) goeven 2008 jïh (lij
-riejries jaepiemålsomen 2009/10)¥(wo|riejries jaepiemålsomen 2009/10 lij).
+Bigkeme eelki ryöjrehtimmine£(verb|ryöjrehtidh) goeven 2008 jïh {lij
+riejries jaepiemålsomen 2009/10}¥{wo|riejries jaepiemålsomen 2009/10 lij}.
 Jaepien 2009 kantijnem jïh restauranten jïh beapmoefaagen sijjiem bigkin.
 Jåerhke$(vowc.åe-åa|Jåarhke) dïsse jaepeste 2010 jïh dellie sijjieh musihke
 jïh draama jïh service jïh samferdsel, mah maehtieh arealh$(vowc,a-
@@ -36,7 +36,7 @@ orreme).
 
 Orre gaarsjelimmiegåetiem aalka tjaktjen 2010 bigkedh jïh galka riejries
 årrodh jaepien 2011 mietie¥0. Skuvle galka tjïelten gåetiem åtna¢(sg3prs-
-inf|utnedh) jïh skuvlese (ektie tåarjine)¢(cmp,2-1|ektietåarjine)
+inf|utnedh) jïh skuvlese {ektie tåarjine}¢{cmp,2-1|ektietåarjine}
 tjatna€(verb;forstår ikke ordet|viedteldihkie).
 
 Skuvlen nomme vihkeles. Ole Vig, Vikmaarkeste$(conc,rk-rhk|Vikmaarhkeste)
@@ -76,4 +76,4 @@ naalen|internasjonaalen) gaskesadtemh åtna. 
 
 
 Veedtjeme (20.04.2012) daehtie sæjroste:
-(http://ole-vig.vgs.no/)∞(url)
+{http://ole-vig.vgs.no/}∞{url}

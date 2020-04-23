@@ -53,7 +53,7 @@ mingemes$(conc,ng-nng|minngemes) beetnegeviertiem$(cmp,ege-
 eh|beetnehvierhtiem) maam vuertieminie åadtjoejibie.
 
 Sijhth$(vowc,i-ï|Sïjhth) dåeriedidh? Soptsesh¢(conc,sh-sth|Soptsesth)
-(susanneamalie@gmail.com`ese)$(typos|susanneamalie@gmail.com:ese) (ååvtelen$(vowc,åå-å|åvtelen))€(w|aarebi) Golken mubpien
+{susanneamalie@gmail.com`ese}${typos|susanneamalie@gmail.com:ese} (ååvtelen$(vowc,åå-å|åvtelen))€(w|aarebi) Golken mubpien
 biejjen$(fin,en-ien|biejjien), juktie€(w|guktie) daejrebe ¥(xxx|mejtie)
 nuekies beapmoh$(conc,oh-oeh|beapmoeh) gaajhkide€(w|gaajhkesidie)!
 
@@ -63,13 +63,13 @@ Baarkoedåehkieh$(vowc,aa-a|Barkoedåehkieh) saemien noerisiebriem
 aelkiedidh, åajviem$(vowc,åa-åe|åejviem) Susanne Amalie Andersen baaktoe.
 
 telefovne:  (+47) 92835649
-e-påaste: (susanneamalie@gmail.com)∞(url)
+e-påaste: {susanneamalie@gmail.com}∞{url}
 
 Ps!  Veartesjh aaj $(Infl,sgnom-
-sgacc|www.nuora.blogg.no:m)(www.nuora.blogg.no)∞(url) jallh Facebook-
+sgacc|www.nuora.blogg.no:m){www.nuora.blogg.no}∞{url} jallh Facebook-
 dåehkiem$(hyph-0|facebookdåehkiem) ?stiftelse av samisk
-ungdomsorganisasjon? juktie orre bievnesh$(vowc,i-ï|bïevnesh) (tjåanghkoem
-(bijre)$(vowc,i-ï|bïjre))£(infl,sgacc-sggen|tjåanghkoen bïjre) åådtje.
+ungdomsorganisasjon? juktie orre bievnesh$(vowc,i-ï|bïevnesh) {tjåanghkoem
+{bijre}${vowc,i-ï|bïjre}}£{infl,sgacc-sggen|tjåanghkoen bïjre} åådtje.
 
 
 

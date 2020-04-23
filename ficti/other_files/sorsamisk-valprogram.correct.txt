@@ -142,11 +142,11 @@ Reereme
 NSR     lij      voestes      gietjeste      Saemiedigkien      reeremisnie.
 Saemiedigkiepresideenth NSR-ste$(acro,suf|NSR:ste) leah:
       • Ole Henrik Magga, Guovdageaidnu (1989–1997)
-      • Sven-Roald Nystø, (Dievtasvuotna/Tysfjord)$(Divtasvuodna/Tysfjord) (1997–2005)
+      • Sven-Roald Nystø, {Dievtasvuotna/Tysfjord}${Divtasvuodna/Tysfjord} (1997–2005)
 
 Saemiedigkieveeljemasse        2005        lea        NSR-n$(acro,suf|NSR:n)
 Rijhketjåahkoe$(vowc,i-ï|Rïjhketjåahkoe)  Aili  Keskitalom,   Guovdageaidnu,
-presideentekandidaatine  (veeljeme)€(verb|veeljesovveme).  Jis  veeljesåvva,
+presideentekandidaatine  {veeljeme}€{verb|veeljesovveme}.  Jis  veeljesåvva,
 dellie dïhte voestes nyjsenæjja mij  Saemiedigkien  (presideente£(infl,sgnom-
 sgcom|presideentine).)¥(presideentine sjædta)
 
@@ -157,9 +157,9 @@ Saemien   siebredahken$(vowc,e-ie|siebriedahken)   tseegkemisnie   ij    lij
 gaajhkide saemientjïertide  seamma  nuepie  jïjtsh  aamhtesh  buektedh,  jïh
 aamhtesinie saemiej bïjre ij lij  nuekies  saemien  jïjtjereereme.  Daaletje
 saemien                           siebredahkesne$(noun,svow|siebriedahkesne)
-(politigke$(conc,gk-hk|politihke)      jïh       (kultuvre)€(w|kulturelle)
+(politigke$(conc,gk-hk|politihke)      jïh       {kultuvre}€{w|kulturelle}
 urriemdimmiem$(noun,mix|orrestimmiem))£(noun,x,gensg,nomsg,x|politihken  jïh
-kulturelle orrestimmiem) daarpesje. Daelie ((jienebh jienebh)¢(cmp,2-1|jienebh-jienebh))£(infl,comp-pos|jieneh-jienebe) saemieh  tjerkebe
+kulturelle orrestimmiem) daarpesje. Daelie {{jienebh jienebh}¢{cmp,2-1|jienebh-jienebh}}£{infl,comp-pos|jieneh-jienebe} saemieh  tjerkebe
 domtoem jïjtsh saemienvoeten  bïjre  åadtjoeh,  mij  dellie  jeahta  båetije
 saemien  siebredahken$(vowc,e-ie|siebriedahken)  dïejveldimmine   orre   jïh
 gïeltijes$(adj,mix|gieltegs) saemien gïelh sjidtieh.  NSR  sæjhta  jåerhkedh
@@ -232,7 +232,7 @@ Jienebh  jïh  jienebh  saemieh  orrijieh  jallh   bæjjanieh   staarine   jïh
 søøkesbigkeme$(vowc,i-ï|söökesbigkeme)  sijjine.   Seamma   vihkele   guktie
 jielijes byjressiebredahkh$(noun,svow|byjressiebriedahkh) dajvine  tjirkedh,
 lea    guktie    staaren    saemiej    saemien     jielemevåarome,     dovne
-(kultuvre)€(adj,w|kulturelle),  sosijale$(adj,svow|sosijaale)  jieleme   jïh
+{kultuvre}€{adj,w|kulturelle},  sosijale$(adj,svow|sosijaale)  jieleme   jïh
 barkoeh. Joekoen vihkele barkedh guktie staaren saemien  maanah,  noerh  jïh
 båarasåbpoeh almetjh åadtjoeh saemienvoetine jieledh jïh årrodh.
 
@@ -392,8 +392,8 @@ NSR lea:
     kriebpesjamme$(vowc,i-ï|krïebpesjamme), gaajhki
     biegkejårreldahki$(vowc,i-ï|bïegkejårreldahki) bïjre jïh mij dejstie
     sjædta
-  ✓ militæren$(vowc,æ-ææ|militææren) plaanide vuastalamme (Mauken/Blåtind-
-    dajvem)$(hyph|Mauken-Blåtind-dajvem) dijpedh
+  ✓ militæren$(vowc,æ-ææ|militææren) plaanide vuastalamme {Mauken/Blåtind-
+    dajvem}${hyph|Mauken-Blåtind-dajvem} dijpedh
     ekspropieredh$(verb,mix|eksproprieeredh)
   ✓ eensi barkeme guktie militære$(noun,vowc|militæære) jïh båatsoe orre
     mååhtedimmiem darjodh gumhtie Hálkkavárren vuetjemedajvem nuhtedh, jïh
@@ -410,7 +410,7 @@ Gïele / Lohkehtimmie jïh øøhpehtimmie$(vowc,i-ï|ööhpehtimmie)
 NSR lea:
   ✓ barkeme saemien gïelem åvtese bïejedh jïh guktie fierhten$(vowc,i-
     ï|fïerhten) saemien maanan reaktah saemien lohkehtæmman tjirkedh
-  ✓ soejkesjinie „(Sjïerepedagogigke)$(noun,con|Sjïerepedagogihke)
+  ✓ soejkesjinie „{Sjïerepedagogigke}${noun,con|Sjïerepedagogihke}
     maahtoe-øøvtiedimmieplaane$(init,øø-ö|maahtoeövtiedimmieplaane)
     2004–2005“ barkeme (Kompetansehevingsplan i spesialpedagogikk
     2004–2005), joekoen lohkeme- jïh tjaelemedåeriesmoeride jïh
@@ -427,8 +427,8 @@ NSR lea:
     (elektronigke$(noun,con|elektronihke) daatagietedallemese$(init,i-
     ï|daatagïetedallemasse))£(noun,x,gensg,nomsg,x|elektronihken
     daatagïetedallemasse)
-  ✓ buektiehtamme „Saemien (dotkemeprogramme“-
-    m)$(noun,mix|dotkemeprogrammem“) guhkiemdidh jïh nænnoestidh
+  ✓ buektiehtamme „Saemien {dotkemeprogramme“-
+    m}${noun,mix|dotkemeprogrammem“} guhkiemdidh jïh nænnoestidh
   ✓ meatan orreme jïllebe øøhpehtimmiem$(vowc,i-ï|ööhpehtimmiem) saemien
     noeride nænnoestidh
   ✓ barkeme Saemien baakoedaatabaangkem$(noun,conc|baakoedaatabaanghkem)
@@ -493,7 +493,7 @@ NSR lea:
     jïh fjovlegøølemasse$(vowc,øø-öö|fjovlegöölemasse) tsaekedh
   ✓ joekoen mearoegaedtien nyjsenæjjaj tsiehkiem vuartasjamme, mah
     edtjieh gøølemebarkoen$(vowc,øø-öö|göölemebarkoen)
-    (ohtside)€(noun,w|ohtsemidie) uvtemesth bïejesovvedh
+    {ohtside}€{noun,w|ohtsemidie} uvtemesth bïejesovvedh
   ✓ Sjiehtedimmieraerie$(vowc,i-ï|Sjïehtedimmieraerie)
     gøølemelåhkojde$(vowc,øø-öö|göölemelåhkojde), desnie tjïrrehtamme
     mietenegeaksaguelien€(xxx|mietenetjeekseguelien) gøølemen$(vowc,øø-
@@ -549,8 +549,8 @@ NSR lea:
     ö|duedtieövtiedimmieprogrammem) aatskadamme gusnie ulmie lea duedtiem
     faagine, kultuvrine jïh jielieminie nænnoestidh
   ✓ aatskadamme jieleme mååhtedimmiem vytnesjæjjide vuartasjidh
-  ✓ (golmenjaepien)$(fin,n-0;cmp,1-2|golme jaepiej) aalkoedåarjeginie
-    nyjsenæjjide barkeme, dejtie mah (miehtje-)$(x,svow|miehtjie-) jallh
+  ✓ {golmenjaepien}${fin,n-0;cmp,1-2|golme jaepiej} aalkoedåarjeginie
+    nyjsenæjjide barkeme, dejtie mah {miehtje-}${x,svow|miehtjie-} jallh
     duedtiejielieminie aelkiestieh
   ✓ miehtjejieliemidie$(fin,e-ie|miehtjiejieliemidie)
     faagseminaarem$(conc,se-e|faageseminaarem) øørneme$(vowc,øø-öö|öörneme)
@@ -562,8 +562,8 @@ Kultuvre
 
 NSR lea:
   ✓ aatskadamme, jïh nualan tjaaleme, ektiebarkoemååhtedimmiem saemien
-    tjiehpiji$(fin, i-iej|tjiehpiej)  (siebriej gujmie)$(cmp,2-
-    1|siebriejgujmie), saemien gellienlaaketje kultuvrejielemem biejverdidh
+    tjiehpiji$(fin, i-iej|tjiehpiej)  {siebriej gujmie}${cmp,2-
+    1|siebriejgujmie}, saemien gellienlaaketje kultuvrejielemem biejverdidh
     jïh guktie tjiehpiji$(fin, i-iej|tjiehpiej)   båetije
     øøkonomijem$(vowc,øø-ö|økonomijem) vuejniehtidh
   ✓ joekehth tjiehpiji$(fin, i-iej|tjiehpiej)   siebriej barkosne meatan
@@ -596,11 +596,11 @@ NSR lea:
     geeruvevaarjelimmien tsavtsem bueriemdidh. Saemide seammavierhtegen
     åvteste barkeme, dejtie mah skiemhtjegåetesne$(vowc,i-
     ï|skïemtjegåetesne) tjaaleldihkie$(vowc,e-a|tjaalaldihkie)
-  ✓ meatan orreme (rehabiliteringen-)$(noun,mix|rehabiliteeremen-
-    )/(habiliteringen)$(noun,mix|habiliteeremen) faaleldahkh saemide
+  ✓ meatan orreme {rehabiliteringen-}${noun,mix|rehabiliteeremen-
+    }/{habiliteringen}${noun,mix|habiliteeremen} faaleldahkh saemide
     bueriemdidh
   ✓ staatem gihtjeme barkoem dåarjodh, guktie Gaske-Finnmarhken
-    maahtoejarngide ikte bïejedh jïh (-øørnedh)$(vowc,i-ï|-öörnedh)
+    maahtoejarngide ikte bïejedh jïh {-øørnedh}${vowc,i-ï|-öörnedh}
   ✓ barkeme voestesstarnen faaleldahkh saemien tjieltine$(vowc,i-
     ï|tjïeltine) nænnoestidh
   ✓ maanasyjhtemen dajvekontovren tseegkemem Altesne dåårjeme
@@ -665,7 +665,7 @@ NSR lea:
     tjïelkestimmine, Nøørjen$(vowc,øø-öö|Nöörjen) delegasjovnen tjïrrh,
     barkoedåehkien 10. seesjovnesne$(vowc,ee-e|sesjovnesne)  Genevesne,
     Svejtsesne$(conc,jt-it|Sveitsesne). Ulmie lea gaskelaanti uhtjemes
-    (riektedimmieh)€(xxx|reaktah) aalkoealmetjidie bïejedh
+    {riektedimmieh}€{xxx|reaktah} aalkoealmetjidie bïejedh
   ✓ aatskadamme aalkoealmetjekontovrem Murmanskesne tseegkedh
   ✓ meatan orreme/meatan Reeremen Europapolitigken$(conc,gk-
     hk|Europapolitihken) Forumesne$(fin,esne-isnie|Forumisnie),
@@ -715,8 +715,8 @@ NSR sæjhta:
     Saemïelaaken$(vowc,i-ï|Saemielaaken) mietie laavenjostedh jïh dej
     daerpiesvoeti mietie mah saemien
     siebredahkesne$(noun,svow|siebriedahkesne)
-  ✓ Saemiedigkie byjjes dïejveldimmiereaktah staaten (åejviej
-    gujmie)$(cmp,2-1|åejviejgujmie) åådtje
+  ✓ Saemiedigkie byjjes dïejveldimmiereaktah staaten {åejviej
+    gujmie}${cmp,2-1|åejviejgujmie} åådtje
   ✓ 169. ILO-konvensjovnem Nøørjen$(vowc,øø-öö|Nöörjen) laakese
     byjjehtidh
   ✓ saemien gïelen reeremedajvem vijriemdidh
@@ -779,7 +779,7 @@ Saemien  gïelem  utnedh  lea  vihkeles  gaskesadteme-  jïh  viedtemevierhtie
 saemien byjressiebredahki$(vowc,e-ie|byjressiebriedahki) gaskemsh.  Daerpies
 saemien gïelem vååjnesasse bïejedh jïh ovmessie  daltesinie  saemien  åtnoem
 jieniemdidh.  Dïsse  lissine  lea  vihkele  saemiengïelem   åtnose   bertedh
-(bievnese-)$(vowc,i-ï|bïevnese-)  jïh  gaskesadteme  teknologijesne   (IKT),
+{bievnese-}${vowc,i-ï|bïevnese-}  jïh  gaskesadteme  teknologijesne   (IKT),
 guktie nuerebe boelve gaajhkine dajvine  saemiengïelem  soptsestimmiegïeline
 bæjjanieh.
 
@@ -1042,7 +1042,7 @@ NSR   sæjhta   maadthjieliemidie   nænnoestidh   jïh    øøvtiedidh$(init,ø
 miehtjesjielemh$(vowlat,e-ie|miehtjiesjielemh)  jïh  duedtie   jïh   dejstie
 ektiedimmieh.       Miehtjeslaante$(vowlat,e-ie|Miehtjieslaante)       galka
 maadthjieliemidie saemiej vuekiej jïh båeries åtnoej  mietie  tjirkesovvedh.
-NSR  ulmiem  dåårje  (øøkologije-)$(init,øø-ö|ökologije-),   kultuvre-   jïh
+NSR  ulmiem  dåårje  {øøkologije-}${init,øø-ö|ökologije-},   kultuvre-   jïh
 øøkonomijeguedtijes$(init,øø-ö|ökonomijeguedtijes)   båatsoem   utnedh   jïh
 båatsoen     mieriekriebpesjimmieh$(vowc,i-ï|mieriekrïebpesjimmieh)      jïh
 jïjtjeståvroem nænnoestidh.
@@ -1115,7 +1115,7 @@ NSR sæjhta:
   ✓ almetjidie maahtoeh båatsoen bïjre jieniemdidh jïh guktie båatsoem
     guerkiehtidh€(x|guarkedh)
   ✓ Saemiedigkien tsiehkie tjirkesovvedh edtja båatsoen båetije aejkide
-    tjirkedh (jielemepolitigke-)$(conc,gk-hk|jielemepolitihke-) jïh
+    tjirkedh {jielemepolitigke-}${conc,gk-hk|jielemepolitihke-} jïh
     reeremegyhtjelassine
 
 Ovjuvrereereme
@@ -1306,12 +1306,12 @@ maanagierteste¢(vowc,i-ï|maanagïerteste) universiteetese.  Saemien  learohkh
 jïh   lohkehtæjjah   gelkieh   saemien   våaromegærjam    fierhtene$(vowc,i-
 ï|fïerhtene)      faagesne       utnedh       fierhtene$(vowc,i-ï|fïerhtene)
 klaassedaltesisnie          gaajhke           øøhpehtimmiesystemen$(init,øø-
-öö|ööhpehtimmiesysteemen)    tjïrrh.    Learoevierhtiedarjome     jïh     (-
-øøvtiedimmie)$(vowc,øø-ö|-övtiedimmie)     tjoevere     saemien      skuvlen
+öö|ööhpehtimmiesysteemen)    tjïrrh.    Learoevierhtiedarjome     jïh     {-
+øøvtiedimmie}${vowc,øø-ö|-övtiedimmie}     tjoevere     saemien      skuvlen
 øøvtiedimmiem$(vowc,øø-ö|övtiedimmiem)   fulkesadtedh,    vg    learoeplaani
 jorkelimmien$(vowc,o-a|jarkelimmien)      bïjre.      Øøhpehtæmman$(vowc,øø-
-öö|Ööhpehtæmman)    byøroe$(vowc,ø-ö|byöroe)     (bievnes-)$(vowc,i-ï;cmp,s-
-se|bïevnese-) jïh gaskesadtemeteknologije viehkine (IKT) bïejesovvedh.
+öö|Ööhpehtæmman)    byøroe$(vowc,ø-ö|byöroe)     {bievnes-}${vowc,i-ï;cmp,s-
+se|bïevnese-} jïh gaskesadtemeteknologije viehkine (IKT) bïejesovvedh.
 
 Maanagïerte
 NSR sæjhta:
@@ -1613,7 +1613,7 @@ NSR sæjhta:
     meedijesne$(vowc,ee-e|medijesne) jïh journalistigkesne$(conc,gk-
     hk|journalistihkesne) åadtjodh
   ✓ sjïere kriebpesjimmiej$(vowc,i-ï|krïebpesjimmiej) jïh berteme
-    (lohkemefaaleldahki gujmie)$(cmp,2-1|lohkemefaaleldahkigujmie) tjirkedh
+    {lohkemefaaleldahki gujmie}${cmp,2-1|lohkemefaaleldahkigujmie} tjirkedh
     åarjel-, luvle- jïh luvliesaemien journalisth åadtjodh
   ✓ saemien journalistide faaleldahkh minngie- jïh
     jåarhkeøøhpehtimmesne$(vowc,øø-öö|jåarhkeööhpehtimmesne)

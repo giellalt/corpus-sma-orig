@@ -11,16 +11,16 @@ Portalen$(vowc,a-aa|Portaalen) ulmie lea skreejreredh$(conc,reredh-
 redh|skreejredh) jïh maahtoem buerebe healsose vadta. Mijjieh vedtebe
 våaromen praktijhkeles$(adj,con|praktihkeles) raerieh jïh gyhtjelassh
 gihtjebe maam lea nuhtegs$(adj,vow|nuhteges) dan bïjre ussjedidh. Maam
-edtjebe darjodh£(verb|buektiehtidh) (guktie vervesne
-årrodh)£(verb|verviestidh) lea joekehts almetjistie almetjasse. Akte
+edtjebe darjodh£(verb|buektiehtidh) {guktie vervesne
+årrodh}£{verb|verviestidh} lea joekehts almetjistie almetjasse. Akte
 almetje buerebe jïh healsojis$(adj|buerie) beapmoeh byöpmedidh mohte mubpie
 sov lïhkemes fuelhkiem råaka.
 
-Gaajhkesh maehtieh sov healsoem buaranidh£(verb|bueriedidh). (Dïhte dan
+Gaajhkesh maehtieh sov healsoem buaranidh£(verb|bueriedidh). {Dïhte dan
 bïjre maahta dan hijven veasodh goh nööredh destie mah leah mov
-bïjre.)£(wo|uforståelig setning) (Juktie ovmessie bielieh healsoem dijpieh
-gååvnesieh muvhth mestie datne aalkah buerebe veasodh)£(wo|uforståelig
-setning). Vaeltieh£(verb|doerelh) haestemem: Jiehtieh heej buerebe
+bïjre.}£{wo|uforståelig setning} {Juktie ovmessie bielieh healsoem dijpieh
+gååvnesieh muvhth mestie datne aalkah buerebe veasodh}£{wo|uforståelig
+setning}. Vaeltieh£(verb|doerelh) haestemem: Jiehtieh heej buerebe
 healsose!
 
 Mijjieh sïjhtebe datne edtjh bööremes¥(dennie bööremes)
@@ -67,7 +67,7 @@ kultuvrellen$(adv,con|kulturellen) darjomh j.n.v. aaj dijpieh.
 Dan gaavhtan mijjieh libie jeenjesh mah tjuerieh barkedh faktovrh jïh
 byjreskh buaranidh mah healsoem dæjpa positijveles vuekine.
 
-(www.hälsa2020.se)∞(url) lea Västebottenen$(conc,b-rb|Västerbottenen)
+{www.hälsa2020.se}∞{url} lea Västebottenen$(conc,b-rb|Västerbottenen)
 leenen laantedigkie åvtanimmie, jeatjah leenen
 sïebredahkenaktöörigujmie$(vowc,ïe-ie;vowlat,e-
 ie|siebriedahkenaktöörigujmie) jïh lea sïlle geajnosne visjovnem

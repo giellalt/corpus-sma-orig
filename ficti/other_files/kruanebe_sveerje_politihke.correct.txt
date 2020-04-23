@@ -1,7 +1,7 @@
 
 Kruanebe$(adj,vowc|Kruenebe) Sveerje!
 - jienede jieledekvalitehtem$(noun,mix|jieledekvaliteetem)
-Byjremepaarije$(noun,mix|Byjremepartije)€(noun,w|Byjresepartije) dah Kruana
+Byjremepaarije${noun,mix|Byjremepartije}€{noun,w|Byjresepartije} dah Kruana
 veeljemasse vaadtsa politigkinie$(noun,mix|politihkine) jeenjebe barkoeh,
 jeenjebe barkoesijjieh, jielije voenh, orre jielemenuepieh
 jih$(cc,ascii|jïh) voengem gohkeldahkesne krööhkestidh. Mijjen
@@ -73,8 +73,8 @@ sijhtebe$(verb,ascii|sïjhtebe) vuejnedh
 buarastehtetimmiem$(verb,mix|buarastehtemem) (staaten, faagesiebrieh
 jih$(cc,ascii|jïh) barkoevedtijh gaskem)£(x,noun,genpl,nompl,x|staaten,
 faagesiebriej jïh barkoevedtiji gaskem) juktie destie baalhkajoekehts
-nyjsenæjjide jih$(cc,ascii|jïh) almide vaeltedh (dan båetije
-veeljemeboelhkesne)£(noun,x,illsg,innsg,x|dan båetije veeljemeboelhkese).
+nyjsenæjjide jih$(cc,ascii|jïh) almide vaeltedh {dan båetije
+veeljemeboelhkesne}£{noun,x,illsg,innsg,x|dan båetije veeljemeboelhkese}.
 Staaten åejvieh gieh$(x,ascii|gïeh) eah dam seamma baalhka
 prinsibpen$(noun,con|prinsihpen) dåajvoehtidh, eah orre tjarkanimmiem
 åadtjoeh.
@@ -190,8 +190,8 @@ Luvliejaevrien bijre$(pp,ascii|bïjre) guktie buerebe sjædta.
 Almetjij$(noun,suf|Almetji) darjomh edtja eatnemem krööhkestidh guktie
 dihte$(dem,ascii|dïhte) gellienlaaketje eatnemisnie$(noun,svow|eatnamisnie)
 vaarjelidh jih$(cc,ascii|jïh) evtiedidh. Sveerjesne edtjieh gohkeldahkesne
-jielijemaadtoeh (dejstie njielje stoerre vaejsjieh
-årrodh)£(noun,x,elapl,nompl,x|dejstie njielje stoerre vaejsjijste årrodh);
+jielijemaadtoeh {dejstie njielje stoerre vaejsjieh
+årrodh}£{noun,x,elapl,nompl,x|dejstie njielje stoerre vaejsjijste årrodh};
 siejpe$(noun,ascii|sïejpe), råate, bierne$(noun,ascii|bïerne)
 jih$(cc,ascii|jïh) gierhkie. Ientjh$(noun,ascii|Ïentjh) gusnie lea
 jijnjh$(indef,ascii|jïjnjh) sjædtoeh edtja vaarjelidh. Gaedtievaarjelimmie
@@ -239,8 +239,8 @@ eejteghmaaksoem$(noun,con|eejhteghmaaksoem) åådtje)£(verb,x,x,x,x|maahtah
 eejhteghmaaksoem åadtjodh). Eejtegh edtjijægan
 loejehtsvoetem$(noun,mix|loejhtesvoetem) veeljedh
 maanasåajhtoenhammoem$(noun,vowc|maanasåjhtoenhammoem).
-Siebredahken$(noun,vow|Siebriedahken) dåarjoe maanasåjhtose (edtja gaajhkh
-maanide båetedh)£(x,x,x,x,x|edtja gaajhkide maanide båetedh).
+Siebredahken$(noun,vow|Siebriedahken) dåarjoe maanasåjhtose {edtja gaajhkh
+maanide båetedh}£{x,x,x,x,x|edtja gaajhkide maanide båetedh}.
 
 19. Båarasåbpoej reaktah nännostämman$(noun,ascii|nænnoestæmman)
 jih$(cc,ascii|jïh) jearsoevoetese
@@ -256,8 +256,8 @@ deemenseskiemtjesåjhtose$(noun,mix|demeenseskïemtjesåjhtose)
 jeenjede$(adj,suf|jeenjebe) vierhtieh vedtedh.
 
 20. Reaktah årromesæjjan – maadtoe jijtsefaamojde$(noun,mix|jïjtjefaamojde)
-(Gaajhkesh leah reakta årromesæjjan)£(x,x,x,x,x|Gaajhkesi leah reaktah
-årromesæjjan). Goh dah gåetehts nuepie bååstede båetedh buerede
+{Gaajhkesh leah reakta årromesæjjan}£{x,x,x,x,x|Gaajhkesi leah reaktah
+årromesæjjan}. Goh dah gåetehts nuepie bååstede båetedh buerede
 jieledasse$(noun,svow|jieliedasse) daarpesje jienebh årromesijjieh mah leah
 sjiere$(adj,ascii|sjïere) almetjasse sjeahtadovvedh, dovne
 öökonomijen$(noun,vowc|ekonomijen) jih$(cc,ascii|jïh)
@@ -276,9 +276,9 @@ loejhtsbaeniesåjhtoe$(noun,vow|loejhtesbaeniesåjhtoe) 20 jaepeste 25 jaapan
 jieniedidh.
 
 22. Heaptojde
-Ovjaksoe lea neerrehtimmie – (almetjh heaptoejgujmie edtja nuepieh
-utnedh)£(verb,x,pl3prs,sg3prs,x|almetjh heaptoejgujmie edtjieh nuepieh
-utnedh) meatan årrodh ellies vyøhkesadtememem$(x,mix|vyöhkesjadtemem).
+Ovjaksoe lea neerrehtimmie – {almetjh heaptoejgujmie edtja nuepieh
+utnedh}£{verb,x,pl3prs,sg3prs,x|almetjh heaptoejgujmie edtjieh nuepieh
+utnedh} meatan årrodh ellies vyøhkesadtememem$(x,mix|vyöhkesjadtemem).
 
 23. Tjirkh gæamhpoem$(noun,vow|gæmhpoem)
 tjiertediblemen$(noun,ascii|tjïertediblemen) jih$(cc,ascii|jïh)

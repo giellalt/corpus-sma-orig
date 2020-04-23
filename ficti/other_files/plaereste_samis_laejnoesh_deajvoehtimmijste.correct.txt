@@ -3,7 +3,7 @@ Læjnoesh€(w|læjnoeh) deajvoehtimmijste!
 
 Daennie€(infl,ine-com|daejnie) nommerine$(vowc,o-u|nummerinie) maaje
 vijries dijpijibie. Darhkan€(w|Jilhts) jïjnjh aamhtesh - noerhtesaemien gïelesne jis.
-Ånnetji€(w|onne) vielie (goh)¥(redun,goh-0| ) gåajhkohtsem€(infl,acc-ela| gåajhkoehtistie)
+Ånnetji€(w|onne) vielie {goh}¥{redun,goh-0| } gåajhkohtsem€(infl,acc-ela| gåajhkoehtistie)
 åarjelsaemien aaj. Daesnie leah dovne aamhtesh mah
 buektehtieh$(vowc,e-ie|buektiehtieh) jïermestalledh, daesnie deahpadimmieh,
 ööhpehtimmieh, jih$(vowc,i-ï|jïh) aaj aelhkebe, vuj lustes lohkemh - nov
@@ -25,7 +25,7 @@ a|nasjovnine) sjidti$(vowc,i-ï|sjïdti). Mijjieh mih aaj sijhtimh$(vowc,i-
 saemieh jïjtjereeremem aavoedidh. Jalhts ij leah ov man jïjnjem aavoedidh,
 dellie læjhkan hov limh sijhteme$(vowc,i-ï|sïjhteme) (histovrihke$(conc,vr-
 r|historihke))£(case,nom-gen|historihken)
-((deapadimmi)$(vowc,p-hp;fin,i-ie|deahpadimmiej) gujmie)£(split-morph|deahpadimmiejgujmie)
+{{deapadimmi}${vowc,p-hp;fin,i-ie|deahpadimmiej} gujmie}£{split-morph|deahpadimmiejgujmie}
 jåerhkedh. Gåellie guktie, dellie daerpies naan Sámis 4., 5. jih$(vowc,i-
 ï|jïh) dovne 6. nommerem$(vowc,o-u|nummerem), jis gaajhkh 100:ide tjeekedh.
 Deajvoehtjæjjah (gaath¥(w|gaatelessjieh))¥gaatelessjieh ihke) eah annje daejrieh mejtie (daejtie nommeride$(vowc,o-
