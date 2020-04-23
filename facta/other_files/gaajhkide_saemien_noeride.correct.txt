@@ -35,7 +35,7 @@ tjïervehts
 
 Programme {aane}${typos|annje} naemhtie {våjnoe}${vowc,å-åå|våajnoe}:
 
-Bearjadahken: Gaajhkesh dovnesh {¥{gïeh}Romsen}${infl,sggen-sgacc|Romsem}
+Bearjadahken: Gaajhkesh dovnesh {}¥{gïeh} {Romsen}${infl,sggen-sgacc|Romsem}
 {jaksi}${infl,xxx|jaksin} {jih}${vowc,i-ï|jïh} {aavoedim}${infl,xxx|aavoedin}
 {mubpie}${infl,sgnom-sggen|mubpien} iehkiedasse.
 

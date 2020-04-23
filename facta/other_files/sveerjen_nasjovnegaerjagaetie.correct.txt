@@ -31,4 +31,4 @@ Reereme
 
 Veedtjeme (26.04.12) daehtie sæjroste:
 
-(http://www.kb.se/hjalp/other-languages/julevsamegiella/)∞url
+{http://www.kb.se/hjalp/other-languages/julevsamegiella/}∞{url}

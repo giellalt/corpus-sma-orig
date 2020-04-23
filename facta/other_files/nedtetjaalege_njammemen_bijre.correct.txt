@@ -1,6 +1,6 @@
 
 Fra internettsiden:
-(http://....)∞url
+(http://....)∞{url}
 Lastet ned 26.04.2012
 
 
@@ -515,14 +515,14 @@ viehkiehtidh, maahtah  akten  {jeatjabasse}¢{xxx|jeatjah}  {læstosne}¢{infl,i
 ill|læstose}  ringkedh.  Jis  datne  raerieh   daarpesjh   {njammemen}€{der,0-
 caus|njammehtimmien}       bïjre,      maahtah      mijjem      gaskesadtedh
 {tellefovnesne}${conc,ll-l|telefovnesne}  jallh  e-påastesne.  Mijjen  nummerh
-gaavnh mijjen nedtesæjrosne  (www.ammehjelpen.no)∞url  jïh  tjaaleginie  mah
+gaavnh mijjen nedtesæjrosne  {www.ammehjelpen.no}∞{url}  jïh  tjaaleginie  mah
 reakadimmiesijjine åadtjoeh.
 
 Jis   {datne}¥{0}    sïjhth    {{{lihtsegelohkem}${vowc,i-ï;fin,lohkem-0|lïhtsege}
 {sjïdtedh}}¢{infl,ack-ess,agr|lïhtseginie   sjïdtedh}),   gaskesadth    mijjen
 {tjaelijesijjem}${noun,vow|tjaelijesijjiem}            {tellefovnesne}${conc,ll-
 l|telefovnesne}:      62      45      52       51       jallh       e-påaste
-(ammehjelpen@ammehjelpen.no)∞url, dle vielie bïevnesh åadtjoeh.
+{ammehjelpen@ammehjelpen.no}∞{url}, dle vielie bïevnesh åadtjoeh.
 
 {Lidteratuvre}${conc|Litteratuvre}
    1. ”Telefonhandbok for ammespørsmål”, Sandra Jolley jïh  Ellen  Phillips-

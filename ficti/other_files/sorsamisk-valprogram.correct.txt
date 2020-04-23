@@ -618,7 +618,7 @@ Seammavierhtege / Nyjsenæjjakampaanjh / Veeljeme
 NSR lea:
   ✓ eevtjemeseminaarem ”Saemiedigkesne nyjsenæjjafaamoe” tjïrrehtamme
   ✓ {dåarjoeøørnegh}${vowc,øø-öö|dåarjoeöörnegh} {{politigke}${conc,gk-
-    hk|politihke} partijide) £(infl,gensg-nomsg|politihken partijide)
+    hk|politihke} partijide}£{infl,gensg-nomsg|politihken partijide}
     tseegkeme, mah {vyøhkesieh}${vowc,ø-ö|vyöhkesieh}  nyjsenæjjam
     veeljemelæstoen voestes sæjjan bïejedh
   ✓ {nyjsenæjjabrosjyrem}${noun,con|nyjsenæjjabrosjyrem} dorjeme mearan

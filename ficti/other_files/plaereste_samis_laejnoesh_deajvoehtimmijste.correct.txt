@@ -28,8 +28,8 @@ r|historihke}{}}£{case,nom-gen|historihken}
 {{deapadimmi}${vowc,p-hp;fin,i-ie|deahpadimmiej} gujmie}£{split-morph|deahpadimmiejgujmie}
 jåerhkedh. Gåellie guktie, dellie daerpies naan Sámis 4., 5. {jih}${vowc,i-
 ï|jïh} dovne 6. {nommerem}${vowc,o-u|nummerem}, jis gaajhkh 100:ide tjeekedh.
-Deajvoehtjæjjah {{gaath}¥{w|gaatelessjieh})¥gaatelessjieh ihke) eah annje daejrieh mejtie (daejtie {nommeride}${vowc,o-
-u|nummeridie}{}}£{case,ack-nom|daah nummerh} sjidtieh.
+Deajvoehtjæjjah {{gaath}¥{w|gaatelessjieh}}¥{gaatelessjieh ihke} eah annje daejrieh mejtie {daejtie {nommeride}${vowc,o-
+u|nummeridie}}£{case,ack-nom|daah nummerh} sjidtieh.
 Jis dellie Sámis {jåerhkemem}£{case,ack-ess|jåerhkieminie} sjædta -saemien tjaaleldhkultuvren
 aejkietjaalegem, dellie tjoeveribie digkiedidh man jïjnjh saemiengïelh
 {edtjiejibie}${vowlat,ie-i|edtjijibie} tjaalegisnie provhkedh. Åarjelsaemien

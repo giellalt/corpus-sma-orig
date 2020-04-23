@@ -3,7 +3,7 @@ Buerie {båateme}${båeteme} {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen}	 {web
 {Ulmieh dehtie barkoste}£{noun,advl,comsg,elasg,case|Ulmieh daejnie barkojne} leah dam demokratijen {systemem}${systeemem}, {almetjij}${almetji} {veajhtoe}¥{noun.redun| } - {jih}${jïh} {reaktajvoeth}${reaktah} vaarjelidh {jih}${jïh} aaj dam nasjovnen vihtiesvoetem.
 {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} barkoe lea {vijhte}${vïjhte} {suerkide}¥{pph, missing|suerkiej mietie} {juakeme}${joekedamme}:
 •	{Kontrasïektjedihk}€{noun|Kontrasïektjeme} {mij lea}¥{verb, infin|galka} sïektjemem {jih}${jïh} luhpehts {tjetskemedarjoem}€{bïevnedimmieh} {åvtesne}¥{v.redun| } heerredidh {jih}${jïh} {kreajnoehtidh}¥{punct missing|kreajnoehtidh.}
-•	Kontraterrorisme, mij lea terrorismem Sveerjen vööste jallh ålkoelaantij$ ålkoelaanti ïedtjh Sveerjesne åvtesne heerredidh {jih}${jïh} kreajnoehtidh, {terroristijdarjomh}${terroristidarjomh} jeatjah laantine {jih}${jïh} {internasjovnen}€{noun,internasjovnen|gaskenasjovni} {terroristijviermiej}${terroristiviermiej} åeksieh Sveerjesne.
+•	Kontraterrorisme, mij lea terrorismem Sveerjen vööste jallh {ålkoelaantij}${ålkoelaanti} ïedtjh Sveerjesne åvtesne heerredidh {jih}${jïh} kreajnoehtidh, {terroristijdarjomh}${terroristidarjomh} jeatjah laantine {jih}${jïh} {internasjovnen}€{noun,internasjovnen|gaskenasjovni} {terroristijviermiej}${terroristiviermiej} åeksieh Sveerjesne.
 Kontraterrorisme, bïevnesh terrorismen bïjre heerredidh mah leah Sveerjen vööste jallh jeatajh ålkoelaanti åajvaladtjide laantesne, Terroristedeahpadimmieh jeatjah laantine jïh mejtie Sveerjesne gååvnesieh åeksieh ålkoelaanti terrorviermeste.
 •	{Reeremhvaarjelimmie}€{noun,Reeremhvaarjelimmie|Reeremevaarjelimmie} mij lea luhpehts {darjomh}${darjomi} {åvtesne}${åvteste} heerredidh {jih}${jïh} kreajnoehtidh mej {njåvtasovvijgujmie}${njåvtasovvijigujmie}, aajhtojne jallh tjibrenassijgujmie politigken vitnemem jaksedh jallh almetjh heerredidh sijjen våaroelaaken nænnoestamme veajhtoe- {jih}${jïh} reaktajvoeth {{gietelieh}${gïetedieh}}¥{punkt missing|.}
 
@@ -13,7 +13,7 @@ Kontraterrorisme, bïevnesh terrorismen bïjre heerredidh mah leah Sveerjen vö�
 
 {Åårganisasjovne}${Åårganisasjovne}
 {Vihtiesvoetepolijse}${pollise} lea byjjesfaamoen reerenassen {nuelesne}€{adv.w|åelesne}. {Mijjien}${Mijjen} lea {jijte}${jïjtjen} instruksjovne, {jijtje}${jïjtjen} {åejviedirektövre}${åejviedirektööre} {jih}${jïh} {jijtje}${jïjtjen} vierhtieh reerenistie . Mijjieh aaj {Rijhkepolijsenståvrose}${Rïjhkepolliseståvrose} govlesovvebe gusnie mijjieh libie {jijtjhråårehke}${jïjtjeråårehke} joekehtasse.
-Medtie 1 000 almetjh lea {Vihtiesvoetepolijsesne}${Vihtiesvoetepollisesne}	 barkeminie. Jeenjemes Stockholmesne barkeminie. Gååvnesieh aaj barkijh mijjen {vijhte}${vïjhte} {regionalen}${regionaalen} sijjine laantesne. {Vihtiesvoetepolijsine}${Vihtiesvoetepollisine} {juristh}${juristh}, {analytikerh}${analytihkerh}, {öökonovmerh}${ökonomh}, {tegknikerh}${teknihkerh} {jih}${jïh} {administratövrh}${administratöörh} barkeminie. Medtie 55 {procenth}${proceente} {dej}${dejstie} {barkijstie}${barkijistie} leah polijside$ pollisine {ööhpehtamme}${barkeminie}.
+Medtie 1 000 almetjh lea {Vihtiesvoetepolijsesne}${Vihtiesvoetepollisesne}	 barkeminie. Jeenjemes Stockholmesne barkeminie. Gååvnesieh aaj barkijh mijjen {vijhte}${vïjhte} {regionalen}${regionaalen} sijjine laantesne. {Vihtiesvoetepolijsine}${Vihtiesvoetepollisine} {juristh}${juristh}, {analytikerh}${analytihkerh}, {öökonovmerh}${ökonomh}, {tegknikerh}${teknihkerh} {jih}${jïh} {administratövrh}${administratöörh} barkeminie. Medtie 55 {procenth}${proceente} {dej}${dejstie} {barkijstie}${barkijistie} leah {polijside}${pollisine} {ööhpehtamme}${barkeminie}.
 
 {Suerkie}€{darjome} {göökte}£{num, inn|gööktene} daltesinie
 {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen}	 darjomh leah {göökte}£{num, inn|gööktene}daltesinie {åårganiseredh}£{åårganiseeredh}, infinn|åårganiseereme) , {åvtohkedaltese}${åvtehkedaltese} man verkenkanslije dåarjojne {jih}${jïh} aktesedaltese{aktesedaltese}€{noun,w|goevtesedaltese} {Verkenåvtohkh}${Verkenåvtehkh} leah generaledirektööre, sov {sijjiesadtje}${sæjjasadtje} {jih}${jïh} {vijhte}${vïjhte} åejviebarkijh. Sov dåarjoe lea {åvtohken}${åvtehken} verkenkanslije man leah uktsie åtnoeh. {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} barkoe lea 17 {joekehts}${joekehth} {aktesidie}${goevtesidie} {juekedh}£{juekedh}inf|joekedamme)
@@ -40,7 +40,7 @@ Påastesijjie: Säkerhetspolisen, Box 12312, 102 28 Stockholm
 
 Gaskesadtemebievnesh dej regionalh {aktesidie}${Bïevnesh} dej regionaali goevtesidie
 
-Fierhten regionalen {aktesen}€{noun,w|goevtesen} leah jeenebh leenh, mohte gaajhkh dej leah åejviekontovre aktem dejstie regijovnen stuerebe staaresne.$Fïereguhten regionaalen goevtesen leah gellieh leenh, mohte gaajhkh leah aktene åejviekontovren åelesne stuerebe staaresne.
+Fierhten regionalen {aktesen}€{noun,w|goevtesen} leah jeenebh leenh, mohte gaajhkh dej leah åejviekontovre aktem dejstie regijovnen stuerebe staaresne. Fïereguhten regionaalen goevtesen leah gellieh leenh, mohte gaajhkh leah aktene åejviekontovren åelesne stuerebe staaresne.
 Datne dejtie dej åejviekontovrij tjirrh {gaskesadtah}${Datne} daej åejviekontovri tjïrrh soptsestallh
 Datne åadtjoeh {dej}${daejtie} åejviekontovride bïeljelidh
 {Noerhtege}${Noerhtine}
@@ -71,7 +71,7 @@ E-påaste: enhet.vast@sakerhetspolisen.se
 Åarjene
 Påastesijjie: Rikspolisstyrelsen, Box 17596, 200 10 Malmö
 {Guastallemesijjie}${guessiesijjie}: Storgatan 43, Malmö
-{Tfn}${tellefovne}: 040-20 33 00 (ts.$Tsåahka 9-12 {jih}${jïh} 13-15), 010-568 70 00 (abpe {dygnem}${Iktegisth})
+{Tfn}${tellefovne}: 040-20 33 00 {ts.}${Tsåahka} 9-12 {jih}${jïh} 13-15), 010-568 70 00 (abpe {dygnem}${Iktegisth})
 Faakse: 040-23 96 29
 E-påaste: enhet.syd@sakerhetspolisen.se
 
