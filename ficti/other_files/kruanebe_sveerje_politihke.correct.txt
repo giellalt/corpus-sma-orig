@@ -1,7 +1,7 @@
-
 {Kruanebe}${adj,vowc|Kruenebe} Sveerje!
+
 - jienede {jieledekvalitehtem}${noun,mix|jieledekvaliteetem}
-{Byjremepaarije}${{}noun,mix|Byjremepartije}€{noun,w|Byjresepartije} dah Kruana
+{{Byjremepaarije}${noun,mix|Byjremepartije}}€{noun,w|Byjresepartije} dah Kruana
 veeljemasse vaadtsa {politigkinie}${noun,mix|politihkine} jeenjebe barkoeh,
 jeenjebe barkoesijjieh, jielije voenh, orre jielemenuepieh
 {jih}${cc,ascii|jïh} voengem gohkeldahkesne krööhkestidh. Mijjen
@@ -52,7 +52,7 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} buaranidh dah
 barkoesijjiem aalka. Dåarjoe
 {kredijteluhpiehtimmiesiebride}${noun,con|kredihteluhpiehtimmiesiebride}
 {jih}${cc,ascii|jïh} kooperatijven darjomasse edtja olkese bigkedh. Mijjieh
-{{{sijhte}${{}x,vow|sijhtie}}}¢{verb,mix|sïjhtebe} joekoen nyjsenæjjaj darjomh
+{{sijhte}${x,vow|sijhtie}}¢{verb,mix|sïjhtebe} joekoen nyjsenæjjaj darjomh
 dåarjelidh. Gaajhkh edtjieh maehtedh njoetedidh, {jih}${cc,ascii|jïh} destie
 maam luhpie giesedh, dan {diehre}${pp,ascii|dïehre} barkoesijjiem aelkedh.
 
