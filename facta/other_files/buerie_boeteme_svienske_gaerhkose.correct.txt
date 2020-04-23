@@ -261,27 +261,27 @@ Laavkoemisnie lea dåajvoe Jupmele {gaajhke}£{infl,plnom-placc|gaajhkide} {jiel
 {Laavkome-gyrhkesjimmie}${hyph-0|Laavkomegyrhkesjimmie} lea aavoen jïh jielemen hïeje. Dïhte giem lååvke Jupmelen uvte lokngesåvva, dïhte gie mijjese jielemem vadta jïh gie sæjhta {mijjen}£{infl,sggen-sgcom|mijjine} ektine aavoedidh. Jupmele sæjhta mijjen lïhke, mijjen {jieliemisne}${fin,e-ie|jieliemisnie} årrodh, mijjem gaajhkeste sæjhta luejhtedh jïh mijjen jielemenuepide orrestidh.
 
 Laavkome noeride
-Jïjnjemes aejkien maanah dah {gieh}${vowc,ï-i|gïeh} Svïenske gærhkosne gieh¥0 lååvkesuvvieh, badth daelie {gellebh}€{foreign|jienebh} noerh jïh dovne geerve almetjh aaj sijhtieh lååvkesovvedh. Dam gellien aejkien darjoeh gosse skyllemasse luhkieh, lohkehtimmien mænngan jallh gosse dåehkesne kristelesvoeten bïjre soptsestalleminie.
+Jïjnjemes aejkien maanah dah {gieh}${vowc,ï-i|gïeh} Svïenske gærhkosne {gieh}¥{0} lååvkesuvvieh, badth daelie {gellebh}€{foreign|jienebh} noerh jïh dovne geerve almetjh aaj sijhtieh lååvkesovvedh. Dam gellien aejkien darjoeh gosse skyllemasse luhkieh, lohkehtimmien mænngan jallh gosse dåehkesne kristelesvoeten bïjre soptsestalleminie.
 
 Laavkome jïh lïhtsegevoete
-Laavkome maadtoe jis lïhtseginie Svïenske gærhkosne sjïdtedh. Dïhte gie jeatjah kristeles {sïebredahkesne}${vowc,ï-i;vowlat,e-ie|siebriedahkesne} lååvkesovveme aaj åådtje {lïhtsege}£{infl,sgnom-sgcom|lïhtseginie} Svïenske {gærhkose}£{infl,sgill-sgine|gærhkosne} årrodh, jïh ij daarpesjh {ikt}${conc,t-th|ikth} {vielien}${typos|vielie} aejkien¥0 laavkodh. Svïenske gærhkoen öörnegen mietie akte kristeles laavkome ihkuvasse lea.
+Laavkome maadtoe jis lïhtseginie Svïenske gærhkosne sjïdtedh. Dïhte gie jeatjah kristeles {sïebredahkesne}${vowc,ï-i;vowlat,e-ie|siebriedahkesne} lååvkesovveme aaj åådtje {lïhtsege}£{infl,sgnom-sgcom|lïhtseginie} Svïenske {gærhkose}£{infl,sgill-sgine|gærhkosne} årrodh, jïh ij daarpesjh {ikt}${conc,t-th|ikth} {vielien}${typos|vielie} {aejkien}¥{0} laavkodh. Svïenske gærhkoen öörnegen mietie akte kristeles laavkome ihkuvasse lea.
 
 
 Provre
 
 Provre lea hïeje. Mojhtese jieliedasse. Ij ajve dejtie guaktide {gieh}${vowc,ï-i|gïeh} pruvrijægan juktie aaj {dej}${infl,plgen-plill|dejtie} slïektide jïh voelpide.
 
-Gosse gærhkosne pruvredh dïhte akte gyrhkesjimmie mij ræjhkoes {jïjnjh¥o vuekine}${infl,pline-plela|vuekijste}. Jupmelen jïh {gaajhkh}£{infl,plnom-plgen|gaajhki} vïhnegi nommesne sinsitniem dåajvoehtibie gieriesvoetem vaarjelidh jïh sinsitnien baalte abpe jielemem tjåadtjodh. Jupmelem gihtjebe mijjen ektievoetem buerie sjugniedidh jïh mijjem {gaajhkh}£{infl,plnom-plgen|gaajhki}  dåeriesmoeri tjïrrh viehkiehtidh mah mijjen jieliemisnie båetieh.
+Gosse gærhkosne pruvredh dïhte akte gyrhkesjimmie mij ræjhkoes {{jïjnjh}¥{o} vuekine}${infl,pline-plela|vuekijste}. Jupmelen jïh {gaajhkh}£{infl,plnom-plgen|gaajhki} vïhnegi nommesne sinsitniem dåajvoehtibie gieriesvoetem vaarjelidh jïh sinsitnien baalte abpe jielemem tjåadtjodh. Jupmelem gihtjebe mijjen ektievoetem buerie sjugniedidh jïh mijjem {gaajhkh}£{infl,plnom-plgen|gaajhki}  dåeriesmoeri tjïrrh viehkiehtidh mah mijjen jieliemisnie båetieh.
 
 Buerie nuepieh {gååvnesieh}€{verb|leah} provregyrhkesjimmiem jïjtshligkie darjodh. Muvhth provresalmetjh sijhtieh {jïjtjene}${infl,sg1gen-pl3gen|jïjtsh} dåajvoeh tjaeledh, sinsitnide laavlodh jallh {mij akt}¥{cmp,2-1|mijakt} jeatjah jïjsthligkie darjodh. Læjhkan dïhte gyrhkesjimmie dennie maadtosne, gusnie aavoedieh jïh gijhtieh jielemen jïh gieriesvoeten vadtesijstie dovne provresalmetjidie jïh guesside.
 
 Provren bïjre soptsestalledh
-Gosse gærhkosne pruvredh provren åvtelhbodti {soptseatalledh}${typos,a-s|soptsestalledh}, dellie provresalmetjh jïh hearra {raeriestieh}€{foreign|rååresjieh} guktie provre edtja årrodh. Mij {teekstide}${vowc,ee-e|tekstide} veeljedh, guktie dåajvoeh edtjieh årrodh, gie dam dorje jïh gåessie? Hearra aaj provhkoe gihtjedh guktie jïh gåessie provresalmetjh sinsitnide¥o gaavnesjigan, maam utniejægan joekoen sinsitnine, maam provhkijægan ektesne darjodh.
+Gosse gærhkosne pruvredh provren åvtelhbodti {soptseatalledh}${typos,a-s|soptsestalledh}, dellie provresalmetjh jïh hearra {raeriestieh}€{foreign|rååresjieh} guktie provre edtja årrodh. Mij {teekstide}${vowc,ee-e|tekstide} veeljedh, guktie dåajvoeh edtjieh årrodh, gie dam dorje jïh gåessie? Hearra aaj provhkoe gihtjedh guktie jïh gåessie provresalmetjh {sinsitnide}¥{o} gaavnesjigan, maam utniejægan joekoen sinsitnine, maam provhkijægan ektesne darjodh.
 
 Provresalmetjidie mejtie fuehpesne {hijven}¥{hijven lea} naemhtie ånnetji raaffalgovvedh jïh {gaajhkh åssjalommesidie}£{infl,plnom-plakk,kongr|gaajhkide åssjalommesidie}  provren bïjre luejhtedh jïh ussjedidh {mannasinie}${xxx|man åvteste} sinsitnine pruvrijægan. Hearrese buerie naemhtie provresalmetjigujmie buerebe åahpenidh jïh buerie gosse provrese edtja håalodh. Soptsestallemem maehtieh gærhkosne jallh provresalmetji gåetine utnedh. Gosse gåetine soptsestellieh aaj mænngan gærhkosne tjåanghkenieh soptsestidh guktie {provrem}${foreign|hïejem} desnie juhtiehtidh.
 
 Ovmessie vuekieh
-Sveerjesne libie jïjnjem {amerihkan}${conc,hk-k|amerikan} kultuvreste lööneme gosse pruvredh. Dam vuajnah provresalmetji vaajtelimmeste guktie dïhte provre edtja årrodh. Gallesh gihtjieh mejtie aehtjebe provresem maahta aalhtarasse vaedtsiehtidh. Ij mij Svïenske gærhkosne dam vuekiem nyrhte, læjhkan maahta ussjedidh maam daate sæjhta¥o {vuesiehtidh}${infl,inf-3sgpres|vuesehte}.
+Sveerjesne libie jïjnjem {amerihkan}${conc,hk-k|amerikan} kultuvreste lööneme gosse pruvredh. Dam vuajnah provresalmetji vaajtelimmeste guktie dïhte provre edtja årrodh. Gallesh gihtjieh mejtie aehtjebe provresem maahta aalhtarasse vaedtsiehtidh. Ij mij Svïenske gærhkosne dam vuekiem nyrhte, læjhkan maahta ussjedidh maam daate {sæjhta}¥{o} {vuesiehtidh}${infl,inf-3sgpres|vuesehte}.
 
 Aalkoste daate vuesehte dïedtem nyjsenæjjeste daelie {aehtjebistie}${vowlat,e-ie|aehtjiebistie} ålmese vadta jïh lea dej {beelijste}${vowc,ee-ae|baelijste} gosse nyjsenæjjan ij naan reaktah. Muvhth hearrijste dellie maehtieh nïejhkedh {aehtjebe}£{infl,sgnom-sgacc|aehtjebem} provresem aalhtarasse {vaedtsehte}${infl,sg3pres-inf|vaedtsiehtidh}. Sveerjesne vuekie provresalmetjh ektesne vaedtsiejægan, dïhte vuesehte nyjsenæjja jïjtje altese ålmam veeljeme jïh ålma jïjtje altese nyjsenæjjam veeljeme jïh gåabpatjahkh sinsitniem {veeljeme}¥{lægan veeljeme} {provrese}£{infl,sgnom-sgess|provresinie} vaedtsedh.
 

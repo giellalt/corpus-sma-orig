@@ -7,7 +7,7 @@ nænnoestieh
 •	{saemiej}¥{saemien åålmege} {leah}¢{infl,pl3prs-sg3prs|jïjtse} {sjiere}¥{jïjtsh} kultuvre {jih}${vowc,i-ï|jïh} {ektesvuekie-jieleme}${hyph-0;cmp,es-ie|ektievuekiejieleme}, {tradisjovnh${foreign|aerpieh},gielh}${vowc,i-ï|gïelh}, veasomh jih${vowc,i-ï|jïh}¥{jïh nïekeds båetije biejjide}
 •	(båetije {biejjij}${fin,ij-iej|biejjiej} {vååjnesassh}}¥{jïh nïekeds båetije biejjide}
 •	dej golme staati leah {naasjovnale}${vowc,aa-a;vowc,a-aa|nasjonaale} {jih}${vowc,i-ï|jïh} {internaasjovnale}${foreign|gaskenasjonaale} {diedte}${vowc,i-ï|dïedte} (saemien kultuvrese {jih}${vowc,i-ï|jïh}
-•	{jielemasse}${vowlat,e-ie|jieliemasse} {nuepiem}£{w|våaromem} vedtedh {{øvtiedimmiem${vowc,ø-ö|övtiedimmiem}}}¢{infl,sgack-verb|övtiedidh} {juhtiehtidh¥0}}¥{wo|saemien kultuvrese jïh jieliemasse våaromem vedtedh övtiedidh}
+•	{jielemasse}${vowlat,e-ie|jieliemasse} {nuepiem}£{w|våaromem} vedtedh {{øvtiedimmiem${vowc,ø-ö|övtiedimmiem}}}¢{infl,sgack-verb|övtiedidh} {{juhtiehtidh}¥{0}}}¥{wo|saemien kultuvrese jïh jieliemasse våaromem vedtedh övtiedidh}
 •	{saemien almetjidie}¢{cmp,2-1;infl,case,plack-plgen|saemienalmetji} leah reaktah {jijtjedh}${vowc,i-ï;infl,sg2dual-pl3pl|jïjtjh}  {reerenasse}£{w|reeredh}
 •	saemien kultuvre {jih}${vowc,i-ï|jïh} {jielemasse}¢{w|siebriedahkejieleme} {laanten}¢{infl,case,sggen-plgen|laanti} {kultuvrese}¢{infl,case,sgill-plill|kultuvride} {lissine}¥{buerie lissine} {båata}¢{w|lea}  {{jih}${vowc,i-ï|jïh} nimhtie dam bijjiebasse lutnjie)¥0
 •	{saemiej}¢{infl,case,plgen-plnom|saemieh} {leah daerpiesvoete}¥{daarpesjieh} (sjiere)¥0 {rasti}${vowc,a-aa;fin,i-egi|raastegi} {namhtah}£{pp|rastah} {jielemem}¥{jïjtsh jielemem} {øvtiedidh}${vowc,ø-ö|övtiedidh}
@@ -27,7 +27,7 @@ saemiedigkieh {dej golme laantine}£{case,gen-ine|dejnie golme laantine} {sjieke
 •	sijhtieh aaj vuesiehtidh saemiej reaktah {jih}${vowc,i-ï|jïh} {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} leah veadtaldihkie {internaasjovnale}${vowc,aa-a;conc,vn-n;vowc,a-aa|internasjonaale} {almetji-reaktide}${hyph-0|almetjereaktide} {jih}${vowc,i-ï|jïh} aaj dan daamts {almetje-reaktese}${hyph-0|almetjereaktese}
 Daate konvensjovne lea tjaalasovveme {saemiej}£{infl,plgen-plcom|saemiejgujmie} ektine guhth {munieh}${vowc,u-ue|muenieh} vihkeles daate aerebi goh staate daam {ratifiserie}€{foreign|dåhkasjamme},
 lea {dååhkasjehtemem}${vowc,åå-å|dåhkasjehtemem} dejstie golme saemiedigkijste dååsteme.
-dah tjuerieh (duvtiem¥0 saemide båetije {bijjiej}¢{case,plgen-plack|biejjide} {vedtedh£{w|dåarjelidh}}}¥{wo|saemide båetije biejjide dåarjeldih}) guktie daate konvensjovne faala.
+dah tjuerieh ({duvtiem}¥{0} saemide båetije {bijjiej}¢{case,plgen-plack|biejjide} {vedtedh£{w|dåarjelidh}}}¥{wo|saemide båetije biejjide dåarjeldih}) guktie daate konvensjovne faala.
 
 Voestes {kapittele}${conc,tt-ht|kapihtele} I
 Saemiej {sjiere}${vowc,i-ï|sjïere} reaktah

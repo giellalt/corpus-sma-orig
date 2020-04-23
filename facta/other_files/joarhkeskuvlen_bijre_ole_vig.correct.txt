@@ -1,15 +1,15 @@
 
 Ole {Vig-en}${acro,suf|Vigen} bïjre
 
-Ole Vig {jåarhke skuvle}¥{cmp,2-1|jåarhkeskuvle} (OVVS) (lea goh¥0 stoerre,
+Ole Vig {jåarhke skuvle}¥{cmp,2-1|jåarhkeskuvle} (OVVS) (lea {goh}¥{0} stoerre,
 (aktels {skuvle}¢{hyph-0;case,sgnom-sgess|skuvline} naa {orre}}¥{wo|lea stoerre
 ektieskuvline}. Dïhte lea Noerhte-Trøndelagen mubpie stööremes skuvle, (man
 lea medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh {daen}${vowc,ae-
 aa|daan} {skuvlejaepien}}¥{wo|man lea daan jaepien medtie 230 barkijh jïh
 medtie 1220 learohkh jïh lohkijh}.
 
-Gosse golme jåarhkeskuvlh jaepien 1997 {ektiedamme}¢{verb|ektiedovvin} lij¥0
-vihkeles faktovre {juktie}¢{xxx|guktie} orre skuvle {galka}¢{xxx|edtji} goh¥0
+Gosse golme jåarhkeskuvlh jaepien 1997 {ektiedamme}¢{verb|ektiedovvin} {lij}¥{0}
+vihkeles faktovre {juktie}¢{xxx|guktie} orre skuvle {galka}¢{xxx|edtji} {goh}¥{0}
 aktine ektievoetine {jåhta}¢{verb|sjïdtedh}. Abpe {skuvlekomplekse}${vowc,e-
 ee|kompleekse} staaren {jarngesne}¢{infl,case,sgine-sgill|jarngese} lea
 ektiedamme jïh skuvlen orre reeremegåetie, kantijne jïh
@@ -24,7 +24,7 @@ Stuerebe {bïgkemeprogramme}${vowc,ï-i|bigkemeprogramme} lea nænnoestamme dej
 {auditorijen}${fin,torijen-tovrijen|auditovrijen} luvlelen. Desnie realfaagh,
 molsehth ööhpehtimmien sijjie jïh skuvlereeremen jïh {kontovrebarkij}${fin,ij-
 iji|kontovrebarkiji} orre kontovrh. Desnie aaj dajven
-baeniestarnedïenesje$conc,sj-st|baeniestarnedïeneste) (3. laptesne).
+{baeniestarnedïenesje}${conc},sj-st|baeniestarnedïeneste) (3. laptesne).
 Bigkeme eelki {ryöjrehtimmine}£{verb|ryöjrehtidh} goeven 2008 jïh {lij
 riejries jaepiemålsomen 2009/10}¥{wo|riejries jaepiemålsomen 2009/10 lij}.
 Jaepien 2009 kantijnem jïh restauranten jïh beapmoefaagen sijjiem bigkin.
@@ -35,7 +35,7 @@ aa|areaalh} åadtjodh (gusnie realfaage jïh {molsehth}€{xxx|fïerhten mubpien
 orreme}.
 
 Orre gaarsjelimmiegåetiem aalka tjaktjen 2010 bigkedh jïh galka riejries
-årrodh jaepien 2011 mietie¥0. Skuvle galka tjïelten gåetiem {åtna}¢{sg3prs-
+årrodh jaepien 2011 {mietie}¥{0}. Skuvle galka tjïelten gåetiem {åtna}¢{sg3prs-
 inf|utnedh} jïh skuvlese {ektie tåarjine}¢{cmp,2-1|ektietåarjine}
 {tjatna}€{verb;forstår ikke ordet|viedteldihkie}.
 
@@ -54,7 +54,7 @@ Tråanten mearoegaedtesne. Ij jeatjah sijjie
 adv|jïjnjem} {heallatjaaleh}¢{attr-sgnom|heallatjaalegh} vuesiehtidh
 bronseaejkeste. Dan gaavhtan aaj golme almetjh bronseaejkien
 {heallatjaalijste}£{xxx|heallatjaalegistie}  Lerfaldesne Hegresne veeljeme
-goh¥0 skuvlen logojne.
+{goh}¥{0} skuvlen logojne.
 
 (Ole Vig jåarhkeskuvlen leah {tjïelkes}¢{pred-attr|tjïelke}
 {ambisjovnh}€{foreign|ulmieh} buerie {skuvle}¢{case,sgnom-sgcom|skuvline}

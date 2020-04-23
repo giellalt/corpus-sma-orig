@@ -21,8 +21,8 @@ sgine|Nöörjesne}{}}¢{wo|Saemien noereh abpe Nöörjesne veasoeminie}
 0|råakesjimmiesijjie} mijjide (mij {politikem}${noun,con|politihkem}
 {jih}${vowc,i-ï|jïh} jaahkoen
 {dåeresth${pp,vowc|dåaresth}}}£{noun,x,gensg,acksg,x|mij politihken jïh
-jaahkoen dåaresth}. Gellien aejkien lin¥0 noereh {jih}${vowc,i-ï|jïh}
-geervealmetjh ohtselamme juste¥0 dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
+jaahkoen dåaresth}. Gellien aejkien {lin}¥{0} noereh {jih}${vowc,i-ï|jïh}
+geervealmetjh ohtselamme {juste}¥{0} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
 {Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-
 ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
 
