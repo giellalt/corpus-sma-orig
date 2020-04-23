@@ -9,7 +9,7 @@ vijries dijpijibie. {Darhkan}€{w|Jilhts} jïjnjh aamhtesh - noerhtesaemien gï
 ööhpehtimmieh, {jih}${vowc,i-ï|jïh} aaj aelhkebe, vuj lustes lohkemh - nov
 raaktan mejjeles, guktie eensi kåserijh edtjieh årrodh. Daennie
 {nommerisnie}${vowc,o-u|nummerisnie} åenehks boelhkh vihkeles
-{{histovrihke${conc,vr-r|historihke}}}£{case,nom-gen|historihken} deahpadimmiej bïjre Saepmesne. Ih
+{{{histovrihke}${{}conc,vr-r|historihke}}}£{case,nom-gen|historihken} deahpadimmiej bïjre Saepmesne. Ih
 daejtie {sisvege-læstosne}${cmp,ege-eh;hyph-0|sisvegelæstosne} {gavnh}${vowc,a-
 aa|gaavnh}. {Jalhtsh}${fin,sh-s|Jalhts} læstoe maaje jïjnjem dåajvohte,
 {jih}${vowc,i-ï|jïh} gegkiestibie daam dïeves sisvegem jïjnjebi mïelide
@@ -35,7 +35,7 @@ aejkietjaalegem, dellie tjoeveribie digkiedidh man jïjnjh saemiengïelh
 {edtjiejibie}${vowlat,ie-i|edtjijibie} tjaalegisnie provhkedh. Åarjelsaemien
 tjaelijh leah meatan orreme {SFS:en}${acro,suf|SFS:n} sjïere
 gïeleevtiedimmien {soejkesjesne}${fin,esne-isnie|soejkesjisnie}, ij naan
-luvliesaemien {{tjaelijh£{infl,pl-sg|tjaelije}}}¥{tjaelije meatan} daan raajan. Sámis 2. {nommerisnie}${vowc,o-
+luvliesaemien {{{tjaelijh}£{{}infl,pl-sg|tjaelije}}}¥{tjaelije meatan} daan raajan. Sámis 2. {nommerisnie}${vowc,o-
 u|nummerisnie} hov dåajvoehtimh 5000 kr. maeksedh bööremes luvliesaemien
 {jih}${vowc,i-ï|jïh} åarjelsaemien {teeksti}${vowc,ee-e|teksti} åvteste. Ibie
 {nov}¥{redun,nov-0| } annje dejtie beetnegidie provhkeme. {Daan}¥{w|dan} {nommeren}${vowc,o-u|nummeren}

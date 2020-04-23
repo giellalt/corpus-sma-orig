@@ -112,7 +112,7 @@ gaajhkijste jieliemijstie jïh jeatjah tjïertijste, jïh Saemiedigkien  tjïrrh
 saemiej ektiebuerien gaavhtan barkedh.  Tseegkemen  mænngan,  jaepien  1968,
 lea  NSR  gaajhkide  saemide   nuepine   orreme   jïjtsh   gïelem   buektedh
 {Nøørjen}${vowc,øø-öö|Nöörjen}                 jïh                 gaskelaanti
-{{siebredahkesne${noun,svow|siebriedahkesne}}}£{infl,sgela-
+{{{siebredahkesne}${{}noun,svow|siebriedahkesne}}}£{infl,sgela-
 plill|siebriedahkide}. NSR lea 40 jaepiej  raajan  tjïelke  saemien  gïeline
 saemien {siebredahken}${vowc,e-ie|siebriedahken} jïh  kultuvren  tseegkemisnie
 jïh {øøvtiedimmesne}${vowc,øø-ö|övtiedimmesne} meatan orreme, jïh  NSR  sæjhta
@@ -158,7 +158,7 @@ gaajhkide saemientjïertide  seamma  nuepie  jïjtsh  aamhtesh  buektedh,  jïh
 aamhtesinie saemiej bïjre ij lij  nuekies  saemien  jïjtjereereme.  Daaletje
 saemien                           {siebredahkesne}${noun,svow|siebriedahkesne}
 {{politigke}${conc,gk-hk|politihke}      jïh       {kultuvre}€{w|kulturelle}
-{urriemdimmiem${noun,mix|orrestimmiem}}}£{noun,x,gensg,nomsg,x|politihken  jïh
+{{urriemdimmiem}${{}noun,mix|orrestimmiem}}}£{noun,x,gensg,nomsg,x|politihken  jïh
 kulturelle orrestimmiem} daarpesje. Daelie {{jienebh jienebh}¢{cmp,2-1|jienebh-jienebh}}£{infl,comp-pos|jieneh-jienebe} saemieh  tjerkebe
 domtoem jïjtsh saemienvoeten  bïjre  åadtjoeh,  mij  dellie  jeahta  båetije
 saemien  {siebredahken}${vowc,e-ie|siebriedahken}  dïejveldimmine   orre   jïh

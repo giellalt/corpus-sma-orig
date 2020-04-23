@@ -20,7 +20,7 @@ Medtie 1 000 almetjh lea {Vihtiesvoetepolijsesne}${Vihtiesvoetepollisesne}	 bark
 
 {Vihtiesvoetepolijse}${Vihtiesvoetepollise}
 Dah {luhpehts}€{noun,w|luhpehtsvoete} mejtie {Vihtiesvoetepolijsie}${Vihtiesvoetepollise} {edtja}€{verb,w|galka} jeeredidh, {åvtesne}¥{pp.redun| } heerredidh {jih}${jïh} kreajnoehtidh maehtieh abpe laantesne deahpadidh $Dah luhpehtsvoeth mejtie vihtiesvoetepollise galka jeeredidh, heerredidh jïh kreajnoehtidh maehtieh abpe laantesne deahpadidh.
-Dan åvtesne£{åvtesne}€{pp,w|åvteste} mijjieh abpe Sveerjesne barkeminie. Mijjen suerkie lea {åårganiseredh}${åårganiseeredh} {naemhtie}¥{punct missing|naemhtie:} {mijjen}${Mijjen} {lea}${leah} {vijhte}${vïjhte} {regijonalh}${regionaale} {aktesen}€{noun,w|goevtesen} laantesne.
+Dan {åvtesne}£{{}åvtesne}€{pp,w|åvteste} mijjieh abpe Sveerjesne barkeminie. Mijjen suerkie lea {åårganiseredh}${åårganiseeredh} {naemhtie}¥{punct missing|naemhtie:} {mijjen}${Mijjen} {lea}${leah} {vijhte}${vïjhte} {regijonalh}${regionaale} {aktesen}€{noun,w|goevtesen} laantesne.
 {Fierhten}${Fïerhten} {aktesen}€{noun,w|goevtesen} {diedtem}${dïedteme} lea {Vihtiesvoetenpolijsen}${Vihtiesvoetepollisen} barkoe dennie sov dajvesne. {Dej}${dejnie} {leenij}${leenesne} {sisnie}¥{pp.redun} dah barkeminie {gaskesadtedh}${soptsestalledh} {jih}${jïh} {tjetskedh}€{verb,tjetskedh|vaaksjodh}.
 Dah {regionalij}${regionaali} {aktesh}€{noun,w|goevtesh} leah:
 •	{Noerhtege}${noerhtine}, mij lea Västernorrlanden, {Jiemhten}${Jïemhten}, Västerbottenen {jih}${jïh} Norrbottenen leenh.
@@ -80,9 +80,9 @@ Maahtah {Vihtiesvoetepolijsem}£{noun, illsg|Vihtiesvoetepollisese} {bieljedidh}
 
 {Dihte}£{noun, acksg|Dam} maahtah darjodh {teelefovnine}${teellefovnine}, e-påastine jallh {dejnie}€{dejnie|daejnie} tjaaleginie {mijjen}€{mijjen|mij} lea daennie {{säjtosne}${sæjrosne}}¥{punct missing|sæjrosne.} Tjaalege lea Sveerjen- {jih}${jïh} englaanten {gielesne}${gïelesne} {webbesijjesne}${gaskeviermiesæjrosne}. Maahtah hævvi {nommehts}€{nommehts|nommehth} årrodh.
 {{Jis}¥{noun missing|Dov jis}{}}¥{verb missing|Dov lea jis} nuepie dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {laahpah}€{laahpah|laehpedh} {mijjieh}¥{noun.redun| } libie {gijhteles}¥{cc missing|juhkoe gijhteles}, jis {naan}¥{noun.redun| } {gyhtjelassh}¥{noun.redun| } {daarpesjibie}¥{pp missing|bïjre daarpesjibie} gihtjedh.
-Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {konfidensiellen}€{konfidensiellen|konfidensieellen} {gietedalledh}€{gïetedalledh|gïetedallebe.} {Maahtah}¥{cc missing|seamma Maahtah} {saath}€{saath|sahth} gieline£{gieline}£{noun|gïelesne}.
-Tjaalegasse£{Tjaalegasse}£{noun|Tjaalege}. englaantengielesne£{englaantegielesne}£{noun|englaantengïelesne}.
-Tjaalegasse£{Tjaalegasse}£{noun|Tjaalege}. sveerjengielesne£{sveerjengielesne}£{noun|sveerjengïelesne}.
-Maahtah aaj daesnie£{daesnie}£{adv|diekie}. {bieljedidh}${bïeljelidh}:
+Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {konfidensiellen}€{konfidensiellen|konfidensieellen} {gietedalledh}€{gïetedalledh|gïetedallebe.} {Maahtah}¥{cc missing|seamma Maahtah} {saath}€{saath|sahth} {gieline}£{{}gieline}£{noun|gïelesne}.
+{Tjaalegasse}£{{}Tjaalegasse}£{noun|Tjaalege}. {englaantengielesne}£{{}englaantegielesne}£{noun|englaantengïelesne}.
+{Tjaalegasse}£{{}Tjaalegasse}£{noun|Tjaalege}. {sveerjengielesne}£{{}sveerjengielesne}£{noun|sveerjengïelesne}.
+Maahtah aaj {daesnie}£{{}daesnie}£{adv|diekie}. {bieljedidh}${bïeljelidh}:
 •	E-påaste: sakerhetspolisen@sakerhetspolisen.se
 •	{Tfn}${Tellefovne}: 010-568 70 00
