@@ -1,6 +1,6 @@
 
 Fra internettsiden:
-(http://....)∞{url}
+{http://....}∞{url}
 Lastet ned 26.04.2012
 
 
