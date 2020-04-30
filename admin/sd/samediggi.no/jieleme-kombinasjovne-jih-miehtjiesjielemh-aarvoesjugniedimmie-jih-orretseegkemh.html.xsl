@@ -168,10 +168,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="naeringsliv-kombinasjons-og-utmarksnaeringer-verdiskaping-og-nyetableringer.html"/>
+        <parallel_text xml:lang="nob" location="variert-naeringsliv-kombinasjons-og-utmarksnaeringer.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="ealahusat-lotnolas-ja-meahcastanealahusat-arvohahkan-ja-oddaasaheamit.html"/>
+        <parallel_text xml:lang="sme" location="manggabealalas-ealahusat-lotnolas-ja-meahcastanealahusat.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

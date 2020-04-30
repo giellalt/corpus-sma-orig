@@ -168,11 +168,11 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="litteratur-2019.html"/>
+        <parallel_text xml:lang="nob" location="litteraturproduksjon.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="girjjalasvuohta-2019.html"/>
-        <parallel_text xml:lang="smj" location="girjalasjvuohta-2018.html"/>
+        <parallel_text xml:lang="sme" location="girjjalasvuodabuvttadeapmi.html"/>
+        <parallel_text xml:lang="smj" location="girjalasjvuohta.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
