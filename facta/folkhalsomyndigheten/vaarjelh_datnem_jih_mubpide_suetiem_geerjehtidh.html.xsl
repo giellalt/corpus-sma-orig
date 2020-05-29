@@ -159,9 +159,9 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location=""/>
-        <parallel_text xml:lang="fin" location=""/>
-        <parallel_text xml:lang="fit" location=""/>
+        <parallel_text xml:lang="eng" location="protect_yourself_and_others_from_spread_of_infection.html"/>
+        <parallel_text xml:lang="fin" location="suojele_itseasi_ja_muita_infektion_leviamiselta.html"/>
+        <parallel_text xml:lang="fit" location="suojaa_ittestia_ja_muita_tauinlevittamisesta.html"/>
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="sme" location="suddje_iezat_ja_earaid_njoammuma_viidumis.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
