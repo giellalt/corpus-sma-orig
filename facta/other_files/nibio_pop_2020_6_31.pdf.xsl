@@ -11,17 +11,17 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="''"/>
+    <xsl:variable name="filename" select="'https://nibio.brage.unit.no/nibio-xmlui/bitstream/handle/11250/2657876/NIBIO_POP_2020_6_31.pdf?sequence=1'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'«Animal Sense» – elektrovneles bovtsebïeljelimmie'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Grete Helen Meisfjord'"/>
+    <xsl:variable name="author1_ln" select="'Jørgensen'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'unknown'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
@@ -34,9 +34,9 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="''"/>
-    <xsl:variable name="author2_ln" select="''"/>
-    <xsl:variable name="author2_gender" select="'unknown'"/>
+    <xsl:variable name="author2_fn" select="'Inger'"/>
+    <xsl:variable name="author2_ln" select="'Hansen'"/>
+    <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="''"/>
     <xsl:variable name="author2_born" select="''"/>
 
@@ -44,9 +44,9 @@
         Information of the third author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author3_fn" select="''"/>
-    <xsl:variable name="author3_ln" select="''"/>
-    <xsl:variable name="author3_gender" select="'unknown'"/>
+    <xsl:variable name="author3_fn" select="'Johannes'"/>
+    <xsl:variable name="author3_ln" select="'Karlsson'"/>
+    <xsl:variable name="author3_gender" select="'m'"/>
     <xsl:variable name="author3_nat" select="''"/>
     <xsl:variable name="author3_born" select="''"/>
 
@@ -54,9 +54,9 @@
         Information of the fourth author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author4_fn" select="''"/>
-    <xsl:variable name="author4_ln" select="''"/>
-    <xsl:variable name="author4_gender" select="'unknown'"/>
+    <xsl:variable name="author4_fn" select="'Svein'"/>
+    <xsl:variable name="author4_ln" select="'Eilertsen'"/>
+    <xsl:variable name="author4_gender" select="'m'"/>
     <xsl:variable name="author4_nat" select="''"/>
     <xsl:variable name="author4_born" select="''"/>
 
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2020'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -159,7 +159,7 @@
     -->
     <xsl:variable name="parallels">
         <parallel_text xml:lang="dan" location=""/>
-        <parallel_text xml:lang="eng" location=""/>
+        <parallel_text xml:lang="eng" location="nibio_pop_2020_6_eng.pdf"/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
         <parallel_text xml:lang="fkv" location=""/>
@@ -168,10 +168,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="nibio_pop_2020_6_nob.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="sme" location="nibio_pop_2020_6_sme.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
