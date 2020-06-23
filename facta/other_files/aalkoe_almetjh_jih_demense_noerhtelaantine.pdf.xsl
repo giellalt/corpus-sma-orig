@@ -165,17 +165,17 @@
         <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
-        <parallel_text xml:lang="kal" location=""/>
+        <parallel_text xml:lang="kal" location="nunani_avannarlerni_nunat_inoqqaavi_puigortunngornermillu_nappaatit.pdf"/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sme" location="eamialbmogat_ja_demeansa_davviriikkain.pdf"/>
+        <parallel_text xml:lang="smj" location="iemealmmuga_ja_demaenssa_nuorttarijkajn.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
-        <parallel_text xml:lang="swe" location=""/>
+        <parallel_text xml:lang="swe" location="urfolk_och_demens_i_norden.pdf"/>
     </xsl:variable>
 
     <!--
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'2-3, 26-27, 30'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
