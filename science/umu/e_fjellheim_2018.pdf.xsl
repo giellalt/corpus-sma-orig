@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.diva-portal.org/smash/get/diva2:1276620/FULLTEXT01.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Bottleneck-hypothesis g2 åarjelsaemien lohkehtimmesne – Baakoej minngiegietjieh haastadihks gosse saemien mubpiengïeline leara'"/>
+    <xsl:variable name="title" select="'Bottleneck-hypothesis g2 åarjelsaemien lohkehtimmesne – Baakoej minngiegietjieh haastadihks gosse saemien mubpiengïeline leara'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

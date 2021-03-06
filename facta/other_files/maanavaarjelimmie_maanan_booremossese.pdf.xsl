@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.bufdir.no/global/Barnevernet_Til_barnets_beste_Brosjyre_SORSAMISK.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'MAANAVAARJELIMMIE. Maanan bööremossese'"/>
+    <xsl:variable name="title" select="'MAANAVAARJELIMMIE. Maanan bööremossese'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

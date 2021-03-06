@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/3._teater_31.10.2017_-_sorsamisk_korrigert.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Teatere jïh scenetjeahpoe goh aktöörh identiteete- jïh nasjovnebigkemisnie'"/>
+    <xsl:variable name="title" select="'Teatere jïh scenetjeahpoe goh aktöörh identiteete- jïh nasjovnebigkemisnie'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
