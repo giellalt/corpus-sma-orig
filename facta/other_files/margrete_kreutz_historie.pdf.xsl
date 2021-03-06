@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://site.uit.no/smartstien/files/2012/02/hefte_sxrsamisk_mobile_low.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Margrete Kreutzen jieleden bïjre'"/>
+    <xsl:variable name="title" select="'Margrete Kreutzen jieleden bïjre'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/4.helserelaterte_leve-_og8.8.2018_mollersen_sorsamisk_10._sep.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Healsoeektiedamme jielede- jïh barkoetsiehkieh båatsoesaemien årroejidie åarjelsaemien dajvesne'"/>
+    <xsl:variable name="title" select="'Healsoeektiedamme jielede- jïh barkoetsiehkieh båatsoesaemien årroejidie åarjelsaemien dajvesne'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

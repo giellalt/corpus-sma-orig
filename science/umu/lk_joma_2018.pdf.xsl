@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://umu.diva-portal.org/smash/get/diva2:1252932/FULLTEXT01.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Objeektem jååhkesjidh jallh ij jååhkesjh, åarjelsaemien gïelesne'"/>
+    <xsl:variable name="title" select="'Objeektem jååhkesjidh jallh ij jååhkesjh, åarjelsaemien gïelesne'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

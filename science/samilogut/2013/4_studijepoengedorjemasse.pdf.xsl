@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/4.studiepoengproduksjon_i_samisk_21._aug_-_sarsamisk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Studijepoengedorjemasse saemien jollebe ööhpehtimmesne'"/>
+    <xsl:variable name="title" select="'Studijepoengedorjemasse saemien jollebe ööhpehtimmesne'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
