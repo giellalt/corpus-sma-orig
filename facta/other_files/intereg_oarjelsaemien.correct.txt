@@ -5,7 +5,7 @@ Saerniestimmie dan stoerre {ektesvuekie}${cmp,es-ie|ektievuekie}
 {barkoeprosjekten}${vowlat,e-ee|barkoeprosjeekten} {bijre}${vowc,i-ï|bïjre},
 mestie båata, barkoesijjieh, aatjmehkh, {jilleskåvloeh}${vowc,i-
 ï|jïlleskåvloeh}{/universiteth}${vowlat,e-ee|universiteeth},
-{{haamoedimmieh}${{}vowc,aa-a|hammoedimmieh}/årganisasjovnh}${init,å-
+{{haamoedimmieh}${vowc,aa-a|hammoedimmieh}/årganisasjovnh}${init,å-
 o|organisasjovnh} {jih}${vowc,i-ï|jïh} byjjes {viehkiedirregh}${vowc,i-
 ï|viehkiedïrregh} {Jiemhtesne}${vowc,i-ï|Jïemhtesne} {jih}${vowc,i-ï|jïh} dovne
 {Trøødelagen}${vowc,øø-öö|Trøndelaagen} fylhkine {maehtie}${fin,ie-

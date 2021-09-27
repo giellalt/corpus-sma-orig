@@ -181,7 +181,7 @@ juhtiemasse buektiehtidh {gusne}${indef,vow|gusnie} maanah dovne daaroen-
 {jih}${vowc,i-ï|jïh} saemien {gielem}${vowc,i-ï|gïelem} åadtjoejin
 {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} nimhtie
 {{guektiengielh}${vowc,i-ï|guektiengïelh}
-{guedtijh}}¥{noun,x|guektiengïelenguedtijh} {sjidtedh}${vowc,i-ï|sjïdtedh}.
+guedtijh}¥{noun,x|guektiengïelenguedtijh} {sjidtedh}${vowc,i-ï|sjïdtedh}.
 
 Eejhtegh {govloes}${verb,vow|gåvloes} eadtjohke {jih}${vowc,i-ï|jïh} 12 paarrh
 {sijhtin}${vowc,i-ï|sïjhtin} meatan årrodh. Soejkesje lij joe dam
@@ -277,9 +277,9 @@ dah {sjiere}${vowc,i-ï|sjïere} tæjmoeh {Vinjebakkenesnie}${fin,nesnie-isnie|V
 ij {lij}¢{infl,sg3prs-pl3prs|lin} nuekies jis maanah
 edtjin aelkedh {åarjel-saemien}${hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem}
 {provhkedh}£{verb|soptsestidh} {goh}¥{0} {{fierhten}${vowc,i-ï|fïerhten}
-{beajjetje}}${cmp,2-1|fïerhtenbeajjetje} {giele}${vowc,i-ï;infl,case,sgnom-sgcom|gïeline}.
+beajjetje}${cmp,2-1|fïerhtenbeajjetje} {giele}${vowc,i-ï;infl,case,sgnom-sgcom|gïeline}.
 Nimhtie eejhtegh vaajtelin {{fierhten}${vowc,i-ï|fïerhten}
-{beajjetje}}${cmp,2-1|fïerhtenbeajjetje} {maanagiertem}${vowc,i-ï|maanagïertem}
+beajjetje}${cmp,2-1|fïerhtenbeajjetje} {maanagiertem}${vowc,i-ï|maanagïertem}
 åadtjodh.
 
 Hanne-Lena lij akte dejstie gie {lih}¢{infl,sg32prs-sg3prs|lij} meatan {jih}¥{0}
@@ -406,12 +406,12 @@ Mohte jis maanah desnie guhth eah saemien guarkah, dellie daaroen
 {giele}${vowc,i-ï|gïele} jarngesne {tjåådtje}€{verb|lea}. Aehtjebe buerebe
 noerhtesaemien maahta {jih}${vowc,i-ï|jïh} {dihte}${vowc,i-ï|dïhte}
 {giele}${vowc,i-ï|gïele} {veaksakobpoe}${conc,k-hk;vowc,o-å|veaksahkåbpoe}
-sjædta mov {åarjelsaemien {gieleste}¢{vowc,i-ï|gïeleste}}}${cmp,2-1|åarjelsaemiengïeleste}.
+sjædta mov {åarjelsaemien {gieleste}¢{vowc,i-ï|gïeleste}}${cmp,2-1|åarjelsaemiengïeleste}.
 Nimhtie sån aaj {dihte}${vowc,i-ï|dïhte}
 {giele}${vowc,i-ï|gïele} maanide {veaksakommes}${conc,k-hk|veaksahkommes}
 sjædta. Gosse tjaeledh {jih}${vowc,i-ï|jïh} lohkedh dellie dah
 {gøøkte}${vowc,øø-öö|göökte} båarasommes {væjkelåboe}${vowlat,e-a|væjkalåbpoe}
-{åarjelsaemien {gielesne}¢{vowc,i-ï|gïelesne}}}${cmp,2-1|åarjelsaemiengïelesne},
+{åarjelsaemien {gielesne}¢{vowc,i-ï|gïelesne}}${cmp,2-1|åarjelsaemiengïelesne},
 jeahta. Gåabpatjahkh {utniegan}${vowlat,ie-i|utnigan}
 {{åarelsaemien}${conc,r-rj|åarjelsaemien} {gielem}${vowc,i-ï|gïelem}}¢{åarjelsaemiengïelem} {goh}¥{1-0|} voestes
 {giele}£{infl,case,sgnom-sgcom;vowc,i-ï|gïeline} skuvlesne, mohte

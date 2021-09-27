@@ -7,24 +7,16 @@ nem;foreign|noeresiebriem}!
 
 {Sijhth}${vowc,i-ï|Sïjhth} dåeriedidh maam
 {historjesadtem}${adj,mix|historihkeles}? Dåeredh
-{aelkedhdh}${verb,|aelkiehtehtedh} {ov-gårreldh}${hyph-0|ovgårreldh} abpe-
-{rijhken}${hyph-0,vowc,i-ï|abperïjhken} siebriem saemien noeride? Golken 16.-
-18. {Biejji}${fin,i-iej|Biejjiej} aalkoetjåanghkoe Romsesne, {jih}${vowc,i-
-ï|jïh} {mijjeh}${fin,eh,ieh|mijjieh} {sijhtebe}${vowc,i-ï|sïjhtebe} datne aaj
+{aelkedhdh}${verb,|aelkiehtehtedh} {ov-gårreldh}${hyph-0|ovgårreldh} {abpe-rijhken}${hyph-0,vowc,i-ï|abperïjhken} siebriem saemien noeride? Golken 16.-
+18. {Biejji}${fin,i-iej|Biejjiej} aalkoetjåanghkoe Romsesne, {jih}${vowc,i-ï|jïh} {mijjeh}${fin,eh,ieh|mijjieh} {sijhtebe}${vowc,i-ï|sïjhtebe} datne aaj
 edtjh dåeriedidh.
 
 {Mannasinie}€{xxx|man åvteste}?
 
-(Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-
-sgine|Nöörjesne}{}}¢{wo|Saemien noereh abpe Nöörjesne veasoeminie}
-{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-
-0|råakesjimmiesijjie} mijjide (mij {politikem}${noun,con|politihkem}
-{jih}${vowc,i-ï|jïh} jaahkoen
-{{dåeresth}${{}pp,vowc|dåaresth}}}£{noun,x,gensg,acksg,x|mij politihken jïh
-jaahkoen dåaresth}. Gellien aejkien {lin}¥{0} noereh {jih}${vowc,i-ï|jïh}
+{Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-sgine|Nöörjesne}}¢{wo|Saemien noereh abpe Nöörjesne veasoeminie}
+{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide {mij {politikem}${noun,con|politihkem} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}}£{noun,x,gensg,acksg,x|mij politihken jïh jaahkoen dåaresth}. Gellien aejkien {lin}¥{0} noereh {jih}${vowc,i-ï|jïh}
 geervealmetjh ohtselamme {juste}¥{0} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
-{Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-
-ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
+{Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
 
 {Aejkie}€{xxx|gåessie}: Golken 16.-18. {Biejje}${fin,e-ie|Mij Biejjide}
 
@@ -40,20 +32,17 @@ Bearjadahken: Gaajhkesh dovnesh {}¥{gïeh} {Romsen}${infl,sggen-sgacc|Romsem}
 {mubpie}${infl,sgnom-sggen|mubpien} iehkiedasse.
 
 
-Laavadahken: {Jijtje}${vowc,i-ï|Jïjtje} aelkiedimmietjåanghkoe {jih}${vowc,i-
-ï|jïh} murreds konserte iehkeden
+Laavadahken: {Jijtje}${vowc,i-ï|Jïjtje} aelkiedimmietjåanghkoe {jih}${vowc,i-ï|jïh} murreds konserte iehkeden
 
 
 Aejlegen: Gåatan {vidh}${typos|vihth} vuelkedh
 
-Håhkesjibie {buektedibie}${vowlat,e-ie|buektiehtibie} {gøøkte}${vowc,øø-
-öö|göökte} {bussah}${vowlat,a-0|bussh} mah {vuejiejægan}${infl,xxx|vuejieh}
+Håhkesjibie {buektedibie}${vowlat,e-ie|buektiehtibie} {gøøkte}${vowc,øø-öö|göökte} {bussah}${vowlat,a-0|bussh} mah {vuejiejægan}${infl,xxx|vuejieh}
 Romsese, akte Gærhkoenjaarkeste {jih}${vowc,i-ï|jïh} mubpie Tråanteste. Jis
-{mingemes}${conc,ng-nng|minngemes} {beetnegeviertiem}${cmp,ege-
-eh|beetnehvierhtiem} maam vuertieminie åadtjoejibie.
+{mingemes}${conc,ng-nng|minngemes} {beetnegeviertiem}${cmp,ege-eh|beetnehvierhtiem} maam vuertieminie åadtjoejibie.
 
 {Sijhth}${vowc,i-ï|Sïjhth} dåeriedidh? {Soptsesh}¢{conc,sh-sth|Soptsesth}
-{susanneamalie@gmail.com`ese}${typos|susanneamalie@gmail.com:ese} {{{ååvtelen}${{}vowc,åå-å|åvtelen}}}€{w|aarebi} Golken mubpien
+{susanneamalie@gmail.com`ese}${typos|susanneamalie@gmail.com:ese} {{ååvtelen}${vowc,åå-å|åvtelen}}€{w|aarebi} Golken mubpien
 {biejjen}${fin,en-ien|biejjien}, {juktie}€{w|guktie} daejrebe {}¥{xxx|mejtie}
 nuekies {beapmoh}${conc,oh-oeh|beapmoeh} {gaajhkide}€{w|gaajhkesidie}!
 
@@ -65,12 +54,7 @@ aelkiedidh, {åajviem}${vowc,åa-åe|åejviem} Susanne Amalie Andersen baaktoe.
 telefovne:  (+47) 92835649
 e-påaste: {susanneamalie@gmail.com}∞{url}
 
-Ps!  Veartesjh aaj $(Infl,sgnom-
-sgacc|www.nuora.blogg.no:m){www.nuora.blogg.no}∞{url} jallh Facebook-
-{dåehkiem}${hyph-0|facebookdåehkiem} ?stiftelse av samisk
-ungdomsorganisasjon? juktie orre {bievnesh}${vowc,i-ï|bïevnesh} {tjåanghkoem
-{bijre}${vowc,i-ï|bïjre}}£{infl,sgacc-sggen|tjåanghkoen bïjre} åådtje.
-
-
+Ps!  Veartesjh aaj $(Infl,sgnom-sgacc|www.nuora.blogg.no:m){www.nuora.blogg.no}∞{url} jallh {Facebook-dåehkiem}${hyph-0|facebookdåehkiem} ?stiftelse av samisk
+ungdomsorganisasjon? juktie orre {bievnesh}${vowc,i-ï|bïevnesh} {tjåanghkoem {bijre}${vowc,i-ï|bïjre}}£{infl,sgacc-sggen|tjåanghkoen bïjre} åådtje.
 
 Veedtjeme (10.05.12) sæjroste www.nuora.blogg.no

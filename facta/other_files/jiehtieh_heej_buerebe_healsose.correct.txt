@@ -54,7 +54,7 @@ healsoe jïh veartenen vervesne åålmege”. Jaepien 2008
 {politijhkerh}${noun,con|politihkerh} {nænnostin}${verb,svow|nænnoestin}
 joekoen barkoem darjodh visjovneste, dïhte Hälsa 2020-prosesse, mestie
 båata orre {{healsoeeevtiedimmie}${noun,vow|healsoeevtiedimmie}
-{barkoem}}¥{noun,x|healsoeevtiedimmiebarkoem} meehti tjïrrehtidh jïh dah mah
+barkoem}¥{noun,x|healsoeevtiedimmiebarkoem} meehti tjïrrehtidh jïh dah mah
 juhtieh maehtieh eadtjohkåbpoe barkedh.
 
 Jïjnji dïedte
@@ -74,4 +74,3 @@ ie|siebriedahkenaktöörigujmie} jïh lea sïlle geajnosne visjovnem
 tjïrrehtidh jaepien 2020 lea {Västebottenen}${conc,b-rb|Västerbottenen}
 veartenen bööremes healsoe jïh veartenen {frïeskemes}${vowc,ïe-i|friskemes}
 åålmege.
-

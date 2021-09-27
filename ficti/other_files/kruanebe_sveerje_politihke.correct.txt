@@ -70,8 +70,8 @@ Dovne byjjes {jih}${cc,ascii|jïh} {siejhmes}${adj,mix|sïejhme} suerkesne
 tjuerieh barkoevedtijh {diedtem}${noun,ascii|dïedtem} seamma
 {viertegs}${adj,vowc|vyörtegs} baalhkah vaeltieh. Mijjieh
 {sijhtebe}${verb,ascii|sïjhtebe} vuejnedh
-{buarastehtetimmiem}${verb,mix|buarastehtemem} (staaten, faagesiebrieh
-{jih}${cc,ascii|jïh} barkoevedtijh {gaskem}}£{x,noun,genpl,nompl,x|staaten,
+{buarastehtetimmiem}${verb,mix|buarastehtemem} {staaten, faagesiebrieh
+{jih}${cc,ascii|jïh} barkoevedtijh gaskem}£{x,noun,genpl,nompl,x|staaten,
 faagesiebriej jïh barkoevedtiji gaskem} juktie destie baalhkajoekehts
 nyjsenæjjide {jih}${cc,ascii|jïh} almide vaeltedh {dan båetije
 veeljemeboelhkesne}£{noun,x,illsg,innsg,x|dan båetije veeljemeboelhkese}.
@@ -234,9 +234,8 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 {gorreldidh}${verb,con|gorredidh}. Gåabpegh maehtiejægan askem maanine
 gåetesne seamma aejkien årrodh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 jeatjah goh {{dihte}${dem,ascii|dïhte} gie maanan
-{syjhtedh}}£{noun,x,acksg,gensg,x|dïhte gie maanam syjhtedh} (maahta
-{eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}}£{verb,x,x,x,x|maahtah
-eejhteghmaaksoem åadtjodh}. Eejtegh edtjijægan
+syjhtedh}£{noun,x,acksg,gensg,x|dïhte gie maanam syjhtedh}
+{maahta {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} åådtje}£{verb,x,x,x,x|maahtah eejhteghmaaksoem åadtjodh}. Eejtegh edtjijægan
 {loejehtsvoetem}${noun,mix|loejhtesvoetem} veeljedh
 {maanasåajhtoenhammoem}${noun,vowc|maanasåjhtoenhammoem}.
 {Siebredahken}${noun,vow|Siebriedahken} dåarjoe maanasåjhtose {edtja gaajhkh
@@ -353,9 +352,9 @@ komplementärmedisijnem edtja healsoe- {jih}${cc,ascii|jïh}
 Edtja {viht}${x,con|vihth} låhkoem årrodh man {jijnjh}${indef,ascii|jïjnjh} lea
 luhpie {alkohovlijstie}${noun,suf|alkohovlijste} laantese vaeltedh
 {jih}${cc,ascii|jïh} aaj ij edtjh luhpie dejtie
-{reklameredh}${verb,vow|reklameeredh}. (Systembolagen
+{reklameredh}${verb,vow|reklameeredh}. {Systembolagen
 {alkohovlemovopovlem}${noun,con|alkohovlemonopovlem} edtja
-{årrodh}}£{noun,x,nomsg,acksg,x|Systembolagen alkohovlemonopovle edtja
+årrodh}£{noun,x,nomsg,acksg,x|Systembolagen alkohovlemonopovle edtja
 årrodh}. Ibie {sijhth}${verb,ascii|sïjhth} alkohovleskaehtiem vueliedidh.
 
 29. Kultuvre gaajhkide
