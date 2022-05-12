@@ -36,9 +36,9 @@
     -->
     <xsl:variable name="author2_fn" select="'Ajlin Jonassen'"/>
     <xsl:variable name="author2_ln" select="'Kråik'"/>
-    <xsl:variable name="author2_gender" select="'unknown'"/>
-    <xsl:variable name="author2_nat" select="''"/>
-    <xsl:variable name="author2_born" select="''"/>
+    <xsl:variable name="author2_gender" select="'f'"/>
+    <xsl:variable name="author2_nat" select="'None'"/>
+    <xsl:variable name="author2_born" select="'None'"/>
 
     <!--
         Information of the third author: first name, last name,
