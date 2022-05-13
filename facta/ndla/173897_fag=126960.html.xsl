@@ -54,11 +54,11 @@
         Information of the fourth author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author4_fn" select="'Helen Blind'"/>
+    <xsl:variable name="author4_fn" select="'Helen Katrin Blind '"/>
     <xsl:variable name="author4_ln" select="'Brandsfjell'"/>
-    <xsl:variable name="author4_gender" select="'f'"/>
-    <xsl:variable name="author4_nat" select="''"/>
-    <xsl:variable name="author4_born" select="''"/>
+    <xsl:variable name="author4_gender" select="'F'"/>
+    <xsl:variable name="author4_nat" select="'NO'"/>
+    <xsl:variable name="author4_born" select="'1961'"/>
 
     <!--
         Information of the fourth author: first name, last name,

@@ -27,18 +27,18 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'NO'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
-    <xsl:variable name="author1_born" select="''"/>
+    <xsl:variable name="author1_born" select="'19370814'"/>
     <!--
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="'Helen Blind'"/>
+    <xsl:variable name="author2_fn" select="'Helen Katrin Blind '"/>
     <xsl:variable name="author2_ln" select="'Brandsfjell'"/>
-    <xsl:variable name="author2_gender" select="'f'"/>
-    <xsl:variable name="author2_nat" select="''"/>
-    <xsl:variable name="author2_born" select="''"/>
+    <xsl:variable name="author2_gender" select="'F'"/>
+    <xsl:variable name="author2_nat" select="'NO'"/>
+    <xsl:variable name="author2_born" select="'1961'"/>
 
     <!--
         Information of the third author: first name, last name,
