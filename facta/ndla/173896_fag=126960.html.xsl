@@ -34,9 +34,9 @@
         Information of the second author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author2_fn" select="'Helen Katrin Blind '"/>
+    <xsl:variable name="author2_fn" select="'Helen Katrin Blind'"/>
     <xsl:variable name="author2_ln" select="'Brandsfjell'"/>
-    <xsl:variable name="author2_gender" select="'F'"/>
+    <xsl:variable name="author2_gender" select="'f'"/>
     <xsl:variable name="author2_nat" select="'NO'"/>
     <xsl:variable name="author2_born" select="'1961'"/>
 

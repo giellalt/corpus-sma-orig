@@ -44,9 +44,9 @@
         Information of the third author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author3_fn" select="'Helen Katrin Blind '"/>
+    <xsl:variable name="author3_fn" select="'Helen Katrin Blind'"/>
     <xsl:variable name="author3_ln" select="'Brandsfjell'"/>
-    <xsl:variable name="author3_gender" select="'F'"/>
+    <xsl:variable name="author3_gender" select="'f'"/>
     <xsl:variable name="author3_nat" select="'NO'"/>
     <xsl:variable name="author3_born" select="'1961'"/>
 

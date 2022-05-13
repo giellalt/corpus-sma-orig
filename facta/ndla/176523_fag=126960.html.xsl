@@ -18,10 +18,10 @@
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="'Helen Katrin Blind '"/>
+    <xsl:variable name="author1_fn" select="'Helen Katrin Blind'"/>
     <xsl:variable name="author1_ln" select="'Brandsfjell'"/>
     <!-- m, f or unknown -->
-    <xsl:variable name="author1_gender" select="'F'"/>
+    <xsl:variable name="author1_gender" select="'f'"/>
     <!--
         The country where the author is from. It should be written as
         an ISO_3166-1 code.
