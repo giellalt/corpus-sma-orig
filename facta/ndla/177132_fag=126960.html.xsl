@@ -37,8 +37,8 @@
     <xsl:variable name="author2_fn" select="'Gustav'"/>
     <xsl:variable name="author2_ln" select="'Hasselbrink'"/>
     <xsl:variable name="author2_gender" select="'m'"/>
-    <xsl:variable name="author2_nat" select="''"/>
-    <xsl:variable name="author2_born" select="''"/>
+    <xsl:variable name="author2_nat" select="'SE'"/>
+    <xsl:variable name="author2_born" select="'1900'"/>
 
     <!--
         Information of the third author: first name, last name,
@@ -47,8 +47,8 @@
     <xsl:variable name="author3_fn" select="'Ella Holm'"/>
     <xsl:variable name="author3_ln" select="'Bull'"/>
     <xsl:variable name="author3_gender" select="'f'"/>
-    <xsl:variable name="author3_nat" select="''"/>
-    <xsl:variable name="author3_born" select="''"/>
+    <xsl:variable name="author3_nat" select="'NO'"/>
+    <xsl:variable name="author3_born" select="'19291012'"/>
 
     <!--
         Information of the fourth author: first name, last name,

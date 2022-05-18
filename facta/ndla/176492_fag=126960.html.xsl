@@ -27,9 +27,9 @@
         an ISO_3166-1 code.
         https://no.wikipedia.org/wiki/ISO_3166-1
     -->
-    <xsl:variable name="author1_nat" select="''"/>
+    <xsl:variable name="author1_nat" select="'SE'"/>
     <!-- Either YYYY or YYYYMMDD. Examples: 1954 or 19451224 -->
-    <xsl:variable name="author1_born" select="''"/>
+    <xsl:variable name="author1_born" select="'1900'"/>
     <!--
         Information of the second author: first name, last name,
         date or year of birth, nationality.
@@ -47,8 +47,8 @@
     <xsl:variable name="author3_fn" select="'Ella Holm'"/>
     <xsl:variable name="author3_ln" select="'Bull'"/>
     <xsl:variable name="author3_gender" select="'f'"/>
-    <xsl:variable name="author3_nat" select="''"/>
-    <xsl:variable name="author3_born" select="''"/>
+    <xsl:variable name="author3_nat" select="'NO'"/>
+    <xsl:variable name="author3_born" select="'19291012'"/>
 
     <!--
         Information of the fourth author: first name, last name,
