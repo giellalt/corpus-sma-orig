@@ -33,7 +33,7 @@ nuepiem åadtjodh {jijtsistie}${refl,ascii|jïjtsistie}
 {FN’en}${acr,suf|FN:n} maanakonvensjovnem Sveerjen laakese aajketje
 {bihkedidh}${verb,ascii|bïhkedidh}.
 
-2.    Tjöödtjehtehtieh voengedååjremem!
+2. Tjöödtjehtehtieh voengedååjremem!
 Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} Sveerjen jearohkevoetem
 {ååljistie}${noun,mix|åljeste} {jih}${cc,ascii|jïh} jeatjah fossijlen
 {bualatahkh}${noun,con|bualahtahkh} edtja 15 jaepesne våavtsoestidh.
@@ -46,7 +46,7 @@ vaenie energije daarpesje bigkedh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 kruana {skaehtieviekseldimmie}${noun,vowc|skaehtieveekseldimmie} galka
 jåerhkedh.
 
-3.    Jienebh orre barkoesijjieh {jih}${cc,ascii|jïh} barkoeh
+3. Jienebh orre barkoesijjieh {jih}${cc,ascii|jïh} barkoeh
 Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} buaranidh dah
 {socijalen}${adj,mix|sosijaalen} tjirkedimmieh {disse}${dem,ascii|dïsse} gie
 barkoesijjiem aalka. Dåarjoe
@@ -56,7 +56,7 @@ barkoesijjiem aalka. Dåarjoe
 dåarjelidh. Gaajhkh edtjieh maehtedh njoetedidh, {jih}${cc,ascii|jïh} destie
 maam luhpie giesedh, dan {diehre}${pp,ascii|dïehre} barkoesijjiem aelkedh.
 
-4.    40 000 orre barkoeh byjjes maekseme suerkesne
+4. 40 000 orre barkoeh byjjes maekseme suerkesne
 Daarpoeh {jih}${cc,ascii|jïh} sijjieh gååvnesieh jeenjebe barkijh dan byjjes
 maekseme suerkesne. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} beetnegh
 juhtiehtidh barkoesjeltieråajvarimmeste {jih}${cc,ascii|jïh} medtie 40 000
@@ -65,7 +65,7 @@ vuejnedh {kultuvrisnie}${noun,suf|kultuvresne}, skuvlesne,
 {skiemtjesåjhtosne}${noun,ascii|skïemtjesåjhtosne}, båarasåbpoesåjhtosne
 {jih}${cc,ascii|jïh} åvtesskuvlesne.
 
-5.    Seamma baalhka nyjsenæjjide {jih}${cc,ascii|jïh} almide
+5. Seamma baalhka nyjsenæjjide {jih}${cc,ascii|jïh} almide
 Dovne byjjes {jih}${cc,ascii|jïh} {siejhmes}${adj,mix|sïejhme} suerkesne
 tjuerieh barkoevedtijh {diedtem}${noun,ascii|dïedtem} seamma
 {viertegs}${adj,vowc|vyörtegs} baalhkah vaeltieh. Mijjieh
@@ -79,14 +79,14 @@ Staaten åejvieh {gieh}${x,ascii|gïeh} eah dam seamma baalhka
 {prinsibpen}${noun,con|prinsihpen} dåajvoehtidh, eah orre tjarkanimmiem
 åadtjoeh.
 
-6.    Buerebe våaromh ohtjebarkoesijjide
+6. Buerebe våaromh ohtjebarkoesijjide
 Aelhkebe okteghbarkoesijjide darjodh barkijh åadtjoeh dellie mijjieh
 {sijhtebe}${verb,ascii|sïjhtebe} barkoevedtijemaaksoem vualanidh dam voestes
 barkijem luhkie prosenth. Nuepie edtja administratijven dåarjojde
 {jih}${cc,ascii|jïh} {tjarkanimmiekapitalh}${noun,vow|tjarkanimmiekapitaalh}
 buaranidh.
 
-7.    Loejhtesjaepie {jielemisnie}${noun,svow|jieliemisnie} gaskoeh
+7. Loejhtesjaepie {jielemisnie}${noun,svow|jieliemisnie} gaskoeh
 Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} loejhtesjaepiem edtja årrodh
 {jih}${cc,ascii|jïh} evtiedidh. Loejhtesjaepeste sjædta jillebe
 {jieledekvalitehtem}${noun,mix|jieledekvaliteetem} {jih}${cc,ascii|jïh}
@@ -96,7 +96,7 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} loejhtesjaepiem edtja årrodh
 {liegkestidh}${verb,ascii|lïegkestidh} seamma aejkien goh barkohts åadtjoeh
 viehkiem barkoesjaltan båetedh.
 
-8.    {Åenehksåbpoe}${adj,svow|Åeniehkåbpoe}
+8. {Åenehksåbpoe}${adj,svow|Åeniehkåbpoe}
 {barkoetijje}${noun,ascii|barkoetïjje} {jih}${cc,ascii|jïh}
 {jearsoåbpoe}${adj,svow|jearsoesåbpoe} barkoejieleme
 Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} {dihte}${dem,ascii|dïhte}
@@ -110,7 +110,7 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} {dihte}${dem,ascii|dïhte}
 {baalhkavueliedammem}${noun,suf|baalhkavueliedimmiem} vuastalidh. Tjuara
 barkoem voengebarkoen åvteste tjirkedh goh ovhealsoem vuastalidh.
 
-9.    Buerebe {ektietrafigke}${noun,conc|ektietrafihke}
+9. Buerebe {ektietrafigke}${noun,conc|ektietrafihke}
 Tååge- {jih}${cc,ascii|jïh} {bussetrafigkem}${noun,conc|bussetrafihkem} edtja
 abpe laantesne buaranidh. {Sjiere}${adj,ascii|Sjïere}
 {vierhtem}${noun,suf|vierhtiem} {ektietrafigkasse}${noun,mix|ektietrafihkese}
@@ -212,7 +212,7 @@ ektesne årrodh tjuara {giehtjedidh}${verb,ascii|gïehtjedidh}. Jienebh
 vierhtieh {krievedh}${verb,ascii|krïevedh} prostitusjovnem {jih}${cc,ascii|jïh}
 {almejthåesiestimmiem}${noun,meta|almetjeåesiestimmiem} dåastoelidh.
 
-17.   Gaajhkh gieriesvoete lea buerie gieriesvoete
+17. Gaajhkh gieriesvoete lea buerie gieriesvoete
 Ektievoetelaakem gusnie eah joekehts {nyjsenäjjaj}${noun,ascii|nyjsenæjjaj}
 {jih}${cc,ascii|jïh} almaj gaskem leah edtja aajketje
 {bihkedidh}${verb,ascii|bïhkedidh}. Hatsvesdarjomh
