@@ -35,10 +35,10 @@ aaj Åarjelsaemiej skuvlesne veedtsi. Dan {øøhpehtimmieh}${vowc,øø-öö|öö
 {Lohketæjja-øøhpehtimmie}${vowc,øø-öö;hyph-0|Lohkehtæjjaööhpehtimmie} Bodøen
 {lohkehtæjja {jilleskuvleste}${vowc,i-ï|jïlleskuvleste}}¥{cmp,2-1|lohkehtæjjajïlleskuvleste} {jih}${vowc,i-ï|jïh}
 {NTNU}${acro,suf|NTNU:ste}, {{bieliejaepie lohkeme}${cmp,2-1|bieliejaepielohkeme}}¢{xxx|bieliejaepieboelhke}
-åarjelsaemien {jih}${vowc,i-ï|jïh} {ektesvuekiefaage}${foreign|siebriedahkefaage} gusnie
+åarjelsaemien {jih}${vowc,i-ï|jïh} {ektesvuekiefaage}${foreign|seabradahkefaage} gusnie
 {diedte}${vowc,i-ï|dïedte} saemiej vuekiej {bijre}${vowc,i-ï|bïjre} daejredh
 {Jilleskuvleste}${vowc,i-ï|Jïlleskuvleste}
-{Noerhte-Trøndelageste}${vowlat,a-aa|Noerhte-Trøndelaageste} {jih}${vowc,i-ï|jïh} Nesneste
+{Noerhte-Trøndelageste}${vowlat,a-aa|Noerhte-Trøndelaageste} {jih}${vowc,i-ï|jïh} {Nesneste}${vowc, e-ea|Neasneste}
 {jih}${vowc,i-ï|jïh} åarjelsaemien gaskefaage {Universiteteste}${vowlat,e-ee|Universiteeteste}
 Tromsøeste.
 
@@ -97,12 +97,12 @@ aaj jeatja almetjidie {vierhtiehtidh}${conc,ht-d|vierhtiedidh}.
 {buerkiestæjja}¢{sgnom-sgess|buerkiestæjjine},
 {åejvie-viertiehtæjja}${hyph-0;conc,ht-d;sgnom-sgess|åejvievierhtiehtæjjine}.
 
-– Åå, dan {aevhkies}¢{xxx|daerpies} {dihte}${vowc,i-ï|dïhte}
+– Åå, dan {aevhkies}${infl,attr-pred|aevhkie} {dihte}${vowc,i-ï|dïhte}
 {maanagierte}${vowc,i-ï|maanagïerte} daesnie, Anita Dunfjeld Aagårde
 {vietseles laakan}¥{adv,x|vietseleslaakan} jeahta.
 
 – Ij leah juerie man
-vihkeles daate {maanagierte}${vowc,i-ï|maanagïerte} maanide gosse
+{vihkeles}${infl, attr-pred|vihkele} daate {maanagierte}${vowc,i-ï|maanagïerte} maanide gosse
 {gielem}${vowc,i-ï|gïelem} gorredidh, lea Hanne-Lena Wilksen jååhkesjimmie.
 Anita {jih}${vowc,i-ï|jïh} Hanne Lena gåabpatjahkh maanah dennie
 Åarjel-{saemiej}${hyph-0|Åarjelsaemiej} {maanagiertesne}¢{vowc,i-ï|maanagïertesne},
@@ -154,8 +154,9 @@ Daate {maanagierte}${vowc,i-ï|maanagïerte} lih {ektesvuekiebarkoe}€{noun,mix
 {Raavrvijhken}${prop,vow|Raavrhvijhken} {tjielten}${vowc,i-ï|tjïelten}
 {gaskems}${indef,con|gaskemsh} {jih}${vowc,i-ï|jïh} eejhtegh Luvlie
 {Njååmesjen}${prop,mix|Njåamesjen} {båatsoeburrie dajveste}¥{hyph-
-0|båatsoeburriedajveste}. {Dihte}${vowc,i-ï|Dïhte} juhtieji jaepeste 1989
-jaapan 1991.
+0|båatsoeburriedajveste}. {Dihte}${vowc,i-ï|Dïhte} {juhtieji jaepeste 1989
+jaapan 1991}¥{jaepeste 1989
+jaapan 1991 juhtieji.}
 Jaepien 1982-85 {dihte}${vowc,i-ï|dïhte} {saemiej-maanagierte}§{cmp,2-1|saemiej
 maanagïerte}, aktene {Camping-våågnesne}${hyph-0|campingvåågnesne}
 {{giehteli}${vowc,i-ï|gïehteli}¥0. {Dihte}${vowc,i-ï|Dïhte} {jåhtetji}${vowc,å-
