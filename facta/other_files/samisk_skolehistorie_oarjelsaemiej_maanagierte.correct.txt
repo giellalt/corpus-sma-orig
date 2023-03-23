@@ -17,7 +17,7 @@ re;vowc,a-aa|dåakterestipendiaate} Saemien {jilleskuvlesne}${vowc,i-
 ï|jïlleskuvlesne} {jih}${vowc,i-ï|jïh} {aamtse}${conwb,mt-mht|aamhtese} lea
 åarjelsaemien {sosiolingvistikke}${finis,ikke-ihke|sosiolingvistihke}.
 
-Reakasovvi jaepien 1977 {jih}${vowc,i-ï|jïh} byjjesovvi Orkangerisnie,
+Reakasovvi jaepien 1977 {jih}${vowc,i-ï|jïh} {byjjesovvi Orkangerisnie}¥{wo|Orkangerisnie byjjesovvi},
 {Åarjelh-Trøndelagesne}${cmp,lh-l;hyph-0|Åarjel-Tröndelaagesne}. Jeatja
 {øøhpehtimmieh}${vowc,øø-öö|ööhpehtimmieh}: {Mastergradem}¢{case,sgack-
 sgnom;vowc,a-aa|Mastergraade} mij {noerhtegielide}¢{vowc,i-ï|noerhtegïelide}
@@ -168,7 +168,7 @@ ie|vuejniejibie}.
 (Guvvie: Odd Kappfjell)
 
 {Voehkelimmie}${conc,hk-jhk|Voejhkelimmie} mij sovhkedi jaepien 1992
-– Mijjieh juhtiejim Aarborteste Snåasese jaepien 1990 {jih}${vowc,i-ï|jïh}
+– Mijjieh {juhtiejim}¢{infl,sg1-pl1|juhtiejimh} Aarborteste Snåasese jaepien 1990 {jih}${vowc,i-ï|jïh}
 {eadtjoke}${adj,con|eadtjohke} eejhtegh digkiedin guktie
 {Åarjel-saemien}${hyph-0|Åarjelsaemien}
 {maanagiertem}${vowc,i-ï|maanagïertem} juhtiemasse
@@ -177,8 +177,8 @@ buektiehtidh, aaj {jehti}${verb,vow|jeehti}. [1] Saemien
 veelti {jih}${vowc,i-ï|jïh} eejhtegidie {tjåangkose}${noun,con|tjåanghkose}
 {bøøri}${vowc,øø-öö|bööri}, govledh magkeres daerpiesvoeth {jih}${vowc,i-ï|jïh}
 {iedtjh}${vowc,i-ï|ïedtjh} saemien {maanagiertem}${vowc,i-ï|maanagïertem}
-tseegkedh. Åejvievuepsie lij {maanagiertem}${vowc,i-ï|maanagïertem}
-juhtiemasse buektiehtidh {gusne}${indef,vow|gusnie} maanah dovne daaroen-
+tseegkedh. {Åejvievuepsie}${Åejvieulmie} lij {maanagiertem}${vowc,i-ï|maanagïertem}
+juhtiemasse buektiehtidh {gusne}${indef,vow,e-ie|gusnie} maanah dovne daaroen-
 {jih}${vowc,i-ï|jïh} saemien {gielem}${vowc,i-ï|gïelem} åadtjoejin
 {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} nimhtie
 {{guektiengielh}${vowc,i-ï|guektiengïelh}
@@ -188,8 +188,9 @@ Eejhtegh {govloes}${verb,vow|gåvloes} eadtjohke {jih}${vowc,i-ï|jïh} 12 paarr
 {sijhtin}${vowc,i-ï|sïjhtin} meatan årrodh. Soejkesje lij joe dam
 {aelhkiehtidh}${verb,con|aelkiehtidh} tjaktjen 1992, mohte idtji mij destie
 {sjidth}${vowc,i-ï|sjïdth}. Saemien {øøhpehtimmieraerie}${vowc,øø-
-öö|ööhpehtimmieraerie} {meehtie}${finis,ie-i|meehti} ajve beetnegh ohtsedh
-jaepeste jaapan, {jih}${vowc,i-ï|jïh} nimhtie idtji maehtieh tjirkedh mejtie
+öö|ööhpehtimmieraerie} {meehtie}${finis,ie-i|meehti} ajve {beetnegh ohtsedh
+jaepeste jaapan}}¥{wo|beetnegh
+jaepeste jaapan ohtsedh}, {jih}${vowc,i-ï|jïh} nimhtie idtji maehtieh tjirkedh mejtie
 {maanagierte}${vowc,i-ï|maanagïerte} aaj vierhtieh båetije jaepide åadtjoeji.
 
 Nimhtie lij aaj jis eejhtegh maanide veeltin
