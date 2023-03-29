@@ -57,7 +57,7 @@ Doh soermh eah edtjh dennie provne njammasijjesne årrodh {{areola}${conc,l-vl;f
 
 Guktie sïejhme tjahkasjidh jallh gællasjidh gosse njammehteminie
 {Saaht-guktie}${hyph,0;cmp,2-1|Saaht guktie} datne {veeljh}¢{verb|sïjhth}
-tjahkasjidh jallh gællasjidh, dle vihkeles datne
+tjahkasjidh jallh gællasjidh, dle {vihkeles}£{infl,attr-pred|vihkele} datne
 {njaelkieslaakan}¢{adv|hijvenlaakan} tjahkesjh jallh gællesjh. Jis ih
 buektehth {liegkedidh}${vowc,i-ï|lïegkedidh} dellie datne {sæjloes}€{adj-verb|sæjloeh} gosse ({{njammeme}£{der,0-caus|njammehtimmie}}£{case,sgnom-sgcom|njammehtimmine} galhkeme). Maana tjuara eevre dov njamman
 {lïhke}¢{pp|bealesne} årrodh, olles njammavaahterisnie ”gævnjan” sjïdth.
@@ -117,7 +117,7 @@ loevenamme, dan åvteste datne ih daarpesjh seangkosne jårrestalledh.
 Lissine daate akte hijven vuekie jis maana Frejkan dåvnesne gællesje.
 
 Man daamtaj jïh man guhkiem edtja maana njammedh?
-Aaj aadtjetje reakadamme maanah joekehts. Naaken smaave jïh daamtaj
+Aaj aadtjetje reakadamme maanah {joekehts}£{infl,attr-adv|joekehtslaakan}. Naaken smaave jïh daamtaj
 maalestahkh
 daarpesjieh, mearan jeatjebh jïjnjem {byøpmedieh}${vowc,øø-öö|byöpmedieh} jïh
 eah daarpesjh dan daamtaj {byøpmedidh}${vowc,øø-öö|byöpmedidh}. Maana
@@ -320,7 +320,7 @@ dam dorjeme dej minngemes golme våhkoej, maahta
 jis doh jeatjah fåantoeh laahpehtamme. Ij leah seekere man åvteste naan
 maanah slïedtetjåejjiebaaktjesem åadtjoeh, bene sïejhmelaakan
 {slïepkehte}${verb,vow|sliepkehte} golme askh mænngan. Daate akte streavere
-{tijje}${vowc,øø-öö|tïjje} eejhtegidie, jïh dannasinie vihkeles nuekies
+{tijje}${vowc,øø-öö|tïjje} eejhtegidie, jïh dannasinie {vihkeles}£{infl,attr-pred|vihkele} nuekies
 åeredh jïh {liegkedidh}${vowc,øø-öö|lïegkedidh}. Jis gåarede, dåastoeh
 viehkiem fuelhkeste jïh voelpijste. Jis jueriedisnie {byørh}${vowc,øø-öö|byörh} starnesåjhterinie jallh {dåakterinie}${noun,svow|dåaktarinie}
 raeriestidh.
@@ -466,7 +466,7 @@ maahtah njammehtidh.
 Aehtjien sijjie
 Aehtjine dov {jiïnjh}${vowc,i-ï|jïjnjh} vihkeles barkoeh {tijjen}${vowc,øø-öö|tïjjen} åvtese. ((Tjidtjie raeffiem jïh {{liegkedimmiem}¥{0} daarpesje
 reakadimmien mænngan.}¥{wo|Tjidtjie raeffiem daarpesje, jïh daarpesje
-lïegkedidh mænngan goh lea maanam reakadahteme}) Daate vihkeles, jis
+lïegkedidh mænngan goh lea maanam reakadahteme}) Daate {vihkeles}£{infl,attr-pred|vihkele}, jis
 {tjidtjebe jïh maanebe}¢{xxx|tjædtjetjeguaktah} edtjijægan
 {njammeminie}€{der,0-caus|njammehtimmine} læhkadidh.
 
