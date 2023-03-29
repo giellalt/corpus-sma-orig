@@ -102,7 +102,7 @@ aaj jeatja almetjidie {vierhtiehtidh}${conc,ht-d|vierhtiedidh}.
 {vietseles laakan}¥{adv,x|vietseleslaakan} jeahta.
 
 – Ij leah juerie man
-{vihkeles}${infl, attr-pred|vihkele} daate {maanagierte}${vowc,i-ï|maanagïerte} maanide gosse
+{vihkeles}£{infl,attr-pred|vihkele} daate {maanagierte}${vowc,i-ï|maanagïerte} maanide gosse
 {gielem}${vowc,i-ï|gïelem} gorredidh, lea Hanne-Lena Wilksen jååhkesjimmie.
 Anita {jih}${vowc,i-ï|jïh} Hanne Lena gåabpatjahkh maanah dennie
 Åarjel-{saemiej}${hyph-0|Åarjelsaemiej} {maanagiertesne}¢{vowc,i-ï|maanagïertesne},
@@ -447,7 +447,7 @@ dennie åarjelsaemien {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertes
 {govlesovva}£{verb|govloe} juktie dan vaenie byjresh gusnie {giele}${vowc,i-ï|gïele}
 veaksehke {jarngesne}¥{redun|} {tjåadtjoeminie}£{verb|lea}. Vihkeles lea
 dagkeres {gielebyjresh}${vowc,i-ï|gïelebyjresh} gåetien bæjngoelisnie. Im
-{jiejkh}${vowc,i-ï|jïejkh} gosse garmerdem man vihkeles
+{jiejkh}${vowc,i-ï|jïejkh} gosse garmerdem man {vihkeles}£{infl,attr-pred|vihkele}
 {{gierte}¢{vowc,i-ï|gïertesne}}£{noun|maanagïerte}, lea orre maanide eevtjedh saemien
 {gielem}${vowc,i-ï|gïelem} {provhkedh}£{verb|soptsestidh}, Hanne Lena jeahta.
 
