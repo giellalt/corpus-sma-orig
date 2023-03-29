@@ -29,7 +29,7 @@
 AALKOVE
 
 Dellie Saemiedigkieveeljeme 2005! Daate vuesiehtimmie NSR-
-{n}${acro,suf|NSR:n} aerebe jïh båetije barkoen bïjre Saemiedigkesne, NSR-
+{n}${acro,suf|NSR:n} {aerebe}${aarebi} jïh båetije barkoen bïjre Saemiedigkesne, NSR-
 {n}${acro,suf|NSR:n} ïedtjeles {politigkem}${noun,con|politihkem} vijries
 guvvine vuesehte. Håhkesjibie dïhte guvvie nænnoes, raasten bijjelen jïh
 gellienlaaketje saemien {siebredahkeste}${vowc,e-ie|siebriedahkeste}, dov
@@ -88,7 +88,7 @@ SISVEGE:
  V. VEASOME JÏH SJISNJESTRUKTUVRE 18
  VI. JIELEMH 18
  VII. EATNEME 21
- VIII. SKUVLE JÏH ØØHPEHTIMMIE 21
+ VIII. SKUVLE JÏH {ØØHEHTIMMIE}${vowc,øø-öö|ÖÖHPEHTIMMIE} 21
  IX. STARNE JÏH SOSIJAALE RÅAJVARIMMIEH 24
  X. MEEDIJAH 26
  XI. RELIGIJOVNE JÏH JIELEMEVUEKIEH 27
@@ -112,8 +112,8 @@ gaajhkijste jieliemijstie jïh jeatjah tjïertijste, jïh Saemiedigkien tjïrrh
 saemiej ektiebuerien gaavhtan barkedh. Tseegkemen mænngan, jaepien 1968,
 lea NSR gaajhkide saemide nuepine orreme jïjtsh gïelem buektedh
 {Nøørjen}${vowc,øø-öö|Nöörjen} jïh gaskelaanti
-{{siebredahkesne}${noun,svow|siebriedahkesne}}£{infl,sgela-plill|siebriedahkide}. NSR lea 40 jaepiej raajan tjïelke saemien gïeline
-saemien {siebredahken}${vowc,e-ie|siebriedahken} jïh kultuvren tseegkemisnie
+{{siebredahkesne}${noun,vowc|seabradahkesne}}£{infl,sgela-plill|seabradahkide}. NSR lea 40 jaepiej raajan tjïelke saemien gïeline
+saemien {siebredahken}${vowc,ie-ea|seabradahken} jïh kultuvren tseegkemisnie
 jïh {øøvtiedimmesne}${vowc,øø-ö|övtiedimmesne} meatan orreme, jïh NSR sæjhta
 dovne båetije jaepine {jïjtjereerehke}${vowc,ee-åå|jïjtjeråårehke} saemien
 gïeline meatan.
@@ -121,7 +121,7 @@ gïeline meatan.
 
 Saemiedigkie
 
-Saemiedigkie lea saemiej almetjeveeljeme {åårgane}${init,åå-o|orgaane}
+Saemiedigkie lea saemiej {almetjeveeljeme}${init,aalmetje-åålmeh|åålmehveljeme} {åårgane}${init,åå-o|orgaane}
 {Nøørjesne}${vowc,øø-öö|Nöörjesne}, jïh tjoevere {reerehke}${vowc,ee-
 åå|råårehke} tsiehkiem {Nøørjen}${vowc,øø-öö|Nöörjen} reeremen
 {{åårgani}${init,åå-o|orgaani} gujmie}${cmp,2-1|orgaanigujmie} utnedh.
@@ -131,8 +131,8 @@ meatan gaajhkine aamhtesinie saemiej bïjre. Saemiedigkien tjïrrh NSR sæjhta
 jïjtjereeremem saemiej tsiehkine tjïrrehtidh – {prinsibpe}${vowc,bp-
 hp|prinsihpe} mij dovne {IN-n}${acro,suf|IN:n} (FN) jïh gaskelaanti
 konvensjovnine. Saemiedigkie galka geehtedh mejtie staaten {diedteh}${vowc,i-
-ï|dïedteh} Maadtoelaaken § 110a-n mietie dorjesuvvieh. Saemiedigkie
-tjoevere tjerkebe meatan {siebredahken}${vowc,e-ie|siebriedahken}
+ï|dïedteh} {Maadtoelaaken}${init,maadtoe-maadth|maadthlaaken} § 110a-n mietie dorjesuvvieh. Saemiedigkie
+tjoevere {tjerkebe}${init,e-a|tjarkebe} meatan {siebredahken}${vowc,ie-ea|seabradahken}
 {øøvtiedimmesne}${init,øø-ö|övtiedimmesne} saemiej dajvine.
 
 
@@ -146,7 +146,7 @@ Saemiedigkiepresideenth {NSR-ste}${acro,suf|NSR:ste} leah:
 Saemiedigkieveeljemasse 2005 lea {NSR-n}${acro,suf|NSR:n}
 {Rijhketjåahkoe}${vowc,i-ï|Rïjhketjåahkoe} Aili Keskitalom, Guovdageaidnu,
 presideentekandidaatine {veeljeme}€{verb|veeljesovveme}. Jis veeljesåvva,
-dellie dïhte voestes nyjsenæjja mij Saemiedigkien {{presideente}£{infl,sgnom-
+dellie dïhte voestes nyjsenæjja {mij}${gie} Saemiedigkien {{presideente}£{infl,sgnom-
 sgcom|presideentine}}¥{presideentine sjædta}.
 
 
@@ -165,7 +165,7 @@ saemien {siebredahken}${vowc,e-ie|siebriedahken} dïejveldimmine orre jïh
 {aktøørine}${vowc,i-ï|aktöörine} meatan saemien
 {siebredahken}${vowc,e-ie|siebriedahken} {øøvtiedimmesne}${init,øø-
 ö|övtiedimmesne} jïh stoeremosth dejtie orre gïelide bertedh guktie dah
-{urresth}${adj,vowc|orresth} saemien {siebredahkese}${noun,svow|siebriedahkese}
+{urresth}${adj,vowc|orresth} saemien {siebredahkese}${noun,vowc,ie-ea|seabradahkese}
 govlesuvvieh.
 
 Almetjetjïertine saemiej leah reaktah jïjtjh reeredh, dïsse lissine dovne
@@ -181,13 +181,13 @@ galkh jielemevåaromem jïh dovletje aerpiem saemijste dijpedh.
 
 {NSR-n}${acro,suf|NSR:n} mïelesne:
  ✓ jienebh saemieh eevtjedh guktie sijhtieh saemien
- {siebredahkesne}${noun,svow|siebriedahkesne} jïh kultuvresne ïedtjine
+ {siebredahkesne}${noun,vowc,ie-ea|seabradahkesne} jïh kultuvresne ïedtjine
  meatan
  ✓ saemieh gelkieh meatan gaajhkine raerine, moenehtsinie jïh ståvrojne,
- dovne {tjielten}${vowc,i-ï|tjïelten}, regijovnen jïh
+ dovne {tjielten}${vowc,i-ï|tjïelten}, {regijovnen}${init,e-ee|reegijovnen} jïh
  {naasjovnen}${noun,vowc|nasjovnen} daltesisnie
  ✓ sjïere aalkoealmetjedajve gusnie gaajhkide almetjidie seamma reaktah
- ✓ {praktigke}${adj,con|praktiske} seammavierhtege saemiej jïh laedtiej
+ ✓ {praktigke}${adj,con|praktihke} seammavierhtege saemiej jïh laedtiej
  gaskem gaajhkine dajvine
  ✓ saemiej leah reaktah lïeredh jïh reaktah ietniengïelem utnedh
  ✓ saemien tjiehpiesvuekide jïh kultuvrem
@@ -195,20 +195,20 @@ galkh jielemevåaromem jïh dovletje aerpiem saemijste dijpedh.
  gaajhkide saemide
 
 
-Saepmien rudtje
+Saepmien {rudtje}${maadthgierkie}
 
-Saemien {byjressiebredahkh}${noun,svow|byjressiebriedahkh} leah aerniesijjieh
+Saemien {byjressiebredahkh}${noun,vowc,ie-ea|byjresseabradahkh} leah aerniesijjieh
 saemiej vierhtegidie jïh jieliemidie. Saemieh dubpene daebpene årroeminie,
 jïh saemien voenh – dovne gaedtiebealesne jïh
 {sjisjnjelaantesne}${noun,svow|sjisjnjielaantesne} – dah leah goh rudtjh
-saemien {siebredahkese}${noun,svow|siebriedahkese}, kultuvrese jïh
+saemien {siebredahkese}${noun,vowc,ie-ea|seabradahkese}, kultuvrese jïh
 jieliemasse. {Urresth}${adj,vowc|Orresth} lea daelie orre
 {kriebpesjimmieh}${vowc,i-ï|krïebpesjimmieh} dejtie sijjide gusnie
 årroeminie. NSR vuajna daerpies ”orre” jieliemasse bertedh –
 {miehtjesijjine}${noun,svow|miehtjiesijjine} dovne – veasojde saemien voenine
 beerkedh. Saemien dajvine skuvle lea vihkeles vierhtege-, maahtoe- jïh
 {åssjalommesbihkedæjja}${vowc,i-ï|åssjalommesbïhkedæjja} jïh hijven sijjie
-gustie aelkedh saemien {siebredahkesne}${noun,svow|siebriedahkesne} meatan
+gustie aelkedh saemien {siebredahkesne}${noun,vowc,ie-ea|seabradahkesne} meatan
 ïedtjine barkedh.
 
 {NSR-n}${acro,suf|NSR:n} mïelesne:
@@ -220,7 +220,7 @@ gustie aelkedh saemien {siebredahkesne}${noun,svow|siebriedahkesne} meatan
  {miehtjesijjine}${noun,svow|miehtjiesijjine} bigkedh
  ✓ tjerkebe barkedh gellienlaaketje kultuvren, byjres-
  {feestivaali}${noun,svow|byjresfestivaali} jïh jeatjah råajvarimmiej
- åvteste saemiej {siebredahkesne}${noun,svow|siebriedahkesne}
+ åvteste saemiej {siebredahkesne}${noun,vowc,ie-ea|seabradahkesne}
  ✓ saemiej vuekieh, gïelem jïh vierhtegh ellies lohkehtimmien tjïrrh
  buektiehtidh
 
@@ -229,9 +229,9 @@ Orre veartene
 
 Jienebh jïh jienebh saemieh orrijieh jallh bæjjanieh staarine jïh
 {søøkesbigkeme}${vowc,i-ï|söökesbigkeme} sijjine. Seamma vihkele guktie
-jielijes {byjressiebredahkh}${noun,svow|byjressiebriedahkh} dajvine tjirkedh,
+jielijes {byjressiebredahkh}${noun,vowc,ie-ea|byjresseabradahkh} dajvine tjirkedh,
 lea guktie staaren saemiej saemien jielemevåarome, dovne
-{kultuvre}€{adj,w|kulturelle}, {sosijale}${adj,svow|sosijaale} jieleme jïh
+{kultuvre}€{adj,w|kulturelle}, {sosijale}${adj,vowc,a-aa|sosijaale} jieleme jïh
 barkoeh. Joekoen vihkele barkedh guktie staaren saemien maanah, noerh jïh
 båarasåbpoeh almetjh åadtjoeh saemienvoetine jieledh jïh årrodh.
 
@@ -261,7 +261,7 @@ dovletje, daaletje jïh båetije aejkide reeredh.
 
 {NSR-n}${acro,suf|NSR:n} mïelesne:
  ✓ voengem gohkeldahkesne {krøøhkestidh}${vowc,i-ï|krööhkestidh} buerebh
- goh åenehkslaaketje {øøkonomije}${noun,vowc|økonomije} {dieneskem}${init,i-
+ goh åenehkslaaketje {øøkonomije}${noun,vowc,ø-e|ekonomije} {dieneskem}${init,i-
  ï|dïenestem}
  ✓ globaale voengem Johannesburg-mååhtedimmine tjirkedh
  ✓ ålja- jïh gassreeblemh {Barensemearosne}${prop,con|Barentsemearosne}
@@ -275,7 +275,7 @@ dovletje, daaletje jïh båetije aejkide reeredh.
 Tjåenghkies almetjh
 
 Saemieh leah aktesne orreme staati raasten jïh boelvejoekehtsi namhtah. NSR
-åtna vihkeles aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
+åtna {vihkeles}{fin, attr-pred|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
 Dierie boelvi gaskem jïh laanteraasti dåaresth lea hijven maehtedh vuekieh
 biejverdidh jïh saemien gellienlaaketjevoetem tjirkedh. NSR sæjhta tjerkebe
 ektiebarkoem laanteraasti {raastah}${pp,vowc|rastah}, dellie aaj nænnobe
@@ -285,7 +285,7 @@ tjïrrh jïh Saemiedigkiej {parlamentarijkeri}${noun,mix|parlamentarihkeri}
 gaskem. NSR veanhta {byøroe}${vowc,i-ï|byöroe} buerebelaakan bertedh guktie
 ektiebarkoem laanti {raastah}${pp,vowc|rastah} nænnoestidh dagkarinie
 aamhtesinie saemien gïeli, kultuvri jïh
-{siebredahki}${noun,svow|siebriedahki} bïjre jïh nimhtie buerebe våaromem
+{siebredahki}${noun,vowc,ie-ea|seabradahki} bïjre jïh nimhtie buerebe våaromem
 saemien tseegkemasse raasti bijjelen. Dah gujht vihkielommes ulmieh
 saemiekonvensjovnine.
 
