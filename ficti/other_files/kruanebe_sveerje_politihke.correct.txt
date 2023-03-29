@@ -262,7 +262,7 @@ jieniedidh {jih}${cc,ascii|jïh}
 {öökonomijen}${noun,vowc|ekonomijen} {jih}${cc,ascii|jïh}
 {sosijalen}${adj,vow|sosijaalen} {perspektijvistie}${noun,suf|perspektijveste}.
 Orre {sosojalen}${adj,mix|sosijaalen} viermieh årromesijjiejgujmie lea
-vihkeles.
+{vihkeles}£{infl,attr-pred|vihkele}.
 
 21. {Læjhkoeh}${verb,con|Læjkoeh} baeniesåjhtoem
 Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} orre {daamhtesh}${x,x|damtesh}
@@ -405,7 +405,7 @@ leah dåajvoehtamme maahta {diedtem}${noun,ascii|dïedtem} destie
 {krievedh}${verb,ascii|krïevedh}, reaktine, jis eah dam åadtjoeh, maaksose.
 
 33. Ijje {EU’en}${acr,suf|EU:n} maadthlaakese
-Faamoe edtja dajveles hammoe sjiehteles guktie
+Faamoe edtja dajveles hammoe {sjiehteles}£{infl,attr-pred|sjiehtele} guktie
 {nännoestimmieh}${noun,ascii|nænnoestimmieh} {lihkebe}${adj,ascii|lïhkebe}
 dejtie otnegidie. {Siebredahke}${noun,vow|Siebriedahke} tjuara nueleste
 bigkedh. Mijjieh dan åvteste vuastalieh maadthlaaken
