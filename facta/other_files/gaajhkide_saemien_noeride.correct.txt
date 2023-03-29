@@ -7,7 +7,7 @@ nem;foreign|noeresiebriem}!
 
 {Sijhth}${vowc,i-ï|Sïjhth} dåeriedidh maam
 {historjesadtem}${adj,mix|historihkeles}? Dåeredh
-{aelkedhdh}${verb,|aelkiehtehtedh} {ov-gårreldh}${hyph-0|ovgårreldh} {abpe-rijhken}${hyph-0,vowc,i-ï|abperïjhken} siebriem saemien noeride? Golken 16.-
+{aelkedhdh}${verb,|aelkiehtehtedh} {{ov-gårreldh}${hyph-0|ovgårreldh}}£{X} {abpe-rijhken}${hyph-0,vowc,i-ï|abperïjhken} siebriem saemien noeride? Golken 16.-
 18. {Biejji}${fin,i-iej|Biejjiej} aalkoetjåanghkoe Romsesne, {jih}${vowc,i-ï|jïh} {mijjeh}${fin,eh,ieh|mijjieh} {sijhtebe}${vowc,i-ï|sïjhtebe} datne aaj
 edtjh dåeriedidh.
 
