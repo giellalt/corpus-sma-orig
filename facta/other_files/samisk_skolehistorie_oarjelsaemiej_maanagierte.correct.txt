@@ -49,7 +49,7 @@ Nihko-Laara Påve Wilks {jih}${vowc,i-ï|jïh} Hilma Dunfjeld Mølnvik.
 Hanne-Lena Wilks lea {båatsoe-burrie}${hyph-0|båatsoeburrie} {jih}${vowc,i-ï|jïh} aaj
 {giehtele}${vowc,i-ï|gïehtele} {{giete-vætnojne}${noun,mix|gïetevætnojne}}¢{xxx|vytnesje}.
 
-{Dihte}${vowc,i-ï|Dïhte} reakasovvi jaepien 1968 {jih}${vowc,i-ï|jïh} byjjesovvi Skæhkere
+{Dihte}${vowc,i-ï|Dïhte} {reakasovvi jaepien 1968}¥{wo|jaepien 1968 reakasovvi} {jih}${vowc,i-ï|jïh} byjjesovvi Skæhkere
 {sijtesne}${vowc,i-ï|sïjtesne}, Snåasesne. Altese {øøhpehtimmieh}${vowc,øø-öö|ööhpehtimmieh}
 leah: {Guvviedimmie {teknigken}${conc,gk-hk|teknihken}}¥{cmp,2-1|Guvviedimmieteknihken}
 {tjirrh}¢{vowc,i-ï|tjïrrh}, guvviedimmie, hammoedarjome {jih}${vowc,i-ï|jïh} klaerie, Saemiej
