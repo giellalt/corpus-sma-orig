@@ -275,7 +275,7 @@ dovletje, daaletje jïh båetije aejkide reeredh.
 Tjåenghkies almetjh
 
 Saemieh leah aktesne orreme staati raasten jïh boelvejoekehtsi namhtah. NSR
-åtna {vihkeles}{fin, attr-pred|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
+åtna {vihkeles}{infl,attr-pred|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
 Dierie boelvi gaskem jïh laanteraasti dåaresth lea hijven maehtedh vuekieh
 biejverdidh jïh saemien {gellienlaaketjevoetem} tjirkedh. NSR sæjhta tjerkebe
 ektiebarkoem laanteraasti {raastah}${pp,vowc|rastah}, dellie aaj nænnobe
@@ -304,7 +304,7 @@ saemiekonvensjovnine.
 
 {Loejhtsvoete}${noun,vow|Loejhtesvoete}, seammavierhtege jïh ektievoete
 
-Solidariteete lea {NSR-se}${acro,suf|NSR:se} daerpies lahtese. Sosijaale
+Solidariteete lea {NSR-se}${acro,suf|NSR:se} daerpies lahtese. {Sosijaale}£{infl,adj-adv|Sosijaalelaakan}
 domtoe, {{politigke}${noun,con|politihke}
 dåarjoeh}£{noun,x,gensg,nomsg,x|politihken dåarjoeh} jïh ïedtjeles barkoeh
 viesjies tjïertide, leah dagkerh vierhtegh gustie NSR lea tseegkesovveme.
@@ -688,7 +688,7 @@ laantesne årroeminie. Saemiedigkie galka aaj jeatjah åejvide baalteginie
 årrodh dejnie dajvine gusnie saemieh årroeminie. Nimhtie dam Saemiedigkie
 tjoevere dovne tjarke {jarngels}${fin,els-eles|jarngeles} darjomh utnedh jïh
 meatan årrodh dejnie veasoedajvine gusnie saemieh jielieminie veasoeminie.
-NSR åtna Saemiedægkan lea dajveles hammoe sjiehteles,
+NSR åtna Saemiedægkan lea dajveles hammoe {sjiehteles}£{infl,attr-pred|sjiehtele},
 {byjressiebredahkine}${vowlat,e-ie|byjressiebriedahkine} meatan jïh dovne
 jaksehtallemisnie orre gaskesadteme {teeknologijen}${vowc,ee-e|teknologijen}
 tjïrrh.
@@ -1252,7 +1252,7 @@ VIII. SKUVLE JÏH {ØØHPEHTIMMIE}${vowc,øø-öö|ÖÖHPEHTIMMIE}
  laakan guktie ij båeries vuekie jïh kultuvre {diedtesovvh}${vowc,ie-
  ea;vowlat,e-a|deadtasovvh}.
 
-10-jaepien saemien skuvlelearoeplaane – L97S – lij vihkeles tsiehkie
+10-jaepien saemien skuvlelearoeplaane – L97S – lijs tsiehkie
 saemiej {øøhpehtimmiehistovrijesne}${iit,øø-öö|ööhpehtimmiehistovrijisnie}.
 NSR sæjhta barkedh guktie orre {jorkelimmieh}${vowc,o-a|jarkelimmieh}
 {øøhpehtimmiesystemesne}${init,øø-öö|ööhpehtimmiesysteemesne} leah saemien
@@ -1647,7 +1647,7 @@ NSR sæjhta:
 XII. GASKELAANTI BARKOE
 
 
-Dan daerpies gaskelaanti reaktanjoelkedassi gujmie, maehtedh aalkoealmetji
+Dan daerpies gaskelaanti {reaktanjoelkedassi gujmie}¥{hyph,cmp|reaktanjoelkedassigujmie}, maehtedh aalkoealmetji
 jïh vaenielåhkoen almetji mïelh tjirkedh. Mijjieh dïedtem damtebe jïjtjemh
 båetije aejkiej bïjre, jïh jeatjah aalkoealmetji mïeli åvteste. Dovne
 oktegh vihkele gaskelaanti barkoem gorredidh, jïh {Nøørjen}${vowc,øø-
