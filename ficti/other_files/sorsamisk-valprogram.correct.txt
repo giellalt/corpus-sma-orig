@@ -353,12 +353,8 @@ daaletje fuelhkieleahtan mietie, jïh daejredh saemieh abpe laantesne
  gusnie årroeminie
  ✓ saemien noeride reaktah aamhtesinie meatan mah dej bïjre
 
-
-
 2. {NSR-n}${acro,suf|NSR:n} {POLITIGKEN}${conc,gk-hk|POLITIHKEN} VUESIEHTIMMIE
 2001–2005
-
-
 
 Reaktah: Finnmarhkelaake / {Maelmïelaake}${vowc,ïe-ie|Maelmielaake} /
 {Biegkefaamoe}${vowc,i-ï|Bïegkefaamoe}. / {Militære}${vowlat,æ-ææ|Militæære} /
