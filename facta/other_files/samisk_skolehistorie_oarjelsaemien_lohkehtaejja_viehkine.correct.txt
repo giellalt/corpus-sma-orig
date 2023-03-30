@@ -41,14 +41,14 @@ dellie mov tjidtj`aajja, Jonas Marsfjell, {Dunderlandsdalesne}${cmp,s-0;vowc,a-a
 tseegkesovvi jaepien 1948. {Åarjelh-saemien}${cmp,lh-l;hyph-0|Åarjelsaemien}
 {lihtsegh}${vowc,i-ï|lïhtsegh} lin bussem {leejeme}${conc,j-jj|leejjeme}
 {jih}${vowc,i-ï|jïh} ektesne noerhtese {vøøjin}${vowc,øø-öo|vööjin}. Goh
-bååstide, dellie busse geajnoste {vøøji}${vowc,øø-öo|vööji} {jih}${vowc,i-ï|jïh} raakte Dunderlaanten jeanose. ({Luhkie govhte}${cmp,2-1|luhkiegovhte} desnie batnanin.
+bååstide, dellie busse geajnoste {vøøji}${vowc,øø-öo|vööji} {jih}${vowc,i-ï|jïh} raakte Dunderlaanten jeanose. ({Luhkie govhte}¥{cmp,2-1|luhkiegovhte} desnie batnanin.
 
 Daate ovlæhkoe stoerre sårkojne {sjidti}${vowc,i-ï|sjïdti} dovne dejtie
 ovmese fuelhkide {jih}${vowc,i-ï|jïh} aaj
 {åarjelh-saemien}${cmp,lh-l;hyph-0|åarjelsaemien} båatsoeburrie
 almetjidie {jih}${vowc,i-ï|jïh} dan
-{{åårganisasjovne}${vowc,åå-o|organisasjovne} barkose}${cmp,2-1|organisasjovnebarkose}. {Raavrvijhkese}${ conc,vr-vrh|Raavrhvijhkese} daate
-ovlæhkoe {sjiere}¥{0} {sjidti}${vowc,i-ï|sjïdti} juktie {tjijhtje}${vowc,i-ï|tjïjhtje} {lihtsegh}${vowc,i-ï|lïhtsegh} lin debpede.]
+{{åårganisasjovne}${vowc,åå-o|organisasjovne} barkose}¥{cmp,2-1|organisasjovnebarkose}. {Raavrvijhkese}${ conc,vr-vrh|Raavrhvijhkese} daate
+ovlæhkoe {sjiere}¥{redun|} {sjidti}${vowc,i-ï|sjïdti} juktie {tjijhtje}${vowc,i-ï|tjïjhtje} {lihtsegh}${vowc,i-ï|lïhtsegh} lin debpede.]
 
 {Dihte}${vowc,i-ï|Dïhte} lij voestes saemie {Raavrvijhkesne}${conc,vr-vrh|Raavrhvijhkesne}
 guhte gaertenem åestieji {jih}${vowc,i-ï|jïh} dovne
@@ -322,7 +322,7 @@ Kultuvremojhtesh
 Jaepien 1980 Saemieh {Raavrvijhkesne}${conc,vr-vrh|Raavrhvijhkesne} råajvarin
 {jih}${vowc,i-ï|jïh} {kultuvresiebrem}${fin,em-iem|kultuvresiebriem}, tseegkin
 man nomme Luvlie Njåamesjen Dajve. Akte dejstie {vihkelommes}${vowlat,e-ie|vihkielommes} {aamhtsijste}${conc,hts-htes|aamhtesijstie} lij saemien
-{kultuvre mojhtside}${cmp,2-1|kultuvremojhtesidie} vaarjelidh.
+{kultuvre mojhtside}¥{cmp,2-1|kultuvremojhtesidie} vaarjelidh.
 {Dihte}${vowc,i-ï|Dïhte} dan {sjieken}${vowc,i-ï|sjïeken} juktie vaenie dejstie
 {aerebi}${init,ae-aa|aarebi} {mierhkesovveme}${vowc,i-ï|mïerhkesovveme}.
 {Institudth}${conc,dth-hth|Instituhth} mah dagkerigujmie barkeminie eah leah
@@ -351,7 +351,7 @@ almetji lin stoerre maahtoe saemiej {kultuvremojhtsi}${conc,hts-htes|kultuvremoj
 Mænngan, medtie 1980, Saemien {Sijte}${vowc,i-ï|Sïjte} stuerebe
 {provsjektem}${vowc,vsj-sj|prosjektem} {øørni}${vowc,øø-öö|öörni} mij abpe
 {Åarjelh-saemien}${comp,lh-l;hyph-0|åarjelsaemien} dajvem dijpi. Saemieh
-mah dajvide {eensi laakan}${cmp,2-1|eensilaakan} damtin, {diedtem}${vowc,i-ï|dïedtem} {fiere-guhte}${hyph-0|fïereguhte} {båatsoeburrie-dajvese}${hyph-0|båatsoeburriedajvese} åadtjoejin. Mov {diedte}${vowc,i-ï|dïedte} lij Luvlie-Njåamesjen {båatsoeburrie-dajve}${hyph-0|båatsoeburriedajve}. Barkoe juhtieji
+mah dajvide {eensi laakan}¥{cmp,2-1|eensilaakan} damtin, {diedtem}${vowc,i-ï|dïedtem} {fiere-guhte}${hyph-0|fïereguhte} {båatsoeburrie-dajvese}${hyph-0|båatsoeburriedajvese} åadtjoejin. Mov {diedte}${vowc,i-ï|dïedte} lij Luvlie-Njåamesjen {båatsoeburrie-dajve}${hyph-0|båatsoeburriedajve}. Barkoe juhtieji
 4-5 våhkoeh 3-4 jaepieh. Daate lij joekoen vihkeles barkoe. Nimhtie
 meehtimh {vihtesjidh}${vowc,i-ï|vïhtesjidh} gusnie saemiej årromesijjieh
 ovmese dajvine. {Dihte}${vowc,i-ï|Dïhte} vihties gosse {edtjibie}${conc,ibie-jibie|edtjijibie} digkiedidh laanten- {jih}${vowc,i-ï|jïh} tjaetsiereaktan
