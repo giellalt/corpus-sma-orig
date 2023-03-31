@@ -200,7 +200,7 @@ Svïenske gærhkoen leah {mahta}${adv,vow|mahte} tjïjhtje lïhtsegh. Fïerhten 
 Gyhtjelassh {lïhtsegevoeten}${cmp,ege-eh;conc,go-gåå|lïhtsehvoeten} bïjre
 Sveerjesne aarebi ih daarpesjh syökedh lïhtseginie Svïenske gærhkosne sjïdtedh, dam sjïdti gosse reakadi. Daan biejjien lïhtsege laavkomen tjïrrh sjædta. Dovne maanah, noerh jïh båarasåbpoe maehtieh lååvkesovvedh. Jis ij leah maana lååvkesovveme eejhtegh jallh giej  åelesne maana, maehtieh bievnedh dïhte edtja lïhtsege Svïenske gærhkosne årrodh. Maanah gïeh bijjelen 12 jaepien båeries edtjieh jïjtsh dïsse {seamanidh}${seamadidh}.
 
-Jis joe lååvkeme jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} maahtah {lïhtsege}€{infl,case,nom-ess|lïhtseginie} Svïenske gærhkosne sjïdtedh mænngan gosse hearrine soptsestalleme. Datne gïeh Svïenske gærhkoem laahpeme leah lïhtseginie buerie båeteme bååstede. Jis ih daejrieh mejtie lïhtsege jallh jeatjah gyhtjelassh lïhtsegevoeten bïjre åtnah dellie maahtah govlehtalledh dejnie åålmeginie gusnie årroeh.
+Jis joe lååvkeme jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} maahtah {lïhtsege}€{infl,case,nom-ess|lïhtseginie} Svïenske gærhkosne sjïdtedh mænngan gosse hearrine soptsestalleme. Datne gïeh Svïenske gærhkoem laahpeme leah lïhtseginie buerie båeteme bååstede. Jis ih daejrieh mejtie lïhtsege jallh jeatjah gyhtjelassh {lïhtsegevoeten}${cmp,ege-eh;conc,go-gåå|lïhtsehvoeten} bïjre åtnah dellie maahtah govlehtalledh dejnie åålmeginie gusnie årroeh.
 
 Lïhtsegemaaksoe
 Svïenske gærhkoen barkoe Sveerjesne jïh ålkoerijhkesne lïhtsegemaaksojste maaksa, dam aaj gohtje gærhkoemaaksoe. {Jïjnjemesh}${fin,sh-s|Jïjnjemes} destie dan dov byjreske åålmegasse jåhta. Maaksoe edtja {aarke biejjien}¥{adv,x|aarkebiejjien} barkoem maanide noeride jïh båarasåbpojde maeksedh, {laavlome-dåehketjidie}${noun,mix|laavlomedåahkatjidie} jïh joptsetjöövkese, skïemtjegåetiegærhkose, fuelhkieraeriestæmman, hearride giejtie iktesth råakh, sijjide gusnie oktegs jïh gåetieluhpehts almetjh maehtieh {tjåanghkanidh}${verb,vow|tjåanghkenidh} jïh mejnie gïehtelidh. Gaajhkesh aaj viehkiehtieh voenen gærhkojde jïh {kultivrehistovriske}${vowlat,i-u;conc,vr-r;fin,iske-ihke}| kultuvrehistorihke ) vierhtide båetije boelvide vaarjelidh.
@@ -279,7 +279,7 @@ Laavkoemisnie lea dåajvoe Jupmele {gaajhke}£{infl,plnom-placc|gaajhkide} {jiel
 Laavkome noeride
 Jïjnjemes aejkien maanah dah {gieh}${vowc,ï-i|gïeh} Svïenske gærhkosne {gieh}¥{0} lååvkesuvvieh, badth daelie {gellebh}€{foreign|jienebh} noerh jïh dovne geerve almetjh aaj sijhtieh lååvkesovvedh. Dam gellien aejkien darjoeh gosse skyllemasse luhkieh, lohkehtimmien mænngan jallh gosse dåehkesne kristelesvoeten bïjre soptsestalleminie.
 
-Laavkome jïh {lïhtsegevoete}
+Laavkome jïh {lïhtsegevoete}${cmp,ege-eh;conc,go-gåå|lïhtsehvoete}
 Laavkome maadtoe jis lïhtseginie Svïenske gærhkosne sjïdtedh. Dïhte gie jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} lååvkesovveme aaj åådtje {lïhtsege}£{infl,sgnom-sgcom|lïhtseginie} Svïenske {gærhkose}£{infl,sgill-sgine|gærhkosne} årrodh, jïh ij daarpesjh {ikt}${conc,t-th|ikth} {vielien}${typos|vielie} {aejkien}¥{0} laavkodh. Svïenske gærhkoen öörnegen mietie {akte}¥{redun|} kristeles laavkome ihkuvasse lea.
 
 
