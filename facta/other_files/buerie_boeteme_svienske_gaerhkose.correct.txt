@@ -197,7 +197,7 @@ Lïhtsegevoete
 
 Svïenske gærhkoen leah {mahta}${adv,vow|mahte} tjïjhtje lïhtsegh. Fïerhten jaepien jïjnjesh dejstie meatan naaken dan gærhkoen ektesne. Maahta årrodh dan voenen {laavleme-dåehketjisnie}${vowlat,o-e;vowc,åe-åa;vowlat,e-a|laavlomedåahkatjisnie}, gosse skylledh jallh gosse Svïenske gærhkoen {gaskenassjovni}${gaskenasjovni}/{internationelle}${internasjonelle} barkose beetnegh tjöönghkeminie mejnie viehkiehtidh jallh evtiedidh.
 
-Gyhtjelassh lïhtsegevoeten bïjre
+Gyhtjelassh {lïhtsegevoeten}${cmp,ege-eh;conc,go-gåå|lïhtsehvoeten} bïjre
 Sveerjesne aarebi ih daarpesjh syökedh lïhtseginie Svïenske gærhkosne sjïdtedh, dam sjïdti gosse reakadi. Daan biejjien lïhtsege laavkomen tjïrrh sjædta. Dovne maanah, noerh jïh båarasåbpoe maehtieh lååvkesovvedh. Jis ij leah maana lååvkesovveme eejhtegh jallh giej  åelesne maana, maehtieh bievnedh dïhte edtja lïhtsege Svïenske gærhkosne årrodh. Maanah gïeh bijjelen 12 jaepien båeries edtjieh jïjtsh dïsse {seamanidh}${seamadidh}.
 
 Jis joe lååvkeme jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} maahtah {lïhtsege}€{infl,case,nom-ess|lïhtseginie} Svïenske gærhkosne sjïdtedh mænngan gosse hearrine soptsestalleme. Datne gïeh Svïenske gærhkoem laahpeme leah lïhtseginie buerie båeteme bååstede. Jis ih daejrieh mejtie lïhtsege jallh jeatjah gyhtjelassh lïhtsegevoeten bïjre åtnah dellie maahtah govlehtalledh dejnie åålmeginie gusnie årroeh.
@@ -279,7 +279,7 @@ Laavkoemisnie lea dåajvoe Jupmele {gaajhke}£{infl,plnom-placc|gaajhkide} {jiel
 Laavkome noeride
 Jïjnjemes aejkien maanah dah {gieh}${vowc,ï-i|gïeh} Svïenske gærhkosne {gieh}¥{0} lååvkesuvvieh, badth daelie {gellebh}€{foreign|jienebh} noerh jïh dovne geerve almetjh aaj sijhtieh lååvkesovvedh. Dam gellien aejkien darjoeh gosse skyllemasse luhkieh, lohkehtimmien mænngan jallh gosse dåehkesne kristelesvoeten bïjre soptsestalleminie.
 
-Laavkome jïh lïhtsegevoete
+Laavkome jïh {lïhtsegevoete}
 Laavkome maadtoe jis lïhtseginie Svïenske gærhkosne sjïdtedh. Dïhte gie jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} lååvkesovveme aaj åådtje {lïhtsege}£{infl,sgnom-sgcom|lïhtseginie} Svïenske {gærhkose}£{infl,sgill-sgine|gærhkosne} årrodh, jïh ij daarpesjh {ikt}${conc,t-th|ikth} {vielien}${typos|vielie} {aejkien}¥{0} laavkodh. Svïenske gærhkoen öörnegen mietie {akte}¥{redun|} kristeles laavkome ihkuvasse lea.
 
 
