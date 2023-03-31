@@ -13,7 +13,7 @@ edtjh dåeriedidh.
 
 {Mannasinie}€{xxx|man åvteste}?
 
-{Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-sgine|Nöörjesne}}¢{wo|Saemien noereh abpe Nöörjesne veasoeminie}
+{Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-sgine|Nöörjesne}}¥{wo|Saemien noereh abpe Nöörjesne veasoeminie}
 {jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide {mij {politikem}${noun,con|politihkem} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}}£{noun,x,gensg,acksg,x|mij politihken jïh jaahkoen dåaresth}. Gellien aejkien {lin}¥{0} noereh {jih}${vowc,i-ï|jïh}
 geervealmetjh ohtselamme {juste}¥{0} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
 {Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
@@ -27,7 +27,7 @@ tjïervehts
 
 Programme {aane}${typos|annje} naemhtie {våjnoe}${vowc,å-åå|våajnoe}:
 
-Bearjadahken: Gaajhkesh dovnesh {}¥{gïeh} {Romsen}${infl,sggen-sgacc|Romsem}
+Bearjadahken: Gaajhkesh {dovnesh}¥{missing|dovnesh gïeh} {Romsen}£{infl,sggen-sgacc|Romsem}
 {jaksi}${infl,xxx|jaksin} {jih}${vowc,i-ï|jïh} {aavoedim}${infl,xxx|aavoedin}
 {mubpie}${infl,sgnom-sggen|mubpien} iehkiedasse.
 
@@ -43,7 +43,7 @@ Romsese, akte Gærhkoenjaarkeste {jih}${vowc,i-ï|jïh} mubpie Tråanteste. Jis
 
 {Sijhth}${vowc,i-ï|Sïjhth} dåeriedidh? {Soptsesh}¢{conc,sh-sth|Soptsesth}
 {susanneamalie@gmail.com`ese}${typos|susanneamalie@gmail.com:ese} {{ååvtelen}${vowc,åå-å|åvtelen}}€{w|aarebi} Golken mubpien
-{biejjen}${fin,en-ien|biejjien}, {juktie}€{w|guktie} daejrebe {}¥{xxx|mejtie}
+{biejjen}${fin,en-ien|biejjien}, {juktie}€{w|guktie} {daejrebe}¥{missing|daejrebe mejtie}
 nuekies {beapmoh}${conc,oh-oeh|beapmoeh} {gaajhkide}€{w|gaajhkesidie}!
 
 Vaajtele
