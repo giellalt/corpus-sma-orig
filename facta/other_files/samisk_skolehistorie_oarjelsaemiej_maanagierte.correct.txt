@@ -275,7 +275,7 @@ Eejhtegh utniejin daate hijven, mohte læjhkan ohtsin
 {maanagiertiem}¢{vowc,i-ï|maanagïertem} gusnie maanah meehtin årrodh abpe biejjiem, jeahta.
 Faaleldahke {båetedh}¢{infl,inf-sg3prs|båata} dan maanageartan {jih}${vowc,i-ï|jïh}
 dah {sjiere}${vowc,i-ï|sjïere} tæjmoeh {Vinjebakkenesnie}${fin,nesnie-isnie|Vinjebakkenisnie}
-ij {lij}¢{infl,sg3prs-pl3prs|lin} {nuekies}£{infl,attr-pred|nuekie} jis maanah
+{ij}¢{infl,neg,sg3prs-pl3prs|eah} {lij}¢{infl,conneg,sg3prs-pl3prs|lin} {nuekies}£{infl,attr-pred|nuekie} jis maanah
 edtjin aelkedh {åarjel-saemien}${hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem}
 {provhkedh}£{verb|soptsestidh} {goh}¥{redun|} {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {giele}${vowc,i-ï;infl,case,sgnom-sgcom|gïeline}.
@@ -283,7 +283,7 @@ Nimhtie eejhtegh vaajtelin {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {maanagiertem}${vowc,i-ï|maanagïertem}
 åadtjodh.
 
-Hanne-Lena lij akte dejstie gie {lih}¢{infl,sg32prs-sg3prs|lij} meatan {jih}¥{redun|}
+Hanne-Lena lij akte dejstie gie {lih}¢{infl,sg2prs-sg3prs|lij} meatan {jih}¥{redun|}
 {soejkesjidie}¥{redun|} {buektedh}£{verb|soejkesjidh} {dan}¥{wo|guktie dïhte orre
 maanagiertie edtji sjïdtedh} {orre}¥{redun|} {maanageartan}¥{redun|}. Mijjieh limh gellie
 eadtjohke eejtegh mah gaavnedimh {maanagiertesne}¢{vowc,i-ï|maanagïertesne}
@@ -442,7 +442,7 @@ daaroen {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertesne},
 {rihpsovvi}${vowc,i-ï|rïhpesovvi}. Desnie {åadtjojigan}${vowc,o-oe|åadtjoejigan}
 golme tæjmoeh saemien våhkosne, mohte buerebe årrodh
 dennie åarjelsaemien {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertesne},
-{{Gierte}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerte}, lea joekoen vihkeles mijjese. Vaenie
+{{Gierte}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerte}, lea joekoen {vihkeles}£{infl,attr-pred|vihkele} mijjese. Vaenie
 {åarjelsaemien {giele}${vowc,i-ï|gïele}}${cmp,2-1|åarjelsaemiengïele}
 {govlesovva}£{verb|govloe} juktie dan vaenie byjresh gusnie {giele}${vowc,i-ï|gïele}
 veaksehke {jarngesne}¥{redun|} {tjåadtjoeminie}£{verb|lea}. Vihkeles lea
