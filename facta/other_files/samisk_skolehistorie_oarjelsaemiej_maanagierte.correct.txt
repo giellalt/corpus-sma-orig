@@ -275,7 +275,7 @@ Eejhtegh utniejin daate hijven, mohte læjhkan ohtsin
 {maanagiertiem}¢{vowc,i-ï|maanagïertem} gusnie maanah meehtin årrodh abpe biejjiem, jeahta.
 Faaleldahke {båetedh}¢{infl,inf-sg3prs|båata} dan maanageartan {jih}${vowc,i-ï|jïh}
 dah {sjiere}${vowc,i-ï|sjïere} tæjmoeh {Vinjebakkenesnie}${fin,nesnie-isnie|Vinjebakkenisnie}
-ij {lij}¢{infl,sg3prs-pl3prs|lin} nuekies jis maanah
+ij {lij}¢{infl,sg3prs-pl3prs|lin} {nuekies}£{infl,attr-pred|nuekie} jis maanah
 edtjin aelkedh {åarjel-saemien}${hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem}
 {provhkedh}£{verb|soptsestidh} {goh}¥{redun|} {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {giele}${vowc,i-ï;infl,case,sgnom-sgcom|gïeline}.
