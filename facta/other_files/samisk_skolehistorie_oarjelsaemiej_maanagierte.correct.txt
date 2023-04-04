@@ -391,7 +391,7 @@ maehtien gåabpatjahkide saemien {gielide}¢{vowc,i-ï|gïelide} guarkedh
 {gaektsie, govhte {jih}${vowc,i-ï|jïh} golme jaepien båeries}£{case,sgnom-sggen|gaektsien,
 govhten jïh golmen jaepien båeries}.
 {Dah {gøøkte}${vowc,øø-öö|göökte} båarasommes leah}£{infl,3plprs-3dualprs|Dah göökte båarasommes lægan}
-væjkeles dan {nøøremes}${vowc,øø-öö;infl,case,sgnom-sgill|nööremasse}
+{væjkeles}£{infl,attr-pred|væjkele} dan {nøøremes}${vowc,øø-öö;infl,case,sgnom-sgill|nööremasse}
 {maanese}¥{1-0|} saemiestidh. Gosse {dihte}${vowc,i-ï|dïhte} maam
 {nøørjen}${vowc,øø-öö|nöörjen} {gielesne}¢{vowc,i-ï|gïelesne} jeahta, dellie
 jarkoestægan {saemien {gielese}¢{vowc,i-ï|gïelese}}£{cmp,2-1|saemiengïelese}
@@ -445,7 +445,7 @@ dennie åarjelsaemien {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertes
 {{Gierte}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerte}, lea joekoen {vihkeles}£{infl,attr-pred|vihkele} mijjese. Vaenie
 {åarjelsaemien {giele}${vowc,i-ï|gïele}}${cmp,2-1|åarjelsaemiengïele}
 {govlesovva}£{verb|govloe} juktie dan vaenie byjresh gusnie {giele}${vowc,i-ï|gïele}
-veaksehke {jarngesne}¥{redun|} {tjåadtjoeminie}£{verb|lea}. {Vihkeles}£{infl,attr-pred|Vihkele} lea
+{veaksehke}£{infl,pred-attr|veaksehks} {jarngesne}¥{redun|} {tjåadtjoeminie}£{verb|lea}. {Vihkeles}£{infl,attr-pred|Vihkele} lea
 dagkeres {gielebyjresh}${vowc,i-ï|gïelebyjresh} gåetien bæjngoelisnie. Im
 {jiejkh}${vowc,i-ï|jïejkh} gosse garmerdem man {vihkeles}£{infl,attr-pred|vihkele}
 {{gierte}¢{vowc,i-ï|gïertesne}}£{noun|maanagïerte}, lea orre maanide eevtjedh saemien
