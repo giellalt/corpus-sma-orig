@@ -35,7 +35,7 @@ aaj Åarjelsaemiej skuvlesne veedtsi. Dan {øøhpehtimmieh}${vowc,øø-öö|öö
 {Lohketæjja-øøhpehtimmie}${vowc,øø-öö;hyph-0|Lohkehtæjjaööhpehtimmie} Bodøen
 {lohkehtæjja {jilleskuvleste}${vowc,i-ï|jïlleskuvleste}}¥{cmp,2-1|lohkehtæjjajïlleskuvleste} {jih}${vowc,i-ï|jïh}
 {NTNU}${acro,suf|NTNU:ste}, {{bieliejaepie lohkeme}${cmp,2-1|bieliejaepielohkeme}}¢{xxx|bieliejaepieboelhke}
-åarjelsaemien {jih}${vowc,i-ï|jïh} {ektesvuekiefaage}${foreign|seabradahkefaage} gusnie
+åarjelsaemien {jih}${vowc,i-ï|jïh} {ektesvuekiefaage}${foreign|seabredhfaage} gusnie
 {diedte}${vowc,i-ï|dïedte} saemiej vuekiej {bijre}${vowc,i-ï|bïjre} daejredh
 {Jilleskuvleste}${vowc,i-ï|Jïlleskuvleste}
 {Noerhte-Trøndelageste}${vowlat,a-aa|Noerhte-Trøndelaageste} {jih}${vowc,i-ï|jïh} {Nesneste}${vowc,e-ea|Neasneste}
@@ -73,8 +73,8 @@ skuvlesne. {Dihte}${vowc,i-ï|Dïhte} {reakedi}${vowlat,e-a|reakadi} jaepien 195
 {lohkehtæjja-øøhpehtimmiem}${hyph-0;vowc,øø-öö|lohkehtæjjaööhpehtimmiem}
 Tromsøesne veelti, {åarjel saemien}¥{cmp,2-1|åarjelsaemien}
 {gielem}${vowc,i-ï|gïelem}
-({lohki Nesnan {jilleskuvlesne}${vowc,i-ï|jïlleskuvlesne}}¥{wo|Nesnan jïlleskuvlesne lohki}), {jih}${vowc,i-ï|jïh}
-{{ektesvuekiefaagem}${cmp,es-ie|ektievuekiefaagem}}€{foreign|siebriedahkefaagem} lohki gusnie saemiej
+({lohki Nesnan {jilleskuvlesne}${vowc,i-ï|jïlleskuvlesne}}¥{wo|Neasnan jïlleskuvlesne lohki}), {jih}${vowc,i-ï|jïh}
+{{ektesvuekiefaagem}${cmp,es-ie|ektievuekiefaagem}}€{foreign|seabredhfaagem} lohki gusnie saemiej
 {aamhtsh}${fin,htsh-htesh|aamhtesh} jarngesne {tjåadtjoeminie}¥{redun|} {jih}${vowc,i-ï|jïh}
 {5-9-jaepiej-pedagogikem}${conc,k-hk|5-9-jaepiej-pedagogihkem}
 {Jilleskuvleste}${vowc,i-ï|Jïlleskuvleste}
