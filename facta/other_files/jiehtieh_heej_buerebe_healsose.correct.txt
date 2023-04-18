@@ -10,7 +10,7 @@ haemiedidh. Gaajhkesh vitnieh aaj gosse dejnie berkieh.
 {Portalen}${vowc,a-aa|Portaalen} ulmie lea {skreejreredh}${conc,reredh-
 redh|skreejredh} jïh maahtoem buerebe healsose vadta. Mijjieh vedtebe
 våaromen {praktijhkeles}${adj,con|praktihkeles} raerieh jïh gyhtjelassh
-gihtjebe maam lea {nuhtegs}${adj,vow|nuhteges} dan bïjre ussjedidh. Maam
+gihtjebe maam lea {nuhtegs}£{infl,attr-pred|nuhtege} dan bïjre ussjedidh. Maam
 edtjebe {darjodh}£{verb|buektiehtidh} {guktie vervesne
 årrodh}£{verb|verviestidh} lea joekehts almetjistie almetjasse. Akte
 almetje buerebe jïh {healsojis}${adj|buerie} beapmoeh byöpmedidh mohte mubpie
@@ -40,7 +40,7 @@ lea åvtese barkedh  jïh healsoem {eevtiedeminie}${verb,mix|evtedeminie}.
 
 Åvtemiereste buerebe sjïdti, dam maahta statistihkeste lohkedh 1980-
 låhkosne {vuesehti}${verb,svow|vuesiehti} Västerbottenen lij dïhte leene mij
-lij nåekies gosse {infarkt-jaamemem}${noun,x|infarktjaamemem} jïh jaamedahkem
+lij {nåekies}£{infl,attr-pred|nåekie} gosse {infarkt-jaamemem}${noun,x|infarktjaamemem} jïh jaamedahkem
 dejtie {gieh}${refl,ascii|gïeh} lih nuerebe goh 75 vuartasji.
 {Daen}${dem,vowc|Daan} biejjien lea Västerbotten bijjemes. Dah
 {gieh}${refl,ascii|gïeh} Västerbottenisnie årroeminie vaenemes rïjhkesne

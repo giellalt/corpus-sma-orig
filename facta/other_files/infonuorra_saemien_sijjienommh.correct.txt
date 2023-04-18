@@ -4,12 +4,11 @@ båetieh} saemiej {jielemistie}${vowlat,e-ie|jieliemistie}, vijremistie,
 {gøølemistie}${vowc,øø-öö|göölemistie} {jih}${vowc,i-ï|jïh}
 {båatsoejste}${vowlat,oe-o|båatsojste}.
 
-{Dah nommh soptseste}£{infl, sg3prs-pl3prs|Dah nommh soptsestieh} guktie
+Dah nommh {soptseste}£{infl,verb,sg3prs-pl3prs|soptsestieh} guktie
 {dihte}${vowc,i-ï|dïhte} eatneme lea. Soptseste man aelhkie desnie baahtsedh
 vg. Suohpajohka mij lea gaelemejohke Sveerjesne, {jih}${vowc,i-ï|jïh} guktie
-gåatome vg. Sidnoajvve mij lea kraesiebaektie. {Vihkeles nommh aaj tjahkine
-mah soptseste}£{infl, sg3prs-pl3prs |Vihkeles nommh aaj tjahkine mah
-soptsestieh} guktie jåhtadahkh. {http://www.sofi.se/1717}∞{url}
+gåatome vg. Sidnoajvve mij lea kraesiebaektie. Vihkeles nommh aaj tjahkine
+mah {soptseste}£{infl,sg3prs-pl3prs|soptsestieh} guktie jåhtadahkh. {http://www.sofi.se/1717}∞{url}
 
 Gosse {Nøørjen}${vowc,øø-öö|Nöörjen} {naasjovne}${vowc,aa-a|nasjovne} edtji
 bigkesovvedh dle saemien sijjienommh daaroen sijjienommi gujmie
@@ -37,7 +36,7 @@ Daate saemien {øøvtiedimmiem}${vowc,øø-ö|övtiedimmiem} skilki {jih}${vowc,
 dajvine dam {saemien-gielem}${hyph-0;vowc,i-ï|saemiengïelem} skilkin, joekoen
 dennie {{kystegaedtesne}€{foreign|saelhtiegaedtiebealesne}. Saemien
 sijjienommh {daaroengielese}¢{vowc,i-ï|daaroengïelese} jarkoestin jallh
-{urresth}${vowc,u-o|orresth} {nommi gujmie}${cmp,2-1|nommigujmie}
+{urresth}${vowc,u-o|orresth} {nommi gujmie}¥{cmp,2-1|nommigujmie}
 {låtnin}${vowlat,i-oe;fin,in-jin|låtnoejin}. Goevtegeajnoe Kautokeinose
 {jorkesovvi}${conc,s-st|jorkestovvi} {jih}${vowc,i-ï|jïh} Deatnu {Tanase}${vowc,a-
 e|Tanese}.
@@ -56,7 +55,7 @@ bæjhkoehtidh{http://www.forskning.no/artikler/2008/juni/187309}∞{url}
 utnieh maam gåetine darjodh, {mohtebaåta}${cmp,1-2|mohte båata} dehtie
 Jiemmaluohteste. Jiemma lea nåervieaarhte {jih}${vowc,i-ï|jïh} luofta lea
 {luokte}${vowc,uo-oe|loekte}. {Jijnjh}${vowc,i-ï|Jïjnjh} dagkeres
-{vuesehtimmieh}${vowlat,e-ie|vuesiehtimmieh} {gååvnese}¢{infl,sg3prs-
+{vuesehtimmieh}${vowlat,e-ie|vuesiehtimmieh} {gååvnese}£{infl,verb,sg3prs-
 pl3prs|gååvnesieh}. (Magga, Ole Henrik.2001.Sàpmi.
 {http://www.hundrearsmarkeringen.no/pdf/impulser_068-073.pdf}∞{url}
 
@@ -68,6 +67,6 @@ Sveerjen {turistsibrien}${vowc,i-ie|turistsiebrien} bielesne:
 {http://www.stfturist.se/sv/Inspiration/Vandring/Allman-
 fjallinformation/Samiska-ortsnamn/}∞{url}
 
-Kroessebaakoe saemien {sijjiennommi gujmie}${smp,2-1|sijjienommigujmie}
+Kroessebaakoe saemien {sijjiennommi gujmie}¥{smp,2-1|sijjienommigujmie}
 daennie bielesne gååvnese:
 {http://www.uta.fi/~km56049/same/puzzles/puzplac.html}∞{url}

@@ -275,9 +275,9 @@ dovletje, daaletje jïh båetije aejkide reeredh.
 Tjåenghkies almetjh
 
 Saemieh leah aktesne orreme staati raasten jïh boelvejoekehtsi namhtah. NSR
-åtna {vihkeles}{infl,attr-pred|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
+åtna {vihkeles}£{infl,attr-pred|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
 Dierie boelvi gaskem jïh laanteraasti dåaresth lea hijven maehtedh vuekieh
-biejverdidh jïh saemien {gellienlaaketjevoetem} tjirkedh. NSR sæjhta tjerkebe
+biejverdidh jïh saemien gellienlaaketjevoetem tjirkedh. NSR sæjhta tjerkebe
 ektiebarkoem laanteraasti {raastah}${pp,vowc|rastah}, dellie aaj nænnobe
 {politigkem}${noun,con|politihkem} gaskelaanti gaskem åadtjodh. Dovne
 {åårganisasjovni}${noun,vowc|organisasjovni} ektiebarkojne Saemieraerien
@@ -613,7 +613,7 @@ Seammavierhtege / Nyjsenæjjakampaanjh / Veeljeme
 NSR lea:
  ✓ eevtjemeseminaarem ”Saemiedigkesne nyjsenæjjafaamoe” tjïrrehtamme
  ✓ {dåarjoeøørnegh}${vowc,øø-öö|dåarjoeöörnegh} {{politigke}${conc,gk-
- hk|politihke} partijide}£{infl,gensg-nomsg|politihken partijide}
+ hk|politihke}}£{infl,gensg-nomsg|politihken} partijide
  tseegkeme, mah {vyøhkesieh}${vowc,ø-ö|vyöhkesieh} nyjsenæjjam
  veeljemelæstoen voestes sæjjan bïejedh
  ✓ {nyjsenæjjabrosjyrem}${noun,con|nyjsenæjjabrosjyrem} dorjeme mearan

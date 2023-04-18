@@ -1,7 +1,7 @@
 
 {Læjnoesh}€{w|læjnoeh} deajvoehtimmijste!
 
-{Daennie}€{infl,ine-com|daejnie} {nommerine}${vowc,o-u|nummerinie} maaje
+{Daennie}€{infl,ine-com|Daejnie} {nommerine}${vowc,o-u|nummerinie} maaje
 vijries dijpijibie. {Darhkan}€{w|Jilhts} jïjnjh aamhtesh - noerhtesaemien gïelesne jis.
 {Ånnetji}€{w|onne} vielie {goh}¥{redun,goh-0|} {gåajhkohtsem}€{infl,acc-ela| gåajhkoehtistie}
 åarjelsaemien aaj. Daesnie leah dovne aamhtesh mah
@@ -18,7 +18,7 @@ gåalmede {nommerasse}${vowc,o-u|nummerasse} Sámis tjeekedidh, mohte ajve
 medtie
 20 {tjaakenin}${vowlat,e-a|tjaakanin}. Daam soejkesjem, 100 deahpadimmide,
 mojhtelimh muvhtenlaaketje «vuestieaavoedimmine» nöörjen aavoedimmiem
-dæjman, ihke 100 jaepieh vaaseme mænngan sjïere {naasjovnine}${vowc,aa-a|nasjovnine} {sjidti}${vowc,i-ï|sjïdti}. Mijjieh mih aaj {sijhtimh}${vowc,i-ï|sïjhtimh} aavoedidh, mohte idtjimh {rïekte}¥{w|raaktan} maam gaavnh. Ibie {goh}¥{redun,goh-0| } maehtieh
+dæjman, ihke 100 jaepieh vaaseme mænngan sjïere {naasjovnine}${vowc,aa-a|nasjovnine} {sjidti}${vowc,i-ï|sjïdti}. Mijjieh mih aaj {sijhtimh}${vowc,i-ï|sïjhtimh} aavoedidh, mohte idtjimh {rïekte}¥{w|raaktan} maam gaavnh. Ibie {goh}¥{redun,goh-0|} maehtieh
 saemieh jïjtjereeremem aavoedidh. Jalhts ij leah ov man jïjnjem aavoedidh,
 dellie læjhkan hov limh {sijhteme}${vowc,i-ï|sïjhteme} {{histovrihke}${conc,vr-r|historihke}}£{case,nom-gen|historihken}
 {{deapadimmi}${vowc,p-hp;fin,i-ie|deahpadimmiej} gujmie}£{split-morph|deahpadimmiejgujmie}
@@ -31,12 +31,12 @@ tjaelijh leah meatan orreme {SFS:en}${acro,suf|SFS:n} sjïere
 gïeleevtiedimmien {soejkesjesne}${fin,esne-isnie|soejkesjisnie}, ij naan
 luvliesaemien {{tjaelijh}£{infl,pl-sg|tjaelije}}¥{tjaelije meatan} daan raajan. Sámis 2. {nommerisnie}${vowc,o-u|nummerisnie} hov dåajvoehtimh 5000 kr. maeksedh bööremes luvliesaemien
 {jih}${vowc,i-ï|jïh} åarjelsaemien {teeksti}${vowc,ee-e|teksti} åvteste. Ibie
-{nov}¥{redun,nov-0| } annje dejtie beetnegidie provhkeme. {Daan}¥{w|dan} {nommeren}${vowc,o-u|nummeren}
+{nov}¥{redun,nov-0|} annje dejtie beetnegidie provhkeme. {Daan}¥{w|dan} {nommeren}${vowc,o-u|nummeren}
 åarjelsaemien {teekstem}${vowc,ee-e|tekstem} libie {tjaelijistie}${vowlat,i-ie|tjaeliejistie} {donkeme}${conc,k-gk|dongkeme}, {jih}${vowc,i-ï|jïh} satne
 åådtje {mijjien}${fin,ien-en|mijjen} sïejhme maaksoem dan åvteste.
 Dellie vaajtelibie buerie gïjregiesiem, nov badth dijjese guhth vissjin
 daam {teekstem}${vowc,ee-e|tekstem} lohkedh, {jih}${vowc,i-ï|jïh} vaejtie
-Sámis plaerine murredh jalhts {aaj}¥{redun,ajj-0| } abpe giesien!
+Sámis plaerine murredh jalhts {aaj}¥{redun,ajj-0|} abpe giesien!
 
 Deajvoehtæjjah
 

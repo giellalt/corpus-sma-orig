@@ -14,8 +14,8 @@ edtjh dåeriedidh.
 {Mannasinie}€{xxx|man åvteste}?
 
 {Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-sgine|Nöörjesne}}¥{wo|Saemien noereh abpe Nöörjesne veasoeminie}
-{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide {mij {politikem}${noun,con|politihkem} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}}£{noun,x,gensg,acksg,x|mij politihken jïh jaahkoen dåaresth}. Gellien aejkien {lin}¥{0} noereh {jih}${vowc,i-ï|jïh}
-geervealmetjh ohtselamme {juste}¥{0} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
+{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide {mij {politikem}${noun,con|politihkem} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}}£{noun,x,gensg,accsg,x|mij politihken jïh jaahkoen dåaresth}. Gellien aejkien {lin}¥{} noereh {jih}${vowc,i-ï|jïh}
+geervealmetjh ohtselamme {juste}¥{} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
 {Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
 
 {Aejkie}€{xxx|gåessie}: Golken 16.-18. {Biejje}${fin,e-ie|Mij Biejjide}
@@ -54,7 +54,7 @@ aelkiedidh, {åajviem}${vowc,åa-åe|åejviem} Susanne Amalie Andersen baaktoe.
 telefovne:  (+47) 92835649
 e-påaste: {susanneamalie@gmail.com}∞{url}
 
-Ps!  Veartesjh aaj $(Infl,sgnom-sgacc|www.nuora.blogg.no:m){www.nuora.blogg.no}∞{url} jallh {Facebook-dåehkiem}${hyph-0|facebookdåehkiem} ?stiftelse av samisk
-ungdomsorganisasjon? juktie orre {bievnesh}${vowc,i-ï|bïevnesh} {tjåanghkoem {bijre}${vowc,i-ï|bïjre}}£{infl,sgacc-sggen|tjåanghkoen bïjre} åådtje.
+Ps!  Veartesjh aaj {www.nuora.blogg.no:m}∞{url} jallh {Facebook-dåehkiem}${hyph-0|facebookdåehkiem} ?stiftelse av samisk
+ungdomsorganisasjon? juktie orre {bievnesh}${vowc,i-ï|bïevnesh} {tjåanghkoem}£{infl,sgacc-sggen|tjåanghkoen} {bijre}${vowc,i-ï|bïjre} åådtje.
 
 Veedtjeme (10.05.12) sæjroste www.nuora.blogg.no
