@@ -155,7 +155,7 @@ skuvlesne {jih}${vowc,i-ï|jïh} {dihte}${vowc,i-ï|dïhte} ålvas striengkies.
 Mijjem altese vuajneres tjelmiejgujmie steeri {jih}${vowc,i-ï|jïh}
 {buerkesti}${vowc,i-ï|buerkiesti} jaememen {jih}${vowc,i-ï|jïh}
 {raavhkedimmien}${vowc,aa-aa;conc,vhk-vk|ravkedimmien} {bijre}${vowc,i-ï|bïjre}
-jis ij limh {giemhpes}${vowc,i-ï|gïemhpes} {jih}${vowc,i-ï|jïh} jupmielasse
+jis {ij}£{infl,neg,3sgprs-1plprs|ibie} limh {giemhpes}${vowc,i-ï|gïemhpes} {jih}${vowc,i-ï|jïh} jupmielasse
 jaahkoles. Idtjimh doesth maam jeatja darjodh, mijjieh tjahkasjimh goh
 {buelieminie}¥{buelije} tjoevkesh.
 Jaepiej mænngan aaj fealadimmie dennie voenesne {sjidti}${vowc,i-ï|sjïdti}.
@@ -211,7 +211,7 @@ Dej beeli ij lij man {jijnjh}${vowc,i-ï|jïjnjh} {lidteratuvrh}${conc,dt-tt|lit
 gellie dejstie gærjijste Bergslanden {jih}${vowc,i-ï|jïh} Hasselbrinken
 "Saemien lohkemegærja" åasteme. Mohte dah skaavtegisnie tjåadtjoejin juktie
 idtjin guhth dejstie lohkehtæjjijste
-{åarjelh-saemien}${conc,lh-l;hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem} maehtieh {jih}${vowc,i-ï|jïh} ij
+{åarjelh-saemien}${conc,lh-l;hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem} maehtieh {jih}${vowc,i-ï|jïh} {ij}£{infl,neg,3sgprs-3plprs|eah}
 lin gænnah learohkh {jijtje}${vowc,i-ï|jïjtje} {ietniengielem}${vowc,i-ï|ietniengïelem} {liereme}${vowc,i-ï|lïereme} lohkedh. {Jijtje}${vowc,i-ï|Jïjtje} gærjam skaavtegistie veeltim {jih}${vowc,i-ï|jïh} aaj buektiehtim
 dam lohkedh. Akten iehkeden lohkehtæjja {bøøti}${vowc,øø-öö|bööti} mearan
 manne dejnie gærjine tjahkan. Gihtji maam manne dejnie gærjine. Vaestiedim
@@ -239,7 +239,7 @@ jielieminie. Naaken {vienhtin}${vowc,i-ï|vïenhtin} mijjieh limh russerh.
 Læjhkan buerie {sjidti}${vowc,i-ï|sjïdti} mijjen {jih}${vowc,i-ï|jïh} dej noeri
 {gaskems}${fin,ms-msh|gaskemsh} guhth lin voenesne årroeminie.
 
-Faaleldahke mijjese {bøøti}${vowc,øø-öö|bööti} åadtjodh {noerhte-saemien}${hyph-0|noerhtesaemien} {lieredh}${vowc,i-ï|lïeredh}, mohte ij lim manne desnie
+Faaleldahke mijjese {bøøti}${vowc,øø-öö|bööti} åadtjodh {noerhte-saemien}${hyph-0|noerhtesaemien} {lieredh}${vowc,i-ï|lïeredh}, mohte {ij}£{infl,neg,3sgprs-1sgprs|im} lim manne desnie
 meatan. Mænngan leam saangerdamme juktie {idjim}${conc,d-dt|idtjim} dam
 faaleldahkem dåastoeh. Mijjieh saemieh åarjede saemien
 {lidteratuvrem}${conc,dt-tt|litteratuvrem} lohkimh mearan doh jeatjebh
