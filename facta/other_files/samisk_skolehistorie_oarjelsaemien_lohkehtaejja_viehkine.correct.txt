@@ -41,7 +41,7 @@ dellie mov tjidtj`aajja, Jonas Marsfjell, {Dunderlandsdalesne}${cmp,s-0;vowc,a-a
 tseegkesovvi jaepien 1948. {Åarjelh-saemien}${cmp,lh-l;hyph-0|Åarjelsaemien}
 {lihtsegh}${vowc,i-ï|lïhtsegh} lin bussem {leejeme}${conc,j-jj|leejjeme}
 {jih}${vowc,i-ï|jïh} ektesne noerhtese {vøøjin}${vowc,øø-öo|vööjin}. Goh
-bååstide, dellie busse geajnoste {vøøji}${vowc,øø-öo|vööji} {jih}${vowc,i-ï|jïh} raakte Dunderlaanten jeanose. ({Luhkie govhte}¥{cmp,2-1|luhkiegovhte} desnie batnanin.
+bååstide, dellie busse geajnoste {vøøji}${vowc,øø-öo|vööji} {jih}${vowc,i-ï|jïh} raakte Dunderlaanten jeanose. ({Luhkie govhte}¥{cmp,2-1|Luhkiegovhte} desnie batnanin.
 
 Daate ovlæhkoe stoerre sårkojne {sjidti}${vowc,i-ï|sjïdti} dovne dejtie
 ovmese fuelhkide {jih}${vowc,i-ï|jïh} aaj
@@ -262,7 +262,7 @@ eelkim.
 
 Vaenie {lidteratuvre}${conc,dt-tt|litteratuvre}
 {Åarjelh-saemien}${comp,lh-l;hyph-0|Åarjelsaemien} {gielesne}¢{vowc,i-ï|gïelesne} {gååvnese}¥{}. Goh
-manne noere ij lij gænnah {Bijbele}${conc,b-p|bijpele}. Akte båeries destie
+manne noere ij lij gænnah {Bijbele}${conc,b-p|Bijpele}. Akte båeries destie
 ume/pitesaemien {gielesne}¢{vowc,i-ï|gïelesne} gååvnesi. Mov {aehtj-aajja}${hyph-0|aehtjaajja} dam {buektehti}${vowc,e-ie|buektiehti} lohkedh
 jalhts {dihte}${vowc,i-ï|dïhte} joekehtadti {gieleste}¢{vowc,i-ï|gïeleste} maam
 {jijtje}${vowc,i-ï|jïjtje} soptsesti.
