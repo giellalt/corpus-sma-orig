@@ -174,7 +174,7 @@ tjearoeh jallh maanese ussjede.
 sjïdtedh jis datne sæjloes, naskoes, skabroeh jallh hujnesne. Dellie maahta
 geervebe maanese årrodh mielhkiem olkese
 {buektiehtiedh}${typos|buektiehtidh}. Vihkeles datne voejhkelh
-{liegkedidh}${vowc,ie-ïe|lïegkedidh} jïh {{misse-akt}${x,x|misseakt}}¥{redun|} murreds
+{liegkedidh}${vowc,ie-ïe|lïegkedidh} jïh {{misse-akt}${x,x|misseakt}}¥{redun|} {murreds}£{infl,adj,attr-pred|murrede}
 ussjedidh. {Jienebidie}${vowlat,e-ie|Jieniebidie} maahta viehkiehtidh njammam
 ånnetji knugkedh, jïh {njammavahterem}${vowc,a-aa|njammavaahterem}
 vååregelaakan soermi gaskem jårrehtidh {åvtelen}¢{adv|aarebi goh} maanam
@@ -236,7 +236,7 @@ mielhkiem ikth vielie baahkedh.
 Njaptja, {poehtele}${coninit,p-b|boehtele} jïh njammemesåmskoe
 Maana joekehtslaakan njammesne njamma, enn guktie njaptjam jïh
 {poehtelem}${coninit,p-b|boehtelem} njamma. Jïjnjh maanah eah buektehth
-gåabpagidie njammemevuekide, jïh maehtieh såmskoes sjïdtedh. Daah maanah
+gåabpagidie njammemevuekide, jïh maehtieh {såmskoes}£{infl,adj,attr-pred|såmskoen} sjïdtedh. Daah maanah
 maehtieh dåeriesmoerh åadtjodh radtjoeslaakan njammedh {jïs}${vowc,ï-i|jis}
 {liereme}${vowc,ie-ïe|lïereme} njaptjam jallh {poehtelem}${coninit,p-b|boehtelem} njammedh {åvtelen}¢{xxx|aarebi goh} lïereme tjiehpieslaakan
 njammedh. Dah eah {kanne}${vowc,a-aa|kaanne} sïjhth njammam naan aejkien
