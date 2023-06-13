@@ -127,12 +127,12 @@ njamma. Gosse {tjyøre}${vowc,øø-öö|tjyöre}, dellie
 {njealkoes}${adj,con|nealkoes} guhkiem orreme, jïh datne {byørh}${vowc,øø-öö|byörh} maanese njammam vedtedh åvtelen dïhte dan bårrestohtoe. Baajh
 maanam njammedh dan guhkiem sæjhta. Naemhtie njammide skreejrehth dan
 jïjnjem mielhkiejgujmie båetedh maam dov maana daarpesje. Dastegh maana
-varki nahkeste, maahtah maanam skreejrehtidh njammedh jis maanan gïeten-{låapoeh}${noun,x|gïetenlåapoeh} knugkh jallh juelkiej nuelesne, gaejpien
+varki nahkeste, maahtah maanam skreejrehtidh njammedh jis maanan {gïeten-låapoeh}${noun,x|gïetenlåapoeh} knugkh jallh juelkiej nuelesne, gaejpien
 nuelesne jallh {vueliegingsen}${vowc,øø-öö|vueliegïngsen} nuelesne. Baajh
 maanam nuekies {tijjem}${vowc,øø-öö|tïjjem} åadtjodh dejnie aktine njammine
 galhkedh åvtelen dom mubpiem faalah. Gosse maana jïjtje åådtje sjïehtesjidh
 man daamtaj jïh man guhkiem satne sæjhta njammedh, dellie ih gujht datne
-dååjrehth fer vaenie mielhkiem utnedh. Ietnienmielhkie lea geehpes
+dååjrehth fer vaenie mielhkiem utnedh. Ietnienmielhkie lea {geehpes}£{infl,adj,attr-pred|gyöhpehke}
 vejtiestidh, jïh varki tjåejjien tjïrrh jåhta. Akten våhkoen mænngan doh
 jeenjemes maanah {sïjhtieh}${verb,vow|sijhtieh} medtie 12 maalestahkh utnedh
 dygnesne. Mænngan sveekebe sæjhta.
@@ -174,7 +174,7 @@ tjearoeh jallh maanese ussjede.
 sjïdtedh jis datne sæjloes, naskoes, skabroeh jallh hujnesne. Dellie maahta
 geervebe maanese årrodh mielhkiem olkese
 {buektiehtiedh}${typos|buektiehtidh}. Vihkeles datne voejhkelh
-{liegkedidh}${vowc,ie-ïe|lïegkedidh} jïh {{misse-akt}${x,x|misseakt}¥0 murreds
+{liegkedidh}${vowc,ie-ïe|lïegkedidh} jïh {{misse-akt}${x,x|misseakt}}¥{redun|} murreds
 ussjedidh. {Jienebidie}${vowlat,e-ie|Jieniebidie} maahta viehkiehtidh njammam
 ånnetji knugkedh, jïh {njammavahterem}${vowc,a-aa|njammavaahterem}
 vååregelaakan soermi gaskem jårrehtidh {åvtelen}¢{adv|aarebi goh} maanam

@@ -36,7 +36,7 @@ saemiedigkieh {dej}£{case,gen-ine|dejnie} golme laantine {sjiekenassen}${vowc,i
 
 • {saemij}${fin,ij-iej|saemiej} reaktah laantese {jih}${vowc,i-ï|jïh} tjaatsan {goerkese {biejedh}${vowc,i-ï|bïejedh}}£{case,nom-ack|goerkesem bïejedh} {jih}${vowc,i-ï|jïh} nimhtie vuesiehtidh {samieh}${vowc,a-ae|saemieh} {dah {aalkoealmetjh}¢{w|aalkoeåålmegh}}£{infl,pl-sg|dïhte aalkoeåålmege} daej {sjiere}${vowc,i-ï|sjïere} laantine
 
-• vuesiehtidh guktie saemiej {sjiere}${vowc,i-ï|sjïere} maahtoeh {jih}${vowc,i-ï|jïh} {kultuvre-diejvesh}${hyph-0,vowc,i-ï|kultuvredïejvesh} {vihkeles}£{attr-pred|vihkele}, {jih}${vowc,i-ï|jïh} {pråvhkeme}¢{w|pråvhkoe} eatnemen maelmijste {lea}£{infl,sg-pl|leah} leahtah saemien kultuvreste
+• vuesiehtidh guktie saemiej {sjiere}${vowc,i-ï|sjïere} maahtoeh {jih}${vowc,i-ï|jïh} {kultuvre-diejvesh}${hyph-0,vowc,i-ï|kultuvredïejvesh} {vihkeles}£{infl,adjk,attr-pred|vihkelh}, {jih}${vowc,i-ï|jïh} {pråvhkeme}¢{w|pråvhkoe} eatnemen maelmijste {lea}£{infl,verb,sg-pl|leah} leahtah saemien kultuvreste
 
 • moenedh guktie saemiej nyjsenæjjaj vuekieh {jih}${vowc,i-ï|jïh} barkoeh maehtieh {ektievoetesne}¢{w|siebriedahkesne} bijjiebasse lutnjesovvedh, {juktie aaj nimhtie maehtieh buerebe vuesiehtæmman båetedh ovmese {åårganisasjovnine}${vowc,åå-o|organisasjovnine}}¥{wo|juktie aaj nimhtie maehtieh buerebe vuesiehtæmman ovmese organisasjovnine båetedh}
 
