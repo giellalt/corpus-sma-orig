@@ -213,10 +213,10 @@ guhkiem mielhkie båata.
 sjædta.
 
 Pumpadidh
-{Bøøremes}${vowc,øø-ööBööremes} jis datne {gåabpegh}¢{xxx|gåabpatjahkh} njammah
+{Bøøremes}${vowc,øø-öö|Bööremes} jis datne {gåabpegh}¢{xxx|gåabpatjahkh} njammah
 pumpedh seamma aejkien, dellie {tijjem}${vowc,i-ï|tïjjem} spåårh
 {jïh}¢{xxx|guktie} maahta vielie {mielhkiem}¢{infl,acc-nom|mielhkie} sjïdtedh.
-{Bissh}${vowc,i-ï|Bïssh} gïetide. {Skreejrehth}¢{verb|jestehth} njammam guktie
+{Bissh}${vowc,i-ï|Bïssh} gïetide. {Skreejrehth}¢{verb|Jestehth} njammam guktie
 {galkehtimmiereflekse}${noun,vow|galkehtimmierefleekse} aalka.
 
 Datne {byørh}${vowc,ø-ö|byörh} pumpadidh jallh gïetine buhtjedh 7-8 aejkieh
@@ -228,7 +228,7 @@ mænngan.
 Ietnienmielhkie, maam olkese buhtjeme, maahta {tjiehtjelebaahkesne}${vowc,øø-öö|tjïehtjelebaahkesne} årrodh mahte 8 tæjmoeh. Datne maahtah dam
 jueskiedahkesne {vøørhkedh}${vowc,øø-öö|vöörhkedh} 5 dygnh.
 {Gelmiedahkesne}${vowc,e-i;vowlat,ie-e|gilmehtahkesne} gusnie - 20
-{graaderh}${fin,erh-h|graadh}{maahta årrodh 6 askh}¥{wo|maahta 6 askh årrodh}
+{graaderh}${fin,erh-h|graadh} {maahta årrodh 6 askh}¥{wo|maahta 6 askh årrodh}
 Leamkoehtamme mielhkie maahta 1 dygnem jueskiedahkesne årrodh. Baahkedh
 mielhkiem tjaetsielaavkomisnie goske 37 {graaderh}${noun,x|graadh}. Aellieh
 mielhkiem ikth vielie baahkedh.
@@ -263,7 +263,7 @@ maana kåahpem {leejhkh}¢{verb|gupmehth}.
 jallh plearoeh
 
 • Baahkedh mielhkiem goske 37 {graaderh}${noun,x|graadh}, jïh dievhtesth
-kåahpem {ånnetji vielie}¢{adj|jienebem goh} {enn}¥{}
+kåahpem {ånnetji vielie}¢{adj|jienebem goh} {enn}¥{redun|}
 {bieliedieves}${vowc,ie-ïe|bieliedïeves}
 
 • Gurkh vååregelaakan goske mielhkie jallan maanan njoektjemen sontere
@@ -356,9 +356,9 @@ edtjh goerehtidh mij lea, jïh guktie edtjh dam båehtjierdidh.
 Jahtseldahke
 Gosse mielhkie riktilaakan båata naan biejjiej mænngan, dellie jïjnjh
 nyjsenæjjah dååjrehtieh njammah garres {sjïdtieh}${verb,vow|sjidtieh} jïh
-baektjiedieh. {Bøøremes}${vowc,øø-ööBööremes} baajedh maanam daamtaj njammedh
+baektjiedieh. {Bøøremes}${vowc,øø-öö|Bööremes} baajedh maanam daamtaj njammedh
 ollh jahtseldahkem åadtjoeh. Maana maahta njammedh dan daamtaj jïh
-{jijnjem}${vowc,øø-ööjïjnjem} satne sæjhta. Jis dåeriesmoerh saejrine, maana
+{jijnjem}${vowc,øø-öö|jïjnjem} satne sæjhta. Jis dåeriesmoerh saejrine, maana
 ij daarpesjh njammedh ajve murredsvoeten åvteste, jïh datne {byørh}${vowc,øø-öö|byörh} {pryøvedh}${vowc,øø-öö|pryövedh} goerehtidh mannasinie saejrine
 sjïdth. Ånnetji mænngan dellie njammah {sïjhtieh}${verb,x|sijhtieh} dan
 jïjnjem mielhkine båetedh mij maana daarpesje.
@@ -367,7 +367,7 @@ Domhpes mielhkieåerieh
 Gosse akte sijjie njammeste ij doemenh, maahta domtedh goh akte sååjrehke
 jïh bankes sijjie. Datne maahtah aaj ånnetji gåalodh jïh vaejliem åadtjodh,
 bene ajve ståantetjem. Dellie tjoerh daam sijjiem {døømedh}${vowc,øø-öö|döömedh} fïerhten mubpien tæjmoen biejjege jïh {gøøkth}${num,ascii|göökth}
-{jijjen}${vowc,øø-öö|jïjjen}. {Bøøremes}${vowc,øø-ööBööremes} jis maana njamma,
+{jijjen}${vowc,øø-öö|jïjjen}. {Bøøremes}${vowc,øø-öö|Bööremes} jis maana njamma,
 bene datne maahtah aaj gïetine buhtjedh jallh njammemepumpam nuhtjedh.
 Viehkehth guktie aalka galkedh goh aarebi buerkiestamme. Gosse njammehte
 jallh pumpam nuhtjh, knugkh voestegh njammam vååregelaakan. Dam darjoeh
@@ -404,7 +404,7 @@ Vijsies ohtje {mielhkiepryøvem}${vowc,øø-öö|mielhkiepryövem}
 
 Naemhtie {mielhkiepryøvem}${noun,mix|mielhkiepryövoem} vaaltah:
 
-• {Bissh}${vowc,øø-öö|Bïssh} gïetide jïh njammam voestegh
+• {Bissh}${vowc|Bïssh} gïetide jïh njammam voestegh
 
 • Skreejrehth guktie mielhkie aalka galkedh
 
@@ -493,7 +493,7 @@ viehkiehtidh, maahtah akten {jeatjabasse}¢{xxx|jeatjah} {læstosne}¢{infl,ine-
 gaavnh mijjen nedtesæjrosne {www.ammehjelpen.no}∞{url} jïh tjaaleginie mah
 reakadimmiesijjine åadtjoeh.
 
-Jis {datne}¥{} sïjhth {{lihtsegelohkem}${vowc,i-ï;fin,lohkem-0|lïhtsege}}¢{infl,acc-ess,agr|lïhtseginie} sjïdtedh, gaskesadth mijjen
+Jis {datne}¥{redun|} sïjhth {{lihtsegelohkem}${vowc,i-ï;fin,lohkem-0|lïhtsege}}¢{infl,acc-ess,agr|lïhtseginie} sjïdtedh, gaskesadth mijjen
 {tjaelijesijjem}${noun,vow|tjaelijesijjiem} {tellefovnesne}${conc,ll-l|telefovnesne}: 62 45 52 51 jallh e-påaste
 {ammehjelpen@ammehjelpen.no}∞{url}, dle vielie bïevnesh åadtjoeh.
 

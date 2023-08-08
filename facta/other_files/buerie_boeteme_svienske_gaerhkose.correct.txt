@@ -18,7 +18,7 @@ Faamoem åadtjoejibie gosse rohkelibie, aejlies maalestahkem åadtjoejibie {jïh
 Jesuse abpe sov {jieliemisnie}£{case,ine-acc|jielemem} almetjidie ööhpehti. {Vierteds}${xxx|viertiedassem} soptsesti jïh almetjigujmie soptsestalli, {mejtie}£{infl,placc-plcom|mejgujmie} gaavnedi, sïjhti Jupmelen gieriesvoetem vuesiehtidh. Dejtie learoehkidie stilli båvroem juhtiehtidh {jïh nemhtie mijjen biejjine aaj}¥{wo|jïh nimhtie lea daajbaaletje aaj}. {Gosse daan biejjien ööhpehtimmiem  ussjedibie}¥{wo|Gosse ussjedibie ööhpehtimmien bïjre} {eeremes}¥{redun,eeremes-0|} {dejtie skyllijemaanide}£{case,acc-gen|dej skyllijemaanaj bïjre} ussjedibie. Badth gosse naemhtie almetjigujmie gaavnedibie {mij akt}¥{cmp,2-1|mijakt} orre, {sinsitniem jïh {jïjtsen}${infl,fin,en-e|jïjtse} bïjre}£{infl,sgacc-sggen|sinsitninen jïh jïjtse bïjre} lïerebe. Nemhtie maehtebe goerkesidh {mij}¥{redun,mij-0|} {dïhte}€{pron-adv|guktie} almetjinie årrodh.
 
 {Dijakonije}${vowc,ij-i|Diakonije}
-{Dijakonije}${vowc,ij-i|Diakonije} lea gærhkoen {sosijale}${vowlat,a-aa|sosijaale} barkoe. Desnie meatan årrodh, earoem vuesiehtidh jïh dåajmijeslaakan sinsitnide årrodh gosse almetjh {gaavnede}${infl,3sg-3pl|gaavnedieh} mah {mådtanlaaketje}${cmp,n-ege|mådtegelaaketje} jielemetsiehkine. Daan maadtoe lea Jupmelen gieriesvoete, {mij}£{infl,sgnom-sgacc|maam} {mijjide}£{infl,placc-plnom|mijjieh} almetjinie Jesus Kristusinie gaavnebe.
+{Dijakonije}${vowc,ij-i|Diakonije} lea gærhkoen {sosijale}${vowlat,a-aa|sosijaale} barkoe. Desnie meatan årrodh, earoem vuesiehtidh jïh dåajmijeslaakan sinsitnide årrodh gosse almetjh {gaavnede}${infl,3sg-3pl|gaavnedieh} mah {mådtanlaaketje}${cmp,n-ege|mådtegelaaketje} jielemetsiehkine. Daan maadtoe lea Jupmelen gieriesvoete, {mij}£{infl,pron,sgnom-sgacc|maam} {mijjide}£{infl,placc-plnom|mijjieh} almetjinie Jesus Kristusinie gaavnebe.
 
 {Missjovne}${conc,ss-s|Misjovne}
 {Missjovnem}${conc,ss-s|Misjovnem} guarkebe goh ”seedteme” jïh båvroem buerkeste maam learohkh åadtjoejin gosse sijjen jaahkoem jeatjabidie vïhnesjidh. Daan biejjien gærhkoe meatan dennie seedtemisnie gosse almetjigujmie gaavnede dovne lïhkesbyjreskisnie jïh mijjen laanten {raasti}${fin,sti-stegi|raastegi} ålkolen.
@@ -310,7 +310,7 @@ Skylleme lea {faalaldahke}${vowlat,a-e|faaleldahke} dutnjien gie jieliemasse hee
 
 Dah gyhtjelassh jaahkoen bïjre, gie dïhte Jesuse jïh maam {bijbielisnie}${conc,b-p|bijpielisnie} tjaaleme. Aaj {maadtoe-laaketje}${hyph-0|maadtoelaaketje} gyhtjelassh almetji bïjre, mij reaktoe jïh mij ij reaktoe, voelpi, gieriesvoeten, dååhkerdimmien bïjre jïh jielemen {åssjelmesh}${vowlat,e-a;vowc,0-o;conc,m-mm|åssjalommesh }. Gyhtjelassh mah gaajhkh almetjh tjuerieh vaestiedidh dannasinie ij leah guhte oktegimsie jeala.
 
-{Skyllemetijje}${vowc,i-ï|Skyllemetïjje} orrije {skylleme-gyrhkesjimmine}${hyph-0|skyllemegyrhkesjimmine}. Skylleme dov laavkomem {nænnoeste}${vowlat,oe-o|nænnoste}. Jupmelen tjelmine gaajhkesh seamma {vyörtegs}£{infl,sgnom-sgine|vyörhtegisnie}. Skylleme sæjhta dam dutnjien nænnoestidh.
+{Skyllemetijje}${vowc,i-ï|Skyllemetïjje} orrije {skylleme-gyrhkesjimmine}${hyph-0|skyllemegyrhkesjimmine}. Skylleme dov laavkomem {nænnoeste}${vowlat,oe-o|nænnoste}. Jupmelen tjelmine gaajhkesh seamma {vyörtegs}£{infl,adj,attr-sgine|vyörhtegisnie}. Skylleme sæjhta dam dutnjien nænnoestidh.
 
 Skyllemejerkie saemide
 
