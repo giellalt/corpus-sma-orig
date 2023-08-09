@@ -1,5 +1,5 @@
 Saemien sijjienommh
-{Saemien sijjienommh båata}£{infl, sg3prs-pl3prs|Saemien sijjienomh
+{Saemien sijjienommh båata}£{infl,sg3prs-pl3prs|Saemien sijjienomh
 båetieh} saemiej {jielemistie}${vowlat,e-ie|jieliemistie}, vijremistie,
 {gøølemistie}${vowc,øø-öö|göölemistie} {jih}${vowc,i-ï|jïh}
 {båatsoejste}${vowlat,oe-o|båatsojste}.
@@ -19,8 +19,7 @@ Finnmarkesne dle dah saemien nommh daaroen nommi gujmie {låtnesovvi}${vowc,å-
 o|lotnesovvi}.  Daate lij {politigken}${conc,gk-hk|politihken}
 {vihkelelommes}${vowlat,e-ie|vihkielommes} vierhtie faamoem dajvesne
 åadtjodh, Kaisa Rautio Helander Saemien jolleskuvlesne jeahta. Kaisa Rautio
-Helander lea {saemien-nommide}${hyph-0|saemiennommide} dotkijamme {jih}${vowc,i-
-ï|jïh} {dåaktoregraadem}${vowlat,o-e|dåakteregraadem} {aamhtsesne}${fin,sesne-
+Helander lea {saemien-nommide}${hyph-0|saemiennommide} dotkijamme {jih}${vowc,i-ï|jïh} {dåaktoregraadem}${vowlat,o-e|dåakteregraadem} {aamhtsesne}${fin,sesne-
 esisnie|aamhtesisnie} åtna.
 {http://www.forskning.no/artikler/2008/juni/187309}∞{url}
 
@@ -33,7 +32,7 @@ esisnie|aamhtesisnie} åtna.
 {jih}${vowc,i-ï|jïh} politihkerh. {Nyøjhkin}${vowc,yø-yö|Nyöjhkin} saemiestidh.
 Daate saemien {øøvtiedimmiem}${vowc,øø-ö|övtiedimmiem} skilki {jih}${vowc,i-
 ï|jïh} aaj saemiej {domtenasside}${fin,nasside-sidie|domtesidie}. Stoerre
-dajvine dam {saemien-gielem}${hyph-0;vowc,i-ï|saemiengïelem} skilkin, joekoen
+dajvine dam {saemien-gielem}${hyph-0,vowc,i-ï|saemiengïelem} skilkin, joekoen
 dennie {{kystegaedtesne}€{foreign|saelhtiegaedtiebealesne}. Saemien
 sijjienommh {daaroengielese}¢{vowc,i-ï|daaroengïelese} jarkoestin jallh
 {urresth}${vowc,u-o|orresth} {nommi gujmie}¥{cmp,2-1|nommigujmie}
@@ -52,11 +51,11 @@ st|jorkestovvi. Mænngan} sijjienommelaake jaepien 1990 {bøøti}${vowc,i-
 bæjhkoehtidh{http://www.forskning.no/artikler/2008/juni/187309}∞{url}
 
 {Dihte}${vowc,i-ï|Dïhte} sijjienomme Hjemmeluft {Altasne}${prop,suf|Altesne} ij
-utnieh maam gåetine darjodh, {mohtebaåta}${cmp,1-2|mohte båata} dehtie
+utnieh maam gåetine darjodh, mohte båata dehtie
 Jiemmaluohteste. Jiemma lea nåervieaarhte {jih}${vowc,i-ï|jïh} luofta lea
 {luokte}${vowc,uo-oe|loekte}. {Jijnjh}${vowc,i-ï|Jïjnjh} dagkeres
 {vuesehtimmieh}${vowlat,e-ie|vuesiehtimmieh} {gååvnese}£{infl,verb,sg3prs-
-pl3prs|gååvnesieh}. (Magga, Ole Henrik.2001.Sàpmi.
+pl3prs|gååvnesieh}. (Magga, Ole Henrik. 2001. Sàpmi.
 {http://www.hundrearsmarkeringen.no/pdf/impulser_068-073.pdf}∞{url}
 
 Dah  mah sijhtieh vielie saemiej sijjienommi {bijre}${vowc,i-ï|bïjre}
