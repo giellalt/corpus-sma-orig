@@ -70,11 +70,10 @@ Dovne byjjes {jih}${cc,ascii|jïh} {siejhmes}${adj,mix|sïejhme} suerkesne
 tjuerieh barkoevedtijh {diedtem}${noun,ascii|dïedtem} seamma
 {viertegs}${adj,vowc|vyörtegs} baalhkah vaeltieh. Mijjieh
 {sijhtebe}${verb,ascii|sïjhtebe} vuejnedh
-{buarastehtetimmiem}${verb,mix|buarastehtemem} {staaten, faagesiebrieh
-{jih}${cc,ascii|jïh} barkoevedtijh gaskem}£{x,noun,genpl,nompl,x|staaten,
-faagesiebriej jïh barkoevedtiji gaskem} juktie destie baalhkajoekehts
-nyjsenæjjide {jih}${cc,ascii|jïh} almide vaeltedh {dan båetije
-veeljemeboelhkesne}£{noun,x,illsg,innsg,x|dan båetije veeljemeboelhkese}.
+{buarastehtetimmiem}${verb,mix|buarastehtemem} staaten, faagesiebrieh
+{jih}${cc,ascii|jïh} {barkoevedtijh}£{x,noun,genpl,nompl,x|barkoevedtiji} gaskem juktie destie baalhkajoekehts
+nyjsenæjjide {jih}${cc,ascii|jïh} almide vaeltedh dan båetije
+{veeljemeboelhkesne}£{noun,x,illsg,innsg,x|veeljemeboelhkese}.
 Staaten åejvieh {gieh}${x,ascii|gïeh} eah dam seamma baalhka
 {prinsibpen}${noun,con|prinsihpen} dåajvoehtidh, eah orre tjarkanimmiem
 åadtjoeh.
@@ -233,13 +232,11 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 {fiereguhtese}${indef,ascii|fïereguhtese} gåalmehts
 {gorreldidh}${verb,con|gorredidh}. Gåabpegh maehtiejægan askem maanine
 gåetesne seamma aejkien årrodh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
-jeatjah goh {{dihte}${dem,ascii|dïhte} gie maanan
-syjhtedh}£{noun,x,acksg,gensg,x|dïhte gie maanam syjhtedh}
-{maahta {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} åådtje}£{verb,x,x,x,x|maahtah eejhteghmaaksoem åadtjodh}. Eejtegh edtjijægan
+jeatjah goh {dihte}${dem,ascii|dïhte} gie {maanan}£{noun,x,accsg,gensg,x|maanam} syjhtedh
+{maahta}£{verb,x,x,x,x|maahtah} {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}£{verb,x,x,x,x|åadtjodh}. Eejtegh edtjijægan
 {loejehtsvoetem}${noun,mix|loejhtesvoetem} veeljedh
 {maanasåajhtoenhammoem}${noun,vowc|maanasåjhtoenhammoem}.
-{Siebredahken}${noun,vow|Siebriedahken} dåarjoe maanasåjhtose {edtja gaajhkh
-maanide båetedh}£{x,x,x,x,x|edtja gaajhkide maanide båetedh}.
+{Siebredahken}${noun,vow|Siebriedahken} dåarjoe maanasåjhtose edtja {gaajhkh}£{x,x,x,x,x|gaajhkide} maanide båetedh.
 
 19. Båarasåbpoej reaktah {nännostämman}${noun,ascii|nænnoestæmman}
 {jih}${cc,ascii|jïh} jearsoevoetese
@@ -255,14 +252,14 @@ jieniedidh {jih}${cc,ascii|jïh}
 {jeenjede}${adj,suf|jeenjebe} vierhtieh vedtedh.
 
 20. Reaktah årromesæjjan – maadtoe {jijtsefaamojde}${noun,mix|jïjtjefaamojde}
-{Gaajhkesh leah reakta årromesæjjan}£{x,x,x,x,x|Gaajhkesi leah reaktah
-årromesæjjan}. Goh dah gåetehts nuepie bååstede båetedh buerede
+{Gaajhkesh}£{x,x,x,x,x|Gaajhkesi} leah reaktah
+årromesæjjan. Goh dah gåetehts nuepie bååstede båetedh buerede
 {jieledasse}${noun,svow|jieliedasse} daarpesje jienebh årromesijjieh mah leah
 {sjiere}${adj,ascii|sjïere} almetjasse sjeahtadovvedh, dovne
 {öökonomijen}${noun,vowc|ekonomijen} {jih}${cc,ascii|jïh}
 {sosijalen}${adj,vow|sosijaalen} {perspektijvistie}${noun,suf|perspektijveste}.
 Orre {sosojalen}${adj,mix|sosijaalen} viermieh årromesijjiejgujmie lea
-{vihkeles}£{infl,attr-pred|vihkele}.
+{vihkeles}£{infl,adj,attr-pred|vihkele}.
 
 21. {Læjhkoeh}${verb,con|Læjkoeh} baeniesåjhtoem
 Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} orre {daamhtesh}${x,x|damtesh}
@@ -354,7 +351,7 @@ luhpie {alkohovlijstie}${noun,suf|alkohovlijste} laantese vaeltedh
 {jih}${cc,ascii|jïh} aaj ij edtjh luhpie dejtie
 {reklameredh}${verb,vow|reklameeredh}. {Systembolagen
 {alkohovlemovopovlem}${noun,con|alkohovlemonopovlem} edtja
-årrodh}£{noun,x,nomsg,acksg,x|Systembolagen alkohovlemonopovle edtja
+årrodh}£{noun,x,nomsg,accsg,x|Systembolagen alkohovlemonopovle edtja
 årrodh}. Ibie {sijhth}${verb,ascii|sïjhth} alkohovleskaehtiem vueliedidh.
 
 29. Kultuvre gaajhkide
@@ -405,7 +402,7 @@ leah dåajvoehtamme maahta {diedtem}${noun,ascii|dïedtem} destie
 {krievedh}${verb,ascii|krïevedh}, reaktine, jis eah dam åadtjoeh, maaksose.
 
 33. Ijje {EU’en}${acr,suf|EU:n} maadthlaakese
-Faamoe edtja dajveles hammoe {sjiehteles}£{infl,attr-pred|sjiehtele} guktie
+Faamoe edtja dajveles hammoe {sjiehteles}£{infl,adj,attr-pred|sjiehtele} guktie
 {nännoestimmieh}${noun,ascii|nænnoestimmieh} {lihkebe}${adj,ascii|lïhkebe}
 dejtie otnegidie. {Siebredahke}${noun,vow|Siebriedahke} tjuara nueleste
 bigkedh. Mijjieh dan åvteste vuastalieh maadthlaaken
