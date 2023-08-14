@@ -562,9 +562,8 @@ NSR lea:
  {øøkonomijem}${vowc,øø-ö|økonomijem} vuejniehtidh
  ✓ joekehth {tjiehpiji}${fin, i-iej|tjiehpiej} siebriej barkosne meatan
  orreme, dej jaepietjåahkosne meatan
- ✓ {{Tjiehpijepolitigke}${conc,gk-hk|Tjiehpijepolitihke}
- tjaelemebarkoem}£{noun,x,gensg,nomsg,x|Tjiehpijepolitihken
- tjaelemebarkoem} aatskadamme
+ ✓ {{Tjiehpijepolitigke}${conc,gk-hk|Tjiehpijepolitihke}}£{noun,x,gensg,nomsg,x|Tjiehpijepolitihken}
+ tjaelemebarkoem aatskadamme
  ✓ barkeme guktie Saemien Vaarjele sijjiem åådtje dennie orre
  dotkemeståaposne {Guovdageaidnu-sne}${hyph-0|Guovdageaidnusne}
  ✓ {lidteratuvrestipeendh}${conc,dt-tt|litteratuvrestipeendh} noeride
@@ -611,8 +610,7 @@ Seammavierhtege / Nyjsenæjjakampaanjh / Veeljeme
 
 NSR lea:
  ✓ eevtjemeseminaarem ”Saemiedigkesne nyjsenæjjafaamoe” tjïrrehtamme
- ✓ {dåarjoeøørnegh}${vowc,øø-öö|dåarjoeöörnegh} {{politigke}${conc,gk-
- hk|politihke}}£{infl,n,gensg-nomsg|politihken} partijide
+ ✓ {dåarjoeøørnegh}${vowc,øø-öö|dåarjoeöörnegh} {{politigke}${conc,gk-hk|politihke}}£{infl,n,gensg-nomsg|politihken} partijide
  tseegkeme, mah {vyøhkesieh}${vowc,ø-ö|vyöhkesieh} nyjsenæjjam
  veeljemelæstoen voestes sæjjan bïejedh
  ✓ {nyjsenæjjabrosjyrem}${noun,con|nyjsenæjjabrosjyrem} dorjeme mearan

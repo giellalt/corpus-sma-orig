@@ -119,7 +119,7 @@ Saemien aarhskuvlesne {jih}${vowc,i-ï|jïh} skuvlesne.
 
 Ööhpehtimmie uvtemes {saeminen-gieline}${hyph-0|saemiengïeline} aarhskuvlesne {jih}${cc,vowc,i-ï|jïh} skuvlesne, dellie maanan {gelliehgiertiejgielem}${noun,mix|gelliengiertiengïelem} {öövtede}${vowc,öö-ö|övtede} {jih}${vowc,i-ï|jïh} {veaksehkåbpoe}${vowc,e-a|veaksahkåbpoe} dorje –gellien aejkien dan {bijre}${vowc,i-ï|bïjre} daennie {onnetjaaleme-gärjesne}${vowc,aa-ae;hyph-0|onnetjaelemegærjesne} tjaaleme.
 
-Magkeres nuepieh skuvlesne {{gååvnese}£{infl,sg3prs-pl3prs|gååvnesieh}}£{verb|leah}, {saemien-gielem}${hyph-0|saemiengïelem} {lieredh}${verb,vowc,i-ï|lïeredh}?
+Magkeres nuepieh skuvlesne {{gååvnese}£{infl,sg3prs-pl3prs|gååvnesieh}}€{verb|leah}, {saemien-gielem}${hyph-0|saemiengïelem} {lieredh}${verb,vowc,i-ï|lïeredh}?
 
 Jaepeste 2000, Svöörjesne, dellie {saemiengiele}${noun,vowc,i-ï|saemiengïele} lea akte dejstie {vijhte}${num,vowc,i-ï|vïjhte} {naasjovni}${vowc,aa-a|nasjovni} {unnebelåhkoe-{gielijste}¢{vowc,i-ï|gïelijste}}¥{x,x|unnebelåhkoegïelijste}, {jih}${vowc,i-ï|jïh} {sjiere}${vowc,i-ï|sjïere} {gielelaake}${vowc,i-ï|gïelelaake} dåarjegen mietie lea. Noerhte Svöörjesne gellieh byjjes {gelliehgiertejgieli-tjielth}${hyph-0,vowc,i-ï|gelliengiertiengïelitjïelth}. maanah mah saemien unnebelåhkojste båetieh, reaktam utnieh (saemien {gielem}${vowc,i-ï;cmp,2-1|saemiengïelem} nuhtjedh dejnie aarhskuvledarjoemisnie.
 
