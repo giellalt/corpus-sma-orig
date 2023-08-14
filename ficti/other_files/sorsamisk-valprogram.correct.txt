@@ -146,7 +146,7 @@ Saemiedigkiepresideenth {NSR-ste}${acro,suf|NSR:ste} leah:
 Saemiedigkieveeljemasse 2005 lea {NSR-n}${acro,suf|NSR:n}
 {Rijhketjåahkoe}${vowc,i-ï|Rïjhketjåahkoe} Aili Keskitalom, Guovdageaidnu,
 presideentekandidaatine {veeljeme}€{verb|veeljesovveme}. Jis veeljesåvva,
-dellie dïhte voestes nyjsenæjja {mij}${gie} Saemiedigkien {{presideente}£{infl,n,sgnom-
+dellie dïhte voestes nyjsenæjja {mij}€{pron|gie} Saemiedigkien {{presideente}£{infl,n,sgnom-
 sgcom|presideentine}}¥{presideentine sjædta}.
 
 
@@ -163,8 +163,7 @@ domtoem jïjtsh saemienvoeten bïjre åadtjoeh, mij dellie jeahta båetije
 saemien {siebredahken}${vowc,ie-ea|seabradahken} dïejveldimmine orre jïh
 {gïeltijes}${adj,mix|gieltegs} saemien gïelh sjidtieh. NSR sæjhta jåerhkedh
 {aktøørine}${vowc,i-ï|aktöörine} meatan saemien
-{siebredahken}${vowc,ie-ea|seabradahken} {øøvtiedimmesne}${init,øø-
-ö|övtiedimmesne} jïh stoeremosth dejtie orre gïelide bertedh guktie dah
+{siebredahken}${vowc,ie-ea|seabradahken} {øøvtiedimmesne}${init,øø-ö|övtiedimmesne} jïh stoeremosth dejtie orre gïelide bertedh guktie dah
 {urresth}${adj,vowc|orresth} saemien {siebredahkese}${noun,vowc,ie-ea|seabradahkese}
 govlesuvvieh.
 
