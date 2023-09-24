@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://www.samediggi.se/44469'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Jonas Matteus Tomasson berättar om en tävling mellan Våajmoe och Jitneme'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
