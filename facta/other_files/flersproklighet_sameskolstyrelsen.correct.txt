@@ -2,7 +2,7 @@
 
 {Gielemaahtoeh}${vowc,i-ï|Gïelemaahtoeh} nuepiem {jijtje-veeljemasse}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjeveeljemasse} vedtieh.
 
-Dutnjien {jih}${vowc,i-ï|jïh} dov fualhkan mah {iedtjegem}${vowc,i-ï;fin,gem-em|ïedtjem} utnieh {{gelliehgiertiejgieli}${vowc,i-ï |gelliengiertiengïeli}}€{gelliengïelenvoeti} {bijre}${vowc,i-ï |bïjre}
+Dutnjien {jih}${vowc,i-ï|jïh} dov fualhkan mah {iedtjegem}${vowc,i-ï;fin,gem-em|ïedtjem} utnieh {{gelliehgiertiejgieli}${vowc,i-ï|gelliengiertiengïeli}}€{gelliengïelenvoeti} {bijre}${vowc,i-ï|bïjre}
 
 ({Saemie-eatnemisnie}${cmp,ie-ien;hyph-0|Saemieneatnamisnie}) {jijnjh}${vowc,i-ï|jïjnjh} maanah gååvnesieh mah {saemiegielem}${vowc,i-ï;cmp,case,nom-gen|saemiegïelem} gåetesne jallh ektievuekesne maehtieh govledh. {Kanne}${vowc,a-aa|Kaanne} maanaj eejhtegh {Saemie-eatnemisnie}${cmp,ie-ien;hyph-0|Saemieneatnamisnie} vyöseme. Naakene dejstie eejhtegijstie {saemiegielem}${vowc,i-ï;cmp,case,nom-gen|saemiegïelem} gåetesne {leireme}${typos|lïereme} {jih}${vowc,i-ï|jïh} dam mujhtieh, mohte naakene dejstie {gielem}${vowc,i-ï|gïelem} åajaldahteme.
 
@@ -29,7 +29,7 @@ Mannasinie göökte jallh {gelliehgiertiejgielh}${noun,mix|gelliengiertiengïelh
 
 {Jilliveareldisnie}${vowlat,i-ie|Jillievearaldisnie} guhkiem dej {gelliehgiertiejgieli}${noun,mix|gelliengiertiengïeli} {bijre}${vowc,i-ï|bïjre} ussjedamme dah mah dan {sjiere}${vowc,i-ï|sjïere} leah, mennie {akten {gielen}${vowc,i-ï|gïelen} voeten}¥{x,x|aktengïelenvoeten} {riektes}${vowc,i-ï|rïektes} lea, mennie daelie gosse vijriebasse vuejnebe {jienebijstie}${adj,svow|jieniebijstie} maanijste vååjnoes {jijnjebi}${vowc,i-ï|jïjnjebi} {gieligujmie}${vowc,i-ï|gïeligujmie} veasodh, ij leah barre aktine {gieline}¢{vowc,i-ï|gïeline}. Daelie buerebe vååjnoes guktie dah {gelliehgiertij-gielh}${hyph-0|gelliengiertiengïelh} {dah minngemes jaepieh}£{infl,plnom-plgen,kongr|dej minngemes jaepiej} bööremes {sjidteme}${vowc,i-ï|sjïdteme} daennie mijjen {eatnemisnie}${vowlat,e-a|eatnamisnie}. Daelie Svöörjesne {bijre}€{xx|medtie} {tjuetietovseni fuelhkieh mah sijhtieh {gelliehgiertiej}${x,mix|gelliengiertien} {gieli}${vowc,i-ï|gïeli} jielemen, sijjen maanide vedtedh}£{noun,x,accsg,gensg,x|tjuetietovseni fuelhkieh mah sijhtieh gelliengiertien gïeli jïelemem, sijjen maanide vedtedh}.=> forstår ikke avsnittet)))
 
-Dah {gieh}${vowc},i-ï|gïeh) {gelliehgielh}§{mix,mix|gellieh gïelh} maehtieh {jih}${cc,vowc,i-ï|jïh} jeatjebi kultuvri {bijre}${pp,vowc,i-ï|bïjre} daejrieh, nuepie maanese {sjädta}${verb,vowc,i-ï|sjædta} dej ovmessie almetjigujmie åehpies {sjidtedh}${verb,vowc,i-ï|sjïdtedh},
+Dah {gelliehgielh}${mix,mix|gellieh gïelh} maehtieh {jih}${cc,vowc,i-ï|jïh} jeatjebi kultuvri {bijre}${pp,vowc,i-ï|bïjre} daejrieh, nuepie maanese {sjädta}${verb,vowc,i-ï|sjædta} dej ovmessie almetjigujmie åehpies {sjidtedh}${verb,vowc,i-ï|sjïdtedh},
 {dihte}${dem,vowc,i-ï|dïhte} buerebe {ean}¢{typos|enn} barre aktine {gieline}¢{vowc,i-ï|}. {Dah mah {gelliehgiertiejgieline}${noun,mix|gelliengiertiengïeline} jielieh}¥{wo|Dah, gïej leah gellie gïelh}
 dah dan {iedtjege}${vowc,ie-ea;fin,ege-ohke|eadtjohke} sijhtieh jienebh {gieli}${vowc,i-ï|gïeli}, kultuvri {jih}${vowc,i-ï|jïh} dej {åssjalommessi}${noun,con|åssjalommesi} {bijre}${vowc,i-ï|bïjre} daejredh, {destie buerebe {gierteme}${vowc,i-ï|gïerteme} {byresasside}${noun,mix|byjresidie} sjidtieh}£{verb,x,sg3prs,pl3prs,tense|destie buerebe gïerteme byjresidie sjædta}.
 
