@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/layout/set/print/Healsoe-jih-sosijaale/Maanavaarjelimmie'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/barnevern-helse-og-sosial/barnevern/?sprak=14'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Maanavaarjelimmie - Saemiedigkie'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -86,7 +86,7 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="''"/>
     <xsl:variable name="translator_ln" select="''"/>
@@ -124,6 +124,14 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'sma'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off
@@ -141,7 +149,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="sme"/><language xml:lang="eng"/><language xml:lang="nob"/><language xml:lang="sma"/></xsl:variable>
+    <language xml:lang="sma"/><language xml:lang="eng"/><language xml:lang="sme"/><language xml:lang="nob"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file

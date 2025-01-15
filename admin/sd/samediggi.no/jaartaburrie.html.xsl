@@ -124,6 +124,14 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'sma'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off
@@ -168,7 +176,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="jordbruk_0_.html"/>
+        <parallel_text xml:lang="nob" location="jordbruk.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location="eanadoallu_.html"/>
