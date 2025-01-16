@@ -71,9 +71,9 @@ tjuerieh barkoevedtijh {diedtem}${noun,ascii|dïedtem} seamma
 {viertegs}${adj,vowc|vyörtegs} baalhkah vaeltieh. Mijjieh
 {sijhtebe}${verb,ascii|sïjhtebe} vuejnedh
 {buarastehtetimmiem}${verb,mix|buarastehtemem} staaten, faagesiebrieh
-{jih}${cc,ascii|jïh} {barkoevedtijh}£{infl,noun,genpl,nompl,x|barkoevedtiji} gaskem juktie destie baalhkajoekehts
+{jih}${cc,ascii|jïh} {barkoevedtijh}£{gen-before-post,infl,noun,plnom-plgen|barkoevedtiji} gaskem juktie destie baalhkajoekehts
 nyjsenæjjide {jih}${cc,ascii|jïh} almide vaeltedh dan båetije
-{veeljemeboelhkesne}£{infl,noun,x,illsg,inesg,x|veeljemeboelhkese}.
+{veeljemeboelhkesne}£{valency,infl,noun,sgine-sgill|veeljemeboelhkese}.
 Staaten åejvieh {gieh}${x,ascii|gïeh} eah dam seamma baalhka
 {prinsibpen}${noun,con|prinsihpen} dåajvoehtidh, eah orre tjarkanimmiem
 åadtjoeh.
@@ -189,8 +189,7 @@ Luvliejaevrien {bijre}${pp,ascii|bïjre} guktie buerebe sjædta.
 {Almetjij}${noun,suf|Almetji} darjomh edtja eatnemem krööhkestidh guktie
 {dihte}${dem,ascii|dïhte} gellienlaaketje {eatnemisnie}${noun,svow|eatnamisnie}
 vaarjelidh {jih}${cc,ascii|jïh} evtiedidh. Sveerjesne edtjieh gohkeldahkesne
-jielijemaadtoeh {dejstie njielje stoerre vaejsjieh
-årrodh}£{noun,x,elapl,nompl,x|dejstie njielje stoerre vaejsjijste årrodh};
+jielijemaadtoeh dejstie njielje stoerre {vaejsjieh}£{numphrase,noun,plnom-plela|vaejsjijste} årrodh;
 {siejpe}${noun,ascii|sïejpe}, råate, {bierne}${noun,ascii|bïerne}
 {jih}${cc,ascii|jïh} gierhkie. {Ientjh}${noun,ascii|Ïentjh} gusnie lea
 {jijnjh}${indef,ascii|jïjnjh} sjædtoeh edtja vaarjelidh. Gaedtievaarjelimmie
@@ -232,11 +231,11 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 {fiereguhtese}${indef,ascii|fïereguhtese} gåalmehts
 {gorreldidh}${verb,con|gorredidh}. Gåabpegh maehtiejægan askem maanine
 gåetesne seamma aejkien årrodh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
-jeatjah goh {dihte}${dem,ascii|dïhte} gie {maanan}£{infl,noun,x,accsg,gensg,x|maanam} syjhtedh
-{maahta}£{infl,verb,sg3-inf|maahtah} {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}£{infl,verb,sg3-inf|åadtjodh}. Eejtegh edtjijægan
+jeatjah goh {dihte}${dem,ascii|dïhte} gie {maanan}£{infl,noun,sggen-sgacc|maanam} syjhtedh
+maahta {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}£{inf-after-aux,infl,verb,prssg3-inf|åadtjodh}. Eejtegh edtjijægan
 {loejehtsvoetem}${noun,mix|loejhtesvoetem} veeljedh
 {maanasåajhtoenhammoem}${noun,vowc|maanasåjhtoenhammoem}.
-{Siebredahken}${noun,vow|Siebriedahken} dåarjoe maanasåjhtose edtja {gaajhkh}£{congr,pron,nom-ill|gaajhkide} maanide båetedh.
+{Siebredahken}${noun,vow|Seabradahken} dåarjoe maanasåjhtose edtja {gaajhkh}£{congr,pron,plnom-plill|gaajhkide} maanide båetedh.
 
 19. Båarasåbpoej reaktah {nännostämman}${noun,ascii|nænnoestæmman}
 {jih}${cc,ascii|jïh} jearsoevoetese
@@ -272,7 +271,7 @@ giejtie dam daarpesjidh {jih}${cc,ascii|jïh} buerebe baeniehealsoem.
 jieniedidh.
 
 22. Heaptojde
-Ovjaksoe lea neerrehtimmie – almetjh heaptoejgujmie {edtja}£{verb,x,pl3prs,sg3prs,x|edtjieh} nuepieh
+Ovjaksoe lea neerrehtimmie – almetjh heaptoejgujmie {edtja}£{subj-verb-kongr,verb,prssg3-prspl3|edtjieh} nuepieh
 utnedh meatan årrodh ellies {vyøhkesadtememem}${x,mix|vyöhkesjadtemem}.
 
 23. Tjirkh {gæamhpoem}${noun,vow|gæmhpoem}
@@ -349,7 +348,7 @@ Edtja {viht}${x,con|vihth} låhkoem årrodh man {jijnjh}${indef,ascii|jïjnjh} l
 luhpie {alkohovlijstie}${noun,suf|alkohovlijste} laantese vaeltedh
 {jih}${cc,ascii|jïh} aaj ij edtjh luhpie dejtie
 {reklameredh}${verb,vow|reklameeredh}. Systembolagen
-{{alkohovlemovopovlem}${noun,con|alkohovlemonopovlem}}£{noun,x,nomsg,accsg,x|alkohovlemonopovle} edtja
+{{alkohovlemovopovlem}${noun,con|alkohovlemonopovlem}}£{obj-subj,noun,sgacc-sgnom|alkohovlemonopovle} edtja
 årrodh. Ibie {sijhth}${verb,ascii|sïjhth} alkohovleskaehtiem vueliedidh.
 
 29. Kultuvre gaajhkide
