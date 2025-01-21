@@ -112,7 +112,7 @@ gaajhkijste jieliemijstie jïh jeatjah tjïertijste, jïh Saemiedigkien tjïrrh
 saemiej ektiebuerien gaavhtan barkedh. Tseegkemen mænngan, jaepien 1968,
 lea NSR gaajhkide saemide nuepine orreme jïjtsh gïelem buektedh
 {Nøørjen}${vowc,øø-öö|Nöörjen} jïh gaskelaanti
-{{siebredahkesne}${noun,vowc,ie-ea|seabradahkesne}}£{infl,n,sgela-plill|seabradahkide}. NSR lea 40 jaepiej raajan tjïelke saemien gïeline
+{{siebredahkesne}${noun,vowc,ie-ea|seabradahkesne}}£{infl,noun,sgine-plill|seabradahkide}. NSR lea 40 jaepiej raajan tjïelke saemien gïeline
 saemien {siebredahken}${vowc,ie-ea|seabradahken} jïh kultuvren tseegkemisnie
 jïh {øøvtiedimmesne}${vowc,øø-ö|övtiedimmesne} meatan orreme, jïh NSR sæjhta
 dovne båetije jaepine {jïjtjereerehke}${vowc,ee-åå|jïjtjeråårehke} saemien
@@ -146,8 +146,8 @@ Saemiedigkiepresideenth {NSR-ste}${acro,suf|NSR:ste} leah:
 Saemiedigkieveeljemasse 2005 lea {NSR-n}${acro,suf|NSR:n}
 {Rijhketjåahkoe}${vowc,i-ï|Rïjhketjåahkoe} Aili Keskitalom, Guovdageaidnu,
 presideentekandidaatine {veeljeme}€{verb|veeljesovveme}. Jis veeljesåvva,
-dellie dïhte voestes nyjsenæjja {mij}€{pron|gie} Saemiedigkien {{presideente}£{infl,n,sgnom-
-sgcom|presideentine}}¥{presideentine sjædta}.
+dellie dïhte voestes nyjsenæjja {mij}€{pron|gie} Saemiedigkien {{presideente}${presidente}}£{infl,noun,sgnom-
+sgcom|presidentine} sjædta.
 
 
 {Urresth}${init,U-O|Orresth} Saepmie
@@ -156,9 +156,8 @@ Saemien {siebredahken}${noun,vowc,ie-ea|seabradahken} tseegkemisnie ij lij
 gaajhkide saemientjïertide seamma nuepie jïjtsh aamhtesh buektedh, jïh
 aamhtesinie saemiej bïjre ij lij nuekies saemien jïjtjereereme. Daaletje
 saemien {siebredahkesne}${noun,vowc,ie-ea|seabradahkesne}
-{{politigke}${conc,gk-hk|politihke} jïh {kultuvre}€{w|kulturelle}
-{urriemdimmiem}${noun,mix|orrestimmiem}}£{noun,x,gensg,nomsg,x|politihken jïh
-kulturelle orrestimmiem} daarpesje. Daelie {{jienebh jienebh}¢{cmp,2-1|jienebh-jienebh}}£{infl,comp-pos|jieneh-jienebe} saemieh tjerkebe
+{politigke}${conc,gk-hk|politihke} jïh {kultuvre}€{w|kulturelle}
+{urriemdimmiem}${noun,mix|orrestimmiem} daarpesje. Daelie {jienebh jienebh}¥{cmp,2-1|jieneh-jienebe} saemieh tjerkebe
 domtoem jïjtsh saemienvoeten bïjre åadtjoeh, mij dellie jeahta båetije
 saemien {siebredahken}${vowc,ie-ea|seabradahken} dïejveldimmine orre jïh
 {gïeltijes}${adj,mix|gieltegs} saemien gïelh sjidtieh. NSR sæjhta jåerhkedh
@@ -274,7 +273,7 @@ dovletje, daaletje jïh båetije aejkide reeredh.
 Tjåenghkies almetjh
 
 Saemieh leah aktesne orreme staati raasten jïh boelvejoekehtsi namhtah. NSR
-åtna {vihkeles}£{infl,adj,attr-pred|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
+åtna {vihkeles}£{infl,adj,attr-sgnom|vihkele} aerpie dïhte jïh sæjhta nimhtie galka båetije aejkine dovne.
 Dierie boelvi gaskem jïh laanteraasti dåaresth lea hijven maehtedh vuekieh
 biejverdidh jïh saemien gellienlaaketjevoetem tjirkedh. NSR sæjhta tjerkebe
 ektiebarkoem laanteraasti {raastah}${pp,vowc|rastah}, dellie aaj nænnobe
@@ -304,15 +303,13 @@ saemiekonvensjovnine.
 {Loejhtsvoete}${noun,vow|Loejhtesvoete}, seammavierhtege jïh ektievoete
 
 Solidariteete lea {NSR-se}${acro,suf|NSR:se} daerpies lahtese. {Sosijaale}£{infl,adj,attr-adv|Sosijaalelaakan}
-domtoe, {{politigke}${noun,con|politihke}
-dåarjoeh}£{noun,x,gensg,nomsg,x|politihken dåarjoeh} jïh ïedtjeles barkoeh
-viesjies tjïertide, leah dagkerh vierhtegh gustie NSR lea tseegkesovveme.
+domtoe, {{politigke}${noun,con|politihke}}£{noun,sggen-sgnom|politihken} dåarjoeh jïh ïedtjeles barkoeh viesjies tjïertide, leah dagkerh vierhtegh gustie NSR lea tseegkesovveme.
 {Byøroe}${vowc,i-ï|Byöroe} barkedh {rihpestjelmien}${vowc,i-ï|rïhpestjelmien}
 jïh ektiebïejeme {siebredahken}${vowc,ie-ea|seabradahken} åvteste, vuesehten
 gaavhtan guktie dej {homofili}${noun,conc|homofijli} vuestie. Båetije aejkine
 dovne NSR sæjhta sosijaale, {etnigke}${adj,con|etniske} jïh
 {{politigke}${noun,con|politihke}
-neerrehtimmiem}£{noun,x,gensg,nomsg,x|politihken neerrehtimmiem} vuastalidh
+neerrehtimmiem vuastalidh
 jïh nyjsenæjjan {garmanæjjan}${noun,vowc|gaarmanæjjan} gaskem, dovne
 vierhtegebarkosne jïh stinkes vierhkievierhtiejgujmie. Dam buektiehtidh
 jaksedh, dellie daerpies jienebh maahtoeh jïh jienebh vierhkievierhtieh.
@@ -418,9 +415,7 @@ NSR lea:
  ✓ saemien gïelejarngi jïh Saemiedigkien gaskem viermienektiebarkose
  eevtjeme
  ✓ aatskadamme saemien staeriedimmieprogrammem
- {{elektronigke}${noun,con|elektronihke} {daatagietedallemese}${init,i-
- ï|daatagïetedallemasse}}£{noun,x,gensg,nomsg,x|elektronihken
- daatagïetedallemasse}
+ {elektronigke}${noun,con|elektronihke} {daatagietedallemese}${init,i-ï|daatagïetedallemasse}
  ✓ buektiehtamme „Saemien {dotkemeprogramme“-
  m}${noun,mix|dotkemeprogrammem“} guhkiemdidh jïh nænnoestidh
  ✓ meatan orreme jïllebe {øøhpehtimmiem}${vowc,i-ï|ööhpehtimmiem} saemien
@@ -562,7 +557,7 @@ NSR lea:
  {øøkonomijem}${vowc,øø-ö|økonomijem} vuejniehtidh
  ✓ joekehth {tjiehpiji}${fin, i-iej|tjiehpiej} siebriej barkosne meatan
  orreme, dej jaepietjåahkosne meatan
- ✓ {{Tjiehpijepolitigke}${conc,gk-hk|Tjiehpijepolitihke}}£{noun,x,gensg,nomsg,x|Tjiehpijepolitihken}
+ ✓ {{Tjiehpijepolitigke}${conc,gk-hk|Tjiehpijepolitihke}}£{noun,sgnom-sggen|Tjiehpijepolitihken}
  tjaelemebarkoem aatskadamme
  ✓ barkeme guktie Saemien Vaarjele sijjiem åådtje dennie orre
  dotkemeståaposne {Guovdageaidnu-sne}${hyph-0|Guovdageaidnusne}
@@ -610,7 +605,7 @@ Seammavierhtege / Nyjsenæjjakampaanjh / Veeljeme
 
 NSR lea:
  ✓ eevtjemeseminaarem ”Saemiedigkesne nyjsenæjjafaamoe” tjïrrehtamme
- ✓ {dåarjoeøørnegh}${vowc,øø-öö|dåarjoeöörnegh} {{politigke}${conc,gk-hk|politihke}}£{infl,n,gensg-nomsg|politihken} partijide
+ ✓ {dåarjoeøørnegh}${vowc,øø-öö|dåarjoeöörnegh} {politigke}${conc,gk-hk|politihke} partijide
  tseegkeme, mah {vyøhkesieh}${vowc,ø-ö|vyöhkesieh} nyjsenæjjam
  veeljemelæstoen voestes sæjjan bïejedh
  ✓ {nyjsenæjjabrosjyrem}${noun,con|nyjsenæjjabrosjyrem} dorjeme mearan
@@ -681,7 +676,7 @@ laantesne årroeminie. Saemiedigkie galka aaj jeatjah åejvide baalteginie
 årrodh dejnie dajvine gusnie saemieh årroeminie. Nimhtie dam Saemiedigkie
 tjoevere dovne tjarke {jarngels}${fin,els-eles|jarngeles} darjomh utnedh jïh
 meatan årrodh dejnie veasoedajvine gusnie saemieh jielieminie veasoeminie.
-NSR åtna Saemiedægkan lea dajveles hammoe {sjiehteles}£{infl,adj,attr-pred|sjiehtele},
+NSR åtna Saemiedægkan lea dajveles hammoe {sjiehteles}£{infl,adj,attr-sgnom|sjiehtele},
 {byjressiebredahkine}${vowlat,e-ie|byjressiebriedahkine} meatan jïh dovne
 jaksehtallemisnie orre gaskesadteme {teeknologijen}${vowc,ee-e|teknologijen}
 tjïrrh.
