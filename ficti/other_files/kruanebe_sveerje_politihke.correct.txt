@@ -24,7 +24,7 @@ golme {solijdarijtetijsjstie}${noun,mix|solidariteetijste} maadtosne
 båetije {boelvijgujmie}${noun,suf|boelvigujmie} {jih}${cc,ascii|jïh}
 {solijdarijtete}${noun,mix|solidariteete} gaajhkesh veartenen almetjigujmie.
 
-{1.Bøøremes}${mix,mix|1. Bööremes} maanide
+{{1.Bøøremes}‰{space,mix|1. Bøøremes}}${1. Bööremes} maanide
 Gaajhkh maanaj leah reaktah {jielemasse}${noun,svow|jieliemasse}
 gieriesvoetesne, krööhkestimmie {jih}${cc,ascii|jïh} neerrehtimmehts. Fiere-
 {guhte}${indef,mix|Fïereguhte} maana tjuara vuajnasovvedh {jih}${cc,ascii|jïh}
