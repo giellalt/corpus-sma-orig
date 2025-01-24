@@ -35,7 +35,7 @@ ee|prosjeekth} jijhtedh mah {Jiemthen}${vowc,i-ï;conc,mth-mht|Jïemhten}
 i|vihkeles} {tsiehkiebaahkoe}¢{conc,hk-k;infl,case,sgnom-
 plnom|tsiehkiebaakoe}. Barkoesijjieh, {tjielth}${vowc,i-ï|tjïelth},
 institusjovnh {jih}${vowc,i-ï|jïh} såemies almetjh sih joe maehtieh
-{gijkije}${vowc,i-ï|gïjkije} {eajhnaj gujmie}£{cmp,2-1|eajhnajgujmie}
+{gijkije}${vowc,i-ï|gïjkije} {eajhnaj gujmie}¥{cmp,2-1|eajhnajgujmie}
 tjahkan, mohte eah giem {Jiemhtesne}${vowc,i-ï|Jïemhtesne} {dabpth}${conc,bpt-
 bt|dabth}? Dovne {gaskeseövtiedamman}${vowc,a-æ|gaskeseövtiedæmman}
 {maehtiejjibie}${conc,jj-j|maehtiejibie} debpelen dahkoe dåarjegem vedtedh!
