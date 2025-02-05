@@ -273,9 +273,9 @@ guktie govhte tæjmoeh {sjidtin}${vowc,i-ï|sjïdtin} ektesne {Åarjel-saemiej}$
 
 Eejhtegh utniejin daate hijven, mohte læjhkan ohtsin
 {maanagiertiem}¢{vowc,i-ï|maanagïertem} gusnie maanah meehtin årrodh abpe biejjiem, jeahta.
-Faaleldahke {båetedh}£{infl,verb,inf-prssg3|båata} dan maanageartan {jih}${vowc,i-ï|jïh}
+Faaleldahke {båetedh}£{infl,verb,subj_verb_kongr,inf-prssg3|båata} dan maanageartan {jih}${vowc,i-ï|jïh}
 dah {sjiere}${vowc,i-ï|sjïere} tæjmoeh {Vinjebakkenesnie}${fin,nesnie-isnie|Vinjebakkenisnie}
-{ij}¢{infl,cop,neg,prssg3-prspl3|eah} {lij}¢{infl,cop,conneg,prssg3-prspl3|lin} {nuekies}£{infl,adj,attr-sgnom|nuekie} jis maanah
+{ij}£{infl,cop,neg,prssg3-prspl3|eah} {lij}¢{infl,cop,conneg,prssg3-prspl3|lin} {nuekies}£{infl,adj,attr-sgnom|nuekie} jis maanah
 edtjin aelkedh {åarjel-saemien}${hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem}
 provhkedh {goh}¥{redun|} {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {giele}${vowc,i-ï;infl,case,sgnom-sgcom|gïeline}.
@@ -283,7 +283,7 @@ Nimhtie eejhtegh vaajtelin {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {maanagiertem}${vowc,i-ï|maanagïertem}
 åadtjodh.
 
-Hanne-Lena lij akte dejstie gie {lih}£{infl,verb,prtsg2-prtsg3|lij} meatan {jih}¥{redun|}
+Hanne-Lena lij akte dejstie gie {lih}£{infl,verb,subj_verb_kongr,prtsg2-prtsg3|lij} meatan {jih}¥{redun|}
 {soejkesjidie}¥{redun|} {buektedh}€{verb|soejkesjidh} {dan}¥{wo|guktie dïhte orre
 maanagiertie edtji sjïdtedh} {orre}¥{redun|} {maanageartan}¥{redun|}. Mijjieh limh gellie
 eadtjohke eejtegh mah gaavnedimh {maanagiertesne}¢{vowc,i-ï|maanagïertesne}
@@ -445,25 +445,25 @@ dennie åarjelsaemien {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertes
 {{Gierte}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerte}, lea joekoen {vihkeles}£{infl,attr-sgnom|vihkele} mijjese. Vaenie
 {åarjelsaemien {giele}${vowc,i-ï|gïele}}${cmp,2-1|åarjelsaemiengïele}
 {govlesovva}£{verb|govloe} juktie dan vaenie byjresh gusnie {giele}${vowc,i-ï|gïele}
-{veaksehke}£{infl,pred-attr|veaksehks} {jarngesne}¥{redun|} {tjåadtjoeminie}£{verb|lea}. {Vihkeles}£{infl,attr-sgnom|Vihkele} lea
+{veaksehke}£{infl,adj,sgnom-attr|veaksehks} {jarngesne}¥{redun|} {tjåadtjoeminie}£{verb|lea}. {Vihkeles}£{infl,attr-sgnom|Vihkele} lea
 dagkeres {gielebyjresh}${vowc,i-ï|gïelebyjresh} gåetien bæjngoelisnie. Im
-{jiejkh}${vowc,i-ï|jïejkh} gosse garmerdem man {vihkeles}£{infl,attr-sgnom|vihkele}
+{jiejkh}${vowc,i-ï|jïejkh} gosse garmerdem man {vihkeles}£{infl,adj,attr-sgnom|vihkele}
 {{gierte}¢{vowc,i-ï|gïertesne}}£{noun|maanagïerte}, lea orre maanide eevtjedh saemien
-{gielem}${vowc,i-ï|gïelem} {provhkedh}£{verb|soptsestidh}, Hanne Lena jeahta.
+{gielem}${vowc,i-ï|gïelem} {provhkedh}€{verb|soptsestidh}, Hanne Lena jeahta.
 
 Anita aaj dam jååhkesje. Im lim {maan}${typos|manne}
 {buktiehtamme}${vowc,u-ue|buektiehtamme} {saemiengielem}${vowc,i-ï|saemiengïelem}
 {gåetiegieline}¢{vowc,i-ï|gåetiegïeline} utnedh jis ij lij
-{maanagierte}${vowc,i-ï|maanagïerte} viehkine. {Idtji}£{infl,prtsg3-prtdu3|Idtjigan}
-Anita jallh Hanne-Lena {{ådtjoegan}${åadtjoejægan}}£{infl,prsdu3-conneg|åadtjoeh}
+{maanagierte}${vowc,i-ï|maanagïerte} viehkine. {Idtji}£{infl,verb,subj_verb_kongr,neg,prtsg3-prtdu3|Idtjigan}
+Anita jallh Hanne-Lena {{ådtjoegan}${åadtjoejægan}}£{infl,verb,main_neg_conneg_kongr,prsdu3-conneg|åadtjoeh}
 {saemien {gielem}${vowc,i-ï|gïelem}}${cmp,2-1|saemiengïelem}
 gåetesne {lieredh}${vowc,i-ï|lïeredh} goh byjjesovvin. Mænngan åadtjoejin
-skuvlesne {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} mænngan goh¥
-{geerve}£{infl,case,sgnom-sgess|geerve almetjinie}.
+skuvlesne {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} mænngan goh
+{geerve}¥{missing|geerve almetjinie sjïdtin}.
 {Gåabpahtjahkh}${vowlat,ah-a|Gåabpatjahkh} lægan åarjelsaemien {gielem}${vowc,i-ï|gïelem}
 {gåetiegieline}¢{vowc,i-ï|gåetiegïeline} åtneme gosse maanah smaave.
 Anita lea lohkehtæjja {Åarjel-saemiej}${hyph-0|Åarjelsaemiej} skuvlesne
-{jih}${vowc,i-ï|jïh} jeahta satne aavode {maanah {gierteste}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerteste},
+{jih}${vowc,i-ï|jïh} jeahta satne aavode {{maanah {gierteste}¢{vowc,i-ï|gïertesne}}£{noun,sgine-sgela|gïerteste}}¥{cmp,2-1|maanagïerteste}
 dåastodh gosse dah skuvlesne aelkieh.
 
 Dah båarasommes maanah mah leah {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertesne}
@@ -477,7 +477,7 @@ gåetesne provhkeme. Sovmem {dihte}${vowc,i-ï|dïhte}
 {gierte}${vowc,i-ï|gïerte} {maanide}£{infl,case,plack-plnom|maanah}
 {jearsoes dorje}€{verb|garmarostoeh} guktie {gielem}${vowc,i-ï|gïelem}
 {doestieh}${vowc,oe-ue|duestieh} provhkedh {jih}${vowc,i-ï|jïh} nimhtie saemien
-åadtjodh {goh}¥{redun|} voestes {giele}£{vowc,i-ï;infl,case,sgnom-sgess|gïeline} gosse
+åadtjodh {goh}¥{redun|} voestes {giele}${vowc,i-ï|gïele}£{infl,case,sgnom-sgess|gïeline} gosse
 skuvlesne aelkieh.
 
 [1] Daan {bijre}${vowc,i-ï|bïjre} lea aaj tjaalasovveme Saemien
