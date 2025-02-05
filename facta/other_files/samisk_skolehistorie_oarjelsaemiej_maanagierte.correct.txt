@@ -485,7 +485,7 @@ skuvle-{vaajesisnie}${hyph-0|skuvlevaajesisnie} 2, Asta Baltoen tjaalegisnie Mu
 lojalitehta lei sámi servodagas (Mov buerie væljoe lij saemien
 ektievoetesne)
 
-[2] Elgåen {provsjekten}${conc,vsj-sj;vowc,e-ee|prosjeekten} {bijre}${vowc,i-ï|bïjre}
+[2] Elgåen {provsjekten}${conc,vsj-sj|prosjekten} {bijre}${vowc,i-ï|bïjre}
 {maahhta}${conc,hh-h|maahta} lohkedh Jon Todalen tjaalegisnie:
 Samisk språk i {Svaahken}${prop,vow|Svahken} {sijte}${vowc,i-ï|sïjte} (Saemien
 {giele}${vowc,i-ï|gïele} {Svaahken}${vowc,aa-a|Svahken} {sjtesne}${init,sj-sïj|sïjtesne})
