@@ -146,8 +146,7 @@ Saemiedigkiepresideenth {NSR-ste}${acro,suf|NSR:ste} leah:
 Saemiedigkieveeljemasse 2005 lea {NSR-n}${acro,suf|NSR:n}
 {Rijhketjåahkoe}${vowc,i-ï|Rïjhketjåahkoe} Aili Keskitalom, Guovdageaidnu,
 presideentekandidaatine {veeljeme}€{verb|veeljesovveme}. Jis veeljesåvva,
-dellie dïhte voestes nyjsenæjja {mij}€{pron|gie} Saemiedigkien {{presideente}${presidente}}£{infl,noun,sgnom-
-sgcom|presidentine} sjædta.
+dellie dïhte voestes nyjsenæjja {mij}€{pron|gie} Saemiedigkien {{presideente}${presidente}}£{infl,noun,sgnom-sgcom|presidentine} sjædta.
 
 
 {Urresth}${init,U-O|Orresth} Saepmie

@@ -235,7 +235,7 @@ jeatjah goh {dihte}${dem,ascii|dïhte} gie {maanan}£{infl,noun,sggen-sgacc|maan
 maahta {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}£{inf-after-aux,infl,verb,prssg3-inf|åadtjodh}. Eejtegh edtjijægan
 {loejehtsvoetem}${noun,mix|loejhtesvoetem} veeljedh
 {maanasåajhtoenhammoem}${noun,vowc|maanasåjhtoenhammoem}.
-{Siebredahken}${noun,vow|Seabradahken} dåarjoe maanasåjhtose edtja {gaajhkh}£{congr,pron,plnom-plill|gaajhkide} maanide båetedh.
+{Siebredahken}${noun,vow|Seabradahken} dåarjoe maanasåjhtose edtja {gaajhkh}£{kongr,pron,plnom-plill|gaajhkide} maanide båetedh.
 
 19. Båarasåbpoej reaktah {nännostämman}${noun,ascii|nænnoestæmman}
 {jih}${cc,ascii|jïh} jearsoevoetese
