@@ -205,7 +205,7 @@ ijste|paarrijste} guhth tjoeverimen jaahkoem {gierten}${vowc,i-ï|gïerten}
 {bijre}${vowc,i-ï|bïjre} luejhtedh. Gåabpatjahkh limen barkosne {jih}${vowc,i-
 ï|jïh} {maanagiertesijjie}${vowc,i-ï|maanagïertesijjie} lij daerpies. Jis gie
 lij maahteme tjirkedh edtji {dihte}${vowc,i-ï|dïhte} {maanagierte}${vowc,i-
-ï|maanagïerte} golme jaepieh juhtedh, dellie {ij}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prsdu2|ean} limen jueresne orreme
+ï|maanagïerte} golme jaepieh juhtedh, dellie {ij}£{infl,verb,cop_neg_conneg_prt_kongr,neg,prssg3-prsdu2|ean} limen jueresne orreme
 mejtie edtjimen maanide vaeltedh destie daaroen {maanagierteste}¢{vowc,i-
 ï|maanagïerteste}, Anne-Lise {sopteste}${conc,pt-pts|soptseste}.
 

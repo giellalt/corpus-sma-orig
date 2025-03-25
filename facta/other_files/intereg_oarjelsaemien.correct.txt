@@ -3,7 +3,7 @@ Intereg Åarjelsaemien
 
 Saerniestimmie dan stoerre {ektesvuekie}${cmp,es-ie|ektievuekie}
 {barkoeprosjekten}${vowlat,e-ee|barkoeprosjeekten} {bijre}${vowc,i-ï|bïjre},
-mestie båata, barkoesijjieh, aatjmehkh, {jilleskåvloeh}${vowc,i-
+mestie båata,barkoesijjieh, aatjmehkh, {jilleskåvloeh}${vowc,i-
 ï|jïlleskåvloeh}{/universiteth}${vowlat,e-ee|universiteeth},
 {{haamoedimmieh}${vowc,aa-a|hammoedimmieh}/årganisasjovnh}${init,å-
 o|organisasjovnh} {jih}${vowc,i-ï|jïh} byjjes {viehkiedirregh}${vowc,i-
@@ -12,8 +12,7 @@ o|organisasjovnh} {jih}${vowc,i-ï|jïh} byjjes {viehkiedirregh}${vowc,i-
 ieh|maehtieh} dåarjegem {jijnjide}${vowc,i-ï|jïjnjide} råajvarimmide åadtjodh
 {1996-n}${acro,suf|1996:n} raejeste {1999-n}${num,suf|1999:n} raajan.
 
-Guktie daajroes, Sveerje lea {liihtseginie}${vowc,ii-ï|lïhtseginie} EE-
-{esne}${acr,suf|EE:sne} (Europa Ektiedimmesne) {sjidteme}${vowc,i-ï|sjïdteme},
+Guktie daajroes, Sveerje lea {liihtseginie}${vowc,ii-ï|lïhtseginie} {{EE-esne}${acr,suf|EE:sne}}£{noun,sgine-sgill|EE:an} (Europa Ektiedimmesne) {sjidteme}${vowc,i-ï|sjïdteme},
 mij beetnegh dåajvohte, ektievoetejielemem {jih}${vowc,i-ï|jïh} barkoem
 unijovnen raastebealah skreejrehtidh. {Trøøderidie}${conc,ød-nd|Trönderidie}
 {jih}${vowc,i-ï|jïh} dovne {jiemhtide}${vowc,i-ï|jïemhtide}
@@ -31,8 +30,8 @@ ee|prosjeekth} jijhtedh mah {Jiemthen}${vowc,i-ï;conc,mth-mht|Jïemhten}
 {jih}${vowc,i-ï|jïh} {Trøøndelaagen}${vowc,øø-öö|Tröndelaagen} fylhki gaskesem
 {maehtie}${verb,suf|maehtieh} övtiedidh. Jielemevuekie, {giehtjedimmie}${vowc,i-
 ï|gïehtjedimmie}, {ööpehtimmie}${conc,p-hp|ööhpehtimmie}, kultuvre, byjrese
-{jih}${vowc,i-ï|jïh} eeremes - orre barkoesijjieh leah {viehkeles}${vowc,ie-
-i|vihkeles} {tsiehkiebaahkoe}¢{conc,hk-k;infl,case,sgnom-
+{jih}${vowc,i-ï|jïh} eeremes - orre barkoesijjieh leah {{viehkeles}${vowc,ie-
+i|vihkeles}}£{adj,attr-sgnom|vihkele} {tsiehkiebaahkoe}¢{conc,hk-k;infl,case,sgnom-
 plnom|tsiehkiebaakoe}. Barkoesijjieh, {tjielth}${vowc,i-ï|tjïelth},
 institusjovnh {jih}${vowc,i-ï|jïh} såemies almetjh sih joe maehtieh
 {gijkije}${vowc,i-ï|gïjkije} {eajhnaj gujmie}¥{cmp,2-1|eajhnajgujmie}
