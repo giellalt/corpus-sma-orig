@@ -186,7 +186,7 @@
         <parallel_text xml:lang="nob" location="_kompetansekrise_i_den_samiske_barnehagesektoren.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="_sami_manaidgardesuorggis_lea_gelbbolasvuodaheahti.html"/>
+        <parallel_text xml:lang="sme" location="sami_manaidgardesuorggis_lea_gelbbolasvuodaheahti.html"/>
         <parallel_text xml:lang="smj" location="_same_manajgarddesuorgen_la_mahtudakhiehte.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

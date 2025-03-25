@@ -186,7 +186,7 @@
         <parallel_text xml:lang="nob" location="_alvorlig_om_skrantesjuke_pavises.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="_duodalas_jus_cwd-davda_duodastuvvo.html"/>
+        <parallel_text xml:lang="sme" location="duodalas_jus_cwd-davda_duodastuvvo.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
