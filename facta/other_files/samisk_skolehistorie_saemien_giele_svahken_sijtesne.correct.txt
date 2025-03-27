@@ -4,10 +4,10 @@ Saemien {gielie}¢{vowc,i-ï;fin,ie-e|gïele} Svahken {sijtesne}${vowc,i-ï|sïj
 Åenehks boelhketje tjaalegistie
 {Åarjelh-saemien}${comp,lh-l;hyph-0|Åarjelsaemien} {gielese}¢{vowc,i-ï|gïelese} jarkoestamme: Åsta Vangberg
 
-Jon Todal (G.b.), Saemiedigkien {gïeleskreejremeprosjekten}${vowc,e-ee|gïeleskreejremeprosjeekten} faageles bïhkedæjja jïh Sig-Britt Persson, åvtehke stuvremetjïertesne {akten dejstie}¢{kongr|aktede dejstie} bieliejaepien tjåanghkosne {eejhtegi ektine}¥{eejhtegigujmie ektine}. Daesnie {såevmies}${conc,vm-m|såemies} dejstie {eejhtegistie}${fin,gistie-gijstie|eejhtegijstie}: Bengt B. Danielsen, Lars Ivar Danielsen, Jon Anders Mortensson, Maths Mortensson jïh Bodil Edvang.
+Jon Todal (G.b.), Saemiedigkien {gïeleskreejremeprosjekten}${vowc,e-ee|gïeleskreejremeprosjeekten} faageles bïhkedæjja jïh Sig-Britt Persson, {åvtehke stuvremetjïertesne}¥{wo,case,sgine-sggen|stuvremetjïerten åvtehke} {akten}£{noun,case,sggen-sgnom|aktede} dejstie bieliejaepien tjåanghkosne {eejhtegi}£{noun,case,sggen-sgcom|eejhtegigujmie} ektine. Daesnie {såevmies}${conc,vm-m|såemies} dejstie {eejhtegistie}${fin,gistie-gijstie|eejhtegijstie}: Bengt B. Danielsen, Lars Ivar Danielsen, Jon Anders Mortensson, Maths Mortensson jïh Bodil Edvang.
 (Guvvie: Elin Fjellheim)
 
-Jon Todal lea {professore}${fin,sore-sovre|professovre} Saemien {Jilleskuvlesne}${vowc,i-ï|Jïlleskuvlesne}. {Dan {bijre}${vowc,i-ï|bïjre} {jijnebe}${vowc,i-ï|jïjnebe} tjåådtje Saemien skuvlen vaajesisnie 3.}¥{wo|jïjnebe dan bïjre Saemien skuvlen 3.vaajesisnie tjåådtje.}
+Jon Todal lea {{professore}${fin,sore-sovre|professovre} {Saemien {{Jilleskuvlesne}${vowc,i-ï|Jïlleskuvlesne}}£{noun,case,sgine-sggen|Jïlleskuvlen}}¥{wo|Saemien Jïlleskuvlen professovre}. {Dan {bijre}${vowc,i-ï|bïjre} {jijnebe}${vowc,i-ï|jïjnebe} tjåådtje Saemien skuvlen vaajesisnie 3.}¥{wo|jïjnebe dan bïjre Saemien skuvlen 3.vaajesisnie tjåådtje.}
 
 {Ij}£{infl,verb,subj_verb_kongr,neg,prssg3-prspl3|Eah} gænnah {Nøørjesne}${vowc,øø-öö|Nöörjesne} jallh Sveerjesne tjaalegh gååvnesh mah maehtieh vuesiehtidh man gallesh {åarjelh-saemien}${comp,lh-l,hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem} soptsestieh. {Nøørjesne}${vowc,øø-öö|Nöörjesne} vuj maehtieh årrodh 300 guhth {gielem}${vowc,i-ï|gïelem} {eensi laakan}${cmp,2-1|eensilaakan} soptsestieh, mohte {jienebh}${vowc,i-ï|jienebh} {gielem}${vowc,i-ï|gïelem} guarkah. Aerviedibie Sveerjesne aaj seamma gallesh {gielem}${vowc,i-ï|gïelem} soptsestieh.
 

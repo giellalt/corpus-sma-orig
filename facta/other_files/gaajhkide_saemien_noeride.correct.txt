@@ -14,11 +14,11 @@ edtjh dåeriedidh.
 {Mannasinie}€{xxx|man åvteste}?
 
 {Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-sgine|Nöörjesne}}¥{wo|Saemien noereh abpe Nöörjesne veasoeminie}
-{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide {mij {politikem}${noun,con|politihkem} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}}£{noun,x,gensg,accsg,x|mij politihken jïh jaahkoen dåaresth}. Gellien aejkien {lin}¥{} noereh {jih}${vowc,i-ï|jïh}
-geervealmetjh ohtselamme {juste}¥{} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
+{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide mij {politikem}£{noun,case,sgacc-sggen||politihken} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}. Gellien aejkien {lin}¥{redun|} noereh {jih}${vowc,i-ï|jïh}
+geervealmetjh ohtselamme {juste}¥{redun|} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
 {Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
 
-{Aejkie}€{xxx|gåessie}: Golken 16.-18. {Biejje}${fin,e-ie|Mij Biejjide}
+{Aejkie}€{xxx|Gåessie}: Golken 16.-18. {Biejje}${fin,e-ie|Mij Biejjide}
 
 
 {Sijjeh}${fin,e-ie|Sijjieh}: Kvaløya bydelshus, Romsesne
@@ -27,8 +27,8 @@ tjïervehts
 
 Programme {aane}${typos|annje} naemhtie {våjnoe}${vowc,å-åå|våajnoe}:
 
-Bearjadahken: Gaajhkesh {dovnesh}¥{missing|dovnesh gïeh} {Romsen}£{infl,sggen-sgacc|Romsem}
-{jaksi}${infl,xxx|jaksin} {jih}${vowc,i-ï|jïh} {aavoedim}${infl,xxx|aavoedin}
+Bearjadahken: Gaajhkesh {dovnesh}¥{missing|dovnesh gïeh} {Romsen}£{infl,noun,case,sggen-sgacc|Romsem}
+{jaksi}£{infl,verb,prtsg3-prtpl3|jaksin} {jih}${vowc,i-ï|jïh} {aavoedim}${infl,xxx|aavoedin}
 {mubpie}${infl,sgnom-sggen|mubpien} iehkiedasse.
 
 
@@ -55,6 +55,6 @@ telefovne:  (+47) 92835649
 e-påaste: {susanneamalie@gmail.com}∞{url}
 
 Ps!  Veartesjh aaj {www.nuora.blogg.no:m}∞{url} jallh {Facebook-dåehkiem}${hyph-0|facebookdåehkiem} ?stiftelse av samisk
-ungdomsorganisasjon? juktie orre {bievnesh}${vowc,i-ï|bïevnesh} {tjåanghkoem}£{infl,sgacc-sggen|tjåanghkoen} {bijre}${vowc,i-ï|bïjre} åådtje.
+ungdomsorganisasjon? juktie orre {bievnesh}${vowc,i-ï|bïevnesh} {tjåanghkoem}£{infl,case,sgacc-sggen|tjåanghkoen} {bijre}${vowc,i-ï|bïjre} åådtje.
 
 Veedtjeme (10.05.12) sæjroste www.nuora.blogg.no
