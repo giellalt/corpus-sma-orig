@@ -22,9 +22,9 @@ Jesuse abpe sov {jieliemisnie}£{noun,case,ine-acc|jielemem} almetjidie ööhpeh
 
 {Missjovne}${conc,ss-s|Misjovne}
 {Missjovnem}${conc,ss-s|Misjovnem} guarkebe goh ”seedteme” jïh båvroem buerkeste maam learohkh åadtjoejin gosse sijjen jaahkoem jeatjabidie vïhnesjidh. Daan biejjien gærhkoe meatan dennie seedtemisnie gosse almetjigujmie gaavnede dovne lïhkesbyjreskisnie jïh mijjen laanten {raasti}${fin,sti-stegi|raastegi} ålkolen.
-Dan åvtese {missjovne}${conc,ss-s|misjovne} åålmegen bïjre {jïh}¥{redun,jïh-0|} {maam desnie dorje}¥{redun,maam-0;redun,desnie-0;redun,dorje-0|} {jïh}¥{redun-jïh|} guktie jeatjah gærhkojde bïjre jarkan {veartanisne}${fin,e-ie|veartanisnie} dåarjohte {dej barkojne}£{case,gen-com-dejnie barkojne} Jesusen bïjre {vihnesjidh}${vowc,i-ï|vïhnesjidh}.
-
-{Dam}€{pron|barkoem} {dorje}€{verb|dåarjohte} gosse beetnegh vedtieh jïh gosse barkijh {stïllieh}${vowc,ï-i|stillieh}, {v.g}${abbr,punct,0-1|v.g.}lohkehtæjjah, dåakterh, {ekonomh}${conc,m-vm|ekonovmh} jallh hearrah. ({Stïllieh}¥{vowc,ï-i|stillieh}, {v.g}${abbr,punct,0-1|v.g.} lohkehtæjjah, dåakterh, {ekonomh}${conc,m-vm|ekonovmh } jallh hearrah dam darjodh)
+Dan {åvtese}€{åvteste} {missjovne}${conc,ss-s|misjovne} åålmegen bïjre {jïh}¥{redun,jïh-0|} {maam desnie dorje}¥{redun,maam-0;redun,desnie-0;redun,dorje-0|} {jïh}¥{redun-jïh|} guktie jeatjah gærhkojde bïjre jarkan {veartanisne}${fin,e-ie|veartanisnie} dåarjohte dej {barkojne}£{noun,case,plgen-placc|barkojde} Jesusen bïjre {vihnesjidh}${vowc,i-ï|vïhnesjidh}.
+pl
+{Dam}€{pron|barkoem} {dorje}€{verb,deract-pass|dåarjohte} gosse beetnegh vedtieh jïh gosse barkijh {stïllieh}${vowc,ï-i|stillieh}, {v.g}${abbr,punct,0-1|v.g.}lohkehtæjjah, dåakterh, {ekonomh}${conc,m-vm|ekonovmh} jallh hearrah. ({Stïllieh}¥{vowc,ï-i|stillieh}, {v.g}${abbr,punct,0-1|v.g.} lohkehtæjjah, dåakterh, {ekonomh}${conc,m-vm|ekonovmh } jallh hearrah dam darjodh)
 
 
 
