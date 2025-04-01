@@ -71,7 +71,7 @@ tjuerieh barkoevedtijh {diedtem}${noun,ascii|dïedtem} seamma
 {viertegs}${adj,vowc|vyörtegs} baalhkah vaeltieh. Mijjieh
 {sijhtebe}${verb,ascii|sïjhtebe} vuejnedh
 {buarastehtetimmiem}${verb,mix|buarastehtemem} staaten, faagesiebrieh
-{jih}${cc,ascii|jïh} {barkoevedtijh}£{gen-before-post,infl,noun,plnom-plgen|barkoevedtiji} gaskem juktie destie baalhkajoekehts
+{jih}${cc,ascii|jïh} {barkoevedtijh}£{po-nom-gen,infl,noun,plnom-plgen|barkoevedtiji} gaskem juktie destie baalhkajoekehts
 nyjsenæjjide {jih}${cc,ascii|jïh} almide vaeltedh dan båetije
 {veeljemeboelhkesne}£{valency,infl,noun,sgine-sgill|veeljemeboelhkese}.
 Staaten åejvieh {gieh}${x,ascii|gïeh} eah dam seamma baalhka
@@ -189,7 +189,7 @@ Luvliejaevrien {bijre}${pp,ascii|bïjre} guktie buerebe sjædta.
 {Almetjij}${noun,suf|Almetji} darjomh edtja eatnemem krööhkestidh guktie
 {dihte}${dem,ascii|dïhte} gellienlaaketje {eatnemisnie}${noun,svow|eatnamisnie}
 vaarjelidh {jih}${cc,ascii|jïh} evtiedidh. Sveerjesne edtjieh gohkeldahkesne
-jielijemaadtoeh dejstie njielje stoerre {vaejsjieh}£{numphrase,noun,plnom-plela|vaejsjijste} årrodh;
+jielijemaadtoeh {dejstie njielje stoerre vaejsjieh}£{numphrase,noun,plnom-plela|dejstie njielje stoerre vaejsjijste} årrodh;
 {siejpe}${noun,ascii|sïejpe}, råate, {bierne}${noun,ascii|bïerne}
 {jih}${cc,ascii|jïh} gierhkie. {Ientjh}${noun,ascii|Ïentjh} gusnie lea
 {jijnjh}${indef,ascii|jïjnjh} sjædtoeh edtja vaarjelidh. Gaedtievaarjelimmie
@@ -232,10 +232,10 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 {gorreldidh}${verb,con|gorredidh}. Gåabpegh maehtiejægan askem maanine
 gåetesne seamma aejkien årrodh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 jeatjah goh {dihte}${dem,ascii|dïhte} gie {maanan}£{infl,noun,sggen-sgacc|maanam} syjhtedh
-maahta {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}£{inf-after-aux,infl,verb,prssg3-inf|åadtjodh}. Eejtegh edtjijægan
+maahta {eejteghmaaksoem}${noun,con|eejhteghmaaksoem} {åådtje}£{aux-vfin-inf,infl,verb,prssg3-inf|åadtjodh}. Eejtegh edtjijægan
 {loejehtsvoetem}${noun,mix|loejhtesvoetem} veeljedh
 {maanasåajhtoenhammoem}${noun,vowc|maanasåjhtoenhammoem}.
-{Siebredahken}${noun,vow|Seabradahken} dåarjoe maanasåjhtose edtja {gaajhkh}£{kongr,pron,plnom-plill|gaajhkide} maanide båetedh.
+{Siebredahken}${noun,vow|Seabradahken} dåarjoe maanasåjhtose edtja {gaajhkh maanide}£{kongr,pron,plnom-plill|gaajhkide maanide} båetedh.
 
 19. Båarasåbpoej reaktah {nännostämman}${noun,ascii|nænnoestæmman}
 {jih}${cc,ascii|jïh} jearsoevoetese
@@ -251,7 +251,7 @@ jieniedidh {jih}${cc,ascii|jïh}
 {jeenjede}${adj,suf|jeenjebe} vierhtieh vedtedh.
 
 20. Reaktah årromesæjjan – maadtoe {jijtsefaamojde}${noun,mix|jïjtjefaamojde}
-{Gaajhkesh}£{infl,pron,nom-gen|Gaajhkesi} leah reaktah
+{Gaajhkesh}£{infl,hab-nom-gen,pron,nom-gen|Gaajhkesi} leah reaktah
 årromesæjjan. Goh dah gåetehts nuepie bååstede båetedh buerede
 {jieledasse}${noun,svow|jieliedasse} daarpesje jienebh årromesijjieh mah leah
 {sjiere}${adj,ascii|sjïere} almetjasse sjeahtadovvedh, dovne
