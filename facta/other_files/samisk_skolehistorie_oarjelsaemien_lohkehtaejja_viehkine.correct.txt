@@ -116,11 +116,11 @@ Dej {gøøkte}${vowc,øø-öö|göökte} voestes jaepiej mijjieh ajve moeri
 {jih}${vowc,i-ï|jïh} koksigujmie mijjen {tjiehtjelidie}${vowc,i-ï|tjïehtjelidie} baahkedimh. Learohkh {jijtje}${vowc,i-ï|jïjtje} tjoeverin
 moerh {tjiehtjielasse}${vowc,ie-ïe|tjïehtjelasse} guedtedh {jih}${vowc,i-ï|jïh}
 dejtie desnie såarhkodh. Tjoeverimh aaj nimhtie dållem geehtedh olles
-{jamhka}£{typos|jamhkah}. Naan aejkien jis dålle lij jamhkeme, dellie
+{jamhka}${typos|jamhkah}. Naan aejkien jis dålle lij jamhkeme, dellie
 tjoeverimh dållem jeatja {tjiehtjielistie}${vowc,i-ï|tjïehtjelistie}
 {løønedh}${vowc,øø-öö|löönedh} {jih}${vowc,i-ï|jïh} dellie beassetje meatan.
 Novh sån naan aejkien fagkan {bijvele}${vowc,i-ï|bïjvele} {sjidti}${vowc,i-ï|sjïdti}, mohte hijven {gåaredi}${vowlat,e-a|gåaradi} juktie vaane limh
-moerigujmie gåetesne {båeltiehtidh}£{xxx|dållem bïejedh}. Mænngan
+moerigujmie gåetesne {båeltiehtidh}¥{verb,der,missing|dållem bïejedh}. Mænngan
 {orrejimh}${vowlat,e-i|orrijimh} moerigujmie {jih}${vowc,i-ï|jïh} jeatja
 baahkedimmie el-njuvvine {sjidti}${vowc,i-ï|sjïdti}.
 
@@ -150,12 +150,12 @@ Desnie gellie {vuetjeme-kroepth}${hyph-0|vuetjemekroepth}, stoerre gierkie-
 gellie jeatja aath mah lin dåarose veadtaldihkie. Dejtie
 {sierngedimh}${vowlat,e-ie|sierngiedimh} tjaktji dej voestes jaepiej gosse
 desnie. Mohte voestegh tjoeverimh aejlegi {gærhkoe-skuvlese}${hyph-
-0|gærhkoeskuvlese}. {Tijje}${vowc,i-ï|Tïjje} desnie {guhkies}£{infl,adj,attr-pred|guhkie} {jih}${vowc,i-ï|jïh} mijjieh arhpehtovvimh. Hearra {dihte}${vowc,i-ï|dïhte} dennie
+0|gærhkoeskuvlese}. {Tijje}${vowc,i-ï|Tïjje} desnie {guhkies}£{infl,adj,attr-sgnom|guhkie} {jih}${vowc,i-ï|jïh} mijjieh arhpehtovvimh. Hearra {dihte}${vowc,i-ï|dïhte} dennie
 skuvlesne {jih}${vowc,i-ï|jïh} {dihte}${vowc,i-ï|dïhte} ålvas striengkies.
 Mijjem altese vuajneres tjelmiejgujmie steeri {jih}${vowc,i-ï|jïh}
 {buerkesti}${vowc,i-ï|buerkiesti} jaememen {jih}${vowc,i-ï|jïh}
 {raavhkedimmien}${vowc,aa-aa;conc,vhk-vk|ravkedimmien} {bijre}${vowc,i-ï|bïjre}
-jis {ij}£{infl,neg,3sgprs-1plprs|ibie} limh {giemhpes}${vowc,i-ï|gïemhpes} {jih}${vowc,i-ï|jïh} jupmielasse
+jis {ij limh}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prspl1|ibie limh} {giemhpes}${vowc,i-ï|gïemhpes} {jih}${vowc,i-ï|jïh} jupmielasse
 jaahkoles. Idtjimh doesth maam jeatja darjodh, mijjieh tjahkasjimh goh
 {buelieminie}¥{buelije} tjoevkesh.
 Jaepiej mænngan aaj fealadimmie dennie voenesne {sjidti}${vowc,i-ï|sjïdti}.
@@ -211,8 +211,8 @@ Dej beeli ij lij man {jijnjh}${vowc,i-ï|jïjnjh} {lidteratuvrh}${conc,dt-tt|lit
 gellie dejstie gærjijste Bergslanden {jih}${vowc,i-ï|jïh} Hasselbrinken
 {"}‰{cit|”}Saemien lohkemegærja{"}‰{cit|”} åasteme. Mohte dah skaavtegisnie tjåadtjoejin juktie
 idtjin guhth dejstie lohkehtæjjijste
-{åarjelh-saemien}${conc,lh-l;hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem} maehtieh {jih}${vowc,i-ï|jïh} {ij}£{infl,neg,3sgprs-3plprs|eah}
-lin gænnah learohkh {jijtje}${vowc,i-ï|jïjtje} {ietniengielem}${vowc,i-ï|ietniengïelem} {liereme}${vowc,i-ï|lïereme} lohkedh. {Jijtje}${vowc,i-ï|Jïjtje} gærjam skaavtegistie veeltim {jih}${vowc,i-ï|jïh} aaj buektiehtim
+{åarjelh-saemien}${conc,lh-l;hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem} maehtieh {jih}${vowc,i-ï|jïh} {ij lin}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prspl3|eah lin}
+ gænnah learohkh {jijtje}${vowc,i-ï|jïjtje} {ietniengielem}${vowc,i-ï|ietniengïelem} {liereme}${vowc,i-ï|lïereme} lohkedh. {Jijtje}${vowc,i-ï|Jïjtje} gærjam skaavtegistie veeltim {jih}${vowc,i-ï|jïh} aaj buektiehtim
 dam lohkedh. Akten iehkeden lohkehtæjja {bøøti}${vowc,øø-öö|bööti} mearan
 manne dejnie gærjine tjahkan. Gihtji maam manne dejnie gærjine. Vaestiedim
 manne dam lohkeminie, mohte idtji mannem jaehkieh gænnah. Mohte
@@ -229,7 +229,7 @@ guessine {bøøtin}${vowc,øø-öö|böötin}, {jih}${vowc,i-ï|jïh} {miejjieh}
 1965-67.
 {Dihte}${vowc,i-ï|Dïhte} lij jupmeles skuvle {jih}${vowc,i-ï|jïh} desnie
 striengkies byjrese, mohte munnjien lij aelhkie desnie jieledh. Paul Ryan
-lij rektovre {jih}${vowc,i-ï|jïh} saemien byjrese lij joekoen {vihkeles}£{attr-pred|vihkele}
+lij rektovre {jih}${vowc,i-ï|jïh} saemien byjrese lij joekoen {vihkeles}£{infl,adj,attr-sgnom|vihkele}
 {disse}${vowc,i-ï|dïsse}. Desnie åadtjoejimh saemien kultuvren {jih}${vowc,i-ï|jïh} aaj saemien vætnoen {bijre}${vowc,i-ï|bïjre} {lieredh}${vowc,i-ï|lïeredh} j.n.v. Såemies {tijjen}${vowc,i-ï|tïjjen} lin gellie
 {åarjelh-saemien}${conc,lh-l;hyph-0|åarjelsaemien} learohkh desnie,
 {jijnjemes}${vowc,i-ï|jïjnjemes} {tjijhtje}${vowc,i-ï|tjïjhtje} ektesne. Almetjh Karasjokesne
@@ -239,7 +239,7 @@ jielieminie. Naaken {vienhtin}${vowc,i-ï|vïenhtin} mijjieh limh russerh.
 Læjhkan buerie {sjidti}${vowc,i-ï|sjïdti} mijjen {jih}${vowc,i-ï|jïh} dej noeri
 {gaskems}${fin,ms-msh|gaskemsh} guhth lin voenesne årroeminie.
 
-Faaleldahke mijjese {bøøti}${vowc,øø-öö|bööti} åadtjodh {noerhte-saemien}${hyph-0|noerhtesaemien} {lieredh}${vowc,i-ï|lïeredh}, mohte {ij}£{infl,neg,3sgprs-1sgprs|im} lim manne desnie
+Faaleldahke mijjese {bøøti}${vowc,øø-öö|bööti} åadtjodh {noerhte-saemien}${hyph-0|noerhtesaemien} {lieredh}${vowc,i-ï|lïeredh}, mohte {ij lim}£{infl,verb,cop_neg_conneg_prt_kongr,neg,prssg3-prssg1|im lim} manne desnie
 meatan. Mænngan leam saangerdamme juktie {idjim}${conc,d-dt|idtjim} dam
 faaleldahkem dåastoeh. Mijjieh saemieh åarjede saemien
 {lidteratuvrem}${conc,dt-tt|litteratuvrem} lohkimh mearan doh jeatjebh
@@ -251,7 +251,7 @@ almetjidie {mah}¥{gïeh} edtjin saelhtesne barkedh. Dan mænngan Hurtigrutesne
 bielie jaepiem {giehtelim}${vowc,i-ï|gïehtelim}. Dan mænngan jis
 {ysteriesne}${vowlat,i-ij|ysterijesne} barkim {aerebi}${init,ae-aa|aarebi} goh
 akten {entrepenørfirmaesne}${XXX|entrepenörfirmasne(firma?)} eelkim. Mohte
-tjåetskeme nimhtie barkedh {goh}¥{} {{bigkeme-ålma}${hyph-0|bigkemeålma}}£{infl,sgnom-sgess|bigkemeålmine} guktie eajhnadovvim
+tjåetskeme nimhtie barkedh {goh}¥{redun|} {{bigkeme-ålma}${hyph-0|bigkemeålma}}£{infl,sgnom-ess|bigkemeålmine} guktie eajhnadovvim
 barkoem gåetesne ohtsedh. Ohtsim barkoeskuvlem {jih}${vowc,i-ï|jïh}
 {elektrikerinie}${conc,k-hk|elektrihkerinie} {sjidtim}${vowc,i-ï|sjïdtim}.
 {Jih}${vowc,i-ï|Jïh} dejnie barkojne leam {giehtelamme}${vowc,i-ï|gïehtelamme}
@@ -268,7 +268,7 @@ jalhts {dihte}${vowc,i-ï|dïhte} joekehtadti {gieleste}¢{vowc,i-ï|gïeleste} 
 {jijtje}${vowc,i-ï|jïjtje} soptsesti.
 Naan båeries saemieh {Raavrvijhkesne}${prop,con|Raavrhvijhkesne} guhth leah
 {gielem}${vowc,i-ï|gïelem} noerebaeleste {liereme}${vowc,i-ï|lïereme}, leah
-ennje {væjkeles}£{infl,adj,attr-pred|væjkele} soptsestidh, mohte eah leah man gallesh, eevre goh dejtie
+ennje {væjkeles}£{infl,adj,attr-sgnom|væjkele} soptsestidh, mohte eah leah man gallesh, eevre goh dejtie
 maahta aktene {gietesne}${vowc,i-ï|gïetesne} {ryøknedh}${vowc,i-ï|ryöknedh}.
 Dåeriesmoere lea juktie saemieh eah vielie
 {Raavrvijhkesne}${prop,con|Raavrhvijhkesne} {gielen}${vowc,i-ï|gïelen} provhkh.
@@ -314,7 +314,7 @@ daase naan geajnoeh juhtieh guktie idtji naan {giele-giehtjedæjja}${vowc,i-ï;h
 dajvi nommh paehpierasse tjaeledh. Daate lij buerie {råajvarimme}${fin,e-ie|råajvarimmie}, mohte fagkan seenhte {bøøtin}${vowc,øø-öö|böötin}.
 
 Mohte ibie edtjh ajve jeatjabidie skultedh gosse {gieline}¢{vowc,i-ï|gïeline}
-nimhtie. Ibie leah {jijtje}${vowc,i-ï|jïjtje} {væjkeles}${infl,adj,attr-pred|væjkele} orreme dejtie noeride {gielem}${vowc,i-ï|gïelem} leerehtidh.
+nimhtie. Ibie leah {jijtje}${vowc,i-ï|jïjtje} {væjkeles}${infl,adj,attr-sgnom|væjkele} orreme dejtie noeride {gielem}${vowc,i-ï|gïelem} leerehtidh.
 Manne mov gaavhtan soptsestem {jih}${vowc,i-ï|jïh} {jijtje-laejhtemem}${vowc,i-ï;hyph,1-0|jïjtjelaejhtemem} guadtam.
 
 Kultuvremojhtesh
@@ -360,7 +360,7 @@ ovmese dajvine. {Dihte}${vowc,i-ï|Dïhte} vihties gosse {edtjibie}${conc,ibie-j
 {dihte}${vowc,i-ï|dïhte} maahtoe eevre goh mijjen {jijtsistie}${vowc,i-ï|jïjtsistie} guvviem buerebe dorje. Ij lij ajve {mierhkesjimmie}${vowc,i-ï|mïerhkesjimmie} dejstie {sjiere}${vowc,i-ï|sjïere} aatijste vihkeles, mohte
 aaj buerie åadtjodh jienebem daejredh {mojhtsi}${conc,hts-htes|mojhtesi}
 {bijre}${vowc,i-ï|bïjre} {jih}${vowc,i-ï|jïh} aaj maahtoem almetji
-{bijre}${vowc,i-ï|bïjre} {gieh}${vowc,i-ï|gïeh} lin desnie {jieleminie}${vowc,e-ie|jielieminie}. {Vihkeles}£{infl,adj,attr-pred|Vihkele} lea aaj {kontinuitetem}${vowc,e-ee|kontinuiteetem}
+{bijre}${vowc,i-ï|bïjre} {gieh}${vowc,i-ï|gïeh} lin desnie {jieleminie}${vowc,e-ie|jielieminie}. {Vihkeles}£{infl,adj,attr-sgnom|Vihkele} lea aaj {kontinuitetem}${vowc,e-ee|kontinuiteetem}
 {giehtjedidh}${vowc,i-ï|gïehtjedidh} dej ovmese {kultuvremojhtsi}${conc,hts-htes|kultuvremojhtesi} måedtie såartsh- {tjiertijste}${vowc,i-ï|tjïertijste},
 låångkegh {gierkie-tijjeste}${hyph-0|gierkietïjjeste} {jih}${vowc,i-ï|jïh}
 mijjen daaletje {tijjese}${vowc,i-ï|tïjjese}.
