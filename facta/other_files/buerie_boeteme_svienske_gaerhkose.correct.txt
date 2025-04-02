@@ -281,14 +281,14 @@ Laavkome noeride
 Jïjnjemes aejkien maanah dah {gieh}${vowc,ï-i|gïeh} Svïenske gærhkosne {gieh}¥{0} lååvkesuvvieh, badth daelie {gellebh}€{foreign|jienebh} noerh jïh dovne geerve almetjh aaj sijhtieh lååvkesovvedh. Dam gellien aejkien darjoeh gosse skyllemasse luhkieh, lohkehtimmien mænngan jallh gosse dåehkesne kristelesvoeten bïjre soptsestalleminie.
 
 Laavkome jïh {lïhtsegevoete}${cmp,ege-eh;conc,go-gåå|lïhtsehvoete}
-Laavkome maadtoe jis lïhtseginie Svïenske gærhkosne sjïdtedh. Dïhte gie jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} lååvkesovveme aaj åådtje {lïhtsege}£{infl,sgnom-sgcom|lïhtseginie} Svïenske {gærhkose}£{infl,sgill-sgine|gærhkosne} årrodh, jïh ij daarpesjh {ikt}${conc,t-th|ikth} {vielien}${typos|vielie} {aejkien}¥{redun|} laavkodh. Svïenske gærhkoen öörnegen mietie {akte}¥{redun|} kristeles laavkome ihkuvasse lea.
+Laavkome maadtoe jis lïhtseginie Svïenske gærhkosne sjïdtedh. Dïhte gie jeatjah kristeles {sïebredahkesne}${vowc,ïe-ea;vowlat,e-a|seabradahkesne} lååvkesovveme aaj åådtje {lïhtsege}£{infl,sgnom-sgcom|lïhtseginie} Svïenske {gærhkose}£{noun,case,sgill-sgine|gærhkosne} årrodh, jïh ij daarpesjh {ikt}${conc,t-th|ikth} {vielien}${typos|vielie} {aejkien}¥{redun|} laavkodh. Svïenske gærhkoen öörnegen mietie {akte}¥{redun|} kristeles laavkome ihkuvasse lea.
 
 
 Provre
 
 Provre lea hïeje. Mojhtese jieliedasse. Ij ajve dejtie guaktide {gieh}${vowc,ï-i|gïeh} pruvrijægan juktie aaj {dej}${infl,plgen-plill|dejtie} slïektide jïh voelpide.
 
-Gosse gærhkosne pruvredh dïhte {akte}¥{redun|}gyrhkesjimmie mij ræjhkoes {{jïjnjh}¥{redun|} vuekine}${infl,pline-plela|vuekijste}. Jupmelen jïh {gaajhkh vïhnegi}£{demphrase,dem,noun,case,plnom-plgen|gaajhki vïhnegi} nommesne sinsitniem dåajvoehtibie gieriesvoetem vaarjelidh jïh sinsitnien baalte abpe jielemem tjåadtjodh. Jupmelem gihtjebe mijjen ektievoetem buerie sjugniedidh jïh mijjem {gaajhkh}£{infl,plnom-plgen|gaajhki} dåeriesmoeri tjïrrh viehkiehtidh mah mijjen jieliemisnie båetieh.
+Gosse gærhkosne pruvredh dïhte {akte}¥{redun|}gyrhkesjimmie mij ræjhkoes {{jïjnjh}¥{redun|} vuekine}${infl,pline-plela|vuekijste}. Jupmelen jïh {gaajhkh vïhnegi}£{demphrase,dem,noun,case,plnom-plgen|gaajhki vïhnegi} nommesne sinsitniem dåajvoehtibie gieriesvoetem vaarjelidh jïh sinsitnien baalte abpe jielemem tjåadtjodh. Jupmelem gihtjebe mijjen ektievoetem buerie sjugniedidh jïh mijjem {gaajhkh dåeriesmoeri}£{demphrase,dem,noun,case,plnom-plgen|gaajhki dåeriesmoeri} tjïrrh viehkiehtidh mah mijjen jieliemisnie båetieh.
 
 Buerie nuepieh {gååvnesieh}€{verb|leah} provregyrhkesjimmiem jïjtshligkie darjodh. Muvhth provresalmetjh sijhtieh {jïjtjene}${infl,sg1gen-pl3gen|jïjtsh} dåajvoeh tjaeledh, sinsitnide laavlodh jallh {mij akt}¥{cmp,2-1|mijakt} jeatjah jïjsthligkie darjodh. Læjhkan dïhte gyrhkesjimmie dennie maadtosne, gusnie aavoedieh jïh gijhtieh jielemen jïh gieriesvoeten vadtesijstie dovne provresalmetjidie jïh guesside.
 
