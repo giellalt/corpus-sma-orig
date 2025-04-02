@@ -205,7 +205,7 @@ ijste|paarrijste} guhth tjoeverimen jaahkoem {gierten}${vowc,i-ï|gïerten}
 {bijre}${vowc,i-ï|bïjre} luejhtedh. Gåabpatjahkh limen barkosne {jih}${vowc,i-
 ï|jïh} {maanagiertesijjie}${vowc,i-ï|maanagïertesijjie} lij daerpies. Jis gie
 lij maahteme tjirkedh edtji {dihte}${vowc,i-ï|dïhte} {maanagierte}${vowc,i-
-ï|maanagïerte} golme jaepieh juhtedh, dellie {ij}£{infl,verb,cop_neg_conneg_prt_kongr,neg,prssg3-prsdu2|ean} limen jueresne orreme
+ï|maanagïerte} golme jaepieh juhtedh, dellie {ij limen}£{infl,verb,cop_neg_conneg_prt_kongr,neg,prssg3-prsdu2|ean limen} jueresne orreme
 mejtie edtjimen maanide vaeltedh destie daaroen {maanagierteste}¢{vowc,i-
 ï|maanagïerteste}, Anne-Lise {sopteste}${conc,pt-pts|soptseste}.
 
@@ -442,10 +442,10 @@ daaroen {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertesne},
 {rihpsovvi}${vowc,i-ï|rïhpesovvi}. Desnie {åadtjojigan}${vowc,o-oe|åadtjoejigan}
 golme tæjmoeh saemien våhkosne, mohte buerebe årrodh
 dennie åarjelsaemien {{giertesne}¢{vowc,i-ï|gïertesne}}£{noun|maanagïertesne},
-{{Gierte}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerte}, lea joekoen {vihkeles}£{infl,attr-sgnom|vihkele} mijjese. Vaenie
+{{Gierte}¢{vowc,i-ï|gïertesne}}£{noun|Maanagïerte}, lea joekoen {vihkeles}£{infl,adj,attr-sgnom|vihkele} mijjese. Vaenie
 {åarjelsaemien {giele}${vowc,i-ï|gïele}}¥{cmp,2-1|åarjelsaemiengïele}
 {govlesovva}€{verb|govloe} juktie dan vaenie byjresh gusnie {giele}${vowc,i-ï|gïele}
-{veaksehke}£{infl,adj,sgnom-attr|veaksehks} {jarngesne}¥{redun|} {tjåadtjoeminie}€{verb|lea}. {Vihkeles}£{infl,attr-sgnom|Vihkele} lea
+{veaksehke}£{infl,adj,sgnom-attr|veaksehks} {jarngesne}¥{redun|} {tjåadtjoeminie}€{verb|lea}. {Vihkeles}£{infl,adj,attr-sgnom|Vihkele} lea
 dagkeres {gielebyjresh}${vowc,i-ï|gïelebyjresh} gåetien bæjngoelisnie. Im
 {jiejkh}${vowc,i-ï|jïejkh} gosse garmerdem man {vihkeles}£{infl,adj,attr-sgnom|vihkele}
 {{gierte}¢{vowc,i-ï|gïertesne}}£{noun|maanagïerte}, lea orre maanide eevtjedh saemien
@@ -474,7 +474,7 @@ buerebe dejgujmie saemiestidh. Joekehtse lea hævvi dej {gaskems}${conc,ms-msh|g
 {jih}${vowc,i-ï|jïh} {dihte}${vowc,i-ï|dïhte} båata destie
 guktie dah fuelhkieh leah {saemien {gielem}${vowc,i-ï|gïelem}}${cmp,2-1|saemiengïelem}
 gåetesne provhkeme. Sovmem {dihte}${vowc,i-ï|dïhte}
-{gierte}${vowc,i-ï|gïerte} {maanide}£{infl,case,plack-plnom|maanah}
+{gierte}${vowc,i-ï|gïerte} {maanide}£{infl,case,placc-plnom|maanah}
 {jearsoes dorje}€{verb|garmarostoeh} guktie {gielem}${vowc,i-ï|gïelem}
 {doestieh}${vowc,oe-ue|duestieh} provhkedh {jih}${vowc,i-ï|jïh} nimhtie saemien
 åadtjodh {goh}¥{redun|} voestes {giele}${vowc,i-ï|gïele}£{infl,case,sgnom-sgess|gïeline} gosse
