@@ -13,10 +13,10 @@ NÖÖRJESNE 
 
 
 SVL-N tseegkesovvi 1990 Saemiej {Rijhkesaervien}${vowc,i-ï|Rïjhkesaervien}
-nualan. {Dihte}${vowc,i-ï|Dïhte} lea {ektese-vyøki-siebrie}${hyph-0;hyph-
-0|ektesevyökisiebrie} Nöörjen, Sveerjen {jih}${vowc,i-ï|jïh} Såevmien
+{nualan}£{Foreign|åalan}. {Dihte}${vowc,i-ï|Dïhte} lea {ektese-vyøki-siebrie}${hyph-0;hyph-
+0|ektesevyökisiebrie} Nöörjen, Sveerjen {jih}${vowc,i-ï|jïh} {Såevmien}£{Foreign|Soemen}
 {gaskems}${pp,con|gaskemsh} Saemiej saavremen gaavhtan. Saemiej
-Saavremesiebrien leah 46 saervieh meatan govhte fylhkine gusnie 2000
+Saavremesiebrien leah 46 saervieh meatan {govhte fylhkine}£{demphrase,dem,noun,case,sgnom-sgine,pline-sgine|govhtene fylhkesne} gusnie 2000
 {lihtsegh}${vowc,i-ï|lïhtsegh}.
 
 Ulmie 
@@ -28,8 +28,8 @@ kultuvrem {jih}${vowc,i-ï|jïh} {ideentitetem}${vowc,ee-e;vowlat,e-
 ee|identiteetem} övtiedih {jih}${vowc,i-ï|jïh} nænnoestidh. 
 Saavreme
 Saemiej
-Saavremesiebrien saavremesuerkieh naemhtie öörneme; Tjoejkedh, tjoejkedh/
-soehpenjinie {åedtjiedidh}${vowc,åe-åå,vowlat,ie-e|åådtjedidh}, roehtedh,
+Saavremesiebrien saavremesuerkieh naemhtie {öörneme}£{Foreign|öörnesovveme}; Tjoejkedh, tjoejkedh/
+soehpenjinie {åedtjiedidh}${vowc,åe-åå,vowlat,ie-e|åådtjedidh}, {roehtedh}£{Foreign|vaarredidh},
 soehpenjinie {åedtjedidh}${vowc,åe-åå,vowlat,ie-e|åådtjedidh} {jih}${vowc,i-
 ï|jïh} {vuejeme-råantjoej}${hyph-0|vuejemeråantjoej} gujmie gaahtjedh.
 
@@ -39,7 +39,7 @@ Darjomh
 SVL-N {reegijovneles}${vowc,ee-e|regijovneles} gaahtjemh gusnie gaahtjeminie
 tjoejkedh. Dan raajan gaahtjemh Finnmarhkesne, Romssesne {jih}${vowc,i-ï|jïh}
 {Noerhte-Novrlaantesne}${conc,vr-rd|Nordlaantesne} orreme. Giesege dah
-saervieh ånnetji jeatjhlaakan öörneme; {saavremetjåangkojne}${conc,gk-
+saervieh ånnetji jeatjhlaakan {öörneme}£{Foreign|öörnesovveme}; {saavremetjåangkojne}${conc,gk-
 ghk|saavremetjåanghkojne}, gaahtjeminie jallh {Cup-ine}${hyph-0|Cupine}. 
 
 
@@ -49,15 +49,15 @@ ghk|saavremetjåanghkojne}, gaahtjeminie jallh {Cup-ine}${hyph-0|Cupine}.
 Saemien gaahtjeme (SM)  
 {Fierhten}${vowc,i-ï|Fïerhten} jaepien saemien
 gaahtjemem giesege {jih}${vowc,i-ï|jïh} daelvege öörnieh. Nöörje, Sveerje
-{jih}${vowc,i-ï|jïh} Såevmie låtnoehtieh dam gaahtjemem öörnedh.
+{jih}${vowc,i-ï|jïh} {Såevmien}£{Foreign|Soemen} låtnoehtieh dam gaahtjemem öörnedh.
   
 Arctic
 Winter Games (AWG)
 SVL-N lea dovne meatan {AWG-esne}${acr,suf|AWG:sne}, maam
 noeride mejtie 13-19 jaepien båeries öörnieh. Barkeminie lea aaj
 {lihtseginie}${vowc,i-ï|lïhtseginie} {AWG-n}${acr,suf|AWG:n} siebresne
-sjïdtedh. Dam siebriem tseegkesovvi juhkoe åssjele aalkoealmetjh
-{arktigke}${infl,sgnom-sggen;conc,gk-hk|arktihken} dajvine maehtieh daelvege
+sjïdtedh. {Dam siebriem}£{demphrase,dem,noun,case,sgacc-sgnom|daate siebrie} tseegkesovvi juhkoe åssjele aalkoealmetjh
+{arktigke}${infl,sgnom-sggen;conc,gk-hk|arktihke} dajvine maehtieh daelvege
 {tjåangkenidh}${conc,gk-ghk;vpwlat,a-e|tjåanghkenidh} {saaavredh}${vowc,aaa-
 aa|saavredh}. {Fierhten}${vowc,i-ï|Fïerhten} mubpien jaepien Alaska(USA),
 Kaanada, Russlaante, {jih}${vowc,i-ï|jïh} Kruanaeatneme(Danmarhke)
@@ -67,7 +67,7 @@ låtnoehtieh gaahtjemem öörnedh.
 {Vuejemeråantjoej gujmie}${cmp,2-1|Vuejemeråantjoejgujmie} gaahtjedh 
 
 
-Såevmie {jih}${vowc,i-ï|jïh} Sveerje ektesne gaahtjemem {öörnejægan}${vowlat,e-
+{Såevmien}£{Foreign|Soemen} {jih}${vowc,i-ï|jïh} Sveerje ektesne gaahtjemem {öörnejægan}${vowlat,e-
 i|öörnijægan}  gosse {vuejeme-råantjoejgujmie}${hyph-
 0|vuejemeråantjoejgujmie} gaahtjedh. Aalkeme leah ööhpehtidh guktie
 dalkedh, guktie nimhtie jienebh {saavermasse}${typos|saavremasse} tjaengieh.
@@ -105,11 +105,11 @@ SÁMI SPÁBBÁČIEKČANLIHTTU (SSL) / SAEMIEN {JUELKIETJENGKERE-SIEBRIE}${hyph-
 
 Saemien {juelkietjengkere-siebrie}${hyph-0|juelkietjengkeresiebrie}
 tseegkesovvi golken 18. biejjien 2003 Saemiej saavremesiebrien nualan (SSL)-
- Nöörjesne. Dan leah {gøøkte}${vowc,øø-öö|göökte} saadthalmetjh
+Nöörjesne. Dan leah {gøøkte}${vowc,øø-öö|göökte} saadthalmetjh
 {SVL’n}${acr,suf|SVL:n} ståvrosne. 
 
 
- Åejvieulmie: 
+Åejvieulmie: 
 Maadtegem tseegkedh guktie Saemien juelkietjengkere-
 {siebrie}${hyph-0|juelkietjengkeresiebrie} båetije biejjide nænnoes
 {jih}${vowc,i-ï|jïh} stinkes sjædta, gusnie saavremen {jih}${vowc,i-ï|jïh}
@@ -130,9 +130,9 @@ Bielieulmieh:
 e|regijovneles} {jih}${vowc,i-ï|jïh} gaskenasjovneles. 
 
 
-· Saemien eatnemem juelkietjengkeren tjïrrh buerebe åehpiedehtedh
-{jih}${vowc,i-ï|jïh} vuesiehtidh  guktie almetjh saemide åålmege-
-{tjïertine}${cmp,ege-eh|åålmegetjïertine} {vuavkasjieh}${vowc,a-e|vuavkesjieh},
+· Saemien eatnemem {juelkietjengkeren tjïrrh}£{pp-sgcom|juelkietjengkerinie} buerebe åehpiedehtedh
+{jih}${vowc,i-ï|jïh} vuesiehtidh  guktie almetjh saemide {åålmege-
+tjïertine}${cmp,ege-eh|åålmehtjïertine} {vuavkasjieh}${vowc,a-e|vuavkesjieh},
 staatusinie {alkoeåålmeginie}${vowc,aa-a|aalkoeåålmeginie} abpe eatnamisnie
 
 Saemien {juelkietjengkere-siebrie}${hyph-0|juelkietjengkeresiebrie} sæjhta
