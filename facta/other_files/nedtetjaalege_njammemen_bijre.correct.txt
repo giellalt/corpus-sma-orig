@@ -95,7 +95,7 @@ maahtah duvtedh jïh
 njammam {C-vuekine}¢{noun|C-hammojne} sjïehtesjidh {{gïete}¢{case,sgnom-sggen|gïeten} nuelesne, {bielhkie}${conc,lhk-lk|bielkie} loeves njamman
 bijjiebielesne).
 
-• Jis {dov}£{redun|} {jøømmetjh}${vowc,øø-öö|jöömmetjh}, maahtah
+• Jis {dov}¥{redun|} {jøømmetjh}${vowc,øø-öö|jöömmetjh}, maahtah
 {gåabpatjahkh}¢{case,plnom-placc|gåabpatjahkide} njammehtidh seamma
 aejkien.
 
