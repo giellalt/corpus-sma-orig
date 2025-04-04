@@ -183,7 +183,7 @@ Eah {edtjieh}£{infl,verb,prspl3-conneg|edtjh} staath nænnoestidh jallh {luhpie
 
 {Saemiedigkij}${fin,ij-iej|Saemiedigkiej} reaktah jeatja {aamhtse-ryøjredimmesne}${hyph-0;vowc,ø-ö|aamhteseryöjredimmesne}
 
-{Saemiedigkieh reaktah utnieh}£{hab|Saemiedigkiej leah reaktah} meatan årrodh byjjes {raerijne}${fin,ijne-ine|raerine} gosse {aamhtsi}${vowc,0-e|aamhtesi} {bijre}${vowc,i-ï|bïjre} digkiedidh mah saemide dijpieh.
+{Saemiedigkieh reaktah utnieh}£{hab,utnieh_cop|Saemiedigkiej leah reaktah} meatan årrodh byjjes {raerijne}${fin,ijne-ine|raerine} gosse {aamhtsi}${vowc,0-e|aamhtesi} {bijre}${vowc,i-ï|bïjre} digkiedidh mah saemide dijpieh.
 
 Saemiedigkieh edtjieh saemien {aamhtside}${vowc,0-e|aamhtesidie} {giehtjedidh}${vowc,i-ï|gïehtjedidh} aerebi goh byjjes raerieh dejtie nænnoestieh.
 
@@ -205,7 +205,7 @@ Dah {sjiere}${vowc,i-ï|sjïere} laanti {nasjovnale}${conc,vn-n;vowc,a-aa|nasjon
 
 Saemieh {jih}${vowc,i-ï|jïh} {internasjovnale}${conc,vn-n|internasjonaale} {representasjovnh}¢{w|åehpiedehtemh}
 
-Saemiedigkieh edtjieh {saemij}${fin,ij-iej|saemiej} digkiedimmide meatan vaeltedh gosse {gaskestaati {tjåangkoeh}${conc,gk-ghk|tjåanghkoeh}}£{hab|gaskestaati leah tjåanghkoeh}.
+Saemiedigkieh edtjieh {saemij}${fin,ij-iej|saemiej} digkiedimmide meatan vaeltedh gosse {gaskestaati {tjåangkoeh}${conc,gk-ghk|tjåanghkoeh}}£{hab,missingcop|gaskestaati leah tjåanghkoeh}.
 
 Staath edtjieh aaj saemide eevtjedh {goh {lihtsegh}${vowc,i-ï|lïhtsegh}}¥{case,goh_nom-ess|lïhtseginie} {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} institusjovnine {jih}${vowc,i-ï|jïh} aaj stilledh meatan {goh}¥{w,redun|} {håaleniere}¢{w|håaloejinie} {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} {tjåangkojne}${conc,gk-ghk|tjåanghkojne}.
 
@@ -235,7 +235,7 @@ Saemien {giele}${vowc,i-ï|gïele} {jih}${vowc,i-ï|jïh} kultuvre
 
 Saemiej {giele-reaktah}${vowc,i-ï;hyph-0|gïelereaktah}
 
-Saemiej leah reaktah nuhtjedh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh} {gielem}${vowc,i-ï|gïelem} {jih}${vowc,i-ï|jïh} vuekide båetije {sliektide}${vowc,i-ï|slïektide}. {Dejtie aaj reaktah}£{hab|dej leah aaj reaktah} barkedh guktie maahtoeh saemien {gielen}${vowc,i-ï|gïelen} {bijre}${vowc,i-ï|bïjre} maahta vadtasovvedh {dejtie guhth}£{demphrase,noun,case,nom-ill|dejtie guhtide} geerve {gieline}¢{vowc,i-ï|gïeline} {{giehtelidh}${vowc,i-ï|gïehtelidh}}£{infl,verb,inf-pl3|gïehtelieh}.
+Saemiej leah reaktah nuhtjedh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh} {gielem}${vowc,i-ï|gïelem} {jih}${vowc,i-ï|jïh} vuekide båetije {sliektide}${vowc,i-ï|slïektide}. {Dejtie aaj reaktah}£{hab,sgacc-sggen,missing-cop|dej leah aaj reaktah} barkedh guktie maahtoeh saemien {gielen}${vowc,i-ï|gïelen} {bijre}${vowc,i-ï|bïjre} maahta vadtasovvedh dejtie guhth geerve {gieline}¢{vowc,i-ï|gïeline} {{giehtelidh}${vowc,i-ï|gïehtelidh}}£{infl,subj_verb_kongr,verb,inf-pl3|gïehtelieh}.
 
 Saemieh edtjieh reaktam utnedh jiehtedh, steeredh {jih}${vowc,i-ï|jïh} goerkesem åadtjodh {jijtse}${vowc,i-ï|jïjtse} nommide {jih}${vowc,i-ï|jïh} aaj nommide ovmese dajvine.
 
