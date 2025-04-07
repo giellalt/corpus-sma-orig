@@ -40,7 +40,7 @@ saemiedigkieh {dej golme laantine}£{case,demphrase,dem,gen-ine|dejnie golme laa
 
 • moenedh guktie saemiej nyjsenæjjaj vuekieh {jih}${vowc,i-ï|jïh} barkoeh maehtieh {ektievoetesne}¢{w|siebriedahkesne} bijjiebasse lutnjesovvedh, {juktie aaj nimhtie maehtieh buerebe vuesiehtæmman båetedh ovmese {åårganisasjovnine}${vowc,åå-o|organisasjovnine}}¥{wo|juktie aaj nimhtie maehtieh buerebe vuesiehtæmman ovmese organisasjovnine båetedh}
 
-• {sijhtieh edtjieh saemieh ektesne veasodh {goh}¥{redun|} {akte}¥{redun|} {{ålme-tjierte}${vowc,å-åå;cmp,e-eh;hyph-0|åålmehtjïerte}}£{case,nom-ess|åålmehtjïertine} {daej golme laantine}£{case,gen-ine|daejnie golme laantine}}¥{wo|sijhtieh saemieh edtjieh ektesne åålmehtjïertine daejnie golme laantine veasodh}
+• {sijhtieh edtjieh saemieh ektesne veasodh {goh}¥{redun|} {akte}¥{redun|} {{ålme-tjierte}${vowc,å-åå;cmp,e-eh;hyph-0|åålmehtjïerte}}£{case,nom-ess|åålmehtjïertine} {daej golme laantine}£{noun, demphrase,case,plgen-sgine|daennie golmene laantesne}}¥{wo|sijhtieh saemieh edtjieh ektesne åålmehtjïertine daejnie golme laantine veasodh}
 
 • vuesiehtidh saemiej vaajtelimmieh, væljoeh {jih}${vowc,i-ï|jïh} reaktah {{jijtje}${vowc,i-ï|jïjtje}}£{infl,pron,refl,sgnom-plnom|jïjtjh} {diedtem}${vowc,i-ï|dïedtem} guedtedh
 
