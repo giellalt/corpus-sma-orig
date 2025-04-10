@@ -1,6 +1,6 @@
 Jiehtieh heej buerebe healsose!
-Västerbottenen leenen laantedigkien lea {visjovne}£{foreign|nïekeds} (mij
-bijjie {siktie}£{wo|visjovne mij bæjjese siktie}). Jaepien 2020 lea
+Västerbottenen leenen laantedigkien lea {visjovne}£{foreign|nïekeds} mij
+{bijjie}£{foreign|bæjjese} siktie. Jaepien 2020 lea
 {Västerbotenen}${conc,t-tt|Västerbottenen} (veartenen bööremes healsoe jïh
 veartenen vervesne åålmege) Bööremes dejnie
 {visjovnine}£{foreign|nïekedassine} {lea}¥{,daate} {gaajhkesh}¥{gaajhkesh
@@ -9,10 +9,10 @@ haemiedidh. Gaajhkesh vitnieh aaj gosse dejnie berkieh.
 
 {Portalen}${vowc,a-aa|Portaalen} ulmie lea {skreejreredh}${conc,reredh-
 redh|skreejredh} jïh maahtoem buerebe healsose vadta. Mijjieh vedtebe
-våaromen {praktijhkeles}${adj,con|praktihkeles} raerieh jïh gyhtjelassh
-gihtjebe maam lea {nuhtegs}£{infl,attr-pred|nuhtege} dan bïjre ussjedidh. Maam
+våaromen {praktijhkeles}${adj,con|praktihke} raerieh jïh gyhtjelassh
+gihtjebe maam lea {nuhtegs}£{infl,attr-sgnom|nuhtege} dan bïjre ussjedidh. Maam
 edtjebe {darjodh}£{verb|buektiehtidh} {guktie vervesne
-årrodh}£{verb|verviestidh} lea joekehts almetjistie almetjasse. Akte
+årrodh}£{verb|verviestidh} lea {joekehts}£{infl,attr-sgnom|joekehth} almetjistie almetjasse. Akte
 almetje buerebe jïh {healsojis}${adj|buerie} beapmoeh byöpmedidh mohte mubpie
 sov lïhkemes fuelhkiem råaka.
 
@@ -20,7 +20,7 @@ Gaajhkesh maehtieh sov healsoem {buaranidh}£{verb|bueriedidh}. {Dïhte dan
 bïjre maahta dan hijven veasodh goh nööredh destie mah leah mov
 bïjre.}£{wo|uforståelig setning} {Juktie ovmessie bielieh healsoem dijpieh
 gååvnesieh muvhth mestie datne aalkah buerebe veasodh}£{wo|uforståelig
-setning}. {Vaeltieh}£{verb|doerelh} haestemem: Jiehtieh heej buerebe
+setning}. {Vaeltieh}£{foreign|doerelh} haestemem: Jiehtieh heej buerebe
 healsose!
 
 Mijjieh sïjhtebe datne edtjh {bööremes}¥{dennie bööremes}
@@ -40,7 +40,7 @@ lea åvtese barkedh  jïh healsoem {eevtiedeminie}${verb,mix|evtedeminie}.
 
 Åvtemiereste buerebe sjïdti, dam maahta statistihkeste lohkedh 1980-
 låhkosne {vuesehti}${verb,svow|vuesiehti} Västerbottenen lij dïhte leene mij
-lij {nåekies}£{infl,attr-pred|nåekie} gosse {infarkt-jaamemem}${noun,x|infarktjaamemem} jïh jaamedahkem
+lij {nåekies}£{infl,attr-sgnom|nåekie} gosse {infarkt-jaamemem}${noun,x|infarktjaamemem} jïh jaamedahkem
 dejtie {gieh}${refl,ascii|gïeh} lih nuerebe goh 75 vuartasji.
 {Daen}${dem,vowc|Daan} biejjien lea Västerbotten bijjemes. Dah
 {gieh}${refl,ascii|gïeh} Västerbottenisnie årroeminie vaenemes rïjhkesne
@@ -70,7 +70,7 @@ byjreskh buaranidh mah healsoem dæjpa positijveles vuekine.
 {www.hälsa2020.se}∞{url} lea {Västebottenen}${conc,b-rb|Västerbottenen}
 leenen laantedigkie åvtanimmie, jeatjah leenen
 {sïebredahkenaktöörigujmie}${vowc,ïe-ie;vowlat,e-
-ie|siebriedahkenaktöörigujmie} jïh lea sïlle geajnosne visjovnem
+ie|seabradahkenaktöörigujmie} jïh lea sïlle geajnosne {visjovnem}£{foreign|nïekedassem}
 tjïrrehtidh jaepien 2020 lea {Västebottenen}${conc,b-rb|Västerbottenen}
 veartenen bööremes healsoe jïh veartenen {frïeskemes}${vowc,ïe-i|friskemes}
 åålmege.
