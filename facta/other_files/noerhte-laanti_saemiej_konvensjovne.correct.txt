@@ -24,7 +24,7 @@ nænnoestieh
 • saemide laante {jih}${vowc,i-ï|jïh} tjaetsie daerpies kultuvren {sjiekenassen}¥{redun|} gaavhtan
 
 • gosse saemiej {reaktasvoete}¢{w|reaktah} {edtja}£{infl,verb,subj_verb_kongr,prssg3-prspl3|edtjieh} {tseegesovvedh}${conc,g-gk|tseegkesovvedh}, dellie daerpies mujhtedh guktie saemieh aerebi {aejtemen}${conc,jt-jht|aejhtemen} nuelesne orreme {jih}${vowc,i-ï|jïh} nimhtie ovreaktam dååsteme
-saemiedigkieh {dej golme laantine}£{case,demphrase,dem,gen-ine,pline-sgine|dennie golmene laantesne} {sjiekenassen}${vowc,i-ï|sjïekenassen} mietie {naemhtieh}${typos|naemhtie} tjoeverieh vierhtiedieh
+saemiedigkieh {dej golme laantine}£{numphrase,dem,num,gen-ine,pline-sgine|dennie golmene laantesne} {sjiekenassen}${vowc,i-ï|sjïekenassen} mietie {naemhtieh}${typos|naemhtie} tjoeverieh vierhtiedieh
 
 • sijhtieh saemiej jielemem {jih}${vowc,i-ï|jïh} kultuvren båetije biejjide bueriedidh
 
@@ -433,7 +433,7 @@ Njielje luhkie njealjede tjaalege
 
 Ektesvuekiebarkoe saemiej {ministri-}${hyph-0|ministeri-} {jih}${vowc,i-ï|jïh} saemiedigkiej {lihtsegi}${vowc,i-ï|lïhtsegi} {gaskems}${pp,con|gaskemsh}
 
-Ministerh Finlaanteste, {Nøørjeste}${vowc,øø-öö|Nöörjeste} {jih}${vowc,i-ï|jïh} Sveerjeste {jih}${vowc,i-ï|jïh} {saemiedigkie- presidenth}${cmp,2-1;vowc,e-ee|saemiedigkiepresideenth} {dej golme laantine}£{noun,dephrase,case,plgen-sgine,pline-sgine|dennie golmene laantesne}, tjoeverieh abpe {tijjen}${vowc,i-ï|tïjjen} {tjirrh}¢{vowc,i-ï|tjïrrh} {tjåangkojsne}${fin,ojsne-ojne|tjåanghkojne} gaavnedidh.
+Ministerh Finlaanteste, {Nøørjeste}${vowc,øø-öö|Nöörjeste} {jih}${vowc,i-ï|jïh} Sveerjeste {jih}${vowc,i-ï|jïh} {saemiedigkie- presidenth}${cmp,2-1;vowc,e-ee|saemiedigkiepresideenth} {dej golme laantine}£{numphrase,case,plgen-sgine,pline-sgine|dennie golmene laantesne}, tjoeverieh abpe {tijjen}${vowc,i-ï|tïjjen} {tjirrh}¢{vowc,i-ï|tjïrrh} {tjåangkojsne}${fin,ojsne-ojne|tjåanghkojne} gaavnedidh.
 
 {Dagkers}${vowc,0-e|Dagkeres} ektesvuekiebarkoe edtja vuepside daennie {konvensjovsne}${vowc,0-e|konvensjovnesne} vijriebasse guedtedh, guktie voestes {tjaalegijsnie}${conc,js-s|tjaalegisnie} tjåådtje. {Tjåangkojne}${conc,gk-ghk|Tjåanghkojne} edtjieh barkedh saemiej vihkeles {aamhtsigujmie}${vowc,0-e|aamhtesigujmie} mah {gaajhksidie}${vowc,0-e|gaajhkesidie} dijpieh.
 
