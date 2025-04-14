@@ -14,7 +14,7 @@ edtjh dåeriedidh.
 {Mannasinie}€{xxx|man åvteste}?
 
 {Saemien noereh veasoeminie abpe {Nøøren}${infl,sggen-sgine|Nöörjesne}}¥{wo|Saemien noereh abpe Nöörjesne veasoeminie}
-{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide mij {politikem}£{noun,case,sgacc-sggen||politihken} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}. Gellien aejkien {lin}¥{redun|} noereh {jih}${vowc,i-ï|jïh}
+{jih}${vowc,i-ï|jïh} daelie ij gååvnesh naaken {råakesjimmie-sijjie}${hyph-0|råakesjimmiesijjie} mijjide mij {politikem}£{noun,case,sgacc-sggen|politihken} {jih}${vowc,i-ï|jïh} jaahkoen {dåeresth}${pp,vowc|dåaresth}. Gellien aejkien {lin}¥{redun|} noereh {jih}${vowc,i-ï|jïh}
 geervealmetjh ohtselamme {juste}¥{redun|} dagkeres siebriem, {jih}${vowc,i-ï|jïh} aaj
 {Nøørjesne}${vowc,øø-öö|Nöörjesne} saemien {rijhkesiebrie}${vowc,i-ï|rïjhkesiebrie} noeride daerpies. Daam edtjebe daelie darjodh!
 

@@ -46,7 +46,7 @@ Saemiedigkie naemhtie tjielkieh:
 
 7. Sveerjen reerenasse tjoevere tjirkeslaakan barkedh juktie dah {paarth}${noun,con|paarhth} Haerjedaelien ulmesne ektesne geajnoem gaavni gåatoemasse. Reerenasse aaj tjoevere åenehks {vååjnosne}${vowc,åå-åa|våajnosne} daerpies beetnehvierhtieh vedtedh {aamtesasse}${conc,mt-mht|aamhtesasse}. Guktie naemhtie {sjidteme}${vowc,i-ï|sjïdteme} Haerjedaelienulmesne lea Sveerje ij {sijtht}${vowc,i-ï|sïjhth} laakem bueriemdidh mejtie {dååhkasjehtin}${verb,vowc|dåhkasjehtin} {tijjesne}${vowc,i-ï|tïjjesne} gosse {raasisme}${noun,vowc|rasisme} lij, dannasinie Sveerje {diedtem}${vowc,i-ï|dïedtem} åtna gåatomem {ekspropiereth}${verb,mix|eksproprieeredh} jis ij maehtieh {siemes}${vowc,i-ï|sïemes} {sjidtedh}${vowc,i-ï|sjïdtedh}.
 
-8. Gåessie båetije {laakem}£{noun,sgacc-sgnom|laake} {tseegjsovvedh}${verb,mix|tseegkesovvedh} saemiej reaktaj {bijre}${vowc,i-ï|bïjre} dellie saemieh {{tjoever}${verb,con|tjoeverh}£{infl,verb,subj_verb_kongr,prssg2-prspl3|tjoeverieh} daam {dååhkasjehtedh}${verb,vowc|dåhkasjehtedh}.
+8. Gåessie båetije {laakem}£{noun,sgacc-sgnom|laake} {tseegjsovvedh}${verb,mix|tseegkesovvedh} saemiej reaktaj {bijre}${vowc,i-ï|bïjre} dellie saemieh {{tjoever}${verb,con|tjoeverh}}£{infl,verb,subj_verb_kongr,prssg2-prspl3|tjoeverieh} daam {dååhkasjehtedh}${verb,vowc|dåhkasjehtedh}.
 
 
 

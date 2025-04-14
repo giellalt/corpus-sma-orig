@@ -33,7 +33,7 @@ Tradisjovni mietie {maehtibie}${vowlat,i-iej|maehtiejibie} saemiej {gietevætoem
 
 {IEBNH}${vowc,i-ï|ïEBNH}
 
-Jis edtja væjkeles {vætnoje}${xxx|vytnesjæjjine} {sjidtedh}${vowc,i-ï|sjïdtedh}, ij ajve maahtoeh {iebnieh}${noun,mix|ïebneh} {bijre}${vowc,i-ï|bïjre}}£{po_acc_gen|ïebni bïjre} nuekies, mohte {tjovere}${verb,vow|tjoevere} aaj daejredh guktie {jih}${vowc,i-ï|jïh} aaj
+Jis edtja væjkeles {vætnoje}${xxx|vytnesjæjjine} {sjidtedh}${vowc,i-ï|sjïdtedh}, ij ajve maahtoeh {iebnieh}${noun,mix|ïebneh} {{bijre}${vowc,i-ï|bïjre}}£{po_acc_gen|ïebni bïjre} nuekies, mohte {tjovere}${verb,vow|tjoevere} aaj daejredh guktie {jih}${vowc,i-ï|jïh} aaj
 gusnie {iebnide}${vowc,i-ï|ïebnide} gaavnedh. Dagkeres maahtoeh ij maehtieh dallah åadtjodh, mohte maahtoeh mah leah boelveste {sliekte-boelvese}${ vowc,i-ï ,hyph-0|slïekteboelvese} {vaadtasovemme}${vowc,aa-a;conwb,ve-vv;conc,mm-m vadtasovveme}, leah daerpies.
 
 Gusnie {biegke}${vowc,i-ï|bïegke}, {jiegkedimmie}${vowc,i-ï|jïegkedimmie} gååvnese, {jih}${vowc,i-ï|jïh} magkarinie dajvine moerh sjidtieh, leah {vihkeles}£{infl,adj,attr-sgnom|vihkele} {jih}${vowc,i-ï|jïh} vuesiehtieh guktie dah ovmese {iebnh}${vowc,i-ï|ïebnh} {sjiehtieh.Desnie}${mix,x|sjiehtieh. Desnie} gusnie jalke dajve desnie {biegke}${vowc,i-ï|bïegke} moeride syjjehte {jih}${vowc,i-ï|jïh} dah kråavvan {jih}${vowc,i-ï|jïh} vuelehks sjidtieh.

@@ -477,7 +477,7 @@ gåetesne provhkeme. Sovmem {dihte}${vowc,i-ï|dïhte}
 {gierte}${vowc,i-ï|gïerte} {maanide}£{infl,case,placc-plnom|maanah}
 {jearsoes dorje}€{verb|garmarostoeh} guktie {gielem}${vowc,i-ï|gïelem}
 {doestieh}${vowc,oe-ue|duestieh} provhkedh {jih}${vowc,i-ï|jïh} nimhtie saemien
-åadtjodh {goh}¥{redun|} voestes {giele}${vowc,i-ï|gïele}£{infl,case,sgnom-sgess|gïeline} gosse
+åadtjodh {goh}¥{redun|} voestes {{giele}${vowc,i-ï|gïele}}£{infl,case,sgnom-sgess|gïeline} gosse
 skuvlesne aelkieh.
 
 [1] Daan {bijre}${vowc,i-ï|bïjre} lea aaj tjaalasovveme Saemien
