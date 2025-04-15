@@ -10,7 +10,7 @@ Eejhtegh gååvnesieh aaj mah eah gåessie {gännah}${vowc,ä-æ|gænnah} {giele
 
 Daate {gärjetje}${vowc,ä-æ|gærjetje} eejhtegidie sjiehtele mah {iedtjekems}${vowc,i-ï;kems-0|ïedtjem} {utnieh dan {guektiengielese}${vowc,i-ï|guektiengïelese} daaroen {jih}${cc,vowc,i-ï|jïh} saemien}${xx|uforståelig setning!}.
 
-Seamma guktie dijjen {jijtjedh}${vowc,i-ï|jïjtjedh} saemien maahtoeh leah, {sijhtede}${vowc,i-ï|sïjhtede} {läjhkan}${vowc,ä-æ|læjhkan} nuepiem dijjen maanide vedtedh, saemien {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} (guektien {gieline}£{demphrase,case,sggen-sgine,sgine-sgine|gööktene gïelesne} jieledh. Daejnie {gärjetjinie}${vowc,ä-æ|gærjatjinie} {sijhtebe}${vowc,i-ï|sïjhtebe} raeriem dijjese vedtedh, dijjieh mah {sijhtede}${vowc,i-ï|sïjhtede} dijjen maanide daam vadtesem vedtedh.
+Seamma guktie dijjen {jijtjedh}${vowc,i-ï|jïjtjedh} saemien maahtoeh leah, {sijhtede}${vowc,i-ï|sïjhtede} {läjhkan}${vowc,ä-æ|læjhkan} nuepiem dijjen maanide vedtedh, saemien {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} {guektien gieline}£{numphrase,case,sggen-sgine,sgine-sgine|gööktene gïelesne} jieledh. Daejnie {gärjetjinie}${vowc,ä-æ|gærjatjinie} {sijhtebe}${vowc,i-ï|sïjhtebe} raeriem dijjese vedtedh, dijjieh mah {sijhtede}${vowc,i-ï|sïjhtede} dijjen maanide daam vadtesem vedtedh.
 
 Man vihkeles {giele}${vowc,i-ï|gïele} {almehtjidie}${conc,htj-tj|almetjidie}?
 Akte {giele}${vowc,i-ï|gïele} {jijnjh}${vowc,i-ï|jïjnjh} åtnoeh åtna. {Gielem}${vowc,i-ï|Gïelem} nuhtjebe gosse edtjebe jeatjah almetjigujmie soptsestidh jallh {maam {ovmessi}${fin,i-ie|ovmessie} {bijre}${vowc,i-ï|bïjre}}£{gensg,accsg,case|man ovmessie bïjre} gihtjedh. Dam daarpesjibie guktie guarkedh, ussjedidh {jih}${vowc,i-ï|jïh} goerehtalledh. Mijjen {gielem}${vowc,i-ï|gïelem} daarpesjibie guktie maehtedh dam mijjen jielemetsiehkiem tsevtsedh. {Giele}${vowc,i-ï|Gïele} lea mijjen maadtoe, gaajh veaksehke {gielen}${noun,vowc,i-ï|gïelen} {jih}${vowc,i-ï|jïh} aepien gaskemsh leah.
@@ -130,7 +130,7 @@ Jaepeste 2000, Svöörjesne, dellie {saemiengiele}${noun,vowc,i-ï|saemiengïele
 
 Svöörjesne leah govhte saemieskuvlh; {Gàrasavvon}${prop,vowc,i-ï|Gárasavvon}, Giron, {Làttevàrri}${prop,vowc,i-ï|Láttevárri}, Jiellevárre, Jåhkåmåhkke {jih}${cc,vowc,i-ï|jïh} Dearna.
 
-Saemien {integreringe-ööhpetimmie}${hyph-0|integreeremeööhpehtimmie} {gellene {tjieltine}${vowc,i-ï|tjïeltine}}£{demphrase,pline-sgine|gelline tjïeltesne} gååvnesieh.
+Saemien {integreringe-ööhpetimmie}${hyph-0|integreeremeööhpehtimmie} {gellene {tjieltine}${vowc,i-ï|tjïeltine}}£{demphrase,dem,noun,pline-sgine|gelline tjïeltesne} gååvnesieh.
 
 Lohkh vielie; {http://www.sameskolstyrelsen.se/.}∞{url}
 
