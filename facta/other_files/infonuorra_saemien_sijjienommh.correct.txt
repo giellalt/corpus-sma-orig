@@ -1,6 +1,5 @@
 Saemien sijjienommh
-{Saemien sijjienommh båata}£{infl,sg3prs-pl3prs|Saemien sijjienomh
-båetieh} saemiej {jielemistie}${vowlat,e-ie|jieliemistie}, vijremistie,
+Saemien sijjienommh {båata}£{infl,sg3prs-pl3prs|båetieh} saemiej {jielemistie}${vowlat,e-ie|jieliemistie}, vijremistie,
 {gøølemistie}${vowc,øø-öö|göölemistie} {jih}${vowc,i-ï|jïh}
 {båatsoejste}${vowlat,oe-o|båatsojste}.
 
@@ -28,7 +27,7 @@ esisnie|aamhtesisnie} åtna.
 {vierhtiej gujmie}${cmp,2-1|vierhtiejgujmie} gåessie edtjin dam ”stoerre
 {naasjonale}${vowc,aa-a;vowlat,a-aa|nasjonaale} barkoem” buektiehtidh,
 {jih}${vowc,i-ï|jïh} gaajhkh tjoerin viehkiehtidh- gærhkoe, skuvle,
-{liense}${conc,n-nt;fin,e-ie|lientsie}, {meedija}${vowc,ee-e|meedia}, reereme
+{liense}${conc,n-nt;fin,e-ie|lientsie}, {meedija}${vowc,ee-e|meedije}, reereme
 {jih}${vowc,i-ï|jïh} politihkerh. {Nyøjhkin}${vowc,yø-yö|Nyöjhkin} saemiestidh.
 Daate saemien {øøvtiedimmiem}${vowc,øø-ö|övtiedimmiem} skilki {jih}${vowc,i-
 ï|jïh} aaj saemiej {domtenasside}${fin,nasside-sidie|domtesidie}. Stoerre
