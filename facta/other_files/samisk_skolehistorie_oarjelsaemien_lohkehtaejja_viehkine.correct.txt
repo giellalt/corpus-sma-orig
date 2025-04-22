@@ -106,8 +106,9 @@ lij {mijjen}${infl,sggen-sgcom|mijjine} ektine. Naan aejkien gærjah saemiej
 byjreskijstie lohkimh, mohte dan {voen}${typos|voenen} lij goh jeatja
 {siejhme}${vowc,i-ï|sïejhme} daaroen skuvle.
 
-{Skuvle-jaepie}${hyph-0|Skuvlejaepie} lij govhte askh, {jih}${vowc,i-ï|jïh} {ij}£{infl,neg,kongr|ibie}
-limh gåetesne mearan skuvlesne. Buerie mojhtese daehtie {tijjeste}${vowc,i-ï|tïjjeste} lij {tjaktjegen}${adv,con|tjaktjege} gosse paagke gåeteste
+
+{Skuvle-jaepie}${hyph-0|Skuvlejaepie} lij govhte askh,{ij limh}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prspl1|ibie limh}
+gåetesne mearan skuvlesne. Buerie mojhtese daehtie {tijjeste}${vowc,i-ï|tïjjeste} lij {tjaktjegen}${adv,con|tjaktjege} gosse paagke gåeteste
 {bøøti}${vowc,øø-öö|bööti} gusnie {daelvie-vaarjoeh}${hyph-0|daelvievaarjoeh},
 gaallohkh {jih}${vowc,i-ï|jïh} suejnieh. Dellie {dervie-hopse}${hyph-0|derviehopse} {internatesne}${vowlat,a-aa|internaatesne} {jih}${vowc,i-ï|jïh}
 {dihte}${vowc,i-ï|dïhte} eevre goh såemies {gåetie-tryjje}${hyph-0|gåetietryjje} {sjidti}${vowc,i-ï|sjïdti}.
@@ -195,8 +196,7 @@ venn{"}‰{cit|”} doekedh. Naaken gujht {øøstin}${vowc,øø-öö|ööstin}, 
 idtjin mijjen doekemem seatedh gænnah. Mijjieh limh voenen maanijste
 {billeminie}${vowc,i-ï|bïlleminie} {jih}${vowc,i-ï|jïh} daate lij nimhtie
 guktie lim vaajtelamme ij {dihte}${vowc,i-ï|dïhte} deahpadamme.
-[Mijjieh
-libie rektovrem gihtjeme man gaavhtan maanah voenese sedtesovvin
+Mijjieh libie rektovrem gihtjeme man gaavhtan maanah voenese sedtesovvin
 Saemiemisjovnen plaeriem doekedh. {Dihte}${vowc,i-ï|Dïhte} jeahta ij leah
 skuvle dam faaleme, mohte Saemien misjovne skuvlesne andakt maanide
 utnieji. Nimhtie sån lea dellie maanide gihtjeme plaerieh doekedh. Naaken
@@ -246,7 +246,7 @@ faaleldahkem dåastoeh. Mijjieh saemieh åarjede saemien
 {noerhte-saemien}${hyph-0|noerhtesaemien}.
 
 
-{DSF-en}${acro,suf|DSF:n} mænngan kuvsjem veedtsim mij lij sjiehteles geerve
+{DSF-en}${acro,suf|DSF:n} mænngan kuvsjem veedtsim mij lij {sjiehteles}£{adj,infl,attr-sgnom|sjiehtele} geerve
 almetjidie {mah}¥{gïeh} edtjin saelhtesne barkedh. Dan mænngan Hurtigrutesne
 bielie jaepiem {giehtelim}${vowc,i-ï|gïehtelim}. Dan mænngan jis
 {ysteriesne}${vowlat,i-ij|ysterijesne} barkim {aerebi}${init,ae-aa|aarebi} goh
@@ -314,7 +314,7 @@ daase naan geajnoeh juhtieh guktie idtji naan {giele-giehtjedæjja}${vowc,i-ï;h
 dajvi nommh paehpierasse tjaeledh. Daate lij buerie {råajvarimme}${fin,e-ie|råajvarimmie}, mohte fagkan seenhte {bøøtin}${vowc,øø-öö|böötin}.
 
 Mohte ibie edtjh ajve jeatjabidie skultedh gosse {gieline}¢{vowc,i-ï|gïeline}
-nimhtie. Ibie leah {jijtje}${vowc,i-ï|jïjtje} {væjkeles}${infl,adj,attr-sgnom|væjkele} orreme dejtie noeride {gielem}${vowc,i-ï|gïelem} leerehtidh.
+nimhtie. Ibie leah {{jijtje}${vowc,i-ï|jïjtje}}£{pron,refl,sgnom-plnom|jïjtjh} {væjkeles}${infl,adj,attr-sgnom|væjkele} orreme dejtie noeride {gielem}${vowc,i-ï|gïelem} leerehtidh.
 Manne mov gaavhtan soptsestem {jih}${vowc,i-ï|jïh} {jijtje-laejhtemem}${vowc,i-ï;hyph,1-0|jïjtjelaejhtemem} guadtam.
 
 Kultuvremojhtesh
@@ -332,7 +332,7 @@ vaarjelidh. Naaken {mierhkesovvin}${vowc,i-ï|mïerhkesovvin} goh {tjaetsie-deem
 Dah båarasommes saemiej årromesijjieh gaatoelin gosse orre laantem
 provhkese veeltin {alkoelisnie}${init,a-aa|aalkoelisnie} jaepien 1800. Daam
 saemiej {njaalmeld}${fin,ld-ldh|njaalmeldh} soptsestimmieh buakta. Nimhtie
-dam daate barkoe mijjese vihkeles {sjidti}${vowc,i-ï|sjïdti}. Tjoeverimh
+dam daate barkoe mijjese {vihkeles}£{attr-sgnom|vihkele} {sjidti}${vowc,i-ï|sjïdti}. Tjoeverimh
 gorredidh dejtie saemiej {mojhtsidie}${vowc,hts-htes|mojhtesidie} mah ennje
 gååvnesin {jih}${vowc,i-ï|jïh} dam tjoeverimh {jijtje}${vowc,i-ï|jïjtje}
 darjodh. Fuehpie aaj {sjidti}${vowc,i-ï|sjïdti} juktie daerpies dagkarinie
@@ -351,7 +351,7 @@ almetji lin stoerre maahtoe saemiej {kultuvremojhtsi}${conc,hts-htes|kultuvremoj
 Mænngan, medtie 1980, Saemien {Sijte}${vowc,i-ï|Sïjte} stuerebe
 {provsjektem}${vowc,vsj-sj|prosjektem} {øørni}${vowc,øø-öö|öörni} mij abpe
 {Åarjelh-saemien}${comp,lh-l;hyph-0|åarjelsaemien} dajvem dijpi. Saemieh
-mah dajvide {eensi laakan}¥{cmp,2-1|eensilaakan} damtin, {diedtem}${vowc,i-ï|dïedtem} {fiere-guhte}${hyph-0|fïereguhte} {båatsoeburrie-dajvese}${hyph-0|båatsoeburriedajvese} åadtjoejin. Mov {diedte}${vowc,i-ï|dïedte} lij Luvlie-Njåamesjen {båatsoeburrie-dajve}${hyph-0|båatsoeburriedajve}. Barkoe juhtieji
+{mah}£{pron,rel|gïeh} dajvide {eensi laakan}¥{cmp,2-1|eensilaakan} damtin, {diedtem}${vowc,i-ï|dïedtem} {fiere-guhte}${hyph-0|fïereguhte} {båatsoeburrie-dajvese}${hyph-0|båatsoeburriedajvese} åadtjoejin. Mov {diedte}${vowc,i-ï|dïedte} lij Luvlie-Njåamesjen {båatsoeburrie-dajve}${hyph-0|båatsoeburriedajve}. Barkoe juhtieji
 4-5 våhkoeh 3-4 jaepieh. Daate lij joekoen vihkeles barkoe. Nimhtie
 meehtimh {vihtesjidh}${vowc,i-ï|vïhtesjidh} gusnie saemiej årromesijjieh
 ovmese dajvine. {Dihte}${vowc,i-ï|Dïhte} vihties gosse {edtjibie}${conc,ibie-jibie|edtjijibie} digkiedidh laanten- {jih}${vowc,i-ï|jïh} tjaetsiereaktan
