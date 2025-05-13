@@ -2,7 +2,7 @@ Buerie {båateme}${båeteme} {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} {webb
 
 {Vihtiesvoetepolijse}${Vihtiesvoetepollise} lea {tjetskemebyjjesfaamoe}€{vaaksjomefaamohke} {mejnie}¥{pron,com|mej leah} {polijsijären}${adj|pollisijeere} laavenjassh. Mijjieh {luhpehts}€{luhpehtsvoetide} {{rijhken}${rïjhken}}¥{pp,missing|rïjhken vööste} {vihtiesvoetide {åvtesne}€{adv,adv,w|åvteste}}£{noun,pph,genpl,accpl,case|vihtiesvoeti åvtesteheerredibie} {jih}${jïh} kreajnoehtibie, terrorismen vööste barkebe {jih}${cc,ï|jïh} voernges {staatenåvtohkh}${staatenåvtehkh} vaarjelibie.
 
-Ulmieh {dehtie barkoste}£{noun,advl,comsg,elasg,case|daejnie barkojne} leah dam demokratijen {systemem}${systeemem}, {almetjij}${almetji} {veajhtoe}¥{noun,redun|} - {jih}${jïh} {reaktajvoeth}${reaktah} vaarjelidh {jih}${jïh} aaj dam nasjovnen vihtiesvoetem.
+Ulmieh {dehtie barkoste}£{demphrase,ela-com,ela-com|daejnie barkojne} leah dam demokratijen {systemem}${systeemem}, {almetjij}${almetji} {veajhtoe}¥{noun,redun|} - {jih}${jïh} {reaktajvoeth}${reaktah} vaarjelidh {jih}${jïh} aaj dam nasjovnen vihtiesvoetem.
 
 {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} barkoe lea {vijhte}${vïjhte} {suerkide}¥{pph, missing|suerkiej mietie} {juakeme}${joekedamme}:
 
