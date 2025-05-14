@@ -4,18 +4,17 @@ Saemien sijjienommh {båata}£{infl,sg3prs-pl3prs|båetieh} saemiej {jielemistie
 {båatsoejste}${vowlat,oe-o|båatsojste}.
 
 Dah nommh {soptseste}£{infl,verb,sg3prs-pl3prs|soptsestieh} guktie
-{dihte}${vowc,i-ï|dïhte} eatneme lea. Soptseste man aelhkie desnie baahtsedh
+{dihte}${vowc,i-ï|dïhte} eatneme lea. {Soptseste}£{infl,verb,sg3prs-pl3prs|Soptsestieh} man aelhkie desnie baahtsedh
 vg. Suohpajohka mij lea gaelemejohke Sveerjesne, {jih}${vowc,i-ï|jïh} guktie
 gåatome vg. Sidnoajvve mij lea kraesiebaektie. Vihkeles nommh aaj tjahkine
 mah {soptseste}£{infl,sg3prs-pl3prs|soptsestieh} guktie jåhtadahkh. {http://www.sofi.se/1717}∞{url}
 
-Gosse {Nøørjen}${vowc,øø-öö|Nöörjen} {naasjovne}${vowc,aa-a|nasjovne} edtji
-bigkesovvedh dle saemien sijjienommh daaroen sijjienommi gujmie
-{låtnesovvi}${vowc,å-o|lotnesovvi}. {Uniontijjen}${vowc,i-ï|Uniontïjjen}
+Gosse {Nøørjen}${vowc,ø-öö|Nöörjen} {naasjovne}${vowc,aa-a|nasjovne} edtji
+bigkesovvedh dle saemien sijjienommh daaroen {sijjienommi gujmie}${cmp,2-1|sijjienommigujmie}
+{{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}. {Uniontijjen}${vowc,i-ï|Uniontïjjen}
 minngiegietjie dle ij leah luhpie saemiestidh {jih}${vowc,i-ï|jïh} tjoerin
-barre daaroestidh, {jih}${vowc,i-ï|jïh} daate 1900 raajese vaasi.
-Finnmarkesne dle dah saemien nommh daaroen nommi gujmie {låtnesovvi}${vowc,å-
-o|lotnesovvi}.  Daate lij {politigken}${conc,gk-hk|politihken}
+barre daaroestidh, {jih}${vowc,i-ï|jïh} daate 1900 {raajese}£{noun,sgine-sgill|raajan} vaasi.
+Finnmarkesne dle dah saemien nommh daaroen {nommi gujmie}${cmp,2-1|nommigujmie} {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}.  Daate lij {politigken}${conc,gk-hk|politihken}
 {vihkelelommes}${vowlat,e-ie|vihkielommes} vierhtie faamoem dajvesne
 åadtjodh, Kaisa Rautio Helander Saemien jolleskuvlesne jeahta. Kaisa Rautio
 Helander lea {saemien-nommide}${hyph-0|saemiennommide} dotkijamme {jih}${vowc,i-ï|jïh} {dåaktoregraadem}${vowlat,o-e|dåakteregraadem} {aamhtsesne}${fin,sesne-
@@ -56,7 +55,7 @@ Jiemmaluohteste. Jiemma lea nåervieaarhte {jih}${vowc,i-ï|jïh} luofta lea
 {vuesehtimmieh}${vowlat,e-ie|vuesiehtimmieh} {gååvnese}£{infl,verb,sg3prs-pl3prs|gååvnesieh}. (Magga, Ole Henrik. 2001. Sàpmi.
 {http://www.hundrearsmarkeringen.no/pdf/impulser_068-073.pdf}∞{url}
 
-Dah  mah sijhtieh vielie saemiej sijjienommi {bijre}${vowc,i-ï|bïjre}
+Dah  {mah} sijhtieh vielie saemiej sijjienommi {bijre}${vowc,i-ï|bïjre}
 lohkedh, maehtieh dam bieliem vuartasjidh:
 {http://www2.sofi.se/daum/katta/katta12/katta12.pdf}∞{url}
 

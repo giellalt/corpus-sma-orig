@@ -252,7 +252,7 @@ Staath edtjieh aaj {lidteratuvrh}${conc,dt-tt|litteratuvrh} saemien {gielesne}¢
 
 {{Gøøkte}${vowc,øø-öö|Göökte} luhkie {vijhtede}${vowc,i-ï|vïjhtede}}${cmp,3-1|Göökteluhkievïjhtede} tjaalege
 
-Saemiej {medijah}${|meediah}
+Saemiej {medijah}${|meedijeh}
 
 Staath edtja nuepiem vedtedh guktie saemieh {jijtje}${vowc,i-ï|jïjtje} åadtjoeh {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} {media-politikkem}${hyph-0;conc,kk-hk|mediapolitihkem} juhtiehtidh guktie saemieh {bøøremeslaaketje}${vowc,øø-öö|bööremeslaaketje} råajvarimmieh, saerniestimmieh {jih}${vowc,i-ï|jïh} {aarvoe-diejvesh}${hyph-0;vowc,i-ï|aarvoedïejvesh} åadtjoeh digkiedidh gyhtjelassi {bijre}${vowc,i-ï|bïjre} mah {gaajhksidie}${indef,vow|gaajhkesidie} vihkeles.
 

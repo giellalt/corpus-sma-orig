@@ -88,13 +88,13 @@ Faakse: 040-23 96 29
 E-påaste: enhet.syd@sakerhetspolisen.se
 
 {Bieljedh}${Bïeljelh} {Vihtiesvoetepolijsem}${Vihtiesvoetepollisese}
-Maahtah {Vihtiesvoetepolijsem}£{infl,noun,illsg|Vihtiesvoetepollisese} {bieljedidh}${bïeljelidh}. Jis dov lea {bievnesh}${bïevnesh} maam {vienhth}${vïenhth} leah {mijjen}£{infl,noun,illsg|mijjese} aevhkie mijjen barkosne dellie {sijhtebe}${sïjhtebe} {datne}¥{n,redun|} edtjh {mijjem}£{noun,case,sgacc-plill|mijjide} {bieljedidh}${bïeljelidh}.
+Maahtah {Vihtiesvoetepolijsem}£{infl,noun,illsg|Vihtiesvoetepollisese} {bieljedidh}${bïeljelidh}. Jis dov {lea}£{infl,verb,sg3-pl3|leah} {bievnesh}${bïevnesh} maam {vienhth}${vïenhth} leah {mijjen}£{infl,noun,illsg|mijjese} aevhkie mijjen {barkosne}£{infl,noun,case,ine-ill|baskose} dellie {sijhtebe}${sïjhtebe} {datne}¥{n,redun|} edtjh {mijjem}£{noun,case,sgacc-plill|mijjide} {bieljedidh}${bïeljelidh}.
 
 {Dihte}£{noun,case,sgnom-sgacc|Dam} maahtah darjodh {teelefovnine}${teellefovnine}, e-påastine jallh {dejnie}€{dejnie|daejnie} tjaaleginie {mijjen}€{mijjen|mij} lea daennie {{säjtosne}${sæjrosne}}¥{punct missing|sæjrosne.} Tjaalege lea Sveerjen- {jih}${jïh} englaanten {gielesne}${gïelesne} {webbesijjesne}${gaskeviermiesæjrosne}. Maahtah hævvi {nommehts}€{nommehts|nommehth} årrodh.
 
 {{Jis}¥{noun missing|Dov jis}}¥{verb missing|Dov lea jis} nuepie dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {laahpah}€{laahpah|laehpedh} {mijjieh}¥{noun,redun|} {libie}¥{cc missing|libie juhkoe}  {gijhteles}£{infl,adj,attr-sgnom|gijhtele}, jis {naan}¥{noun,redun|} {gyhtjelassh}¥{noun,redun|} {daarpesjibie}¥{pp missing|bïjre daarpesjibie} gihtjedh.
 
-Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {konfidensiellen}€{konfidensiellen|konfidensieellen} {gietedalledh}€{gïetedalledh|gïetedallebe.} {Maahtah}¥{cc missing|Seamma maahtah} {saath}€{saath|sahth} {{gieline}£{gieline}}£{noun,case,pline-sgine|gïelesne}.
+Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {{konfidensiellen}€{konfidensiellen|konfidensieellen}}£{noun-adv|konfidensiellelaakan} {gietedalledh}€{gïetedalledh|gïetedallebe.} {Maahtah}¥{cc missing|Seamma maahtah} {saath}€{saath|sahth} {{gieline}£{gieline}}£{noun,case,pline-sgine|gïelesne}.
 
 {{Tjaalegasse}£{Tjaalegasse}}£{noun,case,sgill-sgnom|Tjaalege}. {{englaantengielesne}£{englaantegielesne}}£{noun|englaantengïelesne}.
 
