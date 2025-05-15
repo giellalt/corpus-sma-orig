@@ -94,7 +94,7 @@ Maahtah {Vihtiesvoetepolijsem}£{infl,noun,illsg|Vihtiesvoetepollisese} {bieljed
 
 {{Jis}¥{noun missing|Dov jis}}¥{verb missing|Dov lea jis} nuepie dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {laahpah}€{laahpah|laehpedh} {mijjieh}¥{noun,redun|} {libie}¥{cc missing|libie juhkoe}  {gijhteles}£{infl,adj,attr-sgnom|gijhtele}, jis {naan}¥{noun,redun|} {gyhtjelassh}¥{noun,redun|} {daarpesjibie}¥{pp missing|bïjre daarpesjibie} gihtjedh.
 
-Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {{konfidensiellen}€{konfidensiellen|konfidensieellen}}£{noun-adv|konfidensiellelaakan} {gietedalledh}€{gïetedalledh|gïetedallebe.} {Maahtah}¥{cc missing|Seamma maahtah} {saath}€{saath|sahth} {{gieline}£{gieline}}£{noun,case,pline-sgine|gïelesne}.
+Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {{konfidensiellen}€{konfidensiellen|konfidensieellen}}£{noun-adv|konfidensiellelaakan} {{gietedalledh}${gïetedalledh}£{infl,verb,inf-prrpl3|gïetedallebe}} {Maahtah}${maahtah} {saath}${saath|sahth} {{gieline}£{gieline}}£{noun,case,pline-sgine|gïelesne}.
 
 {{Tjaalegasse}£{Tjaalegasse}}£{noun,case,sgill-sgnom|Tjaalege}. {{englaantengielesne}£{englaantegielesne}}£{noun|englaantengïelesne}.
 

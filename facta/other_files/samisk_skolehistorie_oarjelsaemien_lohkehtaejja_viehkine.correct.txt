@@ -247,7 +247,7 @@ faaleldahkem dåastoeh. Mijjieh saemieh åarjede saemien
 
 
 {DSF-en}${acro,suf|DSF:n} mænngan kuvsjem veedtsim mij lij {sjiehteles}£{adj,infl,attr-sgnom|sjiehtele} geerve
-almetjidie {mah}¥{gïeh} edtjin saelhtesne barkedh. Dan mænngan Hurtigrutesne
+almetjidie {mah}£{rel,nhum-hum|gïeh} edtjin saelhtesne barkedh. Dan mænngan Hurtigrutesne
 bielie jaepiem {giehtelim}${vowc,i-ï|gïehtelim}. Dan mænngan jis
 {ysteriesne}${vowlat,i-ij|ysterijesne} barkim {aerebi}${init,ae-aa|aarebi} goh
 akten {entrepenørfirmaesne}${XXX|entrepenörfirmasne(firma?)} eelkim. Mohte
@@ -351,7 +351,7 @@ almetji lin stoerre maahtoe saemiej {kultuvremojhtsi}${conc,hts-htes|kultuvremoj
 Mænngan, medtie 1980, Saemien {Sijte}${vowc,i-ï|Sïjte} stuerebe
 {provsjektem}${vowc,vsj-sj|prosjektem} {øørni}${vowc,øø-öö|öörni} mij abpe
 {Åarjelh-saemien}${comp,lh-l;hyph-0|åarjelsaemien} dajvem dijpi. Saemieh
-{mah}£{pron,rel|gïeh} dajvide {eensi laakan}¥{cmp,2-1|eensilaakan} damtin, {diedtem}${vowc,i-ï|dïedtem} {fiere-guhte}${hyph-0|fïereguhte} {båatsoeburrie-dajvese}${hyph-0|båatsoeburriedajvese} åadtjoejin. Mov {diedte}${vowc,i-ï|dïedte} lij Luvlie-Njåamesjen {båatsoeburrie-dajve}${hyph-0|båatsoeburriedajve}. Barkoe juhtieji
+{mah}£{rel,nhum-hum|gïeh} dajvide {eensi laakan}¥{cmp,2-1|eensilaakan} damtin, {diedtem}${vowc,i-ï|dïedtem} {fiere-guhte}${hyph-0|fïereguhte} {båatsoeburrie-dajvese}${hyph-0|båatsoeburriedajvese} åadtjoejin. Mov {diedte}${vowc,i-ï|dïedte} lij Luvlie-Njåamesjen {båatsoeburrie-dajve}${hyph-0|båatsoeburriedajve}. Barkoe juhtieji
 4-5 våhkoeh 3-4 jaepieh. Daate lij joekoen vihkeles barkoe. Nimhtie
 meehtimh {vihtesjidh}${vowc,i-ï|vïhtesjidh} gusnie saemiej årromesijjieh
 ovmese dajvine. {Dihte}${vowc,i-ï|Dïhte} vihties gosse {edtjibie}${conc,ibie-jibie|edtjijibie} digkiedidh laanten- {jih}${vowc,i-ï|jïh} tjaetsiereaktan
