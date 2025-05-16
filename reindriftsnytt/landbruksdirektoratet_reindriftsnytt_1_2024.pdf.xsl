@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'Landbruksdirektoratet Reindriftsnytt_2 2024.pdf'"/>
+    <xsl:variable name="filename" select="'Landbruksdirektoratet Reindriftsnytt_1 2024.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Reindriftsnytt 2 2024'"/>
+    <xsl:variable name="title" select="'Reindriftsnytt 1 2024'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
