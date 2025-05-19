@@ -31,7 +31,7 @@ tjaelijh leah meatan orreme {SFS:en}${acro,suf|SFS:n} sjïere
 gïeleevtiedimmien {soejkesjesne}${fin,esne-isnie|soejkesjisnie}, ij naan
 luvliesaemien {{tjaelijh}£{infl,noun,plnom-sgnom|tjaelije}}¥{tjaelije meatan} daan raajan. Sámis 2. {nommerisnie}${vowc,o-u|nummerisnie} hov dåajvoehtimh 5000 kr. maeksedh bööremes luvliesaemien
 {jih}${vowc,i-ï|jïh} åarjelsaemien {teeksti}${vowc,ee-e|teksti} åvteste. Ibie
-{nov}¥{redun,nov-0|} annje dejtie beetnegidie provhkeme. {Daan}¥{w|Dan} {nommeren}${vowc,o-u|nummeren}
+{nov}¥{redun,nov-0|} annje dejtie beetnegidie provhkeme. {Daan}€{w|Dan} {nommeren}${vowc,o-u|nummeren}
 åarjelsaemien {teekstem}${vowc,ee-e|tekstem} libie {tjaelijistie}${vowlat,i-ie|tjaeliejistie} {donkeme}${conc,k-gk|dongkeme}, {jih}${vowc,i-ï|jïh} satne
 åådtje {mijjien}${fin,ien-en|mijjen} sïejhme maaksoem dan åvteste.
 Dellie vaajtelibie buerie gïjregiesiem, nov badth dijjese guhth vissjin
