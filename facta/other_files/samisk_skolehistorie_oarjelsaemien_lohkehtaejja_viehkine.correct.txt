@@ -107,7 +107,7 @@ byjreskijstie lohkimh, mohte dan {voen}${typos|voenen} lij goh jeatja
 {siejhme}${vowc,i-ï|sïejhme} daaroen skuvle.
 
 
-{Skuvle-jaepie}${hyph-0|Skuvlejaepie} lij govhte askh,{ij limh}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prspl1|ibie limh}
+{Skuvle-jaepie}${hyph-0|Skuvlejaepie} lij govhte askh, {ij limh}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prspl1|ibie limh}
 gåetesne mearan skuvlesne. Buerie mojhtese daehtie {tijjeste}${vowc,i-ï|tïjjeste} lij {tjaktjegen}${adv,con|tjaktjege} gosse paagke gåeteste
 {bøøti}${vowc,øø-öö|bööti} gusnie {daelvie-vaarjoeh}${hyph-0|daelvievaarjoeh},
 gaallohkh {jih}${vowc,i-ï|jïh} suejnieh. Dellie {dervie-hopse}${hyph-0|derviehopse} {internatesne}${vowlat,a-aa|internaatesne} {jih}${vowc,i-ï|jïh}

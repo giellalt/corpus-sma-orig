@@ -28,7 +28,7 @@ saemiedigkieh {dej golme laantine}£{numphrase,dem,num,gen-ine,pline-sgine|denni
 
 • sijhtieh saemiej jielemem {jih}${vowc,i-ï|jïh} kultuvren båetije biejjide bueriedidh
 
-• eah {edtjieh}£{infl,verb,prspl3-conneg|edtjh} {rasth}${vowc,a-aa|raasth} {saemij}${fin,ij-iej|saemiej} {almetjij}${fin,ij-i|almetji} jallh {ajne}${init,a-aa|aajne} saemiej {ektievuekie-jielemem}${hyph-0|ektievuekiejielemem} jeeredh
+• eah {edtjieh}£{infl,verb,aux,prspl3-conneg|edtjh} {rasth}${vowc,a-aa|raasth} {saemij}${fin,ij-iej|saemiej} {almetjij}${fin,ij-i|almetji} jallh {ajne}${init,a-aa|aajne} saemiej {ektievuekie-jielemem}${hyph-0|ektievuekiejielemem} jeeredh
 
 • vuejnedh guktie orre saemien konvensjovne maahta reaktide mah aerebi Lappekodisillesne 1751 tjåadtjoejin, orrestehtedh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh}
 
@@ -177,7 +177,7 @@ Saemiedigkien reaktah {{gietelæmman}${vowc,i-ï;conc,t-ht|gïehtelæmman}}¢{w|
 
 Gosse vihkeles gyhtjelassh saemide, dellie edtjieh saemiedigkieh voestegh {aamhtside}${vowc,0-e|aamhtesidie} {gietedalledh}${vowc,i-ï|gïetedalledh} aerebi goh nænnoestimmie byjjes reeremistie båata. Dagkeres digkiedimmieh {jih}${vowc,i-ï|jïh} nænnoestimmieh tjoeverieh nimhtie juhtedh guktie saemiedigkieh maehtieh {aamhtse-juhtemem}${vowc,0-e|aamhtesejuhtemem} {jih}${vowc,i-ï|jïh} {darjoemen}${vowc,oe-o|darjomen} tsevtsiehtidh.
 
-Eah {edtjieh}£{infl,verb,prspl3-conneg|edtjh} staath nænnoestidh jallh {luhpiem vedtedh {dagkeres råajvarimmide}£{demphrase,dem,case,nom-ill|dagkaridie råajvarimmide}}¥{wo|luhpiem dagkaridie råajvarimmide vedtedh} mah maehtieh {goerpehtidh}${verb,con|goerpedidh} {maadth-kriebpesjide}${hyph-0;vowc,i-ï|maadthkrïebpesjimmide} saemien kultuvrese, saemiej {jielemidie}${vowc,e-ie|jieliemidie} jallh saemiej {ektievoete-jielemasse}${hyph-0|ektievoetejieliemasse} jis eah saemiedigkieh {disse}${vowc,i-ï|dïsse} {siemedh}${vowc,ie-ea|seamedh}.
+Eah {edtjieh}£{infl,verb,aux,prspl3-conneg|edtjh} staath nænnoestidh jallh {luhpiem vedtedh {dagkeres råajvarimmide}£{demphrase,dem,case,nom-ill|dagkaridie råajvarimmide}}¥{wo|luhpiem dagkaridie råajvarimmide vedtedh} mah maehtieh {goerpehtidh}${verb,con|goerpedidh} {maadth-kriebpesjide}${hyph-0;vowc,i-ï|maadthkrïebpesjimmide} saemien kultuvrese, saemiej {jielemidie}${vowc,e-ie|jieliemidie} jallh saemiej {ektievoete-jielemasse}${hyph-0|ektievoetejieliemasse} jis eah saemiedigkieh {disse}${vowc,i-ï|dïsse} {siemedh}${vowc,ie-ea|seamedh}.
 
 {Luhkie {tjijhtjede}${vowc,i-i|tjïjhtjede}}${cmp,2-1|Luhkietjïjhtjede} tjaalege
 
@@ -360,7 +360,7 @@ Saemiej reaktah eatnemen maelmide {laante-jih}${mix,mix|laante- jïh} {tjaetsie-
 
 Aerebi goh byjjes reereme luhpiem vadta {giehtjedæmman}${vowc,i-ï|gïehtjedæmman} jallh aaj {viedtjemasse}${vowc,i-ï|vïedtjemasse} {mineralijste}${vowc,a-aa|mineraalijste} jallh jeatja maelmijste laanteste jallh {tjaeteste}${conc,t-ts|tjaetseste} mah leah saemiej eekh jallh dejstie provhkesovveme, dellie edtja digkiedimmie saemiejgujmie årrodh {jih}${vowc,i-ï|jïh} aaj {saemiedigkijne}${fin,ijne-ine|saemiedigkine} guktie tjaalege 16 vuesehte.
 
-Jis {saemiede}${fin,iede-ide|saemide} tsagkesh sjidtieh jallh geerve barkedh dej dajvine goh aerebi, dellie eah {edtjieh}£{infl,verb,prspl3-conneg|edtjh} luhpieh vadtasovvedh {giehtjedæmman}${vowc,i-ï|gïehtjedæmman} jallh {viedtjemasse}${vowc,i-ï|vïedtjemasse} eatnemen maelmijste jis daate saemiej kultuvrem sturrieh. Saemiedigkieh {jih}${vowc,i-ï|jïh} {sjiere}${vowc,i-ï|sjïere} saemieh tjoeverieh {siemes}${vowc,i-ï|sïemes} årrodh jis dagkeres barkoeh edtjieh åtnose båetedh.
+Jis {saemiede}${fin,iede-ide|saemide} tsagkesh sjidtieh jallh geerve barkedh dej dajvine goh aerebi, dellie eah {edtjieh}£{infl,verb,aux,prspl3-conneg|edtjh} luhpieh vadtasovvedh {giehtjedæmman}${vowc,i-ï|gïehtjedæmman} jallh {viedtjemasse}${vowc,i-ï|vïedtjemasse} eatnemen maelmijste jis daate saemiej kultuvrem sturrieh. Saemiedigkieh {jih}${vowc,i-ï|jïh} {sjiere}${vowc,i-ï|sjïere} saemieh tjoeverieh {siemes}${vowc,i-ï|sïemes} årrodh jis dagkeres barkoeh edtjieh åtnose båetedh.
 
 {Dihte}${vowc,i-ï|Dïhte} mij daennie tjaalegisnie tjåådtje, aaj dijpieh jeatja goerpemem eatnamisnie jallh {pråavhkoem}${vowc,åa-å|pråvhkoem} eatnamistie mij tjaalegisnie 34 tjåådtje. Daesnie aaj {skåajje-snidtjeme}${hyph-0|skåajjesnjidtjeme} båata, {tjatsie-}${vowc,a-ae|tjaetsie-} jallh {{biegke-faamoe}${vowc,i-ï;hyph-0|bïegkefaamoe} bigkeme}${cmp,2-1|bïegkefaamoebigkeme}, geajnoebigkeme {jih}${vowc,i-ï|jïh} hæhtjoeh, {militære}${vowc,æ-ææ|militæære} {lierehtimmie-sijjieh}${vowc,i-ï,hyph-0|lïerehtimmiesijjieh} {jih}${vowc,i-ï|jïh} staeries sijjieh {militærese}${vowc,æ-ææ|militæærese}.
 

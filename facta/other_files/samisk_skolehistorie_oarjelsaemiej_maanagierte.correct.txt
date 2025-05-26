@@ -275,7 +275,7 @@ Eejhtegh utniejin daate hijven, mohte læjhkan ohtsin
 {maanagiertiem}¢{vowc,i-ï|maanagïertem} gusnie maanah meehtin årrodh abpe biejjiem, jeahta.
 Faaleldahke {båetedh}£{infl,verb,subj_verb_kongr,inf-prssg3|båata} dan maanageartan {jih}${vowc,i-ï|jïh}
 dah {sjiere}${vowc,i-ï|sjïere} tæjmoeh {Vinjebakkenesnie}${fin,nesnie-isnie|Vinjebakkenisnie}
-{ij}£{infl,subj_verb_kongr,neg,prssg3-prspl3|eah} {lij}¢{infl,subj_verb_kongr,neg,prssg3-prspl3|lin} {nuekies}£{infl,adj,attr-sgnom|nuekie} jis maanah
+{ij lij}£{infl,cop_neg_conneg_prt_kongr,neg,prssg3-prspl3|eah lin} {nuekies}£{infl,adj,attr-sgnom|nuekie} jis maanah
 edtjin aelkedh {åarjel-saemien}${hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem}
 provhkedh {goh}¥{redun|} {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {giele}${vowc,i-ï;infl,case,sgnom-sgcom|gïeline}.
@@ -455,7 +455,7 @@ Anita aaj dam jååhkesje. Im lim {maan}${typos|manne}
 {buktiehtamme}${vowc,u-ue|buektiehtamme} {saemiengielem}${vowc,i-ï|saemiengïelem}
 {gåetiegieline}¢{vowc,i-ï|gåetiegïeline} utnedh jis ij lij
 {maanagierte}${vowc,i-ï|maanagïerte} viehkine. {Idtji}£{infl,verb,subj_verb_kongr,neg,prtsg3-prtdu3|Idtjigan}
-Anita jallh Hanne-Lena {{ådtjoegan}${åadtjoejægan}}£{infl,verb,mainv_neg_conneg_kongr,prsdu3-conneg|åadtjoeh}
+Anita jallh Hanne-Lena {{ådtjoegan}${åadtjoejægan}}£{infl,verb,mainv,prsdu3-conneg|åadtjoeh}
 {saemien {gielem}${vowc,i-ï|gïelem}}${cmp,2-1|saemiengïelem}
 gåetesne {lieredh}${vowc,i-ï|lïeredh} goh byjjesovvin. Mænngan åadtjoejin
 skuvlesne {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} mænngan goh
