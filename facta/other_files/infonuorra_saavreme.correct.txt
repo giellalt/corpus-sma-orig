@@ -64,7 +64,7 @@ Kaanada, Russlaante, {jih}${vowc,i-ï|jïh} Kruanaeatneme(Danmarhke)
 låtnoehtieh gaahtjemem öörnedh.
 
 
-{Vuejemeråantjoej gujmie}${cmp,2-1|Vuejemeråantjoejgujmie} gaahtjedh 
+{Vuejemeråantjoej gujmie}¥{cmp,2-1|Vuejemeråantjoejgujmie} gaahtjedh 
 
 
 {Såevmien}£{Foreign|Soemen} {jih}${vowc,i-ï|jïh} Sveerje ektesne gaahtjemem {öörnejægan}${vowlat,e-

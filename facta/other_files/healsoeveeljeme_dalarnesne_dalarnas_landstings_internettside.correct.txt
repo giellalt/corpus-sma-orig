@@ -131,10 +131,10 @@ Baeniehealsoe Dalarnesne lea gaajh hijven geervide {goh}¢{w|jïh} maanide, dann
 
 Kultuvre
 
-{Laantedigkie lea åejvie {{beetneh-vierhtieh}${hyph-0|beetnehvierhtieh} vedtije}${cmp,2-1|beetnehvierhtiehvedtije} dejtie kultuvreinstitusjovnide {jih}${vowc,i-ï|jïh} stoerre {diedtem}${vowc,i-ï|dïedtem} åtna leenen {tjielth}${vowc,i-ï|tjïelth}, {sibrieh}${vowc,i-ïe|siebrieh} {jih}${vowc,i-ï|jïh} kultuvrebarkijh ektiedidh, {jih}${vowc,i-ï|jïh} {Dalarnen}${prop,suf|Dalarnan} kultuvrem {öövtiedidh}${vowc,öö-ö|övtiedidh}}¥{hab|Laantedigkie lea åejvie beetnehvierhtievedtije dejtie kultuvreinstitusjovnide jïh dan lea dïedte leenen tjïelth, siebrieh jïh kultuvrebarkijh ektiedidh, jïh Dalarnan kultuvrem övtiedidh}.
+{Laantedigkie lea åejvie {{beetneh-vierhtieh}${hyph-0|beetnehvierhtieh} vedtije}¥{cmp,2-1|beetnehvierhtiehvedtije} dejtie kultuvreinstitusjovnide {jih}${vowc,i-ï|jïh} stoerre {diedtem}${vowc,i-ï|dïedtem} åtna leenen {tjielth}${vowc,i-ï|tjïelth}, {sibrieh}${vowc,i-ïe|siebrieh} {jih}${vowc,i-ï|jïh} kultuvrebarkijh ektiedidh, {jih}${vowc,i-ï|jïh} {Dalarnen}${prop,suf|Dalarnan} kultuvrem {öövtiedidh}${vowc,öö-ö|övtiedidh}}¥{hab|Laantedigkie lea åejvie beetnehvierhtievedtije dejtie kultuvreinstitusjovnide jïh dan lea dïedte leenen tjïelth, siebrieh jïh kultuvrebarkijh ektiedidh, jïh Dalarnan kultuvrem övtiedidh}.
 
 {Dihte}${vowc,i-ï|Dïhte} {regijovnale}${vowc,ij-i;conc,vn-n;vowc,a-aa|regionaale} kultuvre edtja leenen {veasojh}£{case,nom-ill|veasojde} kultuvrem vedtedh {jih}${vowc,i-ï|jïh} {regijovnalen}${vowc,ij-i;conc,vn-n;vowc,a-aa|regionaalen} {öövtedimmieh}${vowc,öö-ö|övtiedimmieh} {öövtiedidh}${vowc,öö-ö|övtiedidh}.
-Laantedigkie {distrikteåårganisasjovnide}${init,åå-o|distrikteorganisasjovnide} dåarjegh vedtieh, {kultuvreprijsh}¢{w|kultuvrebaalhkah} {jih}${vowc,i-ï|jïh} {beetneh-vierhtieh}${cmp,2-1|beetnehvierhtieh} vedtieh, {jih}${vowc,i-ï|jïh} {{tjiehpiesvätnoej}${vowc,ä-æ|tjiehpiesvætnoej} gujmie}${cmp,2-1|tjiehpiesvætnoejgujmie} hööltedh.
+Laantedigkie {distrikteåårganisasjovnide}${init,åå-o|distrikteorganisasjovnide} dåarjegh vedtieh, {kultuvreprijsh}¢{w|kultuvrebaalhkah} {jih}${vowc,i-ï|jïh} {beetneh-vierhtieh}¥{cmp,2-1|beetnehvierhtieh} vedtieh, {jih}${vowc,i-ï|jïh} {{tjiehpiesvätnoej}${vowc,ä-æ|tjiehpiesvætnoej} gujmie}¥{cmp,2-1|tjiehpiesvætnoejgujmie} hööltedh.
 
 Ööhpehtimmie
 

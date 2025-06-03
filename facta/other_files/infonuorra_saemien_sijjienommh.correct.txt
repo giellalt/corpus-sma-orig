@@ -1,20 +1,20 @@
 Saemien sijjienommh
-Saemien sijjienommh {båata}£{infl,sg3prs-pl3prs|båetieh} saemiej {jielemistie}${vowlat,e-ie|jieliemistie}, vijremistie,
+Saemien sijjienommh {båata}£{infl,subj_verb_kongr,verb,prssg3-prspl3|båetieh} saemiej {jielemistie}${vowlat,e-ie|jieliemistie}, vijremistie,
 {gøølemistie}${vowc,øø-öö|göölemistie} {jih}${vowc,i-ï|jïh}
 {båatsoejste}${vowlat,oe-o|båatsojste}.
 
-Dah nommh {soptseste}£{infl,verb,sg3prs-pl3prs|soptsestieh} guktie
-{dihte}${vowc,i-ï|dïhte} eatneme lea. {Soptseste}£{infl,verb,sg3prs-pl3prs|Soptsestieh} man aelhkie desnie baahtsedh
+Dah nommh {soptseste}£{infl,verb,subj_verb_kongr,prssg3-prspl3|soptsestieh} guktie
+{dihte}${vowc,i-ï|dïhte} eatneme lea. {Soptseste}£{infl,verb,subj_verb_kongr,prssg3prs-prspl3|Soptsestieh} man aelhkie desnie baahtsedh
 vg. Suohpajohka mij lea gaelemejohke Sveerjesne, {jih}${vowc,i-ï|jïh} guktie
 gåatome vg. Sidnoajvve mij lea kraesiebaektie. Vihkeles nommh aaj tjahkine
-mah {soptseste}£{infl,sg3prs-pl3prs|soptsestieh} guktie jåhtadahkh. {http://www.sofi.se/1717}∞{url}
+mah {soptseste}£{infl,verb,subj_verb_kongr,prssg3-prspl3|soptsestieh} guktie jåhtadahkh. {http://www.sofi.se/1717}∞{url}
 
 Gosse {Nøørjen}${vowc,ø-öö|Nöörjen} {naasjovne}${vowc,aa-a|nasjovne} edtji
-bigkesovvedh dle saemien sijjienommh daaroen {sijjienommi gujmie}${cmp,2-1|sijjienommigujmie}
+bigkesovvedh dle saemien sijjienommh daaroen {sijjienommi gujmie}¥{cmp,2-1|sijjienommigujmie}
 {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}. {Uniontijjen}${vowc,i-ï|Uniontïjjen}
 minngiegietjie dle ij leah luhpie saemiestidh {jih}${vowc,i-ï|jïh} tjoerin
 barre daaroestidh, {jih}${vowc,i-ï|jïh} daate 1900 {raajese}£{noun,sgine-sgill|raajan} vaasi.
-Finnmarkesne dle dah saemien nommh daaroen {nommi gujmie}${cmp,2-1|nommigujmie} {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}.  Daate lij {politigken}${conc,gk-hk|politihken}
+Finnmarkesne dle dah saemien nommh daaroen {nommi gujmie}¥{cmp,2-1|nommigujmie} {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}.  Daate lij {politigken}${conc,gk-hk|politihken}
 {vihkelelommes}${vowlat,e-ie|vihkielommes} vierhtie faamoem dajvesne
 åadtjodh, Kaisa Rautio Helander Saemien jolleskuvlesne jeahta. Kaisa Rautio
 Helander lea {saemien-nommide}${hyph-0|saemiennommide} dotkijamme {jih}${vowc,i-ï|jïh} {dåaktoregraadem}${vowlat,o-e|dåakteregraadem} {aamhtsesne}${fin,sesne-
@@ -23,7 +23,7 @@ esisnie|aamhtesisnie} åtna.
 
 1800 raejeste {jih}${vowc,i-ï|jïh} 1900 raajan dle lij ”fornorskning”
 {Nøørjesne}${vowc,øø-öö|Nöörjesne}. Eah lin {snåaloe}${fin,oe-e|snåale}
-{vierhtiej gujmie}${cmp,2-1|vierhtiejgujmie} gåessie edtjin dam ”stoerre
+{vierhtiej gujmie}¥{cmp,2-1|vierhtiejgujmie} gåessie edtjin dam ”stoerre
 {naasjonale}${vowc,aa-a;vowlat,a-aa|nasjonaale} barkoem” buektiehtidh,
 {jih}${vowc,i-ï|jïh} gaajhkh tjoerin viehkiehtidh- gærhkoe, skuvle,
 {liense}${conc,n-nt;fin,e-ie|lientsie}, {meedija}${vowc,ee-e|meedije}, reereme
@@ -44,7 +44,7 @@ idtjin åadtjoeh  saemien sijjienommh  nuhtjedh. {Mubpeden}${fin,eden-
 ien|Mubpien} veartenedåaroen mænngan dle {dihte}${vowc,i-ï|dïhte}
 {nommepolitigke}${conc,gk-hk|nommepolitihke} jorkesovvi. {Mænngan}${conc,s-
 st|jorkestovvi. Mænngan} sijjienommelaake jaepien 1990 {bøøti}${vowc,i-
-ï|bööti}, dle lin tjarki barkeme saemien sijjienommh {bååstide}¥{bååstide
+ï|bööti}, dle lin tjarki barkeme saemien sijjienommh {bååstide}¥{missing|bååstide
 åadtjodh} {jih}${vowc,i-ï|jïh} dejtie
 bæjhkoehtidh{http://www.forskning.no/artikler/2008/juni/187309}∞{url}
 
@@ -52,7 +52,7 @@ bæjhkoehtidh{http://www.forskning.no/artikler/2008/juni/187309}∞{url}
 utnieh maam gåetine darjodh, mohte båata dehtie
 Jiemmaluohteste. Jiemma lea nåervieaarhte {jih}${vowc,i-ï|jïh} luofta lea
 {luokte}${vowc,uo-oe|loekte}. {Jijnjh}${vowc,i-ï|Jïjnjh} dagkeres
-{vuesehtimmieh}${vowlat,e-ie|vuesiehtimmieh} {gååvnese}£{infl,verb,sg3prs-pl3prs|gååvnesieh}. (Magga, Ole Henrik. 2001. Sàpmi.
+{vuesehtimmieh}${vowlat,e-ie|vuesiehtimmieh} {gååvnese}£{infl,verb,prssg3-prspl3|gååvnesieh}. (Magga, Ole Henrik. 2001. Sàpmi.
 {http://www.hundrearsmarkeringen.no/pdf/impulser_068-073.pdf}∞{url}
 
 Dah  {mah} sijhtieh vielie saemiej sijjienommi {bijre}${vowc,i-ï|bïjre}
@@ -63,6 +63,6 @@ Sveerjen {turistsibrien}${vowc,i-ie|turistsiebrien} bielesne:
 {http://www.stfturist.se/sv/Inspiration/Vandring/Allman-
 fjallinformation/Samiska-ortsnamn/}∞{url}
 
-Kroessebaakoe saemien {sijjiennommi gujmie}¥{smp,2-1|sijjienommigujmie}
+Kroessebaakoe saemien {sijjiennommi gujmie}¥{cmp,2-1|sijjienommigujmie}
 daennie bielesne gååvnese:
 {http://www.uta.fi/~km56049/same/puzzles/puzplac.html}∞{url}
