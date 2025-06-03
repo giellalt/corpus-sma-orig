@@ -32,7 +32,7 @@ jalhts skuvle lij saemide. Læjhkan hijven {gåaredi}${vowlat,e-a|gåaradi}
 juktie dan aavrehke lim voestes klaassesne
 {åarjelh-saemien}${cmp,lh-l;hyph-0|åarjelsaemien} lohkehtæjjam åadtjodh.
 {Dihte}${vowc,i-ï|Dïhte} munnjien
-saemien {gielese}¢{vowc,i-ï|gïelese} jarkoesti gosse {vøøjni}${vowc,øø-öö|vööjni} {manne}¥{} idtjim guarkah.
+saemien {gielese}¢{vowc,i-ï|gïelese} jarkoesti gosse {vøøjni}${vowc,øø-öö|vööjni} {manne}¥{redun|} idtjim guarkah.
 
 Mov tjidtjie lij {Raavrvijhkeste}${conc,vr-vrh|Raavrhvijhkeste} {jih}${vowc,i-ï|jïh} aehtjie Sveerjeste. Manne Sveerjesne reakadim {jih}${vowc,i-ï|jïh}
 aarvoe lij desnie årrodh. Mohte gosse lim jallan akten jaepien båeries,
@@ -81,7 +81,7 @@ voestes iehkedem. {Niejte}${vowc,i-ï|Nïejte} {Raavrvijhkeste}${conc,vr-vrh|Raa
 hotellesne årrodh. Novh sån lij {dihte}${vowc,i-ï|dïhte}
 {satna}${vowc,a-aa;fin,a-an|saatnan}. Gåetie lij bigkesovveme gosse
 dåaroe, edtji
-{sjiehtedh}${vowc,i-ï|sjïehtedh} {goh}¥{} offiserskasernie {tyskeridie}${vowc,e-ee|tyskeeridie}. Dåaroen mænngan hotelline {sjidti}${vowc,i-ï|sjïdti}
+{sjiehtedh}${vowc,i-ï|sjïehtedh} {goh}¥{redun|} offiserskasernie {tyskeridie}${vowc,e-ee|tyskeeridie}. Dåaroen mænngan hotelline {sjidti}${vowc,i-ï|sjïdti}
 {jih}${vowc,i-ï|jïh} nimhtie aaj giesegi.
 
 Gellie learohkh lin {Raavrvijhkeste}${conc,vr-vrh|Raavrhvijhkeste}, dovne mov
@@ -91,7 +91,7 @@ Ealla Jomam (mænngan Ella Holm Bull) åadtjoejim lohkehtæjjine voestes
 klaassesne. {Dihte}${vowc,i-ï|Dïhte} lij aadtjegh {lohkehtæjja-skuvlem}${hyph-0|lohkehtæjjaskuvlem} vaadtseme. {Dihte}${vowc,i-ï|Dïhte} munnjien saemien
 {gielese}¢{vowc,i-ï|gïelese} jarkoesti {jih}${vowc,i-ï|jïh} {buerkesti}${vowlat,e-ie|buerkiesti} jis aajhtsi manne idtjim maam joem guarkah. Mohte dam
 åadtjoejim ajve aktem jaepiem utnedh. Buerebe jis {dejnie}¥{dejnie ekstesne}
-jienebh jaepieh {ektesne}¥{}. Dan mænngan ajve lohkehtæjjah mah daaroestin
+jienebh jaepieh {ektesne}¥{redun|}. Dan mænngan ajve lohkehtæjjah mah daaroestin
 abpe mov {skuvle-vaedtsemem}${hyph-0|skuvlevaedtsemem}.
 
 
@@ -261,7 +261,7 @@ eelkim.
 Åssjalommesh {åarjelh-saemien}${conc,lh-l;hyph-0|åarjelsaemien} {gielen}${vowc,i-ï|gïelen} {bijre}${vowc,i-ï|bïjre}
 
 Vaenie {lidteratuvre}${conc,dt-tt|litteratuvre}
-{Åarjelh-saemien}${comp,lh-l;hyph-0|Åarjelsaemien} {gielesne}¢{vowc,i-ï|gïelesne} {gååvnese}¥{}. Goh
+{Åarjelh-saemien}${comp,lh-l;hyph-0|Åarjelsaemien} {gielesne}¢{vowc,i-ï|gïelesne} {gååvnese}¥{redun|}. Goh
 manne noere ij lij gænnah {Bijbele}${conc,b-p|Bijpele}. Akte båeries destie
 ume/pitesaemien {gielesne}¢{vowc,i-ï|gïelesne} gååvnesi. Mov {aehtj-aajja}${hyph-0|aehtjaajja} dam {buektehti}${vowc,e-ie|buektiehti} lohkedh
 jalhts {dihte}${vowc,i-ï|dïhte} joekehtadti {gieleste}¢{vowc,i-ï|gïeleste} maam

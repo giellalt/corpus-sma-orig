@@ -2,7 +2,7 @@ Healsoeveeljeme Dalarnesne
 
 Dutnjien {mij}€{w|gie} lea {Dalarnen}${fin,nen-nan|Dalarnan} {leenesne}£{infl,n,case,ine-ill|leenese} tjaalasovveme
 
-Daesnie {bievnesh}${vowc,i-ï|bïevnesh} dutnjien Laantedigkie Dalarneste båata {dan Healsoeveeljemem Dalarnesne {bijre}${vowc,i-ï|bïjre}}¥{pp,wo|dan Healsoeveeljemen bïjre Dalarnesne}. Healsoeveeljeme Dalarnese maahtah datne {goh}¥{} {paasiente}${noun,vow|pasiente} veeljedh mejtie {sijhth}${verb,vowc,i-ï|sïjhth} {minnedh}${vowc,i-ï|mïnnedh} dennie byjjes- jallh {private}${vowc,a-aa|privaate} håksoejarngesne. Datne maahtah naemhtie veeljedh:
+Daesnie {bievnesh}${vowc,i-ï|bïevnesh} dutnjien Laantedigkie Dalarneste båata {dan Healsoeveeljemem Dalarnesne {bijre}${vowc,i-ï|bïjre}}¥{pp,wo|dan Healsoeveeljemen bïjre Dalarnesne}. Healsoeveeljeme Dalarnese maahtah datne {goh}¥{redun|} {paasiente}${noun,vow|pasiente} veeljedh mejtie {sijhth}${verb,vowc,i-ï|sïjhth} {minnedh}${vowc,i-ï|mïnnedh} dennie byjjes- jallh {private}${vowc,a-aa|privaate} håksoejarngesne. Datne maahtah naemhtie veeljedh:
 
 1. {kontoem}${fin,oem-om|kontom} stealladidh ” Mina vårdkontakter” ( Mov håksoegaskesh) {jih}${vowc,i-ï|jïh} dam dov veeljemem darjodh laantedigkie {Dalarnanen}${prop,suf|Dalarnan} åejvie/ {hiejmebielesne}${noun,vowc,i-ï|hïejmebielesne}: {www.ltdalarna.se/minavardkontakter}∞{url}
 

@@ -6,7 +6,7 @@ Lastet ned 26.04.2012
 Nedtetjaalege {njammemen}€{der,0-caus|njammehtimmien} bïjre
 
 {Njammemeviehkie}£{der,0-caus|njammehtimmieviehkie} daam nedtetjaalegem
-dorjeme {edtja}¥{} dutnjien {mij}£{rel,nonhum-hum|gie} {njammehte}£{infl,verb,subj_verb_kongr,prssg3-prssg2|njammehth} maahtoeh jïh raerieh vedtedh {njammemen}£{der,0-caus|njammehtimmien} bïjre. Njammemeviehkien baakoe lea: Viehkije baakoe
+dorjeme {edtja}¥{redun|} dutnjien {mij}£{rel,nonhum-hum|gie} {njammehte}£{infl,verb,subj_verb_kongr,prssg3-prssg2|njammehth} maahtoeh jïh raerieh vedtedh {njammemen}£{der,0-caus|njammehtimmien} bïjre. Njammemeviehkien baakoe lea: Viehkije baakoe
 tjidtjeste tjædtjan. {Ij}£{infl,ver,subj_verb_kongr,prssg1-prspl3,neg|Eah} leah naan
 gyhtjelassh {fer}€{foreign|fagkan} smaave mijjese. Mijjieh gujht datnem
 dåarjelibie jïh viehkiehtibie.
@@ -29,10 +29,10 @@ evtiedæmman. {{njammeme}£{der,0-caus|njammehtimmie}}¥{Dïhte njaamehtimmie}
 ij tjirkh maana ij naan aejkien skeamtjoeh, bene ietnienmielhkie dam
 vaahram vaenede.
 
-Dutnjien {die}¥{} {njammehtimmie}¥{dïhte njammehtimmie} hijven njamma-{mietskhåedtjien}${vow|njammamïetskåedtjien},
+Dutnjien {die}¥{redun|} {njammehtimmie}¥{dïhte njammehtimmie} hijven njamma-{mietskhåedtjien}${vow|njammamïetskåedtjien},
 {{eggstokkreft}${noun,mix|eggstokkreefte} jïh daektiehiejjiesvoeten {vøøste}${vowc,øø-öö|vööste}}£{x,x,x,x,x|eggstokkreeften jïh daektiehiejjiesvoeten vööste}.
 
-Minngemes, bene ij uhtjemes, ietnienmielhkie {namhtah}¥{} iktegisth
+Minngemes, bene ij uhtjemes, ietnienmielhkie {namhtah}¥{redun|} iktegisth
 {fierske}${vowc,ie-ïe|fïerske} jïh gaervies åtnose vaeltedh!
 
 Guktie {njammedh}£{der,0-caus|njammehtidh} jïh guktie njammese
@@ -41,20 +41,20 @@ Baajh maanam ånnetji njaelmine ohtsedidh {{åvtelen}¢{xxx|aarebi}}¥{aarebi go
 njammam åådtje. Gosse njaelmiem geehpie, datne maanam dov
 {lïhke}€{pp|bealese} {geasah}€{verb|bïejh}. Dellie maanan {njaelmie}¢{infl,sgnom-sgill|njaalman} {njammine}¢{infl,com-acc|njammam} {deava}€{verb|tsagka} gosse
 jïjtje njammam vaalta. Gosse maanam dov lïhke steerh mearan åejjie loeves,
-{edtja}¥{} maanan gaejpie dov njamman {sontere}¢{pp|bealesne} {årrodh}€{verb|lea}.
+{edtja}¥{redun|} maanan gaejpie dov njamman {sontere}¢{pp|bealesne} {årrodh}€{verb|lea}.
 Dellie mielhkie hijvenlaakan galka. Maanan åejjie sæjhta ånnetji byjngese
 årrodh guktie njuenie jallan låaptjode. Naemhtie maana åådtje voejngehtidh
 bielelen¢(pp| datne daarpesjh njammam maanan njueneste steeredh.
 
 1. Steerh njammam {bielhkine}${conc,lhk-lk|bielkine} bijjiebielesne jïh
-soermide nuelesne, ¥guktie {goh}¥{} {akte}¥{} stoerre {C-baakoe}${infl,nom- ess|C-baakojne}¥sjædta.
+soermide nuelesne, ¥guktie {goh}¥{redun|} {akte}¥{redun|} stoerre {C-baakoe}${infl,nom- ess|C-baakojne}¥sjædta.
 Doh soermh eah edtjh dennie provne njammasijjesne årrodh {{areola}${conc,l-vl;fin,a-e|areovle})
-2. Skreejrehth maanam {tjarki}¥{} geehpedh guktie datne maanan
+2. Skreejrehth maanam {tjarki}¥{redun|} geehpedh guktie datne maanan
 {bangsh}${vowlat,|bangsemh}
 {njammevahterinie}${noun,vowc|njammavaahterinie} tjogkeldh, njueneste
 {vueliebangsen}${fin,en-emen|vueliebangsemen} {vøøste}${vowc,øø- öö|vööste}. {Njammavahtere}${vowc,a-aa|Njammavaahtere} lea
 {øøvre}${vowc,øø-öö|öövre} maanan njuenien lïhke.
-3. Gosse maana {tjarki}¥{} geehpie, dellie maanam dov lïhkebasse geasah.
+3. Gosse maana {tjarki}¥{redun|} geehpie, dellie maanam dov lïhkebasse geasah.
 
 Guktie sïejhme tjahkasjidh jallh gællasjidh gosse njammehteminie
 {Saaht-guktie}${hyph,0;cmp,2-1|Saaht guktie} datne {veeljh}¢{verb|sïjhth}
@@ -65,7 +65,7 @@ buektehth {liegkedidh}${vowc,i-ï|lïegkedidh} dellie datne {sæjloes}€{adj-ve
 Dellie aelhkie saejrine sjïdtedh.
 
 Sïejhme suvhtijevuekie:
-Maana {sæjrosne}¥{} dov faerhmesne {gællesje}¢{verb|vealesje}, tjåejjine dov
+Maana {sæjrosne}¥{redun|} dov faerhmesne {gællesje}¢{verb|vealesje}, tjåejjine dov
 tjåejjien {vøøste}${vowc,øø-öö|vööste}, jïh {åejjine byjngese}¥{maanan
 åejjie} dov {{vueliegïeten}¢{noun|gïeten} nelnie}¢{xxx|faerhmesne lea}. Maana
 dov åelkies vueliegïetesne gællesje gosse åelkiesnjammam njamma. Maanan
@@ -73,7 +73,7 @@ vueliegïete edtja dov gaskebullen bïjre årrodh. Datne maanan rudtjem
 vueliegïetine dåvta, jïh ravvem jallh juelkide gïetine steerh.
 
 {Jøømmetjevuekie}${vowc,i-ï|Jöömmetjevuekie}:
-Maana {sæjrosne gællesje}¥{verb|vealesje}, tjåejjine dov {sæjroen}¥{}
+Maana {sæjrosne gællesje}¥{verb|vealesje}, tjåejjine dov {sæjroen}¥{redun|}
 {vøøste}${vowc,øø-öö|vööste} akten dåvnan nelnie jïh {juelkide}¢{case,placc-plnom|juelkieh} byjngese. Datne maanam dov gïetine steerh. Maanan tjovrese/
 rudtje dov gïetesne veelede guktie datne maahtah maanam bæjjese njammese
 lutnjedh. Åelkiesgïete maanan nelnie gosse åelkiesnjammesne njamma. Maanan
@@ -156,7 +156,7 @@ jienebem mielhkiem åådtje jis jïjnjem jåvka.
 
 {Fer}€{foreign|faagkan} vaenie mielhkie?
 Gosse maana sjïdtede {dellie sæjhta vielie mielhkiem
-{daarpesjidh}¥{}}¥{wo|dellie vielie mielhkiem sæjhta}. Maana sæjhta
+{daarpesjidh}¥{redun|}}¥{wo|dellie vielie mielhkiem sæjhta}. Maana sæjhta
 daamtajåbpoe njammedh 2-3 biejjieh, edtja njammide viehkiehtidh
 mielhkiedorjese lissehte. Dam gohtje læssanimmiebiejjieh, jïh maahta årrodh
 dan daamtaj goh fïerhten 14. biejjien, bene stoerre joekehts maaneste
@@ -465,7 +465,7 @@ mejtie maahtah njammehtidh. Datne {byørh}${vowc,øø-öö|byörh} aaj dov
 maahtah njammehtidh.
 
 Aehtjien sijjie
-Aehtjine dov {jiïnjh}${vowc,i-ï|jïjnjh} vihkeles barkoeh {tijjen}${vowc,øø-öö|tïjjen} åvtese. ((Tjidtjie raeffiem jïh {{liegkedimmiem}¥{} daarpesje
+Aehtjine dov {jiïnjh}${vowc,i-ï|jïjnjh} vihkeles barkoeh {tijjen}${vowc,øø-öö|tïjjen} åvtese. ((Tjidtjie raeffiem jïh {{liegkedimmiem}¥{redun|} daarpesje
 reakadimmien mænngan.}¥{wo|Tjidtjie raeffiem daarpesje, jïh daarpesje
 lïegkedidh mænngan goh lea maanam reakadahteme}) Daate {vihkeles}£{infl,adj,attr-sgnom|vihkele}, jis
 {tjidtjebe jïh maanebe}¢{xxx|tjædtjetjeguaktah} edtjijægan
