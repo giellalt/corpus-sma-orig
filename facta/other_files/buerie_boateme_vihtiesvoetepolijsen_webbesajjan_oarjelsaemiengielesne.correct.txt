@@ -1,19 +1,19 @@
 Buerie {båateme}${båeteme} {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} {webbesäjjan}${webbesæjjan} {åarjelsaemiengielesne}${åarjelsaemiengïelesne}
 
-{Vihtiesvoetepolijse}${Vihtiesvoetepollise} lea {tjetskemebyjjesfaamoe}€{vaaksjomefaamohke} {mejnie}¥{pron,com|mej leah} {polijsijären}${adj|pollisijeere} laavenjassh. Mijjieh {luhpehts}€{luhpehtsvoetide} {{rijhken}${rïjhken}}¥{pp,missing|rïjhken vööste} {vihtiesvoetide {åvtesne}€{adv,adv,w|åvteste}}£{noun,pph,genpl,accpl,case|vihtiesvoeti åvtesteheerredibie} {jih}${jïh} kreajnoehtibie, terrorismen vööste barkebe {jih}${cc,ï|jïh} voernges {staatenåvtohkh}${staatenåvtehkh} vaarjelibie.
+{Vihtiesvoetepolijse}${Vihtiesvoetepollise} lea {tjetskemebyjjesfaamoe}€{vaaksjomefaamohke} {mejnie}¥{pron,com|mej leah} {polijsijären}${adj|pollisijeere} laavenjassh. Mijjieh {luhpehts}€{luhpehtsvoetide} {{rijhken}${rïjhken}}¥{pp,missing|rïjhken vööste} {vihtiesvoetide {åvtesne}€{adv,adv,w|åvteste}}£{noun,pph,placc-plgen,case|vihtiesvoeti åvtesteheerredibie} {jih}${jïh} kreajnoehtibie, terrorismen vööste barkebe {jih}${cc,ï|jïh} voernges {staatenåvtohkh}${staatenåvtehkh} vaarjelibie.
 
 Ulmieh {dehtie barkoste}£{demphrase,dem,nom,ela-com,ela-com|daejnie barkojne} leah dam demokratijen {systemem}${systeemem}, {almetjij}${almetji} {veajhtoe}¥{noun,redun|} - {jih}${jïh} {reaktajvoeth}${reaktah} vaarjelidh {jih}${jïh} aaj dam nasjovnen vihtiesvoetem.
 
 {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} barkoe lea {vijhte}${vïjhte} {suerkide}¥{pph,missing|suerkiej mietie} {juakeme}${joekedamme}:
 
-• {Kontrasïektjedihk}€{noun|Kontrasïektjeme} {mij lea}¥{verb,missing|galka} sïektjemem {jih}${jïh} luhpehts {tjetskemedarjoem}€{bïevnedimmieh} {åvtesne}¥{v,redun|} heerredidh {jih}${jïh} {kreajnoehtidh}¥{punct,missing|kreajnoehtidh.}
+• {Kontrasïektjedihk}€{noun|Kontrasïektjeme} {mij lea}¥{verb,missing|galka} sïektjemem {jih}${jïh} luhpehts {tjetskemedarjoem}€{bïevnedimmieh} {åvtesne}¥{redun|} heerredidh {jih}${jïh} {kreajnoehtidh}‰{punct,missing|kreajnoehtidh.}
 
-• Kontraterrorisme, mij lea terrorismem Sveerjen vööste jallh {ålkoelaantij}${ålkoelaanti} ïedtjh Sveerjesne åvtesne heerredidh {jih}${jïh} kreajnoehtidh, {terroristijdarjomh}${terroristidarjomh} jeatjah laantine {jih}${jïh} {internasjovnen}€{noun,internasjovnen|gaskenasjovni} {terroristijviermiej}${terroristiviermiej} åeksieh Sveerjesne.
+• Kontraterrorisme, mij lea terrorismem Sveerjen vööste jallh {ålkoelaantij}${ålkoelaanti} ïedtjh Sveerjesne åvtesne heerredidh {jih}${jïh} kreajnoehtidh, {terroristijdarjomh}${terroristidarjomh} jeatjah laantine {jih}${jïh} {internasjovnen}€{noun|gaskenasjovni} {terroristijviermiej}${terroristiviermiej} åeksieh Sveerjesne.
 Kontraterrorisme, bïevnesh terrorismen bïjre heerredidh mah leah Sveerjen vööste jallh jeatajh ålkoelaanti åajvaladtjide laantesne, Terroristedeahpadimmieh jeatjah laantine jïh mejtie Sveerjesne gååvnesieh åeksieh ålkoelaanti terrorviermeste.
 
-• {Reeremhvaarjelimmie}€{noun|Reeremevaarjelimmie} mij lea luhpehts {darjomh}${darjomi} {åvtesne}${åvteste} heerredidh {jih}${jïh} kreajnoehtidh mej {njåvtasovvijgujmie}${njåvtasovvijigujmie}, aajhtojne jallh tjibrenassijgujmie politigken vitnemem jaksedh jallh almetjh heerredidh sijjen våaroelaaken nænnoestamme veajhtoe- {jih}${jïh} reaktajvoeth {{gietelieh}${gïetedieh}}¥{punct,missing|.}
+• {Reeremhvaarjelimmie}€{noun|Reeremevaarjelimmie} mij lea luhpehts {darjomh}${darjomi} {åvtesne}${åvteste} heerredidh {jih}${jïh} kreajnoehtidh mej {njåvtasovvijgujmie}${njåvtasovvijigujmie}, aajhtojne jallh tjibrenassijgujmie politigken vitnemem jaksedh jallh almetjh heerredidh sijjen våaroelaaken nænnoestamme veajhtoe- {jih}${jïh} reaktajvoeth {{gietelieh}${gïetedieh}}‰{punct,missing|.}
 
-• Vihtiesvoetevaarjelimmie, mij {lea}€{verb|galka} {byjjesfaamoem}€{noun,byjjesfaamoem|byjjesfaamohkigujmie} raeriestidh {jih}${jïh} {giehtjedidh}${gïehtjedidh} mejtie {vihtiesvoetelaaken}${vihtiesvoetelaakem} vaarjelidh
+• Vihtiesvoetevaarjelimmie, mij {lea}€{verb|galka} {byjjesfaamoem}€{noun|byjjesfaamohkigujmie} raeriestidh {jih}${jïh} {giehtjedidh}${gïehtjedidh} mejtie {vihtiesvoetelaaken}${vihtiesvoetelaakem} vaarjelidh
 
 • Almetjevaarjelimmie, mij lea geehteme- {jih}${jïh} vihtiesvoetebarkoe dan {voerngen}${voerngesne} {staateåvtohkidie}${staatenåvtehkidie}, gånkafuelhkiem, ålkoelaanten diplomatijen barkijidie {jih}${jïh} aaj {staateguessemem}${staategåassomem} {jih}${jïh} {nov}${nimhtie} {vijrebasse}${vijriebasse}.
 {Vihtiesvoetepolijse}${Vihtiesvoetepollise} aaj barkeminie eerjemevaeknieh seejeminie dåastoehtidh. Mijjieh libie aaj {darjoeh}${darjomh} maam jeatjah {polijse}${pollise} byjjesfaamoeh dåarjelidh. Mijjen lea Bomb Data Center {jih}${jïh} klaerieguvvielaboratorijume gusnie teknigke tjeakoes {telegoltelämman}${telegoltelæmman} {jih}${jïh} tjeakoes {telegiehtjedämman}${telegiehtjedæmman} gååvnesieh.
@@ -23,11 +23,11 @@ Kontraterrorisme, bïevnesh terrorismen bïjre heerredidh mah leah Sveerjen vö�
 Medtie 1 000 almetjh lea {Vihtiesvoetepolijsesne}${Vihtiesvoetepollisesne} barkeminie. Jeenjemes Stockholmesne barkeminie. Gååvnesieh aaj barkijh mijjen {vijhte}${vïjhte} {regionalen}${regionaalen} sijjine laantesne. {Vihtiesvoetepolijsine}${Vihtiesvoetepollisine} {juristh}${juristh}, {analytikerh}${analytihkerh}, {öökonovmerh}${ökonomh}, {tegknikerh}${teknihkerh} {jih}${jïh} {administratövrh}${administratöörh} barkeminie. Medtie 55 {procenth}${proceente} {dej}${dejstie} {barkijstie}${barkijistie} leah {polijside}${pollisine} {ööhpehtamme}${barkeminie}.
 
 {Suerkie}€{darjome} {göökte daltesinie}£{numphrase,num,sgnom-sgine|gööktene daltesisnie}
-{Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} darjomh leah {göökte daltesisnie}£{numphrase,num,sgnom-sgine|gööktene daltesinie} {{åårganiseredh}${organiseeredh}}£{verb,inf-prfprc|organiseereme} , {åvtohkedaltese}${åvtehkedaltese} man verkenkanslije dåarjojne {jih}${jïh} aktesedaltese{aktesedaltese}€{noun,w|goevtesedaltese} {Verkenåvtohkh}${Verkenåvtehkh} leah generaledirektööre, sov {sijjiesadtje}${sæjjasadtje} {jih}${jïh} {vijhte}${vïjhte} åejviebarkijh. Sov dåarjoe lea {åvtohken}${åvtehken} verkenkanslije man leah uktsie åtnoeh. {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} barkoe lea 17 {joekehts}${joekehth} {aktesidie}${goevtesidie} {juekedh}£{verb,inf-prfprc|joekedamme}
+{Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} darjomh leah {göökte daltesisnie}£{numphrase,num,sgnom-sgine|gööktene daltesinie} {{åårganiseredh}${organiseeredh}}£{verb,inf-prfprc|organiseereme} , {åvtohkedaltese}${åvtehkedaltese} man verkenkanslije dåarjojne {jih}${jïh} {aktesedaltese}€{noun,w|goevtesedaltese} {Verkenåvtohkh}${Verkenåvtehkh} leah generaledirektööre, sov {sijjiesadtje}${sæjjasadtje} {jih}${jïh} {vijhte}${vïjhte} åejviebarkijh. Sov dåarjoe lea {åvtohken}${åvtehken} verkenkanslije man leah uktsie åtnoeh. {Vihtiesvoetepolijsen}${Vihtiesvoetepollisen} barkoe lea 17 {joekehts}${joekehth} {aktesidie}${goevtesidie} {juekedh}£{verb,inf-prfprc|joekedamme}
 
 {Vihtiesvoetepolijse}${Vihtiesvoetepollise}
 {Dah {luhpehts}€{noun,w|luhpehtsvoete} mejtie {Vihtiesvoetepolijsie}${Vihtiesvoetepollise} {edtja}€{verb,w|galka} jeeredidh, {åvtesne}¥{pp,redun|} heerredidh {jih}${jïh} kreajnoehtidh maehtieh abpe laantesne deahpadidh}¥{Dah luhpehtsvoeth mejtie vihtiesvoetepollise galka jeeredidh, heerredidh jïh kreajnoehtidh maehtieh abpe laantesne deahpadidh}.
-Dan {åvtesne}€{pp,w|åvteste} mijjieh abpe Sveerjesne barkeminie. Mijjen suerkie lea {åårganiseredh}${organiseeredh} {naemhtie}¥{punct,missing|naemhtie:} {mijjen}${Mijjen} {lea}${leah} {vijhte}${vïjhte} {regijonalh}${regionaale} {aktesen}€{noun,w|goevtesen} laantesne.
+Dan {åvtesne}€{pp,w|åvteste} mijjieh abpe Sveerjesne barkeminie. Mijjen suerkie lea {åårganiseredh}${organiseeredh} {naemhtie}‰{punct,missing|naemhtie:} {mijjen}${Mijjen} {lea}${leah} {vijhte}${vïjhte} {regijonalh}${regionaale} {aktesen}€{noun,w|goevtesen} laantesne.
 {Fierhten}${Fïerhten} {aktesen}€{noun,w|goevtesen} {diedtem}${dïedteme} lea {Vihtiesvoetenpolijsen}${Vihtiesvoetepollisen} barkoe dennie sov dajvesne. {Dej}${Dejnie} {leenij}${leenesne} {sisnie}¥{pp,redun|} dah barkeminie {gaskesadtedh}${soptsestalledh} {jih}${jïh} {tjetskedh}€{verb,tjetskedh|vaaksjodh}.
 Dah {regionalij}${regionaali} {aktesh}€{noun,w|goevtesh} leah:
 
@@ -88,9 +88,9 @@ Faakse: 040-23 96 29
 E-påaste: enhet.syd@sakerhetspolisen.se
 
 {Bieljedh}${Bïeljelh} {Vihtiesvoetepolijsem}${Vihtiesvoetepollisese}
-Maahtah {Vihtiesvoetepolijsem}£{infl,noun,sgacc-sgill|Vihtiesvoetepollisese} {bieljedidh}${bïeljelidh}. Jis dov {lea}£{infl,verb,prssg3-prspl3|leah} {bievnesh}${bïevnesh} maam {vienhth}${vïenhth} leah {mijjen}£{infl,pron,sggen-sgill|mijjese} aevhkie mijjen {barkosne}£{infl,noun,case,sgine-sgill|baskose} dellie {sijhtebe}${sïjhtebe} {datne}¥{pron,redun|} edtjh {mijjem}£{pron,case,sgacc-plill|mijjide} {bieljedidh}${bïeljelidh}.
+Maahtah {Vihtiesvoetepolijsem}£{infl,noun,case,sgacc-sgill|Vihtiesvoetepollisese} {bieljedidh}${bïeljelidh}. Jis dov {lea}£{infl,verb,subj_verb_kongr,prssg3-prspl3|leah} {bievnesh}${bïevnesh} maam {vienhth}${vïenhth} leah {mijjen}£{infl,pron,case,sggen-sgill|mijjese} aevhkie mijjen {barkosne}£{infl,noun,case,sgine-sgill|baskose} dellie {sijhtebe}${sïjhtebe} {datne}¥{pron,redun|} edtjh {mijjem}£{pron,case,sgacc-plill|mijjide} {bieljedidh}${bïeljelidh}.
 
-{Dihte}£{pron,case,sgnom-sgacc|Dam} maahtah darjodh {teelefovnine}${teellefovnine}, e-påastine jallh {dejnie}€{dejnie|daejnie} tjaaleginie {mijjen}€{pron,pers-interr|mij} lea daennie {{säjtosne}${sæjrosne}}¥{punct,missing|sæjrosne.} Tjaalege lea Sveerjen- {jih}${jïh} englaanten {gielesne}${gïelesne} {webbesijjesne}${gaskeviermiesæjrosne}. Maahtah hævvi {nommehts}€{nommehth} årrodh.
+{Dihte}£{pron,case,sgnom-sgacc|Dam} maahtah darjodh {teelefovnine}${teellefovnine}, e-påastine jallh {dejnie}€{pron|daejnie} tjaaleginie {mijjen}€{pron,pers-interr|mij} lea daennie {{säjtosne}${sæjrosne}}‰{punct,missing|sæjrosne.} Tjaalege lea Sveerjen- {jih}${jïh} englaanten {gielesne}${gïelesne} {webbesijjesne}${gaskeviermiesæjrosne}. Maahtah hævvi {nommehts}€{nommehth} årrodh.
 
 {Jis}¥{noun,verb,missing|Dov lea jis} nuepie dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {laahpah}€{laahpah|laehpedh} {mijjieh}¥{pron,redun|} {libie}¥{cc,missing|libie juhkoe} {gijhteles}£{infl,adj,attr-sgnom|gijhtele}, jis {naan}¥{pron,redun|} {gyhtjelassh}¥{noun,redun|} {daarpesjibie}¥{pp,missing|bïjre daarpesjibie} gihtjedh.
 
@@ -98,9 +98,9 @@ Dov {bieljedhbievnesh}€{bieljedhbievnesh|bïeljelimmiebïevnesh} {{konfidensie
 
 {Tjaalegasse}£{noun,case,sgill-sgnom|Tjaalege}. {englaantegielesne}${noun|englaantengïelesne}.
 
-{Tjaalegasse}£{noun,case,sgill-sgnom|Tjaalege}. {sveerjengielesne}${noun|sveerjengïelesne}.
+{Tjaalegasse}£{infl,noun,case,sgill-sgnom|Tjaalege}. {sveerjengielesne}${noun|sveerjengïelesne}.
 
-Maahtah aaj {daesnie}£{adv|diekie}. {bieljedidh}${bïeljelidh}:
+Maahtah aaj {daesnie}€{adv|diekie}. {bieljedidh}${bïeljelidh}:
 
 • E-påaste: sakerhetspolisen@sakerhetspolisen.se
 
