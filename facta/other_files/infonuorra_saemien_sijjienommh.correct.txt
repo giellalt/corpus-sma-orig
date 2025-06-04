@@ -13,7 +13,7 @@ Gosse {Nøørjen}${vowc,ø-öö|Nöörjen} {naasjovne}${vowc,aa-a|nasjovne} edtj
 bigkesovvedh dle saemien sijjienommh daaroen {sijjienommi gujmie}¥{cmp,2-1|sijjienommigujmie}
 {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,verb,subj_verb_kongr,prtsg3-prtpl3|lotnesovvin}. {Uniontijjen}${vowc,i-ï|Uniontïjjen}
 minngiegietjie dle ij leah luhpie saemiestidh {jih}${vowc,i-ï|jïh} tjoerin
-barre daaroestidh, {jih}${vowc,i-ï|jïh} daate 1900 {raajese}£{noun,sgine-sgill|raajan} vaasi.
+barre daaroestidh, {jih}${vowc,i-ï|jïh} daate 1900 {raajese}£{noun,casesgine-sgill|raajan} vaasi.
 Finnmarkesne dle dah saemien nommh daaroen {nommi gujmie}¥{cmp,2-1|nommigujmie} {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}.  Daate lij {politigken}${conc,gk-hk|politihken}
 {vihkelelommes}${vowlat,e-ie|vihkielommes} vierhtie faamoem dajvesne
 åadtjodh, Kaisa Rautio Helander Saemien jolleskuvlesne jeahta. Kaisa Rautio

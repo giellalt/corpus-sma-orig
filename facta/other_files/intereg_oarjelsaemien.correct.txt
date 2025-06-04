@@ -16,7 +16,7 @@ Guktie daajroes, Sveerje lea {liihtseginie}${vowc,ii-ï|lïhtseginie} {{EE-esne}
 mij beetnegh dåajvohte, ektievoetejielemem {jih}${vowc,i-ï|jïh} barkoem
 unijovnen raastebealah skreejrehtidh. {Trøøderidie}${conc,ød-nd|Trönderidie}
 {jih}${vowc,i-ï|jïh} dovne {jiemhtide}${vowc,i-ï|jïemhtide}
-{gåabpegh}${infk,case,plnom-pline|gåabpatjahkene} bielesne lea gujht buerine
+{gåabpegh}${infl,pron,case,plnom-pline|gåabpatjahkene} bielesne lea gujht buerine
 gosse buektiehtibie {jillie-jih}${mix,mix|jillie- jïh} luvliebielesne
 {eensilaahkan}${conc,hk-k|eensilaakan} ektesne barkedh, nimhtie dam
 {Nøørje}${vowc,i-ï|Nöörje} {jijtse}${vowc,i-ï|jïjtse} {bielaste}${vowlat,a-
@@ -31,8 +31,7 @@ ee|prosjeekth} jijhtedh mah {Jiemthen}${vowc,i-ï;conc,mth-mht|Jïemhten}
 {maehtie}${verb,suf|maehtieh} övtiedidh. Jielemevuekie, {giehtjedimmie}${vowc,i-
 ï|gïehtjedimmie}, {ööpehtimmie}${conc,p-hp|ööhpehtimmie}, kultuvre, byjrese
 {jih}${vowc,i-ï|jïh} eeremes - orre barkoesijjieh leah {{viehkeles}${vowc,ie-
-i|vihkeles}}£{adj,attr-sgnom|vihkele} {tsiehkiebaahkoe}${conc,hk-k;infl,case,sgnom-
-plnom|tsiehkiebaakoe}. Barkoesijjieh, {tjielth}${vowc,i-ï|tjïelth},
+i|vihkeles}}£{adj,attr-sgnom|vihkele} {tsiehkiebaahkoe}${conc,hk-k;infl,case,sgnom-plnom|tsiehkiebaakoe}. Barkoesijjieh, {tjielth}${vowc,i-ï|tjïelth},
 institusjovnh {jih}${vowc,i-ï|jïh} såemies almetjh sih joe maehtieh
 {gijkije}${vowc,i-ï|gïjkije} {eajhnaj gujmie}¥{cmp,2-1|eajhnajgujmie}
 tjahkan, mohte eah giem {Jiemhtesne}${vowc,i-ï|Jïemhtesne} {dabpth}${conc,bpt-

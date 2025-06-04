@@ -56,7 +56,7 @@ Winter Games (AWG)
 SVL-N lea dovne meatan {AWG-esne}${acr,suf|AWG:sne}, maam
 noeride mejtie 13-19 jaepien båeries öörnieh. Barkeminie lea aaj
 {lihtseginie}${vowc,i-ï|lïhtseginie} {AWG-n}${acr,suf|AWG:n} siebresne
-sjïdtedh. {Dam siebriem}£{demphrase,dem,noun,case,sgacc-sgnom|daate siebrie} tseegkesovvi juhkoe åssjele aalkoealmetjh
+sjïdtedh. {Dam siebriem}£{demphrase,dem,noun,case,sgacc-sgnom|Daate siebrie} tseegkesovvi juhkoe åssjele aalkoealmetjh
 {arktigke}${infl,sgnom-sggen;conc,gk-hk|arktihke} dajvine maehtieh daelvege
 {tjåangkenidh}${conc,gk-ghk;vpwlat,a-e|tjåanghkenidh} {saaavredh}${vowc,aaa-
 aa|saavredh}. {Fierhten}${vowc,i-ï|Fïerhten} mubpien jaepien Alaska(USA),
