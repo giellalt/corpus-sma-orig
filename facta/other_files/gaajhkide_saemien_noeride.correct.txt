@@ -29,7 +29,7 @@ Programme {aane}${typos|annje} naemhtie {våjnoe}${vowc,å-åå|våajnoe}:
 
 Bearjadahken: Gaajhkesh {dovnesh}¥{missing|dovnesh gïeh} {Romsen}£{infl,noun,case,sggen-sgacc|Romsem}
 {jaksi}£{infl,verb,prtsg3-prtpl3|jaksin} {jih}${vowc,i-ï|jïh} {aavoedim}${infl,xxx|aavoedin}
-{mubpie}${infl,sgnom-sggen|mubpien} iehkiedasse.
+{mubpie}£{infl,adj,case,sgnom-sggen|mubpien} iehkiedasse.
 
 
 Laavadahken: {Jijtje}${vowc,i-ï|Jïjtje} aelkiedimmietjåanghkoe {jih}${vowc,i-ï|jïh} murreds konserte iehkeden
@@ -41,7 +41,7 @@ Håhkesjibie {buektedibie}${vowlat,e-ie|buektiehtibie} {gøøkte}${vowc,øø-ö�
 Romsese, akte Gærhkoenjaarkeste {jih}${vowc,i-ï|jïh} mubpie Tråanteste. Jis
 {mingemes}${conc,ng-nng|minngemes} {beetnegeviertiem}${cmp,ege-eh|beetnehvierhtiem} maam vuertieminie åadtjoejibie.
 
-{Sijhth}${vowc,i-ï|Sïjhth} dåeriedidh? {Soptsesh}¢{conc,sh-sth|Soptsesth}
+{Sijhth}${vowc,i-ï|Sïjhth} dåeriedidh? {Soptsesh}${conc,sh-sth|Soptsesth}
 {susanneamalie@gmail.com`ese}${typos|susanneamalie@gmail.com:ese} {{ååvtelen}${vowc,åå-å|åvtelen}}€{w|aarebi} Golken mubpien
 {biejjen}${fin,en-ien|biejjien}, {juktie}€{w|guktie} {daejrebe}¥{missing|daejrebe mejtie}
 nuekies {beapmoh}${conc,oh-oeh|beapmoeh} {gaajhkide}€{w|gaajhkesidie}!

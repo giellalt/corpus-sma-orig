@@ -31,7 +31,7 @@ ee|prosjeekth} jijhtedh mah {Jiemthen}${vowc,i-ï;conc,mth-mht|Jïemhten}
 {maehtie}${verb,suf|maehtieh} övtiedidh. Jielemevuekie, {giehtjedimmie}${vowc,i-
 ï|gïehtjedimmie}, {ööpehtimmie}${conc,p-hp|ööhpehtimmie}, kultuvre, byjrese
 {jih}${vowc,i-ï|jïh} eeremes - orre barkoesijjieh leah {{viehkeles}${vowc,ie-
-i|vihkeles}}£{adj,attr-sgnom|vihkele} {tsiehkiebaahkoe}¢{conc,hk-k;infl,case,sgnom-
+i|vihkeles}}£{adj,attr-sgnom|vihkele} {tsiehkiebaahkoe}${conc,hk-k;infl,case,sgnom-
 plnom|tsiehkiebaakoe}. Barkoesijjieh, {tjielth}${vowc,i-ï|tjïelth},
 institusjovnh {jih}${vowc,i-ï|jïh} såemies almetjh sih joe maehtieh
 {gijkije}${vowc,i-ï|gïjkije} {eajhnaj gujmie}¥{cmp,2-1|eajhnajgujmie}

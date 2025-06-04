@@ -246,12 +246,12 @@ faaleldahkem dåastoeh. Mijjieh saemieh åarjede saemien
 {noerhte-saemien}${hyph-0|noerhtesaemien}.
 
 
-{DSF-en}${acro,suf|DSF:n} mænngan kuvsjem veedtsim mij lij {sjiehteles}£{adj,infl,attr-sgnom|sjiehtele} geerve
+{DSF-en}${acro,suf|DSF:n} mænngan kuvsjem veedtsim mij lij {sjiehteles}£{infl,adj,attr-sgnom|sjiehtele} geerve
 almetjidie {mah}£{rel,nhum-hum|gïeh} edtjin saelhtesne barkedh. Dan mænngan Hurtigrutesne
 bielie jaepiem {giehtelim}${vowc,i-ï|gïehtelim}. Dan mænngan jis
 {ysteriesne}${vowlat,i-ij|ysterijesne} barkim {aerebi}${init,ae-aa|aarebi} goh
 {akten}¥{redun|} {entrepenørfirmaesne}${XXX|entrepenörfirmasne(firma?)} eelkim. Mohte
-tjåetskeme nimhtie barkedh {goh}¥{redun|} {{bigkeme-ålma}${hyph-0|bigkemeålma}}£{infl,sgnom-ess|bigkemeålmine} guktie eajhnadovvim
+tjåetskeme nimhtie barkedh {goh}¥{redun|} {{bigkeme-ålma}${hyph-0|bigkemeålma}}£{infl,noun,case,sgnom-ess|bigkemeålmine} guktie eajhnadovvim
 barkoem gåetesne ohtsedh. Ohtsim barkoeskuvlem {jih}${vowc,i-ï|jïh}
 {elektrikerinie}${conc,k-hk|elektrihkerinie} {sjidtim}${vowc,i-ï|sjïdtim}.
 {Jih}${vowc,i-ï|Jïh} dejnie barkojne leam {giehtelamme}${vowc,i-ï|gïehtelamme}
@@ -286,7 +286,7 @@ vedtieh skuvlesne {gielem}${vowc,i-ï|gïelem} {øøhpehtidh}${vowc,øø-
 {Åarjelh-saemien}${comp,lh-l;hyph-0|åarjelsaemien}
 dajvesne. Dah båeries saemieh lin maahteme meatan
 årrodh {jih}${vowc,i-ï|jïh} nimhtie viehkine {gielem}${vowc,i-ï|gïelem}
-lutnjedh dan {daltese}${infl,sgnom-sgill|daltesasse} gusnie daelie daerpies.
+lutnjedh dan {daltese}£{infl,noun,case,sgnom-sgill|daltesasse} gusnie daelie daerpies.
 
 Jis edtjh daelie {daaroen-gieleste}${hyph-0;vowc,i-ï|daaroengïeleste}
 loevenidh, dellie {maahte}${vowc,aa-a|mahte} {tjoverh}${verb,vowc|tjoeverh}
@@ -314,7 +314,7 @@ daase naan geajnoeh juhtieh guktie idtji naan {giele-giehtjedæjja}${vowc,i-ï;h
 dajvi nommh paehpierasse tjaeledh. Daate lij buerie {råajvarimme}${fin,e-ie|råajvarimmie}, mohte fagkan seenhte {bøøtin}${vowc,øø-öö|böötin}.
 
 Mohte ibie edtjh ajve jeatjabidie skultedh gosse {gieline}${vowc,i-ï|gïeline}
-nimhtie. Ibie leah {{jijtje}${vowc,i-ï|jïjtje}}£{pron,refl,sgnom-plnom|jïjtjh} {væjkeles}${infl,adj,attr-sgnom|væjkele} orreme dejtie noeride {gielem}${vowc,i-ï|gïelem} leerehtidh.
+nimhtie. Ibie leah {{jijtje}${vowc,i-ï|jïjtje}}£{pron,refl,case,sgnom-plnom|jïjtjh} {væjkeles}${infl,adj,attr-sgnom|væjkele} orreme dejtie noeride {gielem}${vowc,i-ï|gïelem} leerehtidh.
 Manne mov gaavhtan soptsestem {jih}${vowc,i-ï|jïh} {jijtje-laejhtemem}${vowc,i-ï;hyph,1-0|jïjtjelaejhtemem} guadtam.
 
 Kultuvremojhtesh

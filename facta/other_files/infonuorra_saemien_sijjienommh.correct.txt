@@ -11,7 +11,7 @@ mah {soptseste}£{infl,verb,subj_verb_kongr,prssg3-prspl3|soptsestieh} guktie j�
 
 Gosse {Nøørjen}${vowc,ø-öö|Nöörjen} {naasjovne}${vowc,aa-a|nasjovne} edtji
 bigkesovvedh dle saemien sijjienommh daaroen {sijjienommi gujmie}¥{cmp,2-1|sijjienommigujmie}
-{{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}. {Uniontijjen}${vowc,i-ï|Uniontïjjen}
+{{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,verb,subj_verb_kongr,prtsg3-prtpl3|lotnesovvin}. {Uniontijjen}${vowc,i-ï|Uniontïjjen}
 minngiegietjie dle ij leah luhpie saemiestidh {jih}${vowc,i-ï|jïh} tjoerin
 barre daaroestidh, {jih}${vowc,i-ï|jïh} daate 1900 {raajese}£{noun,sgine-sgill|raajan} vaasi.
 Finnmarkesne dle dah saemien nommh daaroen {nommi gujmie}¥{cmp,2-1|nommigujmie} {{låtnesovvi}${vowc,å-o|lotnesovvi}}£{infl,noun,sg3prt-pl3prt|lotnesovvin}.  Daate lij {politigken}${conc,gk-hk|politihken}
@@ -32,14 +32,14 @@ Daate saemien {øøvtiedimmiem}${vowc,øø-ö|övtiedimmiem} skilki {jih}${vowc,
 ï|jïh} aaj saemiej {domtenasside}${fin,nasside-sidie|domtesidie}. Stoerre
 dajvine dam {saemien-gielem}${hyph-0,vowc,i-ï|saemiengïelem} skilkin, joekoen
 dennie {{kystegaedtesne}€{foreign|saelhtiegaedtiebealesne}. Saemien
-sijjienommh {daaroengielese}¢{vowc,i-ï|daaroengïelese} jarkoestin jallh
+sijjienommh {daaroengielese}${vowc,i-ï|daaroengïelese} jarkoestin jallh
 {urresth}${vowc,u-o|orresth} {nommi gujmie}¥{cmp,2-1|nommigujmie}
 {låtnin}${vowlat,i-oe;fin,in-jin|låtnoejin}. Goevtegeajnoe Kautokeinose
 {jorkesovvi}${conc,s-st|jorkestovvi} {jih}${vowc,i-ï|jïh} Deatnu {Tanase}${vowc,a-
 e|Tanese}.
 
 Jaepien 1902 orre laake {bøøti}${vowc,øø-öö|bööti}, gaajhkh {eekinommh}${vowc,i-
-e|eekenommh} edtji daaroen {gielesne}¢{vowc,i-ï|gïelesne} årrodh. Dan mænngan
+e|eekenommh} edtji daaroen {gielesne}${vowc,i-ï|gïelesne} årrodh. Dan mænngan
 idtjin åadtjoeh  saemien sijjienommh  nuhtjedh. {Mubpeden}${fin,eden-
 ien|Mubpien} veartenedåaroen mænngan dle {dihte}${vowc,i-ï|dïhte}
 {nommepolitigke}${conc,gk-hk|nommepolitihke} jorkesovvi. {Mænngan}${conc,s-
