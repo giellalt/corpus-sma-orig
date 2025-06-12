@@ -19,7 +19,7 @@ re;vowc,a-aa|dåakterestipendiaate} Saemien {jilleskuvlesne}${vowc,i-
 
 Reakasovvi jaepien 1977 {jih}${vowc,i-ï|jïh} {byjjesovvi Orkangerisnie}¥{wo|Orkangerisnie byjjesovvi},
 {Åarjelh-Trøndelagesne}${cmp,lh-l;hyph-0|Åarjel-Tröndelaagesne}. Jeatja
-{øøhpehtimmieh}${vowc,øø-öö|ööhpehtimmieh}: {{Mastergradem}${vowc,a-aa|Mastergraadem}£{case,noun,sgacc-sgnom|Mastergraade} mij {noerhtegielide}${vowc,i-ï|noerhtegïelide}
+{øøhpehtimmieh}${vowc,øø-öö|ööhpehtimmieh}: {{Mastergradem}${vowc,a-aa|Mastergraadem}}£{case,noun,sgacc-sgnom|Mastergraade} mij {noerhtegielide}${vowc,i-ï|noerhtegïelide}
 veadtaldihkie {NTNU-este}${acro,suf|NTNU:ste}, gusnie {aamhtse}${vowlat,hts-
 htes|aamhtese} lij raeriestimmie {gukte}${fin,e-ie|guktie} åarjelh-
 {saemien}${cmp,lh-l;hyph-0|åarjelsaemien} {gielem}${vowc,i-ï|gïelem} vihth
