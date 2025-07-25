@@ -7,7 +7,7 @@ Nedtetjaalege {njammemen}€{der,0-caus|njammehtimmien} bïjre
 
 {Njammemeviehkie}£{der,0-caus|njammehtimmieviehkie} daam nedtetjaalegem
 dorjeme {edtja}¥{redun|} dutnjien {mij}£{rel,nonhum-hum|gie} {njammehte}£{infl,verb,subj_verb_kongr,prssg3-prssg2|njammehth} maahtoeh jïh raerieh vedtedh {njammemen}£{der,0-caus|njammehtimmien} bïjre. Njammemeviehkien baakoe lea: Viehkije baakoe
-tjidtjeste tjædtjan. {Ij}£{infl,ver,subj_verb_kongr,prssg1-prspl3,neg|Eah} leah naan
+tjidtjeste tjædtjan. {Ij}£{infl,verb,subj_verb_kongr,prssg1-prspl3,neg|Eah} leah naan
 gyhtjelassh {fer}€{foreign|fagkan} smaave mijjese. Mijjieh gujht datnem
 dåarjelibie jïh viehkiehtibie.
 
