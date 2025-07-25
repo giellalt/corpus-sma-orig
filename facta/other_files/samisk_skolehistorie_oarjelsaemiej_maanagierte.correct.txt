@@ -454,7 +454,7 @@ Anita aaj dam jååhkesje. Im lim {maan}${typos|manne}
 {buktiehtamme}${vowc,u-ue|buektiehtamme} {saemiengielem}${vowc,i-ï|saemiengïelem}
 {gåetiegieline}${vowc,i-ï|gåetiegïeline} utnedh jis ij lij
 {maanagierte}${vowc,i-ï|maanagïerte} viehkine. {Idtji}£{infl,verb,subj_verb_kongr,neg,prtsg3-prtdu3|Idtjigan}
-Anita jallh Hanne-Lena {{ådtjoegan}${åadtjoejægan}}£{infl,verb,mainv,prsdu3-conneg|åadtjoeh}
+Anita jallh Hanne-Lena {{ådtjoegan}${åadtjoejægan}}£{infl,verb,mainv,fin-conneg,prsdu3-conneg|åadtjoeh}
 {saemien {gielem}${vowc,i-ï|gïelem}}¥{cmp,2-1|saemiengïelem}
 gåetesne {lieredh}${vowc,i-ï|lïeredh} goh byjjesovvin. Mænngan åadtjoejin
 skuvlesne {lieredh}${vowc,i-ï|lïeredh} {jih}${vowc,i-ï|jïh} mænngan goh
