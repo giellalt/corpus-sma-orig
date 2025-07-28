@@ -1,44 +1,44 @@
-{Noerhte-laanti}${hyph-0|Noerhtelaanti} {{saemiej}¢{case,plgen-sggen|saemien} konvensjovne}¥{cmp,2-1|saemienkonvensjovne}
+{Noerhte-laanti}${hyph-0|Noerhtelaanti} {{saemiej}£{noun,case,plgen-sggen|saemien} konvensjovne}¥{cmp,2-1|saemienkonvensjovne}
 
 Reerenassh {Nøørjesne}${vowc,øø-öö|Nöörjesne}, {Finlaantesne}€{foreign|Soemesne} {jih}${vowc,i-ï|jïh} Sveerjesne
 nænnoestieh
 
 • {saemieh dah {aalkoe-almetjh}${hyph-0|aalkoealmetjh}}¥{wo|Saemieh leah daej laanti aalkoealmetjh}
 
-• {saemieh leah {{tjierte}${vowc,i-ï|tjïerte}}¢{w|åålmege} jalhts ovmese laantine årroeminie}¥{wo|Saemieh leah åålmege, mij laanteraastegi raastah årroeminie}
+• {saemieh leah {{tjierte}${vowc,i-ï|tjïerte}}€{w|åålmege} jalhts ovmese laantine årroeminie}¥{wo|Saemieh leah åålmege, mij laanteraastegi raastah årroeminie}
 
-• {saemiej}¥{saemien åålmege} {leah}¢{infl,pl3prs-sg3prs|jïjtse} {sjiere}€{jïjtsh} kultuvre {jih}${vowc,i-ï|jïh} {ektesvuekie-jieleme}${hyph-0;cmp,es-ie|ektievuekiejieleme}, {tradisjovnh}${foreign|aerpieh}, {gielh}${vowc,i-ï|gïelh}, veasomh {{jih}${vowc,i-ï|jïh}}¥{jïh nïekeds båetije biejjide}
+• {saemiej}¥{saemien åålmege} {leah}£{infl,verb,prspl3-prssg3|lea} {sjiere}€{jïjtsh} kultuvre {jih}${vowc,i-ï|jïh} {ektesvuekie-jieleme}${hyph-0;cmp,es-ie|ektievuekiejieleme}, {tradisjovnh}${foreign|aerpieh}, {gielh}${vowc,i-ï|gïelh}, veasomh {{jih}${vowc,i-ï|jïh}}¥{jïh nïekeds båetije biejjide}
 
 • {båetije {biejjij}${fin,ij-iej|biejjiej} vååjnesassh}¥{jïh nïekeds båetije biejjide}
 
 • dej golme staati leah {naasjovnale}${vowc,aa-a;vowc,a-aa|nasjonaale} {jih}${vowc,i-ï|jïh} {internaasjovnale}${foreign|gaskenasjonaale} {diedte}${vowc,i-ï|dïedte} (saemien kultuvrese {jih}${vowc,i-ï|jïh}
 
-• {{jielemasse}${vowlat,e-ie|jieliemasse} {nuepiem}€{w|våaromem} vedtedh {{øvtiedimmiem}${vowc,ø-ö|övtiedimmiem}}¢{infl,sgacc-verb|övtiedidh} {juhtiehtidh}¥{redun|}}¥{wo|saemien kultuvrese jïh jieliemasse våaromem vedtedh övtiedidh}
+• {{jielemasse}${vowlat,e-ie|jieliemasse} {nuepiem}€{w|våaromem} vedtedh {{øvtiedimmiem}${vowc,ø-ö|övtiedimmiem}}£{infl,sgacc-verb|övtiedidh} {juhtiehtidh}¥{redun|}}¥{wo|saemien kultuvrese jïh jieliemasse våaromem vedtedh övtiedidh}
 
-• {saemien almetjidie}¢{cmp,2-1;infl,case,placc-plgen|saemienalmetji} leah reaktah {jijtjedh}${vowc,i-ï;infl,sg2dual-pl3pl|jïjtjh} {reerenasse}€{w|reeredh}
+• {saemien almetjidie}¥{cmp,2-1;infl,case,placc-plgen|saemienalmetji} leah reaktah {jijtjedh}${vowc,i-ï;infl,sg2dual-pl3pl|jïjtjh} {reerenasse}€{w|reeredh}
 
-• saemien kultuvre {jih}${vowc,i-ï|jïh} {jielemasse}¢{w|siebriedahkejieleme} {laanten}¢{infl,case,sggen-plgen|laanti} {kultuvrese}¢{infl,case,sgill-plill|kultuvride} {lissine}¥{buerie lissine} {båata}¢{w|lea} {{jih}${vowc,i-ï|jïh} nimhtie dam bijjiebasse lutnjie}¥{redun|}
+• saemien kultuvre {jih}${vowc,i-ï|jïh} {jielemasse}€{w|siebriedahkejieleme} {laanten}£{infl,case,sggen-plgen|laanti} {kultuvrese}£{infl,case,sgill-plill|kultuvride} {lissine}¥{buerie lissine} {båata}€{w|lea} {{jih}${vowc,i-ï|jïh} nimhtie dam bijjiebasse lutnjie}¥{redun|}
 
-• {saemiej}¢{infl,case,plgen-plnom|saemieh} {leah daerpiesvoete}¥{daarpesjieh} {sjiere}¥{redun|} {rasti}${vowc,a-aa;fin,i-egi|raastegi} {namhtah}€{pp|rastah} {jielemem}¥{jïjtsh jielemem} {øvtiedidh}${vowc,ø-ö|övtiedidh}
+• {saemiej}£{infl,case,plgen-plnom|saemieh} {leah daerpiesvoete}¥{daarpesjieh} {sjiere}¥{redun|} {rasti}${vowc,a-aa;fin,i-egi|raastegi} {namhtah}€{pp|rastah} {jielemem}¥{jïjtsh jielemem} {øvtiedidh}${vowc,ø-ö|övtiedidh}
 
 • saemide laante {jih}${vowc,i-ï|jïh} tjaetsie daerpies kultuvren {sjiekenassen}¥{redun|} gaavhtan
 
-• gosse saemiej {reaktasvoete}¢{w|reaktah} {edtja}£{infl,verb,subj_verb_kongr,prssg3-prspl3|edtjieh} {tseegesovvedh}${conc,g-gk|tseegkesovvedh}, dellie daerpies mujhtedh guktie saemieh aerebi {aejtemen}${conc,jt-jht|aejhtemen} nuelesne orreme {jih}${vowc,i-ï|jïh} nimhtie ovreaktam dååsteme
+• gosse saemiej {reaktasvoete}€{w|reaktah} {edtja}£{infl,verb,subj_verb_kongr,prssg3-prspl3|edtjieh} {tseegesovvedh}${conc,g-gk|tseegkesovvedh}, dellie daerpies mujhtedh guktie saemieh aerebi {aejtemen}${conc,jt-jht|aejhtemen} nuelesne orreme {jih}${vowc,i-ï|jïh} nimhtie ovreaktam dååsteme
 saemiedigkieh {dej golme laantine}£{numphrase,dem,num,gen-ine,pline-sgine|dennie golmene laantesne} {sjiekenassen}${vowc,i-ï|sjïekenassen} mietie {naemhtieh}${typos|naemhtie} tjoeverieh vierhtiedieh
 
 • sijhtieh saemiej jielemem {jih}${vowc,i-ï|jïh} kultuvren båetije biejjide bueriedidh
 
-• eah {edtjieh}£{infl,verb,aux,prspl3-conneg|edtjh} {rasth}${vowc,a-aa|raasth} {saemij}${fin,ij-iej|saemiej} {almetjij}${fin,ij-i|almetji} jallh {ajne}${init,a-aa|aajne} saemiej {ektievuekie-jielemem}${hyph-0|ektievuekiejielemem} jeeredh
+• eah {edtjieh}£{real,verb,aux,conneg,prspl3-conneg|edtjh} {rasth}${vowc,a-aa|raasth} {saemij}${fin,ij-iej|saemiej} {almetjij}${fin,ij-i|almetji} jallh {ajne}${init,a-aa|aajne} saemiej {ektievuekie-jielemem}${hyph-0|ektievuekiejielemem} jeeredh
 
 • vuejnedh guktie orre saemien konvensjovne maahta reaktide mah aerebi Lappekodisillesne 1751 tjåadtjoejin, orrestehtedh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh}
 
-• vuesiehtidh guktie saemiej reaktah {{jijtjedh}${vowc,i-ï|jïjtjedh}}£{infl,PxSg2-PxPl3|jïjtsh} reerenasse {vååjnose}${vowc,ose-esasse|våajnesasse} båetieh, {krøøhkestimmien}${vowc,øø-öö|krööhkestimmien} {{{nuelesne}£{case,ine-ill|nualan}}¢{w|åalan}
+• vuesiehtidh guktie saemiej reaktah {{jijtjedh}${vowc,i-ï|jïjtjedh}}£{infl,PxSg2-PxPl3|jïjtsh} reerenasse {vååjnose}${vowc,ose-esasse|våajnesasse} båetieh, {krøøhkestimmien}${vowc,øø-öö|krööhkestimmien} {{{nuelesne}£{case,ine-ill|nualan}}€{w|åalan}
 
-• {saemij}${fin,ij-iej|saemiej} reaktah laantese {jih}${vowc,i-ï|jïh} tjaatsan {goerkese}£{case,nom-acc|goerkesem} {biejedh}${vowc,i-ï|bïejedh} {jih}${vowc,i-ï|jïh} nimhtie vuesiehtidh {samieh}${vowc,a-ae|saemieh} {dah {aalkoealmetjh}¢{w|aalkoeåålmegh}}£{infl,pl-sg|dïhte aalkoeåålmege} daej {sjiere}${vowc,i-ï|sjïere} laantine
+• {saemij}${fin,ij-iej|saemiej} reaktah laantese {jih}${vowc,i-ï|jïh} tjaatsan {goerkese}£{case,nom-acc|goerkesem} {biejedh}${vowc,i-ï|bïejedh} {jih}${vowc,i-ï|jïh} nimhtie vuesiehtidh {samieh}${vowc,a-ae|saemieh} {dah {aalkoealmetjh}€{w|aalkoeåålmegh}}£{infl,pl-sg|dïhte aalkoeåålmege} daej {sjiere}${vowc,i-ï|sjïere} laantine
 
-• vuesiehtidh guktie saemiej {sjiere}${vowc,i-ï|sjïere} maahtoeh {jih}${vowc,i-ï|jïh} {kultuvre-diejvesh}${hyph-0,vowc,i-ï|kultuvredïejvesh} {vihkeles}£{infl,adj,attr-sgnom|vihkele}, {jih}${vowc,i-ï|jïh} {pråvhkeme}¢{w|pråvhkoe} eatnemen maelmijste {lea}£{infl,infl,verb,subj_verb_kongr,prssg3-prspl3|leah} leahtah saemien kultuvreste
+• vuesiehtidh guktie saemiej {sjiere}${vowc,i-ï|sjïere} maahtoeh {jih}${vowc,i-ï|jïh} {kultuvre-diejvesh}${hyph-0,vowc,i-ï|kultuvredïejvesh} {vihkeles}£{infl,adj,attr-sgnom|vihkele}, {jih}${vowc,i-ï|jïh} {pråvhkeme}€{w|pråvhkoe} eatnemen maelmijste {lea}£{infl,infl,verb,subj_verb_kongr,prssg3-prspl3|leah} leahtah saemien kultuvreste
 
-• moenedh guktie saemiej nyjsenæjjaj vuekieh {jih}${vowc,i-ï|jïh} barkoeh maehtieh {ektievoetesne}¢{w|siebriedahkesne} bijjiebasse lutnjesovvedh, {juktie aaj nimhtie maehtieh buerebe vuesiehtæmman båetedh ovmese {åårganisasjovnine}${vowc,åå-o|organisasjovnine}}¥{wo|juktie aaj nimhtie maehtieh buerebe vuesiehtæmman ovmese organisasjovnine båetedh}
+• moenedh guktie saemiej nyjsenæjjaj vuekieh {jih}${vowc,i-ï|jïh} barkoeh maehtieh {ektievoetesne}€{w|siebriedahkesne} bijjiebasse lutnjesovvedh, {juktie aaj nimhtie maehtieh buerebe vuesiehtæmman båetedh ovmese {åårganisasjovnine}${vowc,åå-o|organisasjovnine}}¥{wo|juktie aaj nimhtie maehtieh buerebe vuesiehtæmman ovmese organisasjovnine båetedh}
 
 • {sijhtieh edtjieh saemieh ektesne veasodh {goh}¥{redun|} {akte}¥{redun|} {{ålme-tjierte}${vowc,å-åå;cmp,e-eh;hyph-0|åålmehtjïerte}}£{case,nom-ess|åålmehtjïertine} {daej golme laantine}£{noun, demphrase,case,plgen-sgine,pline-sgine|daennie golmene laantesne}}¥{wo|sijhtieh saemieh edtjieh ektesne åålmehtjïertine daennie golmene laantesne veasodh}
 
@@ -60,7 +60,7 @@ Voestes tjaalege
 
 Man gaavhtan konvensjovne
 
-Daan konvensjovnen aarvoe leah reaktide jååhkesjidh {jih}${vowc,i-ï|jïh} nænnoestidh guktie saemieh {vihties laakan}¥{cmp,2-1|vihtieslaakan} maehtieh sijjen {gielide}¢{vowc,i-ï|gïelide} {øvtiedidh}${vowc,ø-ö|övtiedidh} {jih}${vowc,i-ï|jïh} aaj kultuvrem , {jielemidie}${vowlat,e-ie|jieliemidie} {jih}${vowc,i-ï|jïh} {ektie-voetide}${hyph-0|ektievoetide} vaarjelidh guktie {nimhtie}¥{redun|} {vaenemes}¢{infl,sup-komp|vaenebe} tsagkesh laanti {gaskems}${fin,ms-msh|gaskemsh} sjidtieh.
+Daan konvensjovnen aarvoe leah reaktide jååhkesjidh {jih}${vowc,i-ï|jïh} nænnoestidh guktie saemieh {vihties laakan}¥{cmp,2-1|vihtieslaakan} maehtieh sijjen {gielide}${vowc,i-ï|gïelide} {øvtiedidh}${vowc,ø-ö|övtiedidh} {jih}${vowc,i-ï|jïh} aaj kultuvrem , {jielemidie}${vowlat,e-ie|jieliemidie} {jih}${vowc,i-ï|jïh} {ektie-voetide}${hyph-0|ektievoetide} vaarjelidh guktie {nimhtie}¥{redun|} {vaenemes}£{infl,sup-komp|vaenebe} tsagkesh laanti {gaskems}${fin,ms-msh|gaskemsh} sjidtieh.
 
 Mubpie tjaalege
 
@@ -74,16 +74,16 @@ Saemiej leah reaktah {jijtjh-reerenasse}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtje
 
 Njealjede tjaalege
 
-Almetjh guhth konvensjovnen {nualan}¢{pp|åalan} båetieh
-Konvensjovne dijpieh dejtie guhth {Finlaantesne}€{foreign|Soemesne}, {Nøørjesne}${vowc,øø-öö|Nöörjesne} jallh Sveerjesne årroeminie {jih}${vowc,i-ï|jïh} {{jijtje}${vowc,i-ï|jïjtje}}£{infl,pron,refl,sgnom-plnom|jïjtjh} {damtieh}${vowc,a-e|demtieh} {goh}¥{redun|} {saemieh}¢{infl,plnom-pless|saemine}, {jih}${vowc,i-ï|jïh} aaj
+Almetjh guhth konvensjovnen {nualan}€{pp|åalan} båetieh
+Konvensjovne dijpieh dejtie guhth {Finlaantesne}€{foreign|Soemesne}, {Nøørjesne}${vowc,øø-öö|Nöörjesne} jallh Sveerjesne årroeminie {jih}${vowc,i-ï|jïh} {{jijtje}${vowc,i-ï|jïjtje}}£{infl,pron,refl,sgnom-plnom|jïjtjh} {damtieh}${vowc,a-e|demtieh} {goh}¥{redun|} {saemieh}£{infl,plnom-pless|saemine}, {jih}${vowc,i-ï|jïh} aaj
 
-1. saemien {gielem}${vowc,i-ï|gïelem} gåetesne {pruvkieh}€{w|soptsestieh} jallh vaenemes akte eejhtegijstie jallh {aahka/aajja}¢{infl,sgnom-plela|aahkah-aajjijste} leah saemien {gielem}${vowc,i-ï|gïelem} gåetesne {pruvkeme}€{w|soptsestamme}; jallh
+1. saemien {gielem}${vowc,i-ï|gïelem} gåetesne {pruvkieh}€{w|soptsestieh} jallh vaenemes akte eejhtegijstie jallh {aahka/aajja}£{infl,sgnom-plela|aahkah-aajjijste} leah saemien {gielem}${vowc,i-ï|gïelem} gåetesne {pruvkeme}€{w|soptsestamme}; jallh
 
 2. luhpiem utnieh {båatsoe-jieleminie}${hyph-0|båatsoejielieminie} {giehtelidh}${vowc,i-ï|gïehtelidh} {Nøørjesne}${vowc,øø-öö|Nöörjesne} jallh Sveerjesne ; jallh
 
 3. {lupiem}${conc,p-hp|luhpiem} utnieh {saemiedigkie-veeljemisnie}${hyph-0|saemiedigkieveeljemisnie} meatan {Nøørjesne}${vowc,øø-öö|Nöörjesne} jallh Sveerjesne; jallh
 
-4. jis maanah dejstie guhth 1,2 jallh 3 mieriej {nualan}¢{w|åalan} båetieh.
+4. jis maanah dejstie guhth 1,2 jallh 3 mieriej {nualan}€{w|åalan} båetieh.
 
 {Vijhtede}${vowc,i-i|Vïjhtede} tjaalege
 
@@ -91,7 +91,7 @@ Man stoerre staaten {diedte}${vowc,i-ï|dïedte}
 
 {Gaajhkh staati}£{demphrase,nom-gen|gaajhki staati} {åårgaanh}${vowc,åå-o|orgaanh}, dovne {naasjovnale}${vowc,aa-a;conc,vn-n;vowc,a-aa|nasjonaale},{regiovnale}${conc,io-ijo;conc,vn-n;vowc,a-aa|regijonaale} {jih}${vowc,i-ï|jïh} {lihkemes}${vowc,i-ï|lïhkemes} {byjresen,{diedth}${vowc,i-ï|dïedth}}¥{mix,x|byjresen, dïedth} utnieh daan konvensjovnese. Jeatja {åårganh}${vowc,åå-o|orgaanh} mah {byøgkeles}${vowc,ø-ö|byögkeles} reeremisnie {jih}${vowc,i-ï|jïh} {byøgkeles}${vowc,ø-ö|byögkeles} vyrtehkisnie aaj tjoeverieh {diedtem}${vowc,i-ï|dïedtem} vuesiehtidh. Daate aaj faalegem vadta {private}${vowc,a-aa|privaate} {åårganide}${vowc,åå-o|orgaanide} mah leah barkeminie byjjes faamoeladtje {aamhtsigujmie}${vowc,0-e|aamhtesigujmie} jallh jeatja {sjiere}${vowc,i-ï|sjïere} byjjes laavenjassh {juhtiehteminie}${vowc,ie-e|juhtehteminie}.
 
-Gosse daam konvensjovnem åtnose vaalteme, dellie eah edtjh saemiedigkieh jallh dah jeatja saemien {åårganh}${vowc,åå-o|orgaanh} {ovjearohks}£{infl,adj,attr-sgnom|ovjearohke} sijjen {naasjovnale}${conc,vn-n;vowc,aa-a|nasjonaale} jallh {{internaasjovnale}${vowc,aa-a;conc,vn-n|internasjonaale}}¢{w|gaskenasjonaale} reaktijste, nommem vaeltedh goh staate jis eah leah {aamhtsigujmie}${vowc,0-e|aamhtesigujmie} {byjjes-raerine}${hyph-0|byjjesraerine} barkeminie.
+Gosse daam konvensjovnem åtnose vaalteme, dellie eah edtjh saemiedigkieh jallh dah jeatja saemien {åårganh}${vowc,åå-o|orgaanh} {ovjearohks}£{infl,adj,attr-sgnom|ovjearohke} sijjen {naasjovnale}${conc,vn-n;vowc,aa-a|nasjonaale} jallh {{internaasjovnale}${vowc,aa-a;conc,vn-n|internasjonaale}}€{w|gaskenasjonaale} reaktijste, nommem vaeltedh goh staate jis eah leah {aamhtsigujmie}${vowc,0-e|aamhtesigujmie} {byjjes-raerine}${hyph-0|byjjesraerine} barkeminie.
 
 Govhtede tjaalege
 
@@ -113,14 +113,14 @@ Gaaktsede tjaalege
 
 {Vaenemes}€{w|Unnemes} reaktah
 
-Reaktah mah {daan}€{w|dan} konvensjovnese {veadaldihkie}${conc,d-dt|veadtaldihkie}, leah {"}‰{cit|”}{vaenemes}¢{w|unnemes} reaktah{"}‰{cit|”} (minsterettigheter). Juktie nimhtie {sjiere}${vowc,i-ï|sjïere} staath maehtieh reaktide vijriedidh jallh buerebe råajvarimmieh faaledh. Daerpies lea læjhkan daejredh ij leah nuepie reaktide mah joe gååvnesieh {gærtjiedidh}${vowc,æ-ae|gaertjiedidh}.
+Reaktah mah {daan}€{w|dan} konvensjovnese {veadaldihkie}${conc,d-dt|veadtaldihkie}, leah {"}‰{cit|”}{vaenemes}€{w|unnemes} reaktah{"}‰{cit|”} (minsterettigheter). Juktie nimhtie {sjiere}${vowc,i-ï|sjïere} staath maehtieh reaktide vijriedidh jallh buerebe råajvarimmieh faaledh. Daerpies lea læjhkan daejredh ij leah nuepie reaktide mah joe gååvnesieh {gærtjiedidh}${vowc,æ-ae|gaertjiedidh}.
 
 Åktsede tjaalege
 
 Saemiej vuekieh
 
 Staath edtjieh saemiej {reaktaj-sisvegh}${hyph-0;fin,aj-a|reaktasisvegh} {jih}${vowc,i-ï|jïh} {reaktaj-vuekieh}${hyph-0;fin,aj-a|reaktajvuekieh} {jih}${vowc,i-ï|jïh} pråvhkoeh {krøøhkestidh}${vowc,øø-öö|krööhkestidh}.
-Guktie voestes raajese vuesehte, dellie edtjieh staath gosse orre reaktah buektedh dajvide gusnie maahtah {saemij}${fin,ij-iej|saemiej} {mojhtsh}${vowc,0-e|mojhtesh} gååvnesidh, tjilkedh mejtie daerpies sijjide vaarjelidh jallh {jeatjh laakan}¥{adv,x|jeatjhlaakan} viehkiem vedtedh laaken {tjirrh}¢{vowc,i-ï|tjïrrh}. {Reakta-åtnosne}${hyph-0|Reaktaåtnosne} edtjieh aaj saemiej vuekieh bæjjese lutnjesovvedh.
+Guktie voestes raajese vuesehte, dellie edtjieh staath gosse orre reaktah buektedh dajvide gusnie maahtah {saemij}${fin,ij-iej|saemiej} {mojhtsh}${vowc,0-e|mojhtesh} gååvnesidh, tjilkedh mejtie daerpies sijjide vaarjelidh jallh {jeatjh laakan}¥{adv,x|jeatjhlaakan} viehkiem vedtedh laaken {tjirrh}${vowc,i-ï|tjïrrh}. {Reakta-åtnosne}${hyph-0|Reaktaåtnosne} edtjieh aaj saemiej vuekieh bæjjese lutnjesovvedh.
 
 Låhkede tjaalege
 
@@ -132,11 +132,11 @@ Staath edtjieh {saemiedigij}${conc,g-gk;fin,ij-iej|saemiedigkiej} ektine laakide
 
 {Ektes-vuekiebarkoe}${cmp,es-ese|Ektesevuekiebarkoe} kultuvren {-jih}${vowc,i-ï|-jïh} {jielemesjiehtesjimmien}${vowc,i-ï|jielemesjïehtesjimmien} gaavhtan
 
-{Staat}${fin,t-th|Staath} edtjieh råajvarimmieh tseagkodh guktie aelhkebe saemide {{jielebarkojne}${vowc,i-ï|jïelebarkojne}}¢{w|jielemebarkojne} {giehtelidh}${vowc,i-ï|gïehtelidh} laanti {gaskems}${pp,con|gaskemsh} {jih}${vowc,i-ï|jïh} aaj buerielaakan {kultuvre-daerpiesvoetide}${hyph-0|kultuvredaerpiesvoetide} tseagkodh. Nimhtie aaj staath tjoeverieh barkedh guktie gaajhkh tsagkesh mah saemiej {jieleme-barkose}${hyph-0|jielemebarkose} {veadtaldihke}${fin,e-ie|veadtaldihkie} {suenieh}${vowc,ue-åe|såenieh} . Daate tjoevere {daeahpadidh}${vowc,aea-ea|deahpadidh} seamma gusnie saemiej årromesijjieh {jih}${vowc,i-ï|jïh} {magkeres laantesne}£{demphrase,nom-ine|magkarinie laantesne}. Seamma reaktam aaj {saemiede}${vowc,ie-i|saemide} vedtedh guktie {dihte}${vowc,i-ï|dïhte} {kultuvre- faaleldahke}${hyph-0|kultuvrefaaleldahke} {bøøremes}${vowc,øø-öö|bööremes} {sjeadta}${vowc,ea-æ|sjædta} seamma {magkeres laantesne}£{demphrase,nom-ine|magkarinie laantesne} jielieminie.
+{Staat}${fin,t-th|Staath} edtjieh råajvarimmieh tseagkodh guktie aelhkebe saemide {{jielebarkojne}${vowc,i-ï|jïelebarkojne}}€{w|jielemebarkojne} {giehtelidh}${vowc,i-ï|gïehtelidh} laanti {gaskems}${pp,con|gaskemsh} {jih}${vowc,i-ï|jïh} aaj buerielaakan {kultuvre-daerpiesvoetide}${hyph-0|kultuvredaerpiesvoetide} tseagkodh. Nimhtie aaj staath tjoeverieh barkedh guktie gaajhkh tsagkesh mah saemiej {jieleme-barkose}${hyph-0|jielemebarkose} {veadtaldihke}${fin,e-ie|veadtaldihkie} {suenieh}${vowc,ue-åe|såenieh} . Daate tjoevere {daeahpadidh}${vowc,aea-ea|deahpadidh} seamma gusnie saemiej årromesijjieh {jih}${vowc,i-ï|jïh} {magkeres laantesne}£{demphrase,nom-ine|magkarinie laantesne}. Seamma reaktam aaj {saemiede}${vowc,ie-i|saemide} vedtedh guktie {dihte}${vowc,i-ï|dïhte} {kultuvre- faaleldahke}${hyph-0|kultuvrefaaleldahke} {bøøremes}${vowc,øø-öö|bööremes} {sjeadta}${vowc,ea-æ|sjædta} seamma {magkeres laantesne}£{demphrase,nom-ine|magkarinie laantesne} jielieminie.
 
 {Luhkie mubpie}¥{cmp,2-1|Luhkiemubpie} tjaalege
 
-{Ektesvuekie-barkoe}${cmp,es-ese;hyph-0|Ektesevuekiebarkoe} {øøhpehtimmien}${vowc,øø-öö|ööhpehtimmien} {jih}${vowc,i-ï|jïh} {{tryjje-jielemen}${hyph-0|tryjjejielemen}}¢{w|murriedimmien} gaavhtan
+{Ektesvuekie-barkoe}${cmp,es-ese;hyph-0|Ektesevuekiebarkoe} {øøhpehtimmien}${vowc,øø-öö|ööhpehtimmien} {jih}${vowc,i-ï|jïh} {{tryjje-jielemen}${hyph-0|tryjjejielemen}}€{w|murriedimmien} gaavhtan
 
 Staath edtjieh råajvarimmieh tseagkodh guktie saemieh maehtieh viehkiem åadtjodh {øøhpehtæmman}${vowc,øø-öö|ööhpehtæmman}, healsose {jih}${vowc,i-ï|jïh} {siemes-voetese}${vowc,i-ï;hyph,2-1|sïemesvoetese} laantesne gusnie {bøøremes}${vowc,øø-öö|bööremes}.
 
@@ -157,9 +157,9 @@ Saemiedigkieh
 Saemiedigkieh edtjieh {gaajhki golme laantine}£{numphrase,case,gen-ine|gaajhkene golmene laantesne} gååvnesidh. {Dihte}${vowc,i-ï|Dïhte} saemiej jillemes {åårgaane}${init,åå-o|orgaane}. Saemiedigkieh berkieh guktie {bøøremes}${vowc,i-ï|bööremes} saemide {jih}${vowc,i-ï|jïh} almetjh {disse}${vowc,i-ï|dïsse} veeljesuvvieh
 {veeljeme –reaktan}¥{cmp,2-1|veeljemereaktan} mietie abpe laanteste.
 
-{Veeljeme- reaktah}¥{cmp,2-1|Veeljemereaktah} saemiedægkan båetieh laaken {tjirrh}¢{vowc,i-ï|tjïrrh}. Dah {moenesovvieh}${vowc,o-u|moenesuvvieh} barkoen {tjirrh}¢{vowc,i-ï|tjïrrh} {saemiedigkijne}${fin,ijne-ine|saemiedigkine}, tjaalege 16.
+{Veeljeme- reaktah}¥{cmp,2-1|Veeljemereaktah} saemiedægkan båetieh laaken {tjirrh}${vowc,i-ï|tjïrrh}. Dah {moenesovvieh}${vowc,o-u|moenesuvvieh} barkoen {tjirrh}${vowc,i-ï|tjïrrh} {saemiedigkijne}${fin,ijne-ine|saemiedigkine}, tjaalege 16.
 
-Saemiedigkieh edtjieh dagkeres laavenjassh utnedh guktie maahta {{radtjoes laakan}${hyph-0|radtjoeslaakan}}€{w|eadtjoeslaakan} barkedh guktie saemiej {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} reaktah bæjjese {lutjnesovvieh}${vowc,o-u|lutnjesuvvieh} {daan}¢{w|dan} konvensjovnen aarvoen mietie. Nænnoestimmieh {saemiedigkij}${fin,ij-iej|saemiedigkiej} {faamojse}${fin,ojse-ojste|faamojste} laaken {tjirrh}¢{vowc,i-ï|tjïrrh} båetieh.
+Saemiedigkieh edtjieh dagkeres laavenjassh utnedh guktie maahta {{radtjoes laakan}${hyph-0|radtjoeslaakan}}€{w|eadtjoeslaakan} barkedh guktie saemiej {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} reaktah bæjjese {lutjnesovvieh}${vowc,o-u|lutnjesuvvieh} {daan}€{w|dan} konvensjovnen aarvoen mietie. Nænnoestimmieh {saemiedigkij}${fin,ij-iej|saemiedigkiej} {faamojse}${fin,ojse-ojste|faamojste} laaken {tjirrh}${vowc,i-ï|tjïrrh} båetieh.
 
 Saemiedigkieh {råajverieh}${vowc,e-a|råajavarieh} {jih}${vowc,i-ï|jïh} jiehtesh buektieh {aamhtsidie}${vowc,0-e|aamhtesidie} mejtie daerpies.
 
@@ -167,9 +167,9 @@ Saemiedigkieh {råajverieh}${vowc,e-a|råajavarieh} {jih}${vowc,i-ï|jïh} jieht
 
 Saemiedigkien {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} {njolkedassh}${vowc,o-oe|njoelkedassh}
 
-{Saemiedigkij}${fin,ij-iej|Saemiedigkiej} {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} nænnoestimmieh gyhtjelasside buektieh {nasjovnale}${conc,vn-n,vowc,a-aa|nasjonaale} jallh {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} reaktaj {tjirrh}¢{vowc,i-ï|tjïrrh}.
+{Saemiedigkij}${fin,ij-iej|Saemiedigkiej} {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} nænnoestimmieh gyhtjelasside buektieh {nasjovnale}${conc,vn-n,vowc,a-aa|nasjonaale} jallh {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} reaktaj {tjirrh}${vowc,i-ï|tjïrrh}.
 
-Saemiedigkieh aaj maehtieh mååhtedimmieh {nasjovnale}${conc,vn-n;vowcma-aa|nasjonaale}, {regiovnale}${conc,vn-n;vowc,a-aa|regijonaale} {jih}${vowc,i-ï|jïh} byjrese {ektievoetij}${fin,ij-i|ektievoeti} {tjirrh}¢{vowc,i-ï|tjïrrh} buektedh jis daerpies saemiej kultuvrem {jih}${vowc,i-ï|jïh} {ektievoete-jielemem}${hyph-0|ektievoetejielemem} nænnoestidh.
+Saemiedigkieh aaj maehtieh mååhtedimmieh {nasjovnale}${conc,vn-n;vowcma-aa|nasjonaale}, {regiovnale}${conc,vn-n;vowc,a-aa|regijonaale} {jih}${vowc,i-ï|jïh} byjrese {ektievoetij}${fin,ij-i|ektievoeti} {tjirrh}${vowc,i-ï|tjïrrh} buektedh jis daerpies saemiej kultuvrem {jih}${vowc,i-ï|jïh} {ektievoete-jielemem}${hyph-0|ektievoetejielemem} nænnoestidh.
 
 {Luhkie govhtede}¥{cmp,2-1|Luhkiegovhtede} tjaalege
 
@@ -177,7 +177,7 @@ Saemiedigkien reaktah {{gietelæmman}${vowc,i-ï;conc,t-ht|gïehtelæmman}}€{w
 
 Gosse vihkeles gyhtjelassh saemide, dellie edtjieh saemiedigkieh voestegh {aamhtside}${vowc,0-e|aamhtesidie} {gietedalledh}${vowc,i-ï|gïetedalledh} aerebi goh nænnoestimmie byjjes reeremistie båata. Dagkeres digkiedimmieh {jih}${vowc,i-ï|jïh} nænnoestimmieh tjoeverieh nimhtie juhtedh guktie saemiedigkieh maehtieh {aamhtse-juhtemem}${vowc,0-e|aamhtesejuhtemem} {jih}${vowc,i-ï|jïh} {darjoemen}${vowc,oe-o|darjomen} tsevtsiehtidh.
 
-Eah {edtjieh}£{infl,verb,aux,prspl3-conneg|edtjh} staath nænnoestidh jallh {luhpiem vedtedh {dagkeres råajvarimmide}£{demphrase,dem,case,nom-ill|dagkaridie råajvarimmide}}¥{wo|luhpiem dagkaridie råajvarimmide vedtedh} mah maehtieh {goerpehtidh}${verb,con|goerpedidh} {maadth-kriebpesjide}${hyph-0;vowc,i-ï|maadthkrïebpesjimmide} saemien kultuvrese, saemiej {jielemidie}${vowc,e-ie|jieliemidie} jallh saemiej {ektievoete-jielemasse}${hyph-0|ektievoetejieliemasse} jis eah saemiedigkieh {disse}${vowc,i-ï|dïsse} {siemedh}${vowc,ie-ea|seamedh}.
+Eah {edtjieh}£{real,verb,aux,conneg,prspl3-conneg|edtjh} staath nænnoestidh jallh {luhpiem vedtedh {dagkeres råajvarimmide}£{demphrase,dem,case,nom-ill|dagkaridie råajvarimmide}}¥{wo|luhpiem dagkaridie råajvarimmide vedtedh} mah maehtieh {goerpehtidh}${verb,con|goerpedidh} {maadth-kriebpesjide}${hyph-0;vowc,i-ï|maadthkrïebpesjimmide} saemien kultuvrese, saemiej {jielemidie}${vowc,e-ie|jieliemidie} jallh saemiej {ektievoete-jielemasse}${hyph-0|ektievoetejieliemasse} jis eah saemiedigkieh {disse}${vowc,i-ï|dïsse} {siemedh}${vowc,ie-ea|seamedh}.
 
 {Luhkie {tjijhtjede}${vowc,i-i|tjïjhtjede}}¥{cmp,2-1|Luhkietjïjhtjede} tjaalege
 
@@ -203,21 +203,21 @@ Dah {sjiere}${vowc,i-ï|sjïere} laanti {nasjovnale}${conc,vn-n;vowc,a-aa|nasjon
 
 {Luhkie åktsede}¥{cmp,2-1|Luhkieåktsede} tjaalege
 
-Saemieh {jih}${vowc,i-ï|jïh} {internasjovnale}${conc,vn-n|internasjonaale} {representasjovnh}¢{w|åehpiedehtemh}
+Saemieh {jih}${vowc,i-ï|jïh} {internasjovnale}${conc,vn-n|internasjonaale} {representasjovnh}€{w|åehpiedehtemh}
 
 Saemiedigkieh edtjieh {saemij}${fin,ij-iej|saemiej} digkiedimmide meatan vaeltedh gosse {gaskestaati {tjåangkoeh}${conc,gk-ghk|tjåanghkoeh}}£{hab,missingcop|gaskestaati leah tjåanghkoeh}.
 
-Staath edtjieh aaj saemide eevtjedh {goh {lihtsegh}${vowc,i-ï|lïhtsegh}}¥{case,goh_nom-ess|lïhtseginie} {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} institusjovnine {jih}${vowc,i-ï|jïh} aaj stilledh meatan {goh}¥{w,redun|} {håaleniere}¢{w|håaloejinie} {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} {tjåangkojne}${conc,gk-ghk|tjåanghkojne}.
+Staath edtjieh aaj saemide eevtjedh {goh {lihtsegh}${vowc,i-ï|lïhtsegh}}¥{case,goh_nom-ess|lïhtseginie} {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} institusjovnine {jih}${vowc,i-ï|jïh} aaj stilledh meatan {goh}¥{w,redun|} {håaleniere}€{w|håaloejinie} {internasjovnale}${conc,vn-n;vowc,a-aa|internasjonaale} {tjåangkojne}${conc,gk-ghk|tjåanghkojne}.
 
 {{Gøøkte}${vowc,i-i|Göökte} låhkede}¥{cmp,2-1|Gööktelåhkede} tjaalege
 
-{{Siejme}${vowc,i-ï|Sïejme}}¢{w|Sïejhme} saemiej {åårganisasjovnh}${vowc,åå-o|organisasjovnh}
+{{Siejme}${vowc,i-ï|Sïejme}}€{w|Sïejhme} saemiej {åårganisasjovnh}${vowc,åå-o|organisasjovnh}
 
-Saemiedigkieh maehtieh {{siejme}${vowc,i-ï|sïejme}}¢{w|sïejhme} {åårganisasjovnh}${vowc,åå-o|organisasjovnh} {tseegkedh.Staath}${mix,x|tseegkedh. Staath} edtjieh, gosse daerpies, {{saemiedigkij}£{case,gen-com|saemiedigkine} ektine}£{case,gen-com|saemiedigkine ektine} barkedh guktie byjjes faaleldahkh dagkaridie {åårganisasjovnide}${vowc,åå-o|organisasjovnide} båetieh.
+Saemiedigkieh maehtieh {{siejme}${vowc,i-ï|sïejme}}€{w|sïejhme} {åårganisasjovnh}${vowc,åå-o|organisasjovnh} {tseegkedh.Staath}${mix,x|tseegkedh. Staath} edtjieh, gosse daerpies, {{saemiedigkij}£{case,gen-com|saemiedigkine} ektine}£{case,gen-com|saemiedigkine ektine} barkedh guktie byjjes faaleldahkh dagkaridie {åårganisasjovnide}${vowc,åå-o|organisasjovnide} båetieh.
 
 {{Gøøkte}${vowc,øø-öö|Göökte} luhkie voestes}${cmp,3-1|Göökteluhkievoestes} tjaalege
 
-Jeatja saemien {gaskebarkoeh}¢{w|laavenjosteme}
+Jeatja saemien {gaskebarkoeh}€{w|laavenjosteme}
 
 {Staath edtjieh {krøøhkestidh}${vowc,øø-öö|krööhkestidh} {{jih}${vowc,i-ï|jïh}}¥{redun|} gosse daerpies soptsestalledh {saemiej-staari}${hyph-0|saemiejstaari}, {siidaj}€{w|sïjti}, {båatsoeburrieh-moenehtsigujmie}${cmp,h-0;hyph-0|båatsoeburriemoenehtsigujmie} {jih}${vowc,i-ï|jïh} aaj {"}‰{cit|”}skoltesamenes byastæmmine{"}‰{cit|”} {jih}${vowc,i-ï|jïh} aaj {væjkeles}£{infl,adj,attr-sgnom|væjkele} saemiej {lihtsegigyjmie}${vowc,i-ï;conc,y-u|lïhtsegigujmie} byjresisnie}¥{wo|Staath edtjieh saemienstaaride, sïjtide, båatsoeburriemoenehtsidie jïh {"}‰{cit|”}Skoltesamenes byastæmmem{"}‰{cit|”} krööhkestidh jïh aaj væjkele saemiej lïhtsegigujmie årrodh, gosse daerpies dejgujmie soptsestalledh}.
 
@@ -225,7 +225,7 @@ Jeatja saemien {gaskebarkoeh}¢{w|laavenjosteme}
 
 {Saemij}${fin,ij-iej|Saemiej} {regiovne}${conc,i-ij|regijovne}
 
-{Staath edtjieh {eadtjohke laakan}¥{cmp,2-1|eadtjohkelaakan} barkedh {{jih}${vowc,i-ï|jïh}}¥{redun|} {øvtiedidh}${vowc,ø-ö|övtiedidh} dajvide}¥{wo|Staath edtjieh eadtjohkelaakan barkedh dajvide övtiedidh} {guktie saemieh maehtieh gorredidh {sjiere}${vowc,i-ï|sjïere} reaktah {daan}¢{w|dan} {konvesjovnen}${conc,sj-nsj|konvensjovnen} {jih}${vowc,i-ï|jïh} laanti laaki mietie.}¥{wo|guktie saemieh maehtieh sjïere reaktah dan konvensjovnen jïh laanti laaki mietie gorredidh}.
+{Staath edtjieh {eadtjohke laakan}¥{cmp,2-1|eadtjohkelaakan} barkedh {{jih}${vowc,i-ï|jïh}}¥{redun|} {øvtiedidh}${vowc,ø-ö|övtiedidh} dajvide}¥{wo|Staath edtjieh eadtjohkelaakan barkedh dajvide övtiedidh} {guktie saemieh maehtieh gorredidh {sjiere}${vowc,i-ï|sjïere} reaktah {daan}€{w|dan} {konvesjovnen}${conc,sj-nsj|konvensjovnen} {jih}${vowc,i-ï|jïh} laanti laaki mietie.}¥{wo|guktie saemieh maehtieh sjïere reaktah dan konvensjovnen jïh laanti laaki mietie gorredidh}.
 
 Gåalmede {kapittele}${conc,ht-t|kapihtele} III
 
@@ -235,19 +235,19 @@ Saemien {giele}${vowc,i-ï|gïele} {jih}${vowc,i-ï|jïh} kultuvre
 
 Saemiej {giele-reaktah}${vowc,i-ï;hyph-0|gïelereaktah}
 
-Saemiej leah reaktah nuhtjedh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh} {gielem}${vowc,i-ï|gïelem} {jih}${vowc,i-ï|jïh} vuekide båetije {sliektide}${vowc,i-ï|slïektide}. {Dejtie aaj reaktah}£{hab,sgacc-sggen,missing-cop|dej leah aaj reaktah} barkedh guktie maahtoeh saemien {gielen}${vowc,i-ï|gïelen} {bijre}${vowc,i-ï|bïjre} maahta vadtasovvedh dejtie guhth geerve {gieline}¢{vowc,i-ï|gïeline} {{giehtelidh}${vowc,i-ï|gïehtelidh}}£{infl,subj_verb_kongr,verb,inf-pl3|gïehtelieh}.
+Saemiej leah reaktah nuhtjedh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh} {gielem}${vowc,i-ï|gïelem} {jih}${vowc,i-ï|jïh} vuekide båetije {sliektide}${vowc,i-ï|slïektide}. {Dejtie aaj reaktah}£{hab,sgacc-sggen,missing-cop|dej leah aaj reaktah} barkedh guktie maahtoeh saemien {gielen}${vowc,i-ï|gïelen} {bijre}${vowc,i-ï|bïjre} maahta vadtasovvedh dejtie guhth geerve {gieline}${vowc,i-ï|gïeline} {{giehtelidh}${vowc,i-ï|gïehtelidh}}£{infl,subj_verb_kongr,verb,inf-pl3|gïehtelieh}.
 
 Saemieh edtjieh reaktam utnedh jiehtedh, steeredh {jih}${vowc,i-ï|jïh} goerkesem åadtjodh {jijtse}${vowc,i-ï|jïjtse} nommide {jih}${vowc,i-ï|jïh} aaj nommide ovmese dajvine.
 
 {{Gøøkte}${vowc,øø-öö|Göökte} luhkie {vijhtede}${vowc,i-ï|vïjhtede}}${cmp,3-1|Göökteluhkievïjhtede} tjaalege
 
-Staaten {diedte}${vowc,i-ï|dïedte} {gielide}¢{vowc,i-ï|gïelide} {øvtiedidh}${vowc,ø-ö|övtiedidh}
+Staaten {diedte}${vowc,i-ï|dïedte} {gielide}${vowc,i-ï|gïelide} {øvtiedidh}${vowc,ø-ö|övtiedidh}
 
-Staath edtjieh saemide nuepieh vedtedh {gielide}¢{vowc,i-ï|gïelide} gorredidh, {øvtiedidh}${vowc,ø-ö|övtiedidh} {jih}${vowc,i-ï|jïh} vijriebasse guedtedh. Staath edtjieh darjoemisnie vuesiehtidh guktie {aalfabeete}${vowc,aa-a|alfabeete} maahta eevtjeme-laakan provhkesovvedh daan {sjiehken}${vowc,i-ï;conc,hk-k|sjïeken}.
+Staath edtjieh saemide nuepieh vedtedh {gielide}${vowc,i-ï|gïelide} gorredidh, {øvtiedidh}${vowc,ø-ö|övtiedidh} {jih}${vowc,i-ï|jïh} vijriebasse guedtedh. Staath edtjieh darjoemisnie vuesiehtidh guktie {aalfabeete}${vowc,aa-a|alfabeete} maahta eevtjeme-laakan provhkesovvedh daan {sjiehken}${vowc,i-ï;conc,hk-k|sjïeken}.
 
 Saemien {giele}${vowc,i-ï|gïele} edtja maehtedh {radtjoes laakan}¥{cmp,2-1|radtjoeslaakan} provhkesovvedh {døøpmeme-raerine}${hyph-0;cmp,eme-eh|dööpmehraerine}, {jih}${vowc,i-ï|jïh} aaj byjjes raerine saemiej dajvine. Nimhtie edtja aaj {giele}${vowc,i-ï|gïele} maehtedh provhkesovvedh bæjngolen {dej saemiej dajvh}£{demphrase,dem,noun,case,plgen-placc|dejtie saemiej dajvide} jis ovmese {aamhtsh}${vowc,0-e|aamhtesh} voestegh leah {gietedallemisnie}${vowc,i-ï|gïetedallemisnie} orreme {saemij}${fin,ij-iej|saemiej} dajvine jallh {jeatjh-laakan}${hyph-0|jeatjhlaakan} dejtie dajvide veadtaldihkie.
 
-Staath edtjieh aaj {lidteratuvrh}${conc,dt-tt|litteratuvrh} saemien {gielesne}¢{vowc,i-ï|gïelesne} skåårvedh.
+Staath edtjieh aaj {lidteratuvrh}${conc,dt-tt|litteratuvrh} saemien {gielesne}${vowc,i-ï|gïelesne} skåårvedh.
 {Dihte}${vowc,i-ï|Dïhte} mij daennie {tjaalegesne}${fin,gesne-gisnie|tjaalegisnie} tjåådtje edtja aaj dejtie unnemes {saemien-gielide}${hyph-0;vowc,i-ï|saemiengïelide} dijpedh {jih}${vowc,i-ï|jïh} gorredidh.
 
 {{Gøøkte}${vowc,øø-öö|Göökte} luhkie {vijhtede}${vowc,i-ï|vïjhtede}}${cmp,3-1|Göökteluhkievïjhtede} tjaalege
@@ -256,16 +256,16 @@ Saemiej {medijah}${|meedijeh}
 
 Staath edtja nuepiem vedtedh guktie saemieh {jijtje}${vowc,i-ï|jïjtje} åadtjoeh {jijtjh-reereme}${vowc,i-ï;cmp,tjh-tje;hyph,1-0|jïjtjereereme} {media-politikkem}${hyph-0;conc,kk-hk|mediapolitihkem} juhtiehtidh guktie saemieh {bøøremeslaaketje}${vowc,øø-öö|bööremeslaaketje} råajvarimmieh, saerniestimmieh {jih}${vowc,i-ï|jïh} {aarvoe-diejvesh}${hyph-0;vowc,i-ï|aarvoedïejvesh} åadtjoeh digkiedidh gyhtjelassi {bijre}${vowc,i-ï|bïjre} mah {gaajhksidie}${indef,vow|gaajhkesidie} vihkeles.
 
-Staath edtjieh barkedh guktie {provgramh}${conc,vg-g;conc,m-mm|programmh} {radiovesne}${conc,io-ijo|radijovesne} {jih}${vowc,i-ï|jïh} {Tv-esne}${acr,suf|TV:sne} saemien {gielesne}¢{vowc,i-ï|gïelesne} båetieh {jih}${vowc,i-ï|jïh} aaj barkedh guktie plaerieh maehtieh saemien {gielem}${vowc,i-ï|gïelem} nænnoestidh. Saemiedigkieh edtjieh ektesvuekie barkedh {rasti}${vowc,a-aa|raasti} bijjelen guktie {media-intstitusjovnh}${hyph-0|mediainstitusjovnh} {provgramh}${conc,vg-g;conc,m-mm|programmh} {jih}${vowc,i-ï|jïh} tjaalegh buektieh mah saemien {gielese}¢{vowc,i-ï|gïelese} vihkeles. Jiehtegh daesnie aaj unnemes {gielide}¢{vowc,i-ï|gïelide} dijpieh.
+Staath edtjieh barkedh guktie {provgramh}${conc,vg-g;conc,m-mm|programmh} {radiovesne}${conc,io-ijo|radijovesne} {jih}${vowc,i-ï|jïh} {Tv-esne}${acr,suf|TV:sne} saemien {gielesne}${vowc,i-ï|gïelesne} båetieh {jih}${vowc,i-ï|jïh} aaj barkedh guktie plaerieh maehtieh saemien {gielem}${vowc,i-ï|gïelem} nænnoestidh. Saemiedigkieh edtjieh ektesvuekie barkedh {rasti}${vowc,a-aa|raasti} bijjelen guktie {media-intstitusjovnh}${hyph-0|mediainstitusjovnh} {provgramh}${conc,vg-g;conc,m-mm|programmh} {jih}${vowc,i-ï|jïh} tjaalegh buektieh mah saemien {gielese}${vowc,i-ï|gïelese} vihkeles. Jiehtegh daesnie aaj unnemes {gielide}${vowc,i-ï|gïelide} dijpieh.
 
 
 {{Gøøkte}${vowc,øø-öö|Göökte} luhkie govhtede}${cmp,3-1|Göökteluhkiegovhtede} tjaalege
 
 Saemien {øøhpehtimmie}${vowc,øø-öö|ööhpehtimmie}
 
-Saemieh saemien dajvine edtjieh nuepiem utnedh {jijtse}${vowc,i-ï|jïjtse} {gielem}${vowc,i-ï|gïelem} {lieredh}${vowc,ø-ö|lïeredh} {jih}${vowc,i-ï|jïh} aaj {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} saemien {gielesne}¢{vowc,i-ï|gïelesne} {åadtjodh.Øøhpehtimmieh}${mix,mix|åadtjodh. Ööhpehtimmieh} {jih}${vowc,i-ï|jïh} vierhtiemaaksoeh tjoeverieh {sjiehtesovvedh}${vowc,i-ï|sjïehtesovvedh} {fiere}${vowc,i-ï|fïere} guhten duakan. Nimhtie {øøhpehtimmie}${vowc,øø-öö|ööhpehtimmie} nuepiem vadta guktie {gaajhks}${indef,vow|gaajhkesh} guhth sijhtieh maehtieh lohkedh {jih}${vowc,i-ï|jïh} vijriebasse {gieline}¢{vowc,i-ï|gïeline} ovmese daltesinie båetedh, aaj maehtieh saemiej {jielemevuekijgujmie}${cmp,ij-iej|jielemevuekiejgujmie} barkedh. {Beetneh-vierhtieh}${hyph-0|Beetnehvierhtieh} edtjieh {nimtie}${adv,conc|nimhtie} {biejesovvedh}${vowc,i-ï|bïejesovvedh} guktie aelhkie jillebem saemien {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} jaksedh.
+Saemieh saemien dajvine edtjieh nuepiem utnedh {jijtse}${vowc,i-ï|jïjtse} {gielem}${vowc,i-ï|gïelem} {lieredh}${vowc,ø-ö|lïeredh} {jih}${vowc,i-ï|jïh} aaj {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} saemien {gielesne}${vowc,i-ï|gïelesne} {åadtjodh.Øøhpehtimmieh}${mix,mix|åadtjodh. Ööhpehtimmieh} {jih}${vowc,i-ï|jïh} vierhtiemaaksoeh tjoeverieh {sjiehtesovvedh}${vowc,i-ï|sjïehtesovvedh} {fiere}${vowc,i-ï|fïere} guhten duakan. Nimhtie {øøhpehtimmie}${vowc,øø-öö|ööhpehtimmie} nuepiem vadta guktie {gaajhks}${indef,vow|gaajhkesh} guhth sijhtieh maehtieh lohkedh {jih}${vowc,i-ï|jïh} vijriebasse {gieline}${vowc,i-ï|gïeline} ovmese daltesinie båetedh, aaj maehtieh saemiej {jielemevuekijgujmie}${cmp,ij-iej|jielemevuekiejgujmie} barkedh. {Beetneh-vierhtieh}${hyph-0|Beetnehvierhtieh} edtjieh {nimtie}${adv,conc|nimhtie} {biejesovvedh}${vowc,i-ï|bïejesovvedh} guktie aelhkie jillebem saemien {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} jaksedh.
 
-Saemien maanah {jih}${vowc,i-ï|jïh} noerh mah {årroemienie}${fin,mienie-minie|årroeminie} bæjngolen saemiej dajvh edtjieh nuepiem saemien {øøhpehtæmman}${vowc,øø-öö|ööhpehtæmman} åadtjodh {jih}${vowc,i-ï|jïh} aaj {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} saemien {gielesne}¢{vowc,i-ï|gïelesne} jis nuepie {disse}${vowc,i-ï|dïsse}. Daerpies lea {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} {sjiehtesjehtedh}${vowc,i-ï|sjïehtesjehtedh} duekien mietie guktie {bøøremes}${vowc,øø-öö|bööremes} dejtie.
+Saemien maanah {jih}${vowc,i-ï|jïh} noerh mah {årroemienie}${fin,mienie-minie|årroeminie} bæjngolen saemiej dajvh edtjieh nuepiem saemien {øøhpehtæmman}${vowc,øø-öö|ööhpehtæmman} åadtjodh {jih}${vowc,i-ï|jïh} aaj {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} saemien {gielesne}${vowc,i-ï|gïelesne} jis nuepie {disse}${vowc,i-ï|dïsse}. Daerpies lea {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} {sjiehtesjehtedh}${vowc,i-ï|sjïehtesjehtedh} duekien mietie guktie {bøøremes}${vowc,øø-öö|bööremes} dejtie.
 
 Daerpies leah aaj dejtie {nasjovnale}${conc,vn-v;vowc,a-aa|nasjonaale} {learoe-plaanide}${hyph-0|learoeplaanide} {saemiedikij}${conc,k-gk;fin;ij-iej|saemiedigkiej} ektine {sjiehtesjehtedh}${vowc,i-ï|sjïehtesjehtedh} guktie maanah {jih}${vowc,i-ï|jïh} dah noerh maehtieh jieledh guktie saemien kultuvre vuesehte.
 
@@ -284,9 +284,9 @@ Vihkeles aaj {giehtjedimmiem}${vowc,i-ï|gïehtjedimmiem} {sjiehtesjehtedh}${vow
 
 {Øøhpehtimmieh}${vowc,øø-öö|Ööhpehtimmieh} {jih}${vowc,i-ï|jïh} saerniestimmieh saemiej {bijre}${vowc,i-ï|bïjre}
 
-Reaktah {{jiehtsh}${vowc,i-ï|jïehtsh}}¢{refl,mix|jïjtsh} saemiej kultuvren {jih}${vowc,i-ï|jïh} ektievoeti {bijre}${vowc,i-ï|bïjre} tjoeverieh aaj {øøhpehtimmesne}${vowc,øø-öö|ööhpehtimmesne} saemiej dajvi bæjngolen båetedh. {Dageres}${x,conc|Dagkeres} {øøhpehtimmie}${vowc,øø-öö|ööhpehtimmie} edtja {vihties laakan}¥{cmp,2-1|vihtieslaakan} maahtoem soptsestimmesne vedtedh saemiej {bijre}${vowc,i-ï|bïjre} goh laanten {aalkoe-almetjh}${hyph-0|aalkoealmetjh}. Staath, {saemiedigkij}${fin,ij-iej|saemiedigkiej} ektine, tjoeverieh {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} saemien kultuvren {jih}${vowc,i-ï|jïh} ektievoeten {bijre}${vowc,i-ï|bïjre} faaledh almetjidie mah edtjieh saemiej dajvine barkedh.
+Reaktah {{jiehtsh}${vowc,i-ï|jïehtsh}}£{refl,mix|jïjtsh} saemiej kultuvren {jih}${vowc,i-ï|jïh} ektievoeti {bijre}${vowc,i-ï|bïjre} tjoeverieh aaj {øøhpehtimmesne}${vowc,øø-öö|ööhpehtimmesne} saemiej dajvi bæjngolen båetedh. {Dageres}${x,conc|Dagkeres} {øøhpehtimmie}${vowc,øø-öö|ööhpehtimmie} edtja {vihties laakan}¥{cmp,2-1|vihtieslaakan} maahtoem soptsestimmesne vedtedh saemiej {bijre}${vowc,i-ï|bïjre} goh laanten {aalkoe-almetjh}${hyph-0|aalkoealmetjh}. Staath, {saemiedigkij}${fin,ij-iej|saemiedigkiej} ektine, tjoeverieh {øøhpehtimmiem}${vowc,øø-öö|ööhpehtimmiem} saemien kultuvren {jih}${vowc,i-ï|jïh} ektievoeten {bijre}${vowc,i-ï|bïjre} faaledh almetjidie mah edtjieh saemiej dajvine barkedh.
 
-Staath {jih}${vowc,i-ï|jïh} saemiedigkieh tjoeverieh {{siejme}${vowc,i-ï|sïejme}}¢{w|sïejhme} almetjidie staeries saerniestimmieh saemien kultuvren {jih}${vowc,i-ï|jïh} {ektievoete jielemen}${hyph,2-1|ektievoetejielemen} {bijre}${vowc,i-ï|bïjre} vedtedh .
+Staath {jih}${vowc,i-ï|jïh} saemiedigkieh tjoeverieh {{siejme}${vowc,i-ï|sïejme}}€{w|sïejhme} almetjidie staeries saerniestimmieh saemien kultuvren {jih}${vowc,i-ï|jïh} {ektievoete jielemen}${hyph,2-1|ektievoetejielemen} {bijre}${vowc,i-ï|bïjre} vedtedh .
 
 {{Gøøkte}${vowc,øø-öö|Göökte} luhkie åktsede}${cmp,3-1|Göökteluhkieåktsede} tjaalege
 
@@ -296,7 +296,7 @@ Staath edtjieh {saemiedigkij}${fin,ij-iej|saemiedigkiej} ektine barkedh guktie {
 
 Bæjngolen dej saemiej dajvh edtjieh aaj {healsoe-jih}${mix,mix|healsoe- jïh} {ektievoete-tsiehkie}${hyph-0|ektievoetetsiehkie} {dåårjelidh}${vowc,åå-åa|dåarjelidh} guktie saemiej kultuvre {jih}${vowc,i-ï|jïh} {giele}${vowc,i-ï|gïele} jarngese båetieh {jih}${vowc,i-ï|jïh} {gietedalleme}${vowc,i-ï|gïetedalleme} almetjidie {bøøremes}${vowc,øø-öö|bööremes} sjædta.
 
-{Golme {luhkie}¢{Num-Ord|låhkede}}¥{cmp,2-1|Golmelåhkede} tjaalege
+{Golme {luhkie}€{num-ord|låhkede}}¥{cmp,2-1|Golmelåhkede} tjaalege
 
 {Saemij}${fin,ij-iej|Saemiej} maanah {jih}${vowc,i-ï|jïh} noerh
 
@@ -360,7 +360,7 @@ Saemiej reaktah eatnemen maelmide {laante-jih}${mix,mix|laante- jïh} {tjaetsie-
 
 Aerebi goh byjjes reereme luhpiem vadta {giehtjedæmman}${vowc,i-ï|gïehtjedæmman} jallh aaj {viedtjemasse}${vowc,i-ï|vïedtjemasse} {mineralijste}${vowc,a-aa|mineraalijste} jallh jeatja maelmijste laanteste jallh {tjaeteste}${conc,t-ts|tjaetseste} mah leah saemiej eekh jallh dejstie provhkesovveme, dellie edtja digkiedimmie saemiejgujmie årrodh {jih}${vowc,i-ï|jïh} aaj {saemiedigkijne}${fin,ijne-ine|saemiedigkine} guktie tjaalege 16 vuesehte.
 
-Jis {saemiede}${fin,iede-ide|saemide} tsagkesh sjidtieh jallh geerve barkedh dej dajvine goh aerebi, dellie eah {edtjieh}£{infl,verb,aux,prspl3-conneg|edtjh} luhpieh vadtasovvedh {giehtjedæmman}${vowc,i-ï|gïehtjedæmman} jallh {viedtjemasse}${vowc,i-ï|vïedtjemasse} eatnemen maelmijste jis daate saemiej kultuvrem sturrieh. Saemiedigkieh {jih}${vowc,i-ï|jïh} {sjiere}${vowc,i-ï|sjïere} saemieh tjoeverieh {siemes}${vowc,i-ï|sïemes} årrodh jis dagkeres barkoeh edtjieh åtnose båetedh.
+Jis {saemiede}${fin,iede-ide|saemide} tsagkesh sjidtieh jallh geerve barkedh dej dajvine goh aerebi, dellie eah {edtjieh}£{real,verb,aux,conneg,prspl3-conneg|edtjh} luhpieh vadtasovvedh {giehtjedæmman}${vowc,i-ï|gïehtjedæmman} jallh {viedtjemasse}${vowc,i-ï|vïedtjemasse} eatnemen maelmijste jis daate saemiej kultuvrem sturrieh. Saemiedigkieh {jih}${vowc,i-ï|jïh} {sjiere}${vowc,i-ï|sjïere} saemieh tjoeverieh {siemes}${vowc,i-ï|sïemes} årrodh jis dagkeres barkoeh edtjieh åtnose båetedh.
 
 {Dihte}${vowc,i-ï|Dïhte} mij daennie tjaalegisnie tjåådtje, aaj dijpieh jeatja goerpemem eatnamisnie jallh {pråavhkoem}${vowc,åa-å|pråvhkoem} eatnamistie mij tjaalegisnie 34 tjåådtje. Daesnie aaj {skåajje-snidtjeme}${hyph-0|skåajjesnjidtjeme} båata, {tjatsie-}${vowc,a-ae|tjaetsie-} jallh {{biegke-faamoe}${vowc,i-ï;hyph-0|bïegkefaamoe} bigkeme}¥{cmp,2-1|bïegkefaamoebigkeme}, geajnoebigkeme {jih}${vowc,i-ï|jïh} hæhtjoeh, {militære}${vowc,æ-ææ|militæære} {lierehtimmie-sijjieh}${vowc,i-ï,hyph-0|lïerehtimmiesijjieh} {jih}${vowc,i-ï|jïh} staeries sijjieh {militærese}${vowc,æ-ææ|militæærese}.
 
@@ -409,11 +409,11 @@ Saemiej jieleme {jih}${vowc,i-ï|jïh} {maelmie-vierhtiedimmie}${hyph-0|maelmiev
 
 Saemiej båatsoejieleme
 
-Båatsoejieleme lea saemiej vihties {jih}${vowc,i-ï|jïh} {{siejme}${vowc,i-ï|sïejme}}¢{w|sïejhme} vuekie {jih}${vowc,i-ï|jïh} dan gaavhtan daerpies {disse}${vowc,i-ï|dïsse} {sjiere}${vowc,i-ï|sjïere} reaktah viedtedh.
+Båatsoejieleme lea saemiej vihties {jih}${vowc,i-ï|jïh} {{siejme}${vowc,i-ï|sïejme}}€{w|sïejhme} vuekie {jih}${vowc,i-ï|jïh} dan gaavhtan daerpies {disse}${vowc,i-ï|dïsse} {sjiere}${vowc,i-ï|sjïere} reaktah viedtedh.
 
 Nimhtie edtjieh Sveerje {jih}${vowc,i-ï|jïh} {Nøørje}${vowc,øø-öö|Nöörje} båatsoejielemem vaarjelidh {jih}${vowc,i-ï|jïh} {øvtiedidh}${vowc,ø-ö|övtiedidh} goh {sjiere}${vowc,i-ï|sjïere} reaktah saemide båatsoeburriedajvine.
 
-Saemieh goh aalkoealmetjh aaj vååjnesasse båetieh tjaalegisnie {provtokollen}${conc,vt-t|protokollen} nuelesne nr.3 europeiske {uniovnesne}${conc,io-ijo|unijovnesne}, gusnie {Finlaante}¢{w|Suome} aaj tjirkie sæjhta saemiej båatsoejielemem nænnoestidh.
+Saemieh goh aalkoealmetjh aaj vååjnesasse båetieh tjaalegisnie {provtokollen}${conc,vt-t|protokollen} nuelesne nr.3 europeiske {uniovnesne}${conc,io-ijo|unijovnesne}, gusnie {Finlaante}€{w|Suome} aaj tjirkie sæjhta saemiej båatsoejielemem nænnoestidh.
 
 {Njielje luhkie gåalmede}${cmp,3-1|Njieljeluhkiegåalmede} tjaalege
 
@@ -433,7 +433,7 @@ Njielje luhkie njealjede tjaalege
 
 Ektesvuekiebarkoe saemiej {ministri-}${hyph-0|ministeri-} {jih}${vowc,i-ï|jïh} saemiedigkiej {lihtsegi}${vowc,i-ï|lïhtsegi} {gaskems}${pp,con|gaskemsh}
 
-Ministerh Finlaanteste, {Nøørjeste}${vowc,øø-öö|Nöörjeste} {jih}${vowc,i-ï|jïh} Sveerjeste {jih}${vowc,i-ï|jïh} {saemiedigkie- presidenth}¥{cmp,2-1;vowc,e-ee|saemiedigkiepresideenth} {dej golme laantine}£{numphrase,case,plgen-sgine,pline-sgine|dennie golmene laantesne}, tjoeverieh abpe {tijjen}${vowc,i-ï|tïjjen} {tjirrh}¢{vowc,i-ï|tjïrrh} {tjåangkojsne}${fin,ojsne-ojne|tjåanghkojne} gaavnedidh.
+Ministerh Finlaanteste, {Nøørjeste}${vowc,øø-öö|Nöörjeste} {jih}${vowc,i-ï|jïh} Sveerjeste {jih}${vowc,i-ï|jïh} {saemiedigkie- presidenth}¥{cmp,2-1;vowc,e-ee|saemiedigkiepresideenth} {dej golme laantine}£{numphrase,case,plgen-sgine,pline-sgine|dennie golmene laantesne}, tjoeverieh abpe {tijjen}${vowc,i-ï|tïjjen} {tjirrh}${vowc,i-ï|tjïrrh} {tjåangkojsne}${fin,ojsne-ojne|tjåanghkojne} gaavnedidh.
 
 {Dagkers}${vowc,0-e|Dagkeres} ektesvuekiebarkoe edtja vuepside daennie {konvensjovsne}${vowc,0-e|konvensjovnesne} vijriebasse guedtedh, guktie voestes {tjaalegijsnie}${conc,js-s|tjaalegisnie} tjåådtje. {Tjåangkojne}${conc,gk-ghk|Tjåanghkojne} edtjieh barkedh saemiej vihkeles {aamhtsigujmie}${vowc,0-e|aamhtesigujmie} mah {gaajhksidie}${vowc,0-e|gaajhkesidie} dijpieh.
 
@@ -483,7 +483,7 @@ Konvensjovne {staeries}£{infl,adj,attr-adv|staerieslaakan} sjædta {golme luhki
 
 {Nøørjen}${vowc,øø-öö|Nöörjen} {ålkoeraerie-departemente}${hyph-0|ålkoeraeriedepartemeente} {{Finlaantese}€{w|Soemese}}£{Soemesne}, Sveerjese dejtie golme saemiedigkide {bieljele}${vowc,i-ï|bïeljele} {ratifikasjonen}${conc,n-vn|ratifikasjovnen} tjaalegi {våarkoen}${conc,rk-rhk|våarhkoen} {bijre}${vowc,i-ï|bïjre} {jih}${vowc,i-ï|jïh} aaj man mierien konvensjovne edtja aelkedh juhtedh.
 
-{Dihte}${vowc,i-ï|Dïhte} {åårginale}${init,åå-o;vowc,a-aa|originaale} tjaalege edtja {vøørhkelimmesne}${vowc,i-ï|vöörhkelimmesne} {nøørjen}${vowc,øø-öö|nöörjen} {ålkoeraerie-departementesne}${hyph-0|ålkoeraeriedepartemeentesne} årrodh. {Dihte}${vowc,i-ï|Dïhte} edtja aaj {vihties laakan}¥{cmp,2-1|vihtieslaakan} {øørnedh}${vowc,øø-öö|öörnedh} guktie Finlaante, Sveerje {jih}${vowc,i-ï|jïh} dah golme saemiedigkieh {staeries}¢{w|rïektes} {kovpijem}${conc,vp-p|kopijem} åadtjoeh.
+{Dihte}${vowc,i-ï|Dïhte} {åårginale}${init,åå-o;vowc,a-aa|originaale} tjaalege edtja {vøørhkelimmesne}${vowc,i-ï|vöörhkelimmesne} {nøørjen}${vowc,øø-öö|nöörjen} {ålkoeraerie-departementesne}${hyph-0|ålkoeraeriedepartemeentesne} årrodh. {Dihte}${vowc,i-ï|Dïhte} edtja aaj {vihties laakan}¥{cmp,2-1|vihtieslaakan} {øørnedh}${vowc,øø-öö|öörnedh} guktie Finlaante, Sveerje {jih}${vowc,i-ï|jïh} dah golme saemiedigkieh {staeries}€{w|rïektes} {kovpijem}${conc,vp-p|kopijem} åadtjoeh.
 
 {{Vijhte}${vowc,i-i|Vïjhte} luhkie voestes}${cmp,3-1|vïjhteluhkievoestes} tjaalege
 
@@ -495,7 +495,7 @@ Konvensjovne {staeries}£{infl,adj,attr-adv|staerieslaakan} sjædta {golme luhki
 
 {Dååhkesjehteme-lihtsegh}${hyph-0,vowc,åå-å|Dåhkasjehtemelïhtsegh} leah {jååhkesjehtamme}${fin,htamme-hteme|jååhkesjehteme} daam konvensjovnem.
 
-Daate {deahpedi}${vowc,e-a|deahpadi} ....................... _____ ._______n 20...... akten tjaaleginie {nøørjen}${vowc,øø-öö|nöörjen}, finlaanten, sveerjen {jih}${vowc,i-ï|jïh} saemien {gielesne}¢{vowc,i-ï|gïelesne}. Gaajhkh tjaalegh seamma {vierhtie-daltesisnie}${hyph-0|vierhtiedaltesisnie} tjåadtjoeminie.
+Daate {deahpedi}${vowc,e-a|deahpadi} ....................... _____ ._______n 20...... akten tjaaleginie {nøørjen}${vowc,øø-öö|nöörjen}, finlaanten, sveerjen {jih}${vowc,i-ï|jïh} saemien {gielesne}${vowc,i-ï|gïelesne}. Gaajhkh tjaalegh seamma {vierhtie-daltesisnie}${hyph-0|vierhtiedaltesisnie} tjåadtjoeminie.
 
 Veedtjeme (27.02.2012) sæjroste:
 

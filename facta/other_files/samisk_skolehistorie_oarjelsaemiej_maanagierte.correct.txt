@@ -282,7 +282,7 @@ Nimhtie eejhtegh vaajtelin {{fierhten}${vowc,i-ï|fïerhten}
 beajjetje}¥{cmp,2-1|fïerhtenbeajjetje} {maanagiertem}${vowc,i-ï|maanagïertem}
 åadtjodh.
 
-Hanne-Lena lij akte dejstie gie {lih}£{infl,verb,subj_verb_kongr,prtsg2-prtsg3|lij} meatan {jih}¥{redun|}
+Hanne-Lena lij akte dejstie gie {lih}£{infl,verb,cop,subj_verb_kongr,prtsg2-prtsg3|lij} meatan {jih}¥{redun|}
 {soejkesjidie}¥{redun|} {buektedh}€{verb|soejkesjidh} {dan}¥{wo|guktie dïhte orre
 maanagiertie edtji sjïdtedh} {orre}¥{redun|} {maanageartan}¥{redun|}. Mijjieh limh gellie
 eadtjohke eejtegh mah gaavnedimh {maanagiertesne}${vowc,i-ï|maanagïertesne}
