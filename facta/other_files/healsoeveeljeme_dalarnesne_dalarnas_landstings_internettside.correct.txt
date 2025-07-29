@@ -66,13 +66,13 @@ Datne håksoejarngem veeljh
 Daelie lea Healsoeveeljeme Dalarnesne daajroehtamme {jih}${vowc,i-ï|jïh} datne maahtah {jijtje}${vowc,i-ï|jïjtje} veeljedh magkeres håksoejarngesne {sijhth}${vowc,i-ï|sïjhth} utnedh. Gosse leah håksoejarngem veeljeme, dle medtie göökte våhkoeh vaalta tjaalasovvedh {dennie håksoejarngesne}£{infl,n,case,ine-ill|dan håksoejarngese} maam leah veeljeme.
 Daesnie dah håksoejarngh {Dalarnen}${prop,suf|Dalarnan} leenesne {maam}€{w|mejtie} maahtah veeljedh.
 
-Jis {{skiemtje}${adj,vowc,i-ï|skïemtje}}£{infl,adj,attr-pred|skïemtjes} {sjidth}${vowc,i-ï|sjïdth}
+Jis {{skiemtje}${adj,vowc,i-ï|skïemtje}}£{infl,adj,attr-sgnom|skïemtjes} {sjidth}${vowc,i-ï|sjïdth}
 
 {Biejjegen}${fin,gen-ge|Biejjege} gaskoeh ts. 08.00-17.00, {bieljelh}${vowc,i-ï|bïeljelh} håksoejarngem {hiejmetjieltesne}${vowc,i-ï|hïejmetjïeltesne}. {jih}${vowc,i-ï|jïh} {tjaalesijjie}${cmp,e-eh|tjaalehsijjie} webbebielesne gååvnese. {Dihte}${vowc,i-ï|Dïhte} {länke}€{foreign|svaalhtese} {gaajhkh håksoejarngide}£{demphrase,dem,plnom-plill|gaajhkide håksoejarngide} lea {www.ltdalarna.se/templates/Base____213.aspx.}∞{url} Diedtieh dam dov {hiejmetjieltem}${vowc,i-ï|hïejmetjïeltem} gårra bielesne.
 
 {Männgan}${vowc,ä-æ|Mænngan} ts 17.00, laavadahken {jih}${vowc,i-ï|jïh} aejlegen, gosse håksoejarnge lea steegkeldahkesne. Ringkh dle {skiemtjehåksoen}${vowc,i-ï|skïemtjehåksoen} {raeriestäjjam}${vowc,ä-æ|raeriestæjjam}, teel. 1177.
 
-Jis itjmie {{skiemtje}${adj,vowc,i-ï|skïemtje}}£{infl,adj,attr-pred|skïemtjes} jallh tjarki laarhkenamme dle maahtah dan {lihkemes}${vowc,i-ï|lïhkemes} {{dåastomesijjese}${cmp,ome-ove|dåastovesijjese}}£{infl,n,px3-ill|dåastovesæjjan} {{skiemtjegåetesne}${vowc,i-ï|skïemtjegåetesne}}£{infl,n,case,ine-ill|skïemtjegåatan} vuelkedh. Laantedigkie {Dalarnasne}${fin,asne-esne|Dalarnesne} nieljie {skiemtjegåetieh}${vowc,i-ï|skïemtjegåetieh}. {Dah {Avestaesne}${prop,suf|Avestesne}, {Ludikesne}${prop,mix|Ludvikesne}, {Morasne}${prop,suf|Moresne} {jih}${vowc,i-ï|jïh} {Falunsne}${prop,suf|Falunisnie} gååvnese}£{verb,x,pl3prs,sg3prs,x|Dah Avestesne, Ludvikesne, Moresne jïh Falunisnie gååvnesieh}.
+Jis itjmie {{skiemtje}${adj,vowc,i-ï|skïemtje}}£{infl,adj,attr-sgnom|skïemtjes} jallh tjarki laarhkenamme dle maahtah dan {lihkemes}${vowc,i-ï|lïhkemes} {{dåastomesijjese}${cmp,ome-ove|dåastovesijjese}}£{infl,n,px3-ill|dåastovesæjjan} {{skiemtjegåetesne}${vowc,i-ï|skïemtjegåetesne}}£{infl,n,case,ine-ill|skïemtjegåatan} vuelkedh. Laantedigkie {Dalarnasne}${fin,asne-esne|Dalarnesne} nieljie {skiemtjegåetieh}${vowc,i-ï|skïemtjegåetieh}. {Dah {Avestaesne}${prop,suf|Avestesne}, {Ludikesne}${prop,mix|Ludvikesne}, {Morasne}${prop,suf|Moresne} {jih}${vowc,i-ï|jïh} {Falunsne}${prop,suf|Falunisnie} gååvnese}£{verb,x,pl3prs,sg3prs,x|Dah Avestesne, Ludvikesne, Moresne jïh Falunisnie gååvnesieh}.
 
 Jis neavroe {jih}${vowc,i-ï|jïh} jielemeaejhteme, ringkh dle 112, mij lea {dihte}${vowc,i-ï|dïhte} {nasjovnale}${conc,ov-n;vowc,a-aa|nasjonaale} {neavroenommere}${vowc,o-u|neavroenummere}.
 
@@ -118,7 +118,7 @@ Dah {skiemtjegåetieh}${vowc,i-ï|skïemtjegåetieh} mah {giehtelieh}${vowc,i-ï
 
 Maanahealsoehåksoe
 
-Maanahealsoehåksoe Sveerjesne lea joekoen hijven. Lea {åesehts}£{infl,adj,attr-pred|åasehth} maanide nuerebe goh 19 jaepien båeries {jih}${vowc,i-ï|jïh} båetije tjidtjide. Joekoen hijven {kvalitete}${vowc,e-ee|kvaliteete}. {Healsoegiehtjedimmieh}${vowc,i-ï|Healsoegïehtjedimmieh} dam veasojem goerehtalla goske {studeenteeeksamenem}${cmp,eee-ee;vowc,a-aa|studeenteeksaamenem} vaalteme {jih}${vowc,i-ï|jïh} dam baeniehåksoem aaj. Baeniehåksoe lea {Ålmabaeniehåksosne}€{w|Åålmehbaeniehåksosne} {jih}${vowc,i-ï|jïh} lea {åesehts}£{infl,adj,attr-pred|åasehth} goske 20 jaepieh illeme.
+Maanahealsoehåksoe Sveerjesne lea joekoen hijven. Lea {åesehts}£{infl,adj,attr-sgnom|åasehth} maanide nuerebe goh 19 jaepien båeries {jih}${vowc,i-ï|jïh} båetije tjidtjide. Joekoen hijven {kvalitete}${vowc,e-ee|kvaliteete}. {Healsoegiehtjedimmieh}${vowc,i-ï|Healsoegïehtjedimmieh} dam veasojem goerehtalla goske {studeenteeeksamenem}${cmp,eee-ee;vowc,a-aa|studeenteeksaamenem} vaalteme {jih}${vowc,i-ï|jïh} dam baeniehåksoem aaj. Baeniehåksoe lea {Ålmabaeniehåksosne}€{w|Åålmehbaeniehåksosne} {jih}${vowc,i-ï|jïh} lea {åesehts}£{infl,adj,attr-sgnom|åasehth} goske 20 jaepieh illeme.
 
 {Menh Laantedigkie Dalarnesne aaj {diedtem}${vowc,i-ï|dïedtem} åtna}¥{hab|Menh laantedigkien Dalarnesne lea dïedte} {dan}€{w|dam} {regijovnaleöövtiedimmiem}${conc,vn-n;vowc,a-aa;init,öö-ö|regionaaleövtiedimmiem} {öövtiedidh}${vowc,öö-ö|övtiedidh}, ööhpehtimmien-, kultuvren {jih}${vowc,i-ï|jïh} {kollektijvetrafigken}${conc,gk-hk|kollektijvetrafihken} {tjirrh}${vowc,i-ï|tjïrrh}. {Joekehth laakan}${conwb,hth-hts;cmp,2-1|Joekehtslaakan} libie meatan leenem dåarjedidh {jih}${vowc,i-ï|jïh} {öövtiedidh}${vowc,öö-ö|övtiedidh}.
 
