@@ -44,10 +44,10 @@ jïjtje njammam vaalta. Gosse maanam dov lïhke steerh mearan åejjie loeves,
 {edtja}¥{redun|} maanan gaejpie dov njamman {sontere}€{pp|bealesne} {årrodh}€{verb|lea}.
 Dellie mielhkie hijvenlaakan galka. Maanan åejjie sæjhta ånnetji byjngese
 årrodh guktie njuenie jallan låaptjode. Naemhtie maana åådtje voejngehtidh
-bielelen¢(pp| datne daarpesjh njammam maanan njueneste steeredh.
+{bielelen}€{pp|bielelen} datne daarpesjh njammam maanan njueneste steeredh.
 
 1. Steerh njammam {bielhkine}${conc,lhk-lk|bielkine} bijjiebielesne jïh
-soermide nuelesne, guktie {goh}¥{redun|} {akte}¥{redun|} stoerre {C-baakoe}£{infl,noun,nom-ess|C-baakojne}.
+soermide nuelesne, guktie {goh}¥{redun|} {akte}¥{redun|} stoerre {C-baakoe}£{infl,noun,sgnom-ess|C-baakojne}.
 Doh soermh eah edtjh dennie provne njammasijjesne årrodh {areola}${conc,l-vl;fin,a-e|areovle}
 2. Skreejrehth maanam {tjarki}¥{redun|} geehpedh guktie datne maanan
 {bangsh}${vowlat,|bangsemh}
@@ -67,7 +67,7 @@ Dellie aelhkie saejrine sjïdtedh.
 Sïejhme suvhtijevuekie:
 Maana {sæjrosne}¥{redun|} dov faerhmesne {gællesje}€{verb|vealesje}, tjåejjine dov
 tjåejjien {vøøste}${vowc,øø-öö|vööste}, jïh {åejjine byjngese}¥{maanan
-åejjie} dov {{vueliegïeten}¢{noun|gïeten} nelnie}¥{xxx|faerhmesne lea}. Maana
+åejjie} dov {{vueliegïeten}€{noun|gïeten} nelnie}¥{xxx|faerhmesne lea}. Maana
 dov åelkies vueliegïetesne gællesje gosse åelkiesnjammam njamma. Maanan
 vueliegïete edtja dov gaskebullen bïjre årrodh. Datne maanan rudtjem
 vueliegïetine dåvta, jïh ravvem jallh juelkide gïetine steerh.
@@ -214,10 +214,10 @@ guhkiem mielhkie båata.
 sjædta.
 
 Pumpadidh
-{Bøøremes}${vowc,øø-öö|Bööremes} jis datne {gåabpegh}¢{xxx|gåabpatjahkh} njammah
+{Bøøremes}${vowc,øø-öö|Bööremes} jis datne {gåabpegh}€{pron,indef|gåabpatjahkh} njammah
 pumpedh seamma aejkien, dellie {tijjem}${vowc,i-ï|tïjjem} spåårh
 {jïh}€{xxx|guktie} maahta vielie {mielhkiem}£{infl,noun,acc-nom|mielhkie} sjïdtedh.
-{Bissh}${vowc,i-ï|Bïssh} gïetide. {Skreejrehth}¢{verb|Jestehth} njammam guktie
+{Bissh}${vowc,i-ï|Bïssh} gïetide. {Skreejrehth}€{verb|Jestehth} njammam guktie
 {galkehtimmiereflekse}${noun,vow|galkehtimmierefleekse} aalka.
 
 Datne {byørh}${vowc,ø-ö|byörh} pumpadidh jallh gïetine buhtjedh 7-8 aejkieh

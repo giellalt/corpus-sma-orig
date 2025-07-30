@@ -431,7 +431,7 @@ NSR lea:
  saemien gïele- jïh kultuvrebarkoem vuartasjidh
  ✓ barkeme saemien maanaj reaktah orre maanagïertelaakesne nænnoestidh,
  vg {fierhten}${vowc,i-ï|fïerhten} saemien maanan leah reaktah faaleldahkh
- {maanagiertesne}¢{vowc,i-ï|maanagïertesne} åadtjodh mah leah dej
+ {maanagiertesne}${vowc,i-ï|maanagïertesne} åadtjodh mah leah dej
  saemienvuekien mietie {sjiehtesjamme}${vowc,i-ï|sjïehtesjamme}
  ✓ jienebh vierhtieh saemien maanagïertide buektiehtamme
 
@@ -1252,7 +1252,7 @@ byjreske tjoevere plaanevearhki {kriebpesjimmiej}${vowc,i-ï|krïebpesjimmiej}
 mietie. Gaajhkh saemien maanah gelkieh man saemien bïjre utnedh seamma
 gusnie årroeminie. Dïhte mij saemien {Nøørjen}${vowc,øø-öö|Nöörjen} jeatjah
 maanide dovne {siejhme}${vowc,i-ï|sïejhme} sjædta jis {fierhten}${vowc,i-
-ï|fïerhten} biejjien skuvline jïh {maanagiertine}¢{vowc,i-ï|maanagïertine}
+ï|fïerhten} biejjien skuvline jïh {maanagiertine}${vowc,i-ï|maanagïertine}
 vååjnese. Skuvlen {eejehtsøørnege}${vowc,øø-öö|eejehtsöörnege} lea
 {øøhpehtimmiefaaleldahki}${vowc,øø-öö|ööhpehtimmiefaaleldahki} sjisjnjelen
 jïh saemien maanide saemien maanide dovne desnie galka saemien sisvege.
@@ -1288,7 +1288,7 @@ veadtaldihkie dovne.
 Annje {jijnjh}${vowc,i-ï|jïjnjh} saemien lohkehtimmievierhtieh fååtesieh,
 dovne sïejhme learoegærjah jïh jeatjah learoevierhtieh gaajhke
 {øøhpehtimmiesystemesne}${init,øø-öö|ööhpehtimmiesysteemesne}
-{maanagierteste}¢{vowc,i-ï|maanagïerteste} universiteetese. Saemien learohkh
+{maanagierteste}${vowc,i-ï|maanagïerteste} universiteetese. Saemien learohkh
 jïh lohkehtæjjah gelkieh saemien våaromegærjam {fierhtene}${vowc,i-
 ï|fïerhtene} faagesne utnedh {fierhtene}${vowc,i-ï|fïerhtene}
 klaassedaltesisnie gaajhke {øøhpehtimmiesystemen}${init,øø-

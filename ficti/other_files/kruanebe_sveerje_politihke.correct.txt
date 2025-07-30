@@ -52,7 +52,7 @@ Mijjieh {sijhtebe}${verb,ascii|sïjhtebe} buaranidh dah
 barkoesijjiem aalka. Dåarjoe
 {kredijteluhpiehtimmiesiebride}${noun,con|kredihteluhpiehtimmiesiebride}
 {jih}${cc,ascii|jïh} kooperatijven darjomasse edtja olkese bigkedh. Mijjieh
-{{sijhte}${x,vow|sijhtie}}¢{verb,mix|sïjhtebe} joekoen nyjsenæjjaj darjomh
+{{sijhte}${x,vow|sïjhtie}}€{noun-verb,mix|sïjhtebe} joekoen nyjsenæjjaj darjomh
 dåarjelidh. Gaajhkh edtjieh maehtedh njoetedidh, {jih}${cc,ascii|jïh} destie
 maam luhpie giesedh, dan {diehre}${pp,ascii|dïehre} barkoesijjiem aelkedh.
 
@@ -147,7 +147,7 @@ vaeltedh {jih}${cc,ascii|jïh} sveerjen laanteburriem
 {sijhtebe}${verb,ascii|sïjhtebe} {jeanadidh}${verb,con|jieniedidh}
 {bäjjesåesiestimmiem}${noun,vowc|byjjesåesiestimmiem} ekologijen
 {jih}${cc,ascii|jïh} {lihkesdorjeme}${noun,ascii|lïhkesdorjeme} daeverh
-{jih}${cc,ascii|jïh} {aelkebe}¢{adj,con|aelhkebe}
+{jih}${cc,ascii|jïh} {aelkebe}${adj,con|aelhkebe}
 {byjresbeapmoehsjeltieh}${noun,cmp|byjresbeapmoesjeltieh} darjodh. Sveerjen
 {eekerisnie}${noun,vowc|åakerisnie} {jih}${cc,ascii|jïh} bovrehillesne eah
 edtjh {genmodifijeredh}${verb,vow|genmodifijeeredh} sjædtoeh leah.
@@ -445,11 +445,11 @@ dåastoehtidh. Mijjieh {sijhtebe}${verb,ascii|sïjhtebe}
 {staeriesvoetenmierhkeme}${noun,ascii|staeriesvoetenmïerhkeme} aatide.
 
 36. {Juvrij}${noun,suf|Juvri} reaktah
-Dah mah leah dorjeme {gaagnadehtidh}¢{verb,suf|gaagnadehtedh}
+Dah mah leah dorjeme {gaagnadehtidh}${verb,suf|gaagnadehtedh}
 {jih}${cc,ascii|jïh} dåhkasjehtedh {pryøvoevuekide}${noun,ascii|pryövoevuekide}
 juvreböörenjeststehts edtja gelliengierts årrodh, guktie maahta
 {juvreböörenjeststimmieh}${noun,mix|juvreböörenjestemh} orrijidh.
 Juvresaadtesimmieh edtjieh unniedidh {tjirkes}${adj,ascii|tjïrkes}
-{moenemij}${noun,suf|moenemi} {tjirrh}¢{pp,ascii|tjïrrh} {jih}${cc,ascii|jïh}
+{moenemij}${noun,suf|moenemi} {tjirrh}${pp,ascii|tjïrrh} {jih}${cc,ascii|jïh}
 jienebh {leekedimsgåatetjh}${leekedimmiegåatetjh}. Juvrh eeledh mejgujmie
 eelemem mestie båajhtode sjædta edtja orrijidh.

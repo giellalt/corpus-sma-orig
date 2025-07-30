@@ -2,16 +2,12 @@
 Ole {Vig-en}${acro,suf|Vigen} bïjre
 
 Ole Vig {jåarhke skuvle}¥{cmp,2-1|jåarhkeskuvle} (OVVS) {lea {goh}¥{redun|} stoerre,
-(aktels {skuvle}¢{hyph-0;case,sgnom-ess|skuvline} naa orre}¥{wo|lea stoerre
-ektieskuvline}. Dïhte lea Noerhte-Trøndelagen mubpie stööremes skuvle, {man
-lea medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh {daen}${vowc,ae-
-aa|daan} skuvlejaepien}¥{wo|man lea daan jaepien medtie 230 barkijh jïh
-medtie 1220 learohkh jïh lohkijh}.
+(aktels {skuvle}${hyph-0;case,sgnom-ess|skuvline} naa orre}¥{wo|lea stoerre
+ektieskuvline}. Dïhte lea Noerhte-Trøndelagen mubpie stööremes skuvle, {man lea medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh {daen}${vowc,ae-aa|daan} skuvlejaepien}¥{wo|man lea daan jaepien medtie 230 barkijh jïh medtie 1220 learohkh jïh lohkijh}.
 
-Gosse golme jåarhkeskuvlh jaepien 1997 {ektiedamme}¢{verb|ektiedovvin} {lij}¥{redun|}
-vihkeles faktovre {juktie}€{xxx|guktie} orre skuvle {galka}¢{xxx|edtji} {goh}¥{redun|}
-aktine ektievoetine {jåhta}€{verb|sjïdtedh}. Abpe {skuvlekomplekse}${vowc,e-
-ee|kompleekse} staaren {jarngesne}£{infl,noun,case,sgine-sgill|jarngese} lea
+Gosse golme jåarhkeskuvlh jaepien 1997 {ektiedamme}€{verb|ektiedovvin} {lij}¥{redun|}
+vihkeles faktovre {juktie}€{xxx|guktie} orre skuvle {galka}€{xxx|edtji} {goh}¥{redun|}
+aktine ektievoetine {jåhta}€{verb|sjïdtedh}. Abpe {skuvlekomplekse}${vowc,e-ee|kompleekse} staaren {jarngesne}£{infl,noun,case,sgine-sgill|jarngese} lea
 ektiedamme jïh skuvlen orre reeremegåetie, kantijne jïh
 {auditorijue}${typos|auditovrije}. Skuvlen goevtese Sutterøyesne, gusnie
 transportfaage, {barkoemasjinjh}${conc,sj-sk|barkoemaskijnh} jïh
@@ -22,32 +18,28 @@ Stuerebe {bïgkemeprogramme}${vowc,ï-i|bigkemeprogramme} lea nænnoestamme dej
 {båetiej}${fin,ej-je|båetije} jaepiej, gusnie voestes boelhken mierien lea
 130 millijovnh kråvnah. Dan sisnie orre gåetiem bigkedh
 {auditorijen}${fin,torijen-tovrijen|auditovrijen} luvlelen. Desnie realfaagh,
-molsehth ööhpehtimmien sijjie jïh skuvlereeremen jïh {kontovrebarkij}${fin,ij-
-iji|kontovrebarkiji} orre kontovrh. Desnie aaj dajven
-{baeniestarnedïenesje}${conc},sj-st|baeniestarnedïeneste) (3. laptesne).
+molsehth ööhpehtimmien sijjie jïh skuvlereeremen jïh {kontovrebarkij}${fin,ij-iji|kontovrebarkiji} orre kontovrh. Desnie aaj dajven
+{baeniestarnedïenesje}${conc,sj-st|baeniestarnedïeneste} (3. laptesne).
 Bigkeme eelki ryöjrehtimmine goeven 2008 jïh {lij
 riejries jaepiemålsomen 2009/10}¥{wo|riejries jaepiemålsomen 2009/10 lij}.
 Jaepien 2009 kantijnem jïh restauranten jïh beapmoefaagen sijjiem bigkin.
-{Jåerhke}${vowc.åe-åa|Jåarhke} dïsse jaepeste 2010 jïh dellie sijjieh musihke
-jïh draama jïh service jïh samferdsel, mah maehtieh {arealh}${vowc,a-
-aa|areaalh} åadtjodh {gusnie realfaage jïh {molsehth}€{xxx|fïerhten mubpien}
+{Jåerhke}${vowc,åe-åa|Jåarhke} dïsse jaepeste 2010 jïh dellie sijjieh musihke
+jïh draama jïh service jïh samferdsel, mah maehtieh {arealh}${vowc,a-aa|areaalh} åadtjodh {gusnie realfaage jïh {molsehth}€{xxx|fïerhten mubpien}
 ööhpehtimmie orreme}¥{wo|gusnie fïerhten mubpien realfaage jïh ööhpehtimmie
 orreme}.
 
 Orre gaarsjelimmiegåetiem aalka tjaktjen 2010 bigkedh jïh galka riejries
-årrodh jaepien 2011 {mietie}¥{redun|}. Skuvle galka tjïelten gåetiem {åtna}¢{sg3prs-
-inf|utnedh} jïh skuvlese {ektie tåarjine}¥{cmp,2-1|ektietåarjine}
+årrodh jaepien 2011 {mietie}¥{redun|}. Skuvle galka tjïelten gåetiem {åtna}£{infl,verb,prssg3-inf|utnedh} jïh skuvlese {ektie tåarjine}¥{cmp,2-1|ektietåarjine}
 {tjatna}${verb|viedteldihkie}.
 
 Skuvlen nomme {vihkeles}£{infl,adj,attr-sgnom|vihkele}. Ole Vig, {Vikmaarkeste}${conc,rk-rhk|Vikmaarhkeste}
-Stjørdaelesne, lij skuvle- jïh {åålmehööhpehtsalma}${vowc,a-
-å|åålmehööhpehtsålma}, jïh ööhpehtimmine gaajhkide barki. Dïhte
+Stjørdaelesne, lij skuvle- jïh {åålmehööhpehtsalma}${vowc,a-å|åålmehööhpehtsålma}, jïh ööhpehtimmine gaajhkide barki. Dïhte
 Stjørdaelesne reakasovvi jaepien 1824. Ole {Vig-en}${prop,suf|Vigen} sijjesne
 Reeremegåetien lïhke {statuem}£{infl,noun,case,sgacc-sgnom|statue} dan haemesne,
 gusnie {seejjeme-alma}${conc,jj-j|seejemealma}, maahtojste.
 
 {Daesnie}£{pron|daennie} Stjørdaelesne mijjen leah guhkies histovrijen
-tradisjovnh, jïh Stjørdaelie lea jienebh tåvsenh {jaepiej}£{infl,case,plgen-plnom|jaepieh} {faamoejarngem}£{infl,noun,case,sgacc-ess|faamoejarngine} orreme
+tradisjovnh, jïh Stjørdaelie lea jienebh tåvsenh {jaepiej}£{infl,case,noun,plgen-plnom|jaepieh} {faamoejarngem}£{infl,noun,case,sgacc-ess|faamoejarngine} orreme
 Tråanten mearoegaedtesne. Ij jeatjah sijjie
 {Nordenisnie}£{foreign|Noerhtilaantine} maehtieh seamma {jïjnjh}£{noun-
 adv|jïjnjem} {heallatjaaleh}£{adj,attr-sgnom|heallatjaalegh} vuesiehtidh
@@ -60,14 +52,14 @@ bronseaejkeste. Dan gaavhtan aaj golme almetjh bronseaejkien
 årrodh dovne {learohkidie}${vowlat,o-oe|learoehkidie}, barkijidie jïh abpe
 {regiojovnese}${vowlat,ioj-ij|regijovnese}}¥{wo|Ole Vig jåarhkeskuvlen leah
 tjïelke ulmie ulmie buerie skuvline dovne learoehkidie,barkijidie jïh abpe
-regijovnese årrodh}.  {Dejnie sov {gelliebielenvoete}£{foreign|gellielaaketjevoete}}£{demphrase,dem,noun,case,sgnom-ess|Dejnie sov gellielaaketjevoetine} skuvle vaajtele {lïhkesvoete}£{infl,noun,case,sgnom-sgacc|lïhkesvoetem} {fïerhtide}¢{indef|fïere guhtide} {vadta}£{infl,verb,prssg3-inf|vedtedh} jïh aaj {sijjie}£{infl,pron,case,sgnom-sgacc|sijjiem}
+regijovnese årrodh}.  {Dejnie sov {gelliebielenvoete}£{foreign|gellielaaketjevoete}}£{demphrase,dem,noun,case,sgnom-ess|Dejnie sov gellielaaketjevoetine} skuvle vaajtele {lïhkesvoete}£{infl,noun,case,sgnom-sgacc|lïhkesvoetem} {fïerhtide}¥{indef|fïere guhtide} {vadta}£{infl,verb,prssg3-inf|vedtedh} jïh aaj {sijjie}£{infl,pron,case,sgnom-sgacc|sijjiem}
 {joeketsidie}${conc,t-ht|joekehtsidie} jïh orre
 {{åssjalidie}${noun,vow|åssjelidie}}¥{missing|åssjelide vedtedh}. Skuvlen
 {visjovne}£{foreign|nïekeds} {”skaepedidh}${vowlat,e-ie|skaepiedidh} jïh
 juekedh, sjïjledh jïh jieledh” dam vaajtelimmiem vuesehte. OVVS
-{skreejrehte {learohkedemokratijese}¢{case,sgill-
+{skreejrehte {learohkedemokratijese}£{case,noun,sgill-
 sgacc|learohkedemokratijem}}¥{wo|learohkedemokratijem skreejrehte} jïh
-{jïjnjh}£{noun-adv|jïjnjem} jïh hijven {internasjovnellen}${fin,vnellen-naalen|internasjonaalen} gaskesadtemh åtna. 
+{jïjnjh}£{pron,plnom-sgacc|jïjnjem} jïh hijven {internasjovnellen}${fin,vnellen-naalen|internasjonaalen} gaskesadtemh åtna. 
 
 
 Veedtjeme (20.04.2012) daehtie sæjroste:
