@@ -140,7 +140,7 @@ Sylvia jïh Sagka Sparrock aejlegsbiejjien {vaentjeleteekstem}${vowc,ee-e|vaentj
 
 Jïjnje gïeltegh gaavnemh
 
-Ewa Ljungdal lea 20 {jaepine}£{infl,noun,case,ess-plnom|jaepieh} saemien arkeologijine barkeme. Men ij {goh}¥{redun,goh-0|} akte {gännah}${vowc,ä-æ|gænnah} {mij}¥{redun,mij-0|} {bööremes}£{infl,adj,sup-komp|buerebe mubpeste} sov gaavnemisnie.
+Ewa Ljungdal lea 20 {jaepine}£{infl,noun,case,ess-plnom|jaepieh} saemien arkeologijine barkeme. Men ij {goh}¥{redun,goh-0|} akte {gännah}${vowc,ä-æ|gænnah} {mij}¥{redun,mij-0|} {bööremes}£{infl,adj,sup-komp|buerebe} mubpeste sov gaavnemisnie.
 
 - {Gïeltemes}${infl,mes-ommes|Gieltegommes} mov mïelesne man {jijnjh}${vowc,i-ï|jïjnjh} tjåenieh jïh sijjieh leah, ij naan sjïere, jïh luste dah gujht aaj dan båeries.
 
