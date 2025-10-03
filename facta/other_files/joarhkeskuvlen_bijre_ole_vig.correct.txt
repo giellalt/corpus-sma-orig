@@ -41,8 +41,7 @@ gusnie {seejjeme-alma}${conc,jj-j|seejemealma}, maahtojste.
 {Daesnie}£{pron|daennie} Stjørdaelesne mijjen leah guhkies histovrijen
 tradisjovnh, jïh Stjørdaelie lea jienebh tåvsenh {jaepiej}£{infl,case,noun,plgen-plnom|jaepieh} {faamoejarngem}£{infl,noun,case,sgacc-ess|faamoejarngine} orreme
 Tråanten mearoegaedtesne. Ij jeatjah sijjie
-{Nordenisnie}£{foreign|Noerhtilaantine} maehtieh seamma {jïjnjh}£{noun-
-adv|jïjnjem} {heallatjaaleh}£{noun,sgnom-plnom|heallatjaalegh} vuesiehtidh
+{Nordenisnie}£{foreign|Noerhtilaantine} maehtieh seamma {jïjnjh}£{noun-adv|jïjnjem} {heallatjaaleh}£{noun,sgnom-plnom|heallatjaalegh} vuesiehtidh
 bronseaejkeste. Dan gaavhtan aaj golme almetjh bronseaejkien
 {heallatjaalijste}${noun,sgela|heallatjaalegistie} Lerfaldesne Hegresne veeljeme
 {goh}¥{redun|} skuvlen logojne.
